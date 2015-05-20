@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <ags:resource ags:ARN="GB2015500001">
+      <dc:title>ABOUT HELMINTH FAUNA OF CORSAC FOXES INHABITING THE SOUTH OF KAZAKHSTAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Abdybekova, Aida</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In the article the results of examination of Vulpis corsac in order to determine their helminth fauna are provided. The helminthological dissection of gastrointestinal tract revealed up to seven types of helminths, two of which (Alveococcus multilocularis, Toxocara canis) have epidemiological value.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.33-33</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500002">
+      <dc:title>BIORESOURCE POTENTIAL OF UKRAINIAN PONDS WITH WIDE FIELD OF USE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Dubrovsky, Yuriy</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The paper presents data on the ponds of Ukraine, an estimation of trophic properties and productivity of ponds with different operating conditions. It is noted that their real productivity does not reach the theoretically possible values. The issues of the effectiveness and complex use of the ponds, as well as their importance for biodiversity conservation are discussed.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.34-34</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500003">
+      <dc:title>CREATION OF A STEADY GREEN BELT «THE BIG VLADIVOSTOK»</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gukov, Gennadii</ags:creatorPersonal>
+         <ags:creatorPersonal>Rozlomiy, Natalia</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Primorskiy Territory, in comparison with other regions and areas of Far East region, is densely enough populated, especially its southern part. Therefore the region’s nature was exposed to a strong anthropogenous pressure. Now Primorski Territory is chosen by base for realization of some large-scale projects, in particular, carrying out of a forum of the Asian-Pacific economic cooperation in 2012, programme introductions «the Big Vladivostok» and resettlements of compatriots on a governmental programme and other federal programmes.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.35-35</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500004">
+      <dc:title>LEAD INTOXICATION AND ADAPTIVE POSSIBILITIES OF ORGANISMS OF ANIMALS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Khimich, Galina</ags:creatorPersonal>
+         <ags:creatorPersonal>Khluchshevskaya, Oxana</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author considers age-related and reproductive characteristics of the spatial orientation of rats under the influence of small and "shock" lead nitrate doses. Dependence of the orientation stability on individual motor activity of animals and its changes in conditions of lead intoxication are represented.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.36-36</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500005">
+      <dc:title>MACRO-MICROSCOPIC STRUCTURE OF THYMUS AND HEMOLYMPHATIC NODES OF BOVINE ANIMALS REGARDING THEIR AGE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gazizova, Ajgul</ags:creatorPersonal>
+         <ags:creatorPersonal>Murzabekova, Leila</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The presented study dwells on the thymus structure and hemolymphatic nodes of bovine animals regarding their age particularities</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.37-37</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500006">
+      <dc:title>ON THE REGIONAL PROBLEMS OF ECOLOGICAL MONITORING OF SOILS AND ZONE OF DISPOSAL OF SOLID DOMESTIC GARBAGE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Dmitriev, Alexander</ags:creatorPersonal>
+         <ags:creatorPersonal>Khotko, Nicolas</ags:creatorPersonal>
+         <ags:creatorPersonal>Chupis, Vladimir</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this article selective supervisions and special research of soil in the Surskiy region in connection with population health hazard are presented.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.38-38</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500007">
+      <dc:title>PECULIARITIES OF NITRATE CONTAMINATION OF PLANT PRODUCTS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Azmaiparashvili, Maia</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author describes the influence of nitrogen compounds in living organisms on biological processes and the environmental pollution. Peculiarities of accumulation of nitrates in plants are analyzed. The problem of contamination of plant products with nitrates in Georgia is especially emphasized.The following means are used to solve the problem of influence of chemical substances on the environment: modern machinery, developed farming culture, fertilizers, complex chemical means, progressive processing technologies etc.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.39-39</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500008">
+      <dc:title>THE PHYSIOLOGICAL STATE OF HOGS IN TERMS OF APPLICATION OF BIOLOGICAL DRUGS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Arestova, Inessa</ags:creatorPersonal>
+         <ags:creatorPersonal>Larionova, Nadezhda</ags:creatorPersonal>
+         <ags:creatorPersonal>Aleskerova, Vyusala</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The article is devoted to features of a physiological state of hogs while using Permait and Kaltsefit-5 and Sedimin® in biogeochemical conditions of the central zone of the Chuvash Republic.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.40-40</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500009">
+      <dc:title>THE PROJECT OF THE RE-INTRODUCTION OF SCHREIBER’S BENT-WINGED BATS (MINIOPTERUS SCHREIBERSII, CHIROPTERA) IN THE PENINSULA OF CRIMEA</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kovalyova, Irine</ags:creatorPersonal>
+         <ags:creatorPersonal>Taraborkin, Leonid</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The background and objectives of the project are presented in detail. They are connected with implementation of the world first re-introduction of the local bats population, namely the species Miniopterus schreibersii, in the peninsula of Crimea (Ukraine).</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.41-41</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500010">
+      <dc:title>THE ROLE OF EPYPHYSIS IN HEMOCOAGULATION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Madatova, Valida</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In article the role of epiphysis in hemocoagulation, in regulation of a functional condition of a humoral link of a hemostasis is considered. It is shown that epiphysis is one of determinatives in neurohormonal regulation of functional system of a fibrillation; the role of epiphysis in hemocoagulational effect of monoamines (adrenaline, aminazine, serotonin) is studied. On the basis of own researches and theoretical judgements it is shown for the first time that epiphyseal – hypothalamic – hypophysis - adrenal system regulates system of fibrillation.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.42-42</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500011">
+      <dc:title>THE TOPOGRAPHY OF PEPTIDASES IN THE INTESTINES OF HEALTHY AND SICK PIGLETS OF DIFFERENT AGE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Lazarenko, Ludmila</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>This article contains some questions concerning the pathogenesis of intestinal diseases in piglets. During the inflammatory process in intestines of ill animals the change of character of distribution of activity of digestive enzymes along small and large bowel can be observed.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.43-43</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500012">
+      <dc:title>VETERINARY TOXICOLOGICAL ANALYSIS OF FEED ADDITIVE «CEOFISH»</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Paritova, Assel</ags:creatorPersonal>
+         <ags:creatorPersonal>Slyamova, Ayana</ags:creatorPersonal>
+         <ags:creatorPersonal>Sarybayeva, Dinara</ags:creatorPersonal>
+         <ags:creatorPersonal>Ergumarova, Meirumgul</ags:creatorPersonal>
+         <ags:creatorPersonal>Sarsembaeva, Nurzhan</ags:creatorPersonal>
+         <ags:creatorPersonal>Valieva, Zhadyra</ags:creatorPersonal>
+         <ags:creatorPersonal>Baibulatova, Zhazira</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this article, the results of research based on veterinary-toxicological analysis of feed additive «Ceofish» are revealed. In the course of study it was found out that after dafnius and cyclopses had eaten suspensions that contained feed additive «Ceofish» they didn’t die and continued to reproduce.The study of toxicity of fish filet was carried out after trying out this feed additive on guppy-fish. Thrice-repeated experiment with two groups of test fish showed that the sample was not toxic as all guppy-fish remained alive.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.44-44</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+</ags:resources>

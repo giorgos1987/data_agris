@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+								
+   <ags:resource ags:ARN="RU2015F00001">
+      <dc:title>POSSIBILITIES OF SOCIAL PARTNERSHIP IN THE DEVELOPMENT OF HEALTH SERVICES AND EDUCATION IN THE VILLAGE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Chernyshov, A. (Nizhniy Novgorod State Agricultural Academy)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>EDUCATION</dc:subject>
+																
+      <dc:subject>HEALTH SERVICES</dc:subject>
+																
+      <dc:subject>NONCOMMERCIAL ORGANIZATIONS</dc:subject>
+																
+      <dc:subject>SOCIAL DEVELOPMENT OF VILLAGE</dc:subject>
+																
+      <dc:subject>SOCIAL PARTNERSHIP</dc:subject>
+																
+      <dc:subject>STATE-PRIVATE PARTNERSHIP</dc:subject>
+																
+      <dc:subject>TRIPARTIZM</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is dealt with the problem of the use of mechanisms of social partnership in the development of health services and education in the village. The possibilities of tripartizma, state-private partnership and interaction of state and business with the noncommercial organizations are shown.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251713
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 92-94</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00002">
+      <dc:title>THE DYNAMICS OF THE TECHNICAL EQUIPMENT OF FARMS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Sazonova, D. (All-Russia research institute on use of technics and mineral oil )</ags:creatorPersonal>
+         <ags:creatorPersonal>Sazonov, S. (All-Russia research institute on use of technics and mineral oil )</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>AGRICULTURAL MACHINERY</dc:subject>
+																
+      <dc:subject>EQUIPMENTS</dc:subject>
+																
+      <dc:subject>FARMS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article presents a retrospective analysis of the number of agricultural machinery of the typical farms in the Tambov region.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251711
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 82-88</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00003">
+      <dc:title>TO THE QUESTION ABOUT THE NUTRITIONAL VALUE OF FOODS BASED CHAENOMELES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Fedulova, Yu. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BIOCHEMICAL VALUE OF THE FRUIT OF CHAENOMELES</dc:subject>
+																
+      <dc:subject>FUNCTIONAL NUTRITION</dc:subject>
+																
+      <dc:subject>PRODUCTS BASED CHAENOMELES</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article presents data on the possible use of nectars «Healthy diet» based chaenomeles in the diet of the population.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251710
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 79-81</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00004">
+      <dc:title>EWE PRODUCTIVE QUALITIES OF THE BREED PREKOS OF DIFFERENT INBREEDING TYPES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gagloev, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>EWE INTERBREED TYPE</dc:subject>
+																
+      <dc:subject>PREKOS</dc:subject>
+																
+      <dc:subject>RAMS</dc:subject>
+																
+      <dc:subject>REPRODUCTIVE QUALITY</dc:subject>
+																
+      <dc:subject>SURVIVE</dc:subject>
+																
+      <dc:subject>WOOL PRODUCTIVITY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The influence of intrabreed type of ewes prekos on reproductive quality and productivity at pure breeding and and interbreeding with sire precocious breeds: kuibyshev, romni-marsh and lincoln is studied. It is established that lambs-wool ewes of meat type have reproductive qualities and safety superiority, and wool-meat type has the best indicators of wool productivity.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251709
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 76-78</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00005">
+      <dc:title>The use of the plant and animal raw materials for production of the functional meat items</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kurchaeva, E.E. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Manzhesov, V.I. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Maximov, I.V. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Sysoeva, M.G. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Melnikova, E.S. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Yasakova, Yu.V. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>PARSNIP ROOTS</dc:subject>
+																
+      <dc:subject>POLYCOMPONENTS OF MEAT SYSTEMS</dc:subject>
+																
+      <dc:subject>RESTRUCTURED SAUSAGES</dc:subject>
+																
+      <dc:subject>STABILITY OF EMULSION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The paper describes the possibilities of production of combined minced meat items, namely the sausages for frying with the use of protein - fat emulsion obtained on the basis of the animal protein and powdered half - finished product of parsnip roots. The composition of the protein - fat emulsion having high stability and water - binding capacity has been chosen. It has been established that at the addition of 5 % of powdered half - finished product of parsnip roots the stability of emulsion was 98,5 %. On the basis of experimental data we developed the recipe of sausages for frying «Voronezhskie» with the 15% substitution of meat raw material by protein - fat emulsion. It has been established the increase of products output from 110 % up to 126 %.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251708
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 70-76</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00006">
+      <dc:title>THE USE OF THE COMBINATION AND SELECTION OF FINE-FLEECED UTERUS BY INBREEDING TYPE TO INCREASE MEAT EFFICIENCY OF SHEEP AT PUREBRED BREEDING AND INTERBREEDING</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gagloev, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BREEDS: PREKOS</dc:subject>
+																
+      <dc:subject>INTERBREED TYPE OF EWES</dc:subject>
+																
+      <dc:subject>KUIBYSHEV</dc:subject>
+																
+      <dc:subject>LINCOLN</dc:subject>
+																
+      <dc:subject>MEAT PRODUCTIVITY</dc:subject>
+																
+      <dc:subject>RAMS</dc:subject>
+																
+      <dc:subject>ROMNI-MARSH</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>It is studied the influence of the combination and the selection of fine-fleeced uterus prekos by inbreeding type at purebred breeding and interbreeding with sire precocious breeds: kuibyshev, romni-marsh and lincoln - on the index of the meat productivity of progeny. It is established the positive effect of selection based on interbreeding type ewes on the index of meat productivity of rams.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251707
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 67-70</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00007">
+      <dc:title>THE ELECTRIC MOTOR PROTECTION CIRCUIT OF MANURE-CLEANING CONVEYER WITH USING THE MULTIFUNCTION RELAY OF THREE-PHASE POWER SUPPLY AND TEMPERATURE CONTROL</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Mazukha, N.A. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Mazukha, A.P. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Pomogaev, Y.M. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>""DEAD"" ZONE DEFENSE</dc:subject>
+																
+      <dc:subject>""MEMORY EFFECT""</dc:subject>
+																
+      <dc:subject>ELECTRIC MOTORS</dc:subject>
+																
+      <dc:subject>RELAY OF THREE-PHASE VOLTAGE AND TEMPERATURE CONTR</dc:subject>
+																
+      <dc:subject>TEMPERATURE SENSORS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The scheme of use the relay RM 35 TM for electric motor protection of manure-cleaning conveyer TSN-3.05 is given. There are the recommendations for use of relay in the other electric drives of agriculture.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251705
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 58-60</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00008">
+      <dc:title>SCIENTIFIC AND TECHNICAL BASIS FOR THE MECHANIZATION OF CONSERVATION AGRICULTURAL MACHINERY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Petrashev, A. (All-Russia research institute on use of technics and mineral oil )</ags:creatorPersonal>
+         <ags:creatorPersonal>Sazonov, S. (All-Russia research institute on use of technics and mineral oil )</ags:creatorPersonal>
+         <ags:creatorPersonal>Klepikov, V. (All-Russia research institute on use of technics and mineral oil )</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CONSERVATION EQUIPMENT</dc:subject>
+																
+      <dc:subject>LIMIT COST</dc:subject>
+																
+      <dc:subject>STANDARD REQUIREMENT</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The conditions for effective use of the technical means by conservation of agricultural machinery are determined. A method for determining the needs of agricultural farms in the technical means are proposed.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251706
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 61-67</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00009">
+      <dc:title>THE STATE OF FERTILITY OF BLACK EARTH OF THE TAMBOV REGION AND WAYS OF ITS REGULATION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Belajev, V. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Vislobokova, L. (Tambov Research institute of agriculture)</ags:creatorPersonal>
+         <ags:creatorPersonal>Skorochkin, Yu. (Tambov Research institute of agriculture)</ags:creatorPersonal>
+         <ags:creatorPersonal>Vorontsov, V. (Tambov Research institute of agriculture)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>FERTILITY</dc:subject>
+																
+      <dc:subject>FERTILIZER</dc:subject>
+																
+      <dc:subject>GREEN MANURE</dc:subject>
+																
+      <dc:subject>SOIL CULTIVATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is dealt with the basic methods of conservation and management of soil fertility in the Tambov region. The role of green manure, by-products, tillage in conservation and restoration of soil fertility are shown.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251699
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 37-40</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00010">
+      <dc:title>AGILITY INCREASE OF INTEGRAL TRACTOR</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kozlov, D. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Manaenkov, K. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>ANGLE OF THE ROTATION OF THE WHEELS</dc:subject>
+																
+      <dc:subject>KINEMATIC SCHEME</dc:subject>
+																
+      <dc:subject>TRAJECTORY</dc:subject>
+																
+      <dc:subject>UNIVERSAL TRACTOR</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article contains the analysis of the steering system of integral tractor to ensure minimum turning radius in accordance with the requirements shown to the tractors of this layout.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251703
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 50-55</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00011">
+      <dc:title>THE RESISTANT OF APPLE-TREE AND MOUNTAIN ASH’S TO ENVIRONMENTAL POLUTION WITH HEAVY METALS IN TOWN OF TAMBOV REGION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kuznetcova, N.V. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>HEAVY METALS</dc:subject>
+																
+      <dc:subject>RESISTANT</dc:subject>
+																
+      <dc:subject>SEEDLINGS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>This item is devoted to study of the influence of salt of heavy metals (chromium, lead and nickel) on the seedlings of mountain ash and apple-tree’s species and varieties. The most toxic metals have been found. Methods of reduction of heavy metals’ negative influence on plants have been investigated.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251700
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 40-42</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00012">
+      <dc:title>APPLICATION MOISTURE-PROOF FILLER IN THERMAL INSULATING MATERIAL FROM CEREAL STRAW</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Manaenkov, K. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Mishin, M. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Popov, V. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>ADHESIVE STRENGTH</dc:subject>
+																
+      <dc:subject>INSULATION</dc:subject>
+																
+      <dc:subject>STRAW</dc:subject>
+																
+      <dc:subject>THERMAL CONDUCTIVITY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>This article presents the results of research strength and thermal conductivity of thermal insulation material based on straw cereals using PVA glue as a filler.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251702
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 45-50</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00013">
+      <dc:title>TO QUESTION ABOUT THE CREATION OF COMBINED SOIL CULTIVATED EQUIPMENTS FOR REALIZATION OF RESOURCES SAVING TECHNOLOGIES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nikonov, M. (Lipetsk State Teachers' Training University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>COMBINE SOIL CULTIVATED EQUIPMENT</dc:subject>
+																
+      <dc:subject>RESOURCES SAVING TECHNOLOGIES</dc:subject>
+																
+      <dc:subject>SOIL CULTIVATION</dc:subject>
+																
+      <dc:subject>WEEDY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>In this article are presented principles of the realization of resources saving technologies soil cultivation and considered the most popular from them. Particularities of functioning of soil cultivated equipments with spherical disks and arrow-headed claws are analyzed. Design of combine soil cultivated device is proposed and indices of the quality of functioning this device are presented.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251704
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 55-57</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00014">
+      <dc:title>AGROECOLOGICAL SUBSTANTIATION OF CHOICE PREDECESSORS OF WINTER WHEAT</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Pal'chikov, E. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Ivanova, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Volkov, S. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>FALLOW</dc:subject>
+																
+      <dc:subject>GREEN MANURE</dc:subject>
+																
+      <dc:subject>PREDECESSOR</dc:subject>
+																
+      <dc:subject>WHEAT</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is devoted to the study of the agroecological substantiation of the selection p predecessors and their role in the ecologization of modern agriculture.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251697
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 30-32</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00015">
+      <dc:title>THE BASE CULTIVATION SYSTEM OF BLACK EARTH SOIL</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Vislobokova, L. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Skorochkin, Yu. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Vorontsov, V. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Belajev, V. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CHOKING</dc:subject>
+																
+      <dc:subject>PRODUCTIVITY</dc:subject>
+																
+      <dc:subject>SOIL CULTIVATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article has results of the comparative evaluation of the effectiveness of different systems of primary soil cultivation plant in grain-row-crop and grain-fallow-row-crop crop rotations. Its established that the most acceptable system of basic soil cultivation in crop rotation is combined (moldboard-mold), combining moldboard plowing under tilled crops with mold loosen under the grains and legumes.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251698
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 32-36</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00016">
+      <dc:title>TASTE AND CHEMICAL COMPOSITION OF NEW VARIETIES OF THE HONEYSUCKLE BERRIES OF AMUR</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Stepanova, N. (Far Eastern State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CHEMICAL COMPOSITION</dc:subject>
+																
+      <dc:subject>HONEYSUCKLE</dc:subject>
+																
+      <dc:subject>TASTE QUALITIES</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article presents data on the taste and chemical composition of four varieties of honeysuckle berries, created in Amur region from 1996 to 2013. They are far exceed vitamins С and P content varieties from other regions. Created varieties have high taste of berries, medium ripening and high productivity. They can be used in the selection as the source of high levels of vitamins С and P.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251696
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 2012-2014</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00017">
+      <dc:title>THE COMPARATIVE DESCRIPTION OF EARLY RIPENING POTATOES VARIETIES UNDER THE CONDITION OF THE UKRAINE PARTIALLY-WOOD-STEPPE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Vorob'yova, N. (Uman' National University of Horticulture)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>EARLY RIPENING POTATOES</dc:subject>
+																
+      <dc:subject>HEIGHT OF PLANTS</dc:subject>
+																
+      <dc:subject>PRODUCTIVITY</dc:subject>
+																
+      <dc:subject>STALKS</dc:subject>
+																
+      <dc:subject>VARIETY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is analyzed the results of the study of early ripening potatoes varieties, the peculiarity of the passage of plants phеnological phases of growth and development, productivity in the Right bank Ukraine Partially-wood-steppe. Its established that the early ripening potatoes varieties Latona, Carrera, Bellaroza are the best varieties for the Forest-steppe of the Ukraine.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251695
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 24-27</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00018">
+      <dc:title>PECULIARITY OF THE CHEMICAL COMPOSITION OF THE FRUITS OF NECTARINE VARIETIES AND FORMS WITH MALE STERILITY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Ivashchenko, Yu. (Nikitskiy Botanical Gardens)</ags:creatorPersonal>
+         <ags:creatorPersonal>Shoferistov, E. (Nikitskiy Botanical Gardens)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BIOLOGICALLY ACTIVE SUBSTANCE</dc:subject>
+																
+      <dc:subject>FORM</dc:subject>
+																
+      <dc:subject>NECTARINE</dc:subject>
+																
+      <dc:subject>VARIETY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is devoted to studying of chemical composition of the fruits of selection and introduced nectarine varieties and forms with male sterility. It is releaved varieties with increased content of some biologically active substances in the fruits. It is selected four forms for use in fresh with taste value and dietetic quality.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251693
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 18-21</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00019">
+      <dc:title>INFLUENCE OF DIFFERENT LEVEL OF MINERAL NUTRITION ON MAIZE YIELD FOR SILAGE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nevzorov, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CRUDE PROTEIN AND NITRATES IN THE GREEN MASS</dc:subject>
+																
+      <dc:subject>FERTILIZER</dc:subject>
+																
+      <dc:subject>MAIZE YIELDS FOR SILAGE</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article is devoted to application of mineral and organic fertilizers on chernozem soils under corn for silage. Different doses of application of mineral and organic fertilizers are shown in the article. The dynamics of the total nitrogen in corn plants during the growing season is studied. It is established the average annual yield of silage corn under the influence of fertilizer over the years, as well as the quality of the resulting products.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251692
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 15-18</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00020">
+      <dc:title>PRODUCTIVITY OF THE CULTURAL PLANTS DEPENDING ON WEATHER CONDITIONS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Zaysteva, G. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Ryaskova, O. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CULTURAL PLANTS</dc:subject>
+																
+      <dc:subject>PRODUCTIVITY</dc:subject>
+																
+      <dc:subject>WEATHER CONDITIONS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>It is considered influence of weather conditions on the change of the level to productivities in 2010 and 2013 during vegetation period.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251694
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 22-24</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00021">
+      <dc:title>THE ESTIMATING OF PERSPECTIVE «VARIETY ROOTSTOCK» SOUR CHERRY COMBINATIONS TO CREATE INTENSIVE ORCHARDS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Grigorjeva, L. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Mukhanin, I. (Association for Fruit Growers)</ags:creatorPersonal>
+         <ags:creatorPersonal>Milyaev, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>EARLY-MATURITY</dc:subject>
+																
+      <dc:subject>PRODUCTIVITY</dc:subject>
+																
+      <dc:subject>ROOTSTOCK</dc:subject>
+																
+      <dc:subject>SOUR CHERRY</dc:subject>
+																
+      <dc:subject>SPINDLE-FORMED CROWN</dc:subject>
+																
+      <dc:subject>VARIETY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>There is analysis of the influence of five forms of rootstock on the sour cherry productivity in intensive orchards in the article. It is shown, the varieties grafted on F12/1 and Antipka as more high-yielding with restrained growth are suitable for the intensive orchards.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251690
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 8-9</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00022">
+      <dc:title>The effectiveness of innovative technologies in horticulture</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nadeina, J. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Zheltikova, L. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Versilin, A. (Michurinsk State Agricultural University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>MICRODAMAGE OF APPLE-TREE</dc:subject>
+																
+      <dc:subject>MORPHOGENESIS</dc:subject>
+																
+      <dc:subject>PRODUCTIVITY OF THE STOCKS IN THE MOTHER LIQUOR</dc:subject>
+																
+      <dc:subject>RHIZOGENESIS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Increased productivity and quality of weakly-tall clonal rootstocks of apple-tree, the peculiarities of clonal micropropagation of cultivars of apple trees are studied and proved in the improving mother liquor.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22251691
+																				http://vestnik-michgau.ru/data/documents/2014-04.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 9-15</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>4</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00023">
+      <dc:title>The historical aspects of 81 small farming in Russian agriculture</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Babkina, E.S. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>GOVERNMENT SUPPORT</dc:subject>
+																
+      <dc:subject>HISTORICAL APPROACHES SHOWING THE ESSENCE OF SMALL</dc:subject>
+																
+      <dc:subject>SMALL FARMS IN LIVESTOCK BREEDING</dc:subject>
+																
+      <dc:subject>THE STAGES OF SMALL FARMING DEVELOPMENT IN LIVESTO</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The evolution of small farming forms in livestock breeding is represented in historical-dialectic aspect. The research of small farming forms in the system of agro-industrial complex has been carried out, including peasant and private farms. Special attention was paid to small farming forms position and their role in livestock breeding development.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670776
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 84-86</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00024">
+      <dc:title>The tenden- 77 cies of the development of the grain production and grain market in Lipetsk region</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kvochkin, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Zvyagina, N. (Lipetsk Institute of Cooperation, branch of Belgorod University of Cooperation, Economy and Law)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>AGRICULTURAL TECHNOLOGY</dc:subject>
+																
+      <dc:subject>AGRICULTURE</dc:subject>
+																
+      <dc:subject>GRAIN EXPORT</dc:subject>
+																
+      <dc:subject>GRAIN MARKET</dc:subject>
+																
+      <dc:subject>GRAIN PRODUCTION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article considers the increase of grain production because of technological improvement of the branch and market demand for it from the cattle breeding and food processing industry branches.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670775
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 81-84</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00025">
+      <dc:title>Study of plant supplements and kind of heat treatment on the quality of finished meat products</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Telegina, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>COMBI STEAMER</dc:subject>
+																
+      <dc:subject>ORGANOLEPTIC ASSESSMENT</dc:subject>
+																
+      <dc:subject>THERMAL PROCESSING COMBINED MEAT PRODUCTS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The results of studying presents the effect of a plant component and the type of heat treatment on the quality of semi-finished meat.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670772
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 68-70</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00026">
+      <dc:title>Analysis of functional properties of vegetables, fruits, berries, leaves and herbs to create out of functional food for current generation</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Vinnitskaya, V. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Popova, E. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Parusova, K. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Evdokimov, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Efremova, Yu. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BAKERY AND CONFECTIONERY PRODUCTS</dc:subject>
+																
+      <dc:subject>BIOLOGICALLY ACTIVE SUBSTANCES</dc:subject>
+																
+      <dc:subject>FUNCTIONAL FOODS</dc:subject>
+																
+      <dc:subject>JERUSALEM ARTICHOKE</dc:subject>
+																
+      <dc:subject>MUESLI</dc:subject>
+																
+      <dc:subject>TECHNOLOGY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article provides data on research of local little-used fruit and vegetable raw materials with high content of biologically active substance and using them to create out of new functional food products. On the content of food substances developed new types of food products satisfy the needs of the body on the content of alant starch, cellulose, pectines, vitamin C, carotenoid and other bioactive substance are looking for functional food.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670771
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 63-68</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00027">
+      <dc:title>Production of structurized meat systems enriched with functional composites</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kurchaeva, E.E. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Manzhesov, V.I. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Glotova, I.A. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Maximov, I.V. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Melnikova, E.S. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+         <ags:creatorPersonal>Yasakova, Yu.V. (Voronezh State Agrarian University named after Emperor Peter I)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BIOLOGICAL AND FOOD VALUES</dc:subject>
+																
+      <dc:subject>FUNCTIONAL COMPOSITES</dc:subject>
+																
+      <dc:subject>MEAT SYSTEMS</dc:subject>
+																
+      <dc:subject>PARSNIP ROOTS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>In this paper we present the possibilities of production of combined minced - meat items name by sausages for frying with the use of turkey meat enriched with functional compositions on the basis of animal proteins and powdered semi - finished parsnip roots. It is shown that the addition of 10-12 % of the functional composition to the formulation of sausages for frying allows to increase water binding and fat - holding capacities of minced meats and to increase biological and food values of ready - made products.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670770
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 60-63</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00028">
+      <dc:title>Influence of the degree of extraction of soluble solids in alcoholic solution on the quality of cherry brandy</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Bocharov, V. (Institute of Food Technology and Design - GBOU VPO ""Nizhny Novgorod State Engineering and Economics Institute"")</ags:creatorPersonal>
+         <ags:creatorPersonal>Stroilov, A. (Nizhny Novgorod State Agricultural Academy)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>DRIED CHERRIES</dc:subject>
+																
+      <dc:subject>EXTRACTION</dc:subject>
+																
+      <dc:subject>FRESH CHERRIES</dc:subject>
+																
+      <dc:subject>RAW COMPONENTS</dc:subject>
+																
+      <dc:subject>SWEET LIQUEUR</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The article shows the dependence of the quality of cherry brandy from the degree of extraction of soluble substances in alcohol infusion.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670769
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 56-59</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00029">
+      <dc:title>Theoretical aspects of polymeric covering formation on the external ring of rotating rolling bearing</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Lee, R. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Psarev, D. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BEARING</dc:subject>
+																
+      <dc:subject>COVERING</dc:subject>
+																
+      <dc:subject>POLIMER</dc:subject>
+																
+      <dc:subject>RESTORATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Theoretical aspects of formation of a polymeric covering on an external surface of the rotating cylindrical detail, after its preliminary immersion in a bathtub with polymeric solution are considered.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670767
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 46-51</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00030">
+      <dc:title>Information modeling of machine technologies in industrial gardening</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Zavrazhnov, A.I. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Zavrazhnov, A.A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Lantsev, V.Yu. (GNU VNIIS)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>AGROTECHNOLOGY</dc:subject>
+																
+      <dc:subject>INDUSTRIAL GARDENING</dc:subject>
+																
+      <dc:subject>INFORMATION TECHNOLOGIES</dc:subject>
+																
+      <dc:subject>SYSTEM OF CARS</dc:subject>
+																
+      <dc:subject>TECHNOLOGIZATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>In the article the main problems are presented to branches of domestic industrial gardening and ways of their decision are designated. To discussion the following directions (aspects) are presented: agrotechnological component of intensive gardening; system of technologies and cars; machine-building component and technologization; organization and management system; regulatory base; federal and regional programs of development of domestic gardening.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670768
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 51-55</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00031">
+      <dc:title>The influenceof probiotic and biologically active additives of plant origin on the growth and development of the broiler chickens of ""Ross 308"" crossbreed</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Mashtaler, D. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BIOLOGICALLY ACTIVE ADDITIVES</dc:subject>
+																
+      <dc:subject>BODY WEIGHT</dc:subject>
+																
+      <dc:subject>BROILER</dc:subject>
+																
+      <dc:subject>CROSSBREED</dc:subject>
+																
+      <dc:subject>DEVELOPMENT</dc:subject>
+																
+      <dc:subject>FODDER MIXTURE</dc:subject>
+																
+      <dc:subject>GROWTH</dc:subject>
+																
+      <dc:subject>PROBIOTICS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>As a result of research work it has been determined that the increase of body weight and improvement of safe keeping of the broiler chickens can be achieved by including of biologically active additives, probiotic into the fodder mixture.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670765
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 39-41</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00032">
+      <dc:title>Intellectual watching system for control of cars and units at the matochnikakh and the nurseries</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Zavrazhnov, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Gordeev, A. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Lantsev, V. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>AUTOMATION</dc:subject>
+																
+      <dc:subject>NURSERY</dc:subject>
+																
+      <dc:subject>UNIT ORIENTATION</dc:subject>
+																
+      <dc:subject>АВТОМАТИЗАЦИЯ</dc:subject>
+																
+      <dc:subject>МАТОЧНИК</dc:subject>
+																
+      <dc:subject>ПИТОМНИК</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>In article the direction of improvement of cars for work in the matochnikakh and nurseries is offered. The offered technology to allow to increase the accuracy of orientation of working bodies and the unit concerning a plant that will reduce losses and will exclude a human factor on technological operations.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670766
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 42-46</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00033">
+      <dc:title>Influence of preparation ""tetra +"" and b - carotene on quality broiler meat</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gnidin, S. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Gnidin, Ju. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Voytenko, O. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Voytenko, L. (Don State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BIOSTIMULANTS</dc:subject>
+																
+      <dc:subject>BROILERS</dc:subject>
+																
+      <dc:subject>FATNESS</dc:subject>
+																
+      <dc:subject>MEAT PRODUCTIVITY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>As a result of studies, the positive impact of the bio-stimulator ""Tetra +"" on poultry meat production.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670764
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 37-38</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00034">
+      <dc:title>Cows' subclinical endometritis. Diagnostics, distribution, methods of treatment</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Voytenko, L. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Lapina, T. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Galovan, I. (Taganrog district veterinary laboratories)</ags:creatorPersonal>
+         <ags:creatorPersonal>Gnidina, Ju. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Voytenko, O. (Don State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Shilin, D. (Don State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>HIDDEN ENDOMETRITIS COWS</dc:subject>
+																
+      <dc:subject>INFERTILITY</dc:subject>
+																
+      <dc:subject>PRA</dc:subject>
+																
+      <dc:subject>RAPID METHODS</dc:subject>
+																
+      <dc:subject>RECTAL EXAMINATION</dc:subject>
+																
+      <dc:subject>TRIVIA</dc:subject>
+																
+      <dc:subject>ULTRASOUND EXAMINATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The most common cause of symptomatic endometriosis infertility is hidden, which is registered in 22.2% of infertile cows. A single integrated application PRA in dose of 20 ml with a concentration of 600 mg / l and trivita at 10 ml allows recovery and high fertilization infertile patients cow with hidden endometritis.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670763
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 33-37</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00035">
+      <dc:title>Studying of seed efficiency at artificial crossings of a gladiolus hybrid</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kuzichev, O.B. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>BOX</dc:subject>
+																
+      <dc:subject>GLADIOLUS</dc:subject>
+																
+      <dc:subject>GRADE</dc:subject>
+																
+      <dc:subject>QUANTITY</dc:subject>
+																
+      <dc:subject>SEEDS</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>70 productive combinations of artificial crossing of a gladiolus when using pollen of a fatherly grade are carried out the cultivar Grad Kitezh. Data on quantity of the pollinated flowers, percent of a seed formation, total of boxes and hybrid seeds, and also number of seeds counting on one seed box are provided in article.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670761
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 28-30</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00036">
+      <dc:title>Genetic conditionality of Simmental cows' stress resistance</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Lamonov, S. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Tkachenko, V. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Eremin, M. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>COW</dc:subject>
+																
+      <dc:subject>SELECTION</dc:subject>
+																
+      <dc:subject>STRESS</dc:subject>
+																
+      <dc:subject>STRESS RESISTANCE</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Research has shown that the type stress resistance young cow is genetically deterministic trait that is passed to the descendants mainly through mothers. Therefore, stress resistance, as a second product selection it is necessary to investigate if the removal of animals suitable for technology-intensive milk production.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670762
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 31-32</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00037">
+      <dc:title>Improvement of the technology of sunflower cultivation</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Palchikov, E. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+         <ags:creatorPersonal>Volkov, S. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>AGROCOENOSIS</dc:subject>
+																
+      <dc:subject>SUNFLOWER</dc:subject>
+																
+      <dc:subject>TECHNOLOGY OF CULTIVATION</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>This article discusses the improvement of the technology of sunflower cultivation in the farm «Alexandrovka». On the basis of existing technologies discussed issues its optimization and increased productivity of cultivated culture.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670760
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 25-27</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00038">
+      <dc:title>Innovative development of gardening - strategic alternative of the future</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Gabuev, M. (Michurinsk State Agrarian University)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>FACTORS</dc:subject>
+																
+      <dc:subject>GARDENING</dc:subject>
+																
+      <dc:subject>INNOVATIONS</dc:subject>
+																
+      <dc:subject>INTERACTION</dc:subject>
+																
+      <dc:subject>STRATEGY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Development of gardening has to be carried out with use of innovative approaches in technological and organizational spheres. It will be promoted by formation of science production system which will allow to reach a profitability gain at each stage of movement of production.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670759
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 22-24</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00039">
+      <dc:title>The using methods of marker-assisted selection for the creation of the new genotypes of apple</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>ШАМШИН, И.Н. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+         <ags:creatorPersonal>ПОРОТИКОВА, О.В. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>MARKER-ASSISTED SELECTION</dc:subject>
+																
+      <dc:subject>MOLECULAR MARKER</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>The questions of using methods of marker-assisted selection for creation of new genotypes of apple were shown in this paper. A review of the current state of research of apple genome using molecular markers was made. The possible variants for conducting breeding work on the basis of DNA analysis were proposed.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670758
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 19-22</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00040">
+      <dc:title>The influence of rootstoks on morphometric parameters of scion component at the nursery</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>ЧУРИКОВА, Н.Л. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+         <ags:creatorPersonal>ПАПИХИН, Р.В. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+         <ags:creatorPersonal>ТАРОВА, З.Н. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+         <ags:creatorPersonal>СКОРОХОДОВА, Л.В. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+         <ags:creatorPersonal>ЧЕСТНЫХ, Д.Ю. (Мичуринский государственный аграрный университет)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>CLONAL ROOT STOCKS OF APPLE</dc:subject>
+																
+      <dc:subject>COMPATIBILITY FOR STOK AND SCION</dc:subject>
+																
+      <dc:subject>NURSERY</dc:subject>
+																
+      <dc:subject>VARIETY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Genotypes with high morphmetric parameters (height, diameter of the trunk, leaf area, number of lateral shoots, total increase) are evolved from population of hybrids of clone root stocks of the apple trees of different years hybridization in the third field nursery. The average yield of the standard annual seedlings in these rootstocks was 81.3%.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670757
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 14-19</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+								
+   <ags:resource ags:ARN="RU2015F00041">
+      <dc:title>New apple cultivars for orchards of the middle zone of Russia</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>СЕДОВ, Е.Н. (ФГБНУ ВНИИ селекции плодовых культур)</ags:creatorPersonal>
+         <ags:creatorPersonal>СЕРОВА, З.М. (ФГБНУ ВНИИ селекции плодовых культур)</ags:creatorPersonal>
+         <ags:creatorPersonal>КОРНЕЕВА, С.А. (ФГБНУ ВНИИ селекции плодовых культур)</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>Michurinsk State Agrarian University</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+																
+      <dc:subject>APPLE</dc:subject>
+																
+      <dc:subject>BREEDING</dc:subject>
+																
+      <dc:subject>COLUMNAR TREES</dc:subject>
+																
+      <dc:subject>CULTIVARS</dc:subject>
+																
+      <dc:subject>IMMUNITY TO SCAB</dc:subject>
+																
+      <dc:subject>POLYPLOIDY</dc:subject>
+												
+      <dc:description>
+         <dcterms:abstract>Six new apple cultivars of the Institute breeding including five cultivars with fruit of winter maturing and one (Osipovskoye) with fruit of summer maturing are briefly described. Triploid cultivars - Alexandr Boiko and Vavilovskoye have immunity to scab (V f). Scab immune columnar cultivars Priokskoye and Poezia are suitable for establishing super intensive orchards.</dcterms:abstract>
+      </dc:description>
+      <dc:identifier scheme="dcterms:URI">
+																				http://elibrary.ru/item.asp?id=22670756
+																				http://vestnik-michgau.ru/data/documents/2014-05.pdf
+																</dc:identifier>
+      <dc:type>Journal Article</dc:type>
+      <dc:format>
+         <dcterms:extent>p. 11-13</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">ru</dc:language>
+      <ags:citation>
+         <ags:citationTitle>ВЕСТНИК МИЧУРИНСКОГО ГОСУДАРСТВЕННОГО АГРАРНОГО УНИВЕРСИТЕТА</ags:citationTitle>
+         <ags:citationNumber>5</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+				
+</ags:resources>

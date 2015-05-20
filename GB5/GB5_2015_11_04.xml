@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <ags:resource ags:ARN="GB2015500001">
+      <dc:title>CORRECTION OF LOCAL FACTORS OF PROTECTION AND MICROBIOCENOSIS OF THE GASTROINTESTINAL TRACT IN TERMS OF USING COLLOIDAL SILVER TO CHICKENS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Alekseyeva, Svetlana</ags:creatorPersonal>
+         <ags:creatorPersonal>Zinina, Yekaterina</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The article is devoted to studying local protection of chickens when using colloidal silver. It is shown that under the influence of the drug local mechanisms of protection of a mucous membrane of a trachea and an oropharynx are intensified as a result of increasing quantity of phagocytizing leukocytes and adsorbing epithelial cells (and their adsorptive activity). Bifidobacterium prevail in intestines.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.299-299</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500002">
+      <dc:title>DYNAMICS OF MICRO-MORPHOLOGY OF THE THYMUS GLAND OF BOARS IN POST-NATAL ONTOGENESIS GROWN UP WITH THE USE OF MICROELEMENT BIOADDITIVES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Arestova, Inessa</ags:creatorPersonal>
+         <ags:creatorPersonal>Alekseev, Vladislav</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The scientific work is devoted to the study of the influence of Permamik and Kaltsefit-5 on histological structure of the thymus of boars grown in the ecological environment of the northern part of the Volga region (Chuvash Republic). The possibility of combined application of Permamik with Kaltsefit-5 in the various periods of postnatal ontogenesis in order to strengthen the immunological status of boars is determined.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.300-300</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500003">
+      <dc:title>EXPANSION OF HERD HORSE-BREEDING FROM THE CENTRAL PART TO THE ARCTIC REGIONS OF YAKUTIA</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Ammosov, Sergey</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author analyzes the population of horses in Yakutia during various periods and compares it with population of cattle. Cyclic pattern of rising and recession of a ratio of population of horses and cattle during various historical periods is determined. Comparison with deer population in the allocated periods is made. On the basis of the analysis carried-out an attempt to prove the expansion of space for herds of the Yakut breed of horses as the process of expansion of horse-breeding to the Arctic zone of the Republic of Sakha (Yakutia) is made. On this basis conclusions about the need to use the process of extension of horse-breeding to the South of the Republic (occurring without interventions from the outside, based on the internal pattern of development) in organization and management of animal husbandry are made.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.302-302</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500004">
+      <dc:title>FIRST LIPIDIC BCW AND LIPOPROTEINS OF CELLS AND BLOOD</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Telepneva, Lyudmila</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The possibility of creation of lipidic catalyst systems and lipoproteins in the pre-cellular period of life development is concidered.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.303-303</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500005">
+      <dc:title>GROWTH OF PINE CULTURES AT IMPROVEMENT THINNING SITES ON AUTOMORPHIC SOILS OF NORTHERN KAZAKHSTAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Sarsekova, Dani</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Author presents data on researches of growth and development of pine trees and forest stands on the improvement thinning sites. The competition between separate individual trees decreases as the growing space increases. For intensive development the improvement thinning in pine cultures should be initiated at the age of 10-13.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.304-304</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500006">
+      <dc:title>INFLUENCE OF THE NITROGEN OXIDE SYNTHESIS MODULATORS ON THE CATHEPSIN B, L, H ACTIVITY IN MONONUCLEAR LEUCOCYTES OF RATS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Fomina, Mariya</ags:creatorPersonal>
+         <ags:creatorPersonal>Abalenihina, Yulia</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The influence of nitrogen oxide synthesis modulators on cathepsin B, L, H activity in mononuclear leukocytes was studied. It was found out, that cathepsin B, L, H activity in mononuclear leukocytes insignificantly decreases in case of excess of NO synthesis substrate and increases in case of the lack of NO synthesis, and also in case of combined injection of L-Name and L-arginine.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.305-305</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500007">
+      <dc:title>MEDICAL AND BIOLOGICAL ASPECTS OF SAFETY OF SPACE FLIGHTS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Zay Yar, Myo Myint</ags:creatorPersonal>
+         <ags:creatorPersonal>Chernyshev, Sergey</ags:creatorPersonal>
+         <ags:creatorPersonal>Khlopkov, Yuri</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The space ship with astronauts flying through space is a small island of life in the vast lifeless ocean. The crew safety depends on many factors. One of the main reasons is medical-biological problems.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.306-306</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500008">
+      <dc:title>MODERN PROBLEMS AND PECULIARITIES OF TRANSITION TO PRINCIPLES OF SUSTAINABLE FORESTRY IN NOVGOROD FORESTS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nikonov, Mihail</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author has considered the possibility of transition to the model of sustainable forest management in the Novgorod forests. The experience of selection of forests with high conservation value for the biodiversity conservation in forest management is shown.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.307-307</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500009">
+      <dc:title>QUANTITATIVE CHANGES IN CYSTATIN C IN SERUM OF PATIENTS WITH VARICOSE VEINS OF THE LOWER LIMBS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Arapova, Anastasiya</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Author considers the quantitative changes in cystatin C in serum of patients with varicose veins of the lower limbs in comparison with a control group of donors comparable by age and sex. A large number of researchers consider the cystatin C as a significant predictor of cardiovascular events, incidence of heart failures and deaths from any causes in most of ethnic groups, regardless of age, sex amd muscle bulk.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.308-308</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500010">
+      <dc:title>RECREATION RESOURCES OF THE SOUTHERN URAL: POSSIBILITY AND PROBLEMS OF USE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Frolova, Maria</ags:creatorPersonal>
+         <ags:creatorPersonal>Kraineva, Svetlana</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The authors consider recreation resources of the South Ural and the current degree of their use. The authors also determine resources of the South Ural not used in the recreation process. The possibility of using these resources is determined.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.309-309</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500011">
+      <dc:title>RELATIONSHIP AND INTERDEPENDENCE OF SUCCESSION AND EVOLUTIONARY PROCESSES IN THE EARTH LIVING COVER DYNAMICS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Dubrovsky, Yuriy</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The transformation of the living cover (biocoenotic self-regulation) can be performed by changing the species communities' composition, as well as through the acquisition of specific adaptations of populations. Both the succession of species and evolutionary transformations are possible due to the transformation of ecological niches. Since the emergence of new forms is always accompanied by the elimination of an enormous number of individuals, evolutionary processes are uneconomical compared to succession. Population structure of the species provides a species-specific flux of living material between different ecosystems. This contributes to limitation of the evolutionary processes with the succession, accompanied by a significant economy of living matter in the biosphere.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.310-310</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500012">
+      <dc:title>SILVICULTURAL-ECOLOGICAL SIGNIFICANCE OF BROAD-LEAVED FORESTS OF THE NORTHWEST OF RUSSIA</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Smirnov, Igor</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author considers the silvicultural and ecological characteristics of the broad-leaved forests of the Northwest of Russia, in particular biodiversity and productivity.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.311-311</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500013">
+      <dc:title>STRUCTURAL AND ULTRA-STRUCTURAL ORGANIZATION OF LYMPH GLANDS OF WILD PIGS IN CONDITIONS OF AFRICAN SWINE FEVER (EXPERIMENTAL STUDY)</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kolbasov, Denis</ags:creatorPersonal>
+         <ags:creatorPersonal>Ryzhova, Elena</ags:creatorPersonal>
+         <ags:creatorPersonal>Beljanin, Sergey</ags:creatorPersonal>
+         <ags:creatorPersonal>Pronin, Valerii</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The authors presents data on the structural and ultra-structural organization of the immune system organs (lymph glands) of wild pigs in terms of experimental reproduction of the African Swine Fever (ASF) with highly virulent field isolate of the second genotype ASF virus circulating on the Russian Federation territory.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.312-312</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500014">
+      <dc:title>TECHNOLOGICAL QUALITIES OF THE SUGAR BEET ROOTS IN TERMS OF USE OF THE NITROGENOUS FERTILIZERS IN VARIOUS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Islamgulov, Damir</ags:creatorPersonal>
+         <ags:creatorPersonal>Bikmetov, Ilfat</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The authors present results of the research of productivity and technological qualities of the sugar beat root crops. Authors have revealed the regularities of changes in the productivity and technological qualities of the sugar beat root crops in terms of using nitrogenous fertilizers in different doses. The reasonability of using the total yield of the cleaned up sugar while estimating the productivity of the sugar beat hybrids is also determined.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.313-313</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(4)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+</ags:resources>

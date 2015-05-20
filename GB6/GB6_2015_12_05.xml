@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <ags:resource ags:ARN="GB2015600001">
+      <dc:title>ADAPTIVE MECHANISM OF THE MINING OBJECT MANAGEMENT</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Rahimbekov, Sarmantay</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The specificity of the mining object management is presented in the article. This specificity includes two components: natural-technical and economic-social. The author emphasizes that the main aim of management is the necessity to provide homeostatic state of the natural environment and the whole system on every step of management. The author makes a conclusion that elements of management, controllability and adaptation must be included into the mining technology. In existing practice however it doesn't take place.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.123-123</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600002">
+      <dc:title>COMPUTER GEOGRAPHY: THEORY AND METHODOLOGY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>This author describes the theory and methodology of computer geography. Step-by-step history of this theory and main areas of application of this methodology in geography and other fields are presented.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.124-124</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600003">
+      <dc:title>CREATION OF DIGITAL 3D PRISM MAP OF AZERBAIJAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Akhmedova, Irada</ags:creatorPersonal>
+         <ags:creatorPersonal>Imanov, Ramal</ags:creatorPersonal>
+         <ags:creatorPersonal>Mustafayeva, Ulviya</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors describe the methodology of creation of 3D maps, prism maps and digitally animated 3d maps. Authors also describe application of these 3d models in areas of geography and different fields of economy.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.125-125</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600004">
+      <dc:title>GEOINFORMATION ATLAS OF NATURAL RESOURCES OF AZERBAIJAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Ismayilova, Aydan</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors describe theoretical scientific and methodological matters of geoinformation modeling of natural resources of the Azerbaijan Republic. Authors also present aims of its application on example of geoinformation map models.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.126-126</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600005">
+      <dc:title>MODELING OF THE SYSTEM "NATURE-SOCIETY" IN THE CONTEXT OF CORRELATION BETWEEN THE REAL AND THE OPTIMAL MODEL ON THE EXAMPLE OF STAROOSKOL-GUBINSKY REGION OF THE BELGOROD OBLAST</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Ukolova, Elena</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Development of the modern society and technology has now led to global changes in the environment. Geosystems are gradually transformed into techno-geo-systems. Under the influence of human activities irreversible changes take place in such systems. On the example of Starooskol-Gubkinsky mining site, we modeled the system «Nature-Society» taking into account various natural and social factors. This area is a prime example of technogenic human impact on the environment. In the course of simulation, we assumed the existence of the «equilibrium point» in relation to humans and the environment. And indeed it exists theoretically, but practical achievement of it within the selected area is impossible because of the indigenous technological changes.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.128-128</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600006">
+      <dc:title>MATHEMATICAL MODELING OF INTERCONNECTIONS BETWEEN SPATIAL STRUCTURE OF AGRICULTURAL SECTOR AND COMPONENTS OF NATURAL ENVIRONMENT ON AZERBAIJAN TERRITORY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Mirieva, Farida</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this article authors describe methods of mathematical modeling of interrelations between the spatial structure of agricultural sector and components of nature</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.127-127</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600007">
+      <dc:title>SPECTRAL AND HARMONIC ANALYSIS OF REGIONAL DEVELOPMENT INDEXESSPECTRAL AND HARMONIC ANALYSIS OF REGIONAL DEVELOPMENT INDEXES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Chernyak, Vladimir</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Methodological principles of spectral and harmonic analysis of indexes of territorial entities within the framework of the organistic concept of management of social and economic systems development are investigated in the article.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.129-129</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600008">
+      <dc:title>STATE OF THE PROBLEM OF USING NATURAL RESOURCES</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Rusetskaya, Genrietta</ags:creatorPersonal>
+         <ags:creatorPersonal>Gorbunova, Olga</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors consider the problem of irrational and inefficient use of natural resources. This leads to the large-scale pollution of all the components of the natural environment and to the destruction of ecosystems. Ecological management is offered as one of the generally accepted ways of solution of ecological problems on micro-level and on macro-level. Implementation of ecological management in Russia would allow achieving changes in the structure of production and consumption, in the field of use of modern technologies and efficient management on macro- and micro-economic level. And this is necessary for the steady development concept implementation.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.130-130</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600009">
+      <dc:title>THE NATURAL DISASTERS HAPPENED IN BAKU AND THE MEASURES OF FIGHT AGAINST THEM</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Samadli, Chinara</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this article the author considers natural cataclisms taking place in Baku. The author also pays attention to their reasons, possible prevention measures and consequences.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.131-131</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(5)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+</ags:resources>

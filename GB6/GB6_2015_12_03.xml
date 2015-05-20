@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <ags:resource ags:ARN="GB2015600001">
+      <dc:title>COMPARATIVE ASSESSMENT THE RIVER KURA EXPLOITATION IN IRRIGATION AND FISHING (WITHIN BORDERS OF AZERBAIJAN)</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Faradzhbeyli, Rovsane</ags:creatorPersonal>
+         <ags:creatorPersonal>Gasanov, Tapdig</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors describe main problems of irrigation and fishing in the basin of the river Kura within borders of the territory of Azerbaijan using the method of comparative assessment.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.105-105</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600002">
+      <dc:title>CURRENT TRENDS OF TEMPERATURE VARIATIONS IN THE TERRITORY OF KAZAKHSTAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Cherednichenko, Alexandr</ags:creatorPersonal>
+         <ags:creatorPersonal>Cherednichenko, Alexey</ags:creatorPersonal>
+         <ags:creatorPersonal>Cherednichenko, Vladimir</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Using linear and polynomial approximation methods and Fourier analysis, time series of temperature at stations of Kazakhstan were analyzed. It was demonstrated that in the last decade, to the south of the fiftieth latitude atmospheric temperature rising has stopped, and to the north, temperature began to drop. Decrease did not begin at the same time and it manifests in different ways.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.106-106</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600003">
+      <dc:title>DIGITAL MAPS OF CORRELATION INTERCONNECTION BETWEEN THE VEGETATIVE COVER AND OTHER COMPONENTS OF THE LANDSCAPE FOR RATIONAL NATURE MANAGEMENT (ON THE EXAMPLE OF THE LESSER CAUCASUS TERRITORY WITHIN BORDERS OF AZERBAIJAN)</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Suleymanli, Durdane</ags:creatorPersonal>
+         <ags:creatorPersonal>Velieva, Lamiya</ags:creatorPersonal>
+         <ags:creatorPersonal>Zamanly, Leyla</ags:creatorPersonal>
+         <ags:creatorPersonal>Akberzade, Mansuma</ags:creatorPersonal>
+         <ags:creatorPersonal>Aslanova, Mehpara</ags:creatorPersonal>
+         <ags:creatorPersonal>Safaralieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Vahabzade, Sevda</ags:creatorPersonal>
+         <ags:creatorPersonal>Mustafayeva, Ulviya</ags:creatorPersonal>
+         <ags:creatorPersonal>Bayramova, Durdane</ags:creatorPersonal>
+         <ags:creatorPersonal>Samadli, Chinara</ags:creatorPersonal>
+         <ags:creatorPersonal>Mamedova, Ulviya</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this report authors describe results of the scientific research devoted to the connection between spatial correlation of structural indexes of the vegetative cover and other components of the landscape. Results are presented in the digital correlation map able to help in solving matters of the search for leading factors in partial physical and geographical zoning on the territory of Azerbaijan.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.107-107</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600004">
+      <dc:title>DIGITAL MATHEMATICAL AND CARTOGRAPHIC MODELING OF THE SPATIAL STRUCTURE OF AGRICULTURE FOR INNOVATIVE DEVELOPMENT OF THE NATIONAL ECONOMY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Mamedova, Aysel</ags:creatorPersonal>
+         <ags:creatorPersonal>Shamilova, Aytach</ags:creatorPersonal>
+         <ags:creatorPersonal>Ahmedova, Huru</ags:creatorPersonal>
+         <ags:creatorPersonal>Babazade, Konul</ags:creatorPersonal>
+         <ags:creatorPersonal>Abdullaeva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Alieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Safaralieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Badalova, Zhale</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The article is devoted to modeling of the spatial structure of agriculture with the help of the new geoinformation technology in order to ensure innovative development of the national economy.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.108-108</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600005">
+      <dc:title>DIGITAL MATHEMATICAL AND CARTOGRAPHIC MODELING OF THE SPATIAL STRUCTURE OF THE VEGETATIVE COVER OF AZERBAIJAN FOR INNOVATIVE DEVELOPMENT OF AGRICULTURE AND TOURISM</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Mamedova, Aysel</ags:creatorPersonal>
+         <ags:creatorPersonal>Shamilova, Aytach</ags:creatorPersonal>
+         <ags:creatorPersonal>Ahmedova, Huru</ags:creatorPersonal>
+         <ags:creatorPersonal>Babazade, Konul</ags:creatorPersonal>
+         <ags:creatorPersonal>Akberzade, Mansuma</ags:creatorPersonal>
+         <ags:creatorPersonal>Alieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Safaralieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Badalova, Zhale</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In this article authors describe the solution of the problem concerning digital cartographic modeling of spatial organization of vegetative cover on the example Azerbaijan territory using the new geoinformation technology. With the help of this technology digital mathematical-cartographical models of the studied territory were created.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.109-109</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600006">
+      <dc:title>MATHEMATIC AND CARTOGRAPHICAL MODELING OF HOMOGENEITY OF SPATIAL STRUCTURE OF THE SOIL COVER IN AZERBAIJAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nabiyev, Alpasha</ags:creatorPersonal>
+         <ags:creatorPersonal>Bayramova, Durdane</ags:creatorPersonal>
+         <ags:creatorPersonal>Velieva, Lamiya</ags:creatorPersonal>
+         <ags:creatorPersonal>Akberzade, Mansuma</ags:creatorPersonal>
+         <ags:creatorPersonal>Safaralieva, Nargiz</ags:creatorPersonal>
+         <ags:creatorPersonal>Rahmanova, Narmin</ags:creatorPersonal>
+         <ags:creatorPersonal>Yuzbashova, Nurane</ags:creatorPersonal>
+         <ags:creatorPersonal>Guseynova, Sabina</ags:creatorPersonal>
+         <ags:creatorPersonal>Gadirov, Yahya</ags:creatorPersonal>
+         <ags:creatorPersonal>Ahmedli, Narmin</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors describe results of mathematical and cartographical PC-based modeling of homogeneity of the soil cover spatial structure using geo-informational systems on the example of Azerbaijan territory.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.110-110</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600007">
+      <dc:title>METHOD OF CARTOGRAPHIC MODELING OF SOILS CONTAMINATION ON THE BASIS OF THE NEURAL NETWORKS THEORY</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Shyfnarovych, Maryana</ags:creatorPersonal>
+         <ags:creatorPersonal>Gorbiychuk, Mikhail</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors have developed a method of mathematical modeling of soil contamination on the basis of the neural networks theory. This method makes it possible to automate the process of cartographic modeling by constructing actual values of isolines of concentrations of metals in soils of the studied area. On the basis of this method the algorithm of determination of maximum allowable concentrations in the soil for any territory has been developed</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.111-111</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600008">
+      <dc:title>MODELS AND METHODS FOR SOLUTION OF TASKS CONNECTED WITH PROTECTION OF THE ATMOSPHERE, HYDROSPHERE AND THE LAYER SURFACE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Arguchintseva, Alla</ags:creatorPersonal>
+         <ags:creatorPersonal>Arguchintsev, Valery</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>In the article author's models for the description of processes and distribution of anthropogenous impurities in various environments (in atmosphere, hydrosphere and on the layer surface) are offered. All models have passed approbation on real objects.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.112-112</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600009">
+      <dc:title>NON-RADIOGENIC HEAT EMISSION IN BOWELS OF THE EARTH AND PLANETS AS ITS POSSIBLE COSMIC NATURE</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Makarenko, Oleksandr</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>A new phenomenon was discovered - excessive heating of depths of large Solar system bodies by their internal energy sources of cosmic origin, being modulated by position and direction of the Solar system motion in the Galaxy. This allows to suggest presence of a heat-generating factor in the galactic space. Its influence in the energy emission in bowels of cosmic bodies. The dark matter particles may be the probable candidate for such a heat-generating factor. Influence of gravitational factors is also possible.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.113-113</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015600010">
+      <dc:title>TEMPLATE METHOD OF FORECASTING THE FINANCIAL CONDITION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Levandovski, Vlad</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author has offered a new method of forecasting the financial condition of the company. The algorithm is interesting because in practice it shows high accuracy of the forecast. This is achieved through elimination of factors of reduced prediction quality natural for traditional forecasting methods.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.114-114</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Earth and Space Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+         <ags:citationNumber>v.0(3)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+</ags:resources>

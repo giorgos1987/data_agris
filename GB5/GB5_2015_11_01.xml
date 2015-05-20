@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ags:resources
+  SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <ags:resource ags:ARN="GB2015500001">
+      <dc:title>ANTHROPOMETRICAL INDEXES OF PUPILS OF RURAL MUNICIPAL ESTABLISHMENTS IN ULYANOVSK REGION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Ermolaeva, Svetlana</ags:creatorPersonal>
+         <ags:creatorPersonal>Ezhova, Tatyana</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Physical development is one of objective indicators of a state of health of the population that changes now very sharply, as well as other indicators (diseases, death rate, infantile death rate, average life expectancy, etc.). Methods of the statistical accounting and analysis of the data about physical development of the population have received a deep scientific substantiation and are widely used in practical research activity of establishments of public health services. As a result of research the assessment of anthropometrical indicators of schoolboys of rural municipal unions of the Ulyanovsk region is made. Researches were made in the territory of the Ulyanovsk region from 2008 till 2011. Eight areas with different quality of social and ecological factors of environment have been chosen for the research. Among schoolboys of the senior and average age group schoolboys from only two areas have harmonious development.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.3-3</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500002">
+      <dc:title>BIOSTRUCTURES FROM ELEMENTARY PARTICLES OF LIPOPROTEINS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Telepneva, Lyudmila</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The possibility of creation of different biostructures from elementary particles of lipoproteins in pre-cellular period of life development is considered.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.4-4</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500003">
+      <dc:title>BIOTECHNOLOGY OF PRODUCTS OF FUNCTIONAL NUTRITION ON THE BASIS OF LACTOBACILLUS SELECTED IN THE BIOTECHNOLOGY RESEARCH INSTITUTE OF GSAU</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Petrukovich, Andrey</ags:creatorPersonal>
+         <ags:creatorPersonal>Tsugkiev, Boris</ags:creatorPersonal>
+         <ags:creatorPersonal>Ramonova, Ella</ags:creatorPersonal>
+         <ags:creatorPersonal>Zugkieva, Irina</ags:creatorPersonal>
+         <ags:creatorPersonal>Kabisov, Ruslan</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>A high-grade and healthy food is one of the most important and necessary conditions for preservation of life and national health.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.5-5</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500004">
+      <dc:title>COMPREHENSIVE PHARMACORRECTION OF THE SECONDARY IMMUNODEFICIENCY STATE OF PIGLETS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Derezina, Tatjana</ags:creatorPersonal>
+         <ags:creatorPersonal>Owtscharenko, Tatjana</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The authors focus on the fact that in the development of immunopathology of piglets the big role belongs to the violation of the vitamin-mineral metabolism. Therefore, the importance of research, aimed at development of the comprehensive farmacocorrection of the immunodeficiency state of piglets.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.6-6</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500005">
+      <dc:title>DEVELOPMENT OF RESOURCES OF THE CASPIAN SEA AND IMPERATIVES OF SUSTAINABLE DEVELOPMENT OF ECONOMY IN KAZAKHSTAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kazbekova, Zhanat</ags:creatorPersonal>
+         <ags:creatorPersonal>Kazbekova, Saltanat</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Development of resources of the Caspian sea is predetermined by potential reserves if hydrocarbons in this region, evaluated differently. Thus, according to the German expert Adolph Matias, about 3.5% of all world oil deposits and 4.3% of planetary gas deposits are concentrated here. A whole range of experts considers that such data is overestimated, although all of them are confident that in the XXI century this region will occupy a considerable place among countries extracting energy resources.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.7-7</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500006">
+      <dc:title>EPIZOOTIC AND EPIDEMIC SITUATION ON RABIES AND PERSPECTIVE WAYS OF ITS PROPHYLAXIS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Murzakaeva, Gulmira</ags:creatorPersonal>
+         <ags:creatorPersonal>Piontkovsky, Valentin</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The paper contains the epizootic and epidemic situation on human and animal rabies in the Republic of Kazakhstan and Kostanai region. The author explains dangers and influence of the disease on humans, methods of diagnostics, ways of prevention and fighting the disease.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.8-8</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500007">
+      <dc:title>EPIZOOTIC SITUATION AND DIAGNOSTICS OF CATTLE BRUCELLOSIS IN AGRICULTURAL ESTABLISHMENTS OF KOSTANAY REGION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Piontkovsky, Valentin</ags:creatorPersonal>
+         <ags:creatorPersonal>Yergazina, Assel</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The author presents the material on the epizootic situation on cattle brucellosis in the Kostanay region. The author also presents comparative diagnostic value of modern and classical methods of diagnostics of this disease.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.9-9</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500008">
+      <dc:title>EXAMINATION OF CORRELATION BETWEEN ACTIVITY OF LYSOSOMAL CYCTEINE PROTEINASES AND LEUKOCYTES OF BLOOD WITH BIOCHEMICAL MARKERS OF INFLAMMATION AT THROMBOPHLEBITIS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Fomina, Mariya</ags:creatorPersonal>
+         <ags:creatorPersonal>Fomina, Natalya</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>A positive correlation between the average activity of cathepsin L and the concentration of sialic acids in plasma is found, and low positive correlation between the activity of cathepsin H and the concentration of CRP in the polymorphonuclear leukocytes of patients with thrombophlebitis of the leg veins is found. High correlation between the activity of cathepsin H and the concentration of C - reactive protein, and a weak correlation between the activity of cathepsin H and sialic acid concentration in plasma in the mononuclear leukocytes were observed.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.10-10</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500009">
+      <dc:title>IMPACT OF NATURAL AND ANTHROPOGENIC FACTORS ON THE STATE, SUSTAINABILITY, AND REPRODUCTION OF NOVGOROD WOODS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Nikonov, Mihail</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Impact of natural and anthropogenic factors on timber ecosystems in various timber landscapes is considered.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.11-11</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500010">
+      <dc:title>INDUSTRIAL FORESTS GROWTH ON CHESTNUT SOILS OF DRY STEPPE ZONE ON THE EUROPEAN TERRITORY OF RUSSIA</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Manaenkov, Alexander</ags:creatorPersonal>
+         <ags:creatorPersonal>Kostin, Maxim</ags:creatorPersonal>
+         <ags:creatorPersonal>Shkurinskiy, Vyacheslav</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Authors present materials on assessment of growth and the current state of massive petiolate oak trees in dry steppe, their dependence on the soil and climate, silvicultural factors. The ways of increasing their durability and drainage efficiency are offered.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.12-12</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500011">
+      <dc:title>PATHOMORPHOLOGIC CHANGES OF DOMESTIC PIGS AT EXPERIMENTAL REPRODUCTION OF THE AFRICAN SWINE FEVER</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Kolbasov, Denis</ags:creatorPersonal>
+         <ags:creatorPersonal>Ryzhova, Elena</ags:creatorPersonal>
+         <ags:creatorPersonal>Beljanin, Sergey</ags:creatorPersonal>
+         <ags:creatorPersonal>Pronin, Valerii</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The authors present data on experimental reproduction of African Swine Fever (ASF) at domestic pigs, infected with highly virulent field isolate of the ASF virus of second genotype, circulating on the Russian Federation territory. The main pathomorphological changes are marked.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.14-14</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500012">
+      <dc:title>POPLAR PLANTATION CROPS IN THE "LAVAR" BREEDING AREA IN SOUTH-EASTERN KAZAKHSTAN</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Sarsekova, Dani</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The results of studies of the impact of planting density on growth and development of cultures of different types of hybrid poplar trees in the south-eastern Kazakhstan.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.15-15</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500013">
+      <dc:title>REAL SITUATION CONCERNING CATTLE LEUKOSIS, MAIN VECTORS OF PROPHYLAXIS AND SANITATION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Malaya, Catherine</ags:creatorPersonal>
+         <ags:creatorPersonal>Piontkovsky, Valentin</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>On the basis of reliable actual material, the author shows epizootic situation on cattle leukosis in Kazakhstan and Kostanay region, as well as diagnostics of this disease in the country and main problems of prophylaxis and elimination of the disease.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.16-16</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500014">
+      <dc:title>RESOURCES, ECOLOGICAL SAFETY OF MEDICINAL PLANTS OF THE PERM REGION</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Vlasov, Alexander</ags:creatorPersonal>
+         <ags:creatorPersonal>Kuritsyn, Alexey</ags:creatorPersonal>
+         <ags:creatorPersonal>Abyzova, Ekaterina</ags:creatorPersonal>
+         <ags:creatorPersonal>Belonogova, Valentina</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The resource-management research of wild medicinal plants has been carried out in Perm region for 30 years. The monitoring has shown that reduction of reserves and areas covered by medicinal plants is connected with human activities. The most exposed species of medicinal plants belong to ruderal vegetation.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.17-17</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500015">
+      <dc:title>SCIENTIFIC AND NATURE PROTECTION SIGNIFICANCE OF MODEL SITUATIONS IN THE DEVELOPMENT OF ECOSYSTEMS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Dubrovsky, Yuriy</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2013</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>Model situations that arise due to disturbances of the structure of the living cover and dynamics of ecosystem succession, are often unique ecological experiments. The author examines the value of model situations for research and conservation. Taking into account their specific nature, an addition to the existing environmental protection categories system is offered.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.18-18</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+   <ags:resource ags:ARN="GB2015500016">
+      <dc:title>MICROMORPHOLOGICAL ANALYSIS OF TESTICLES AND GAMETES OF BOARS, RAISED WITH APPLICATION OF MODERN BIOLOGICAL DRUGS</dc:title>
+      <dc:creator>
+         <ags:creatorPersonal>Arestova, Inessa</ags:creatorPersonal>
+         <ags:creatorPersonal>Alekseev, Vladislav</ags:creatorPersonal>
+      </dc:creator>
+      <dc:publisher>
+         <ags:publisherName>International Academy of Science and Higher Education (IASHE, London, UK)</ags:publisherName>
+      </dc:publisher>
+      <dc:date>
+         <dcterms:dateIssued>2014</dcterms:dateIssued>
+      </dc:date>
+      <dc:description>
+         <dcterms:abstract>The scientific work is devoted to the study of the influence of Permait, Kaltsefit-5 and Sedimin® on histological structure of gonads and morphology of sperm cells of boars, grown in the ecological environment of the Central part of the Chuvash Republic. The possibility of combined application of Permait with Kaltsefit-5, as well as Permait with Sedimin® to boars in periods of formation of the sexual function in order to strengthen the andrological status.</dcterms:abstract>
+      </dc:description>
+      <dc:format>
+         <dcterms:extent>p.19-19</dcterms:extent>
+      </dc:format>
+      <dc:language scheme="ags:ISO639-1">EN</dc:language>
+      <ags:citation>
+         <ags:citationTitle>GISAP: Biology, Veterinary Medicine and Agricultural Sciences</ags:citationTitle>
+         <ags:citationIdentifier scheme="ags:ISSN">2054-1139</ags:citationIdentifier>
+         <ags:citationNumber>v.0(1)</ags:citationNumber>
+      </ags:citation>
+   </ags:resource>
+</ags:resources>

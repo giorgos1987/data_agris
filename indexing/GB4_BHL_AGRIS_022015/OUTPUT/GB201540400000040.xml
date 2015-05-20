@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015404000">
+	<dc:title><![CDATA[The Agenda 2000 CAP Reform Agreement in the Light of the Future EU Enlargement. EIPA Working Paper 99/W/02, August 1999]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pavlos Pezaros]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 1999]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074171]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074171.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404001">
+	<dc:title><![CDATA[The EU Approach Concerning Agriculture in the Next WTO Round. EIPA Working Paper, 99/W/03, September 1999]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Suryanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 1999]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074172]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074172.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404002">
+	<dc:title><![CDATA[Agenda 2000: A Blueprint for Successful EU Enlargement?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stephen Maberly]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lisa Norton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Linda May]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mitzi De Ville]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex Elliott]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Steve Thackeray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rene Groben]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fiona Carse]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074303]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074303.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404003">
+	<dc:title><![CDATA[Agenda 2000: Reforming the Common Agricultural Policy Further]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Velvet Nelson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074338.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074338]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404004">
+	<dc:title><![CDATA[Lessons of European Integration for the Americas]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F. Kuhlmann]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Adeyemo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074809]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074809.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404005">
+	<dc:title><![CDATA[Which Road to Liberalisation? A First Assessment of the EuroMed Association Agreements. ENARPRI Working Paper No. 2, October 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ioannis G. Matsoukas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrea J. Massiah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[1949- Brian Thomas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074871.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074871]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404006">
+	<dc:title><![CDATA[Multifunctionality, Agricultural Trade and WTO Negotiations: A Review of Interactions and Issues. ENARPRI Working Paper No. 4, December 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hervé Guyomar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Katell. Le Bris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074873]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074873.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404007">
+	<dc:title><![CDATA[The Economic Impact of Enlargement on the European Economy: Problems and Perspectives. CEPS Working Document No. 188, October 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Radhiah Shukri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075157]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075157.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404008">
+	<dc:title><![CDATA[A Fischler Reform of the Common Agricultural Policy? CEPS Working Document No. 173, September 2001]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F.J. Murray]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2001]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075169.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075169]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404009">
+	<dc:title><![CDATA[The Mid Term Review of the Common Agricultural Policy: The Future of Rural Development]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bettina Rudloff]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5074358]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5074358.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404010">
+	<dc:title><![CDATA[How to Finance Eastern Enlargement of the EU: The Need to Reform EU Policies and the Consequences for the Net Contributor Balance. ENEPRI Working Paper No. 14, October 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MUHAMMAD UMAR SYARIFUDDIN AL-LAWI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075186.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075186]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404011">
+	<dc:title><![CDATA[“The Common Agricultural Policy: Past, Present and Future”]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sustainable Development Commission]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075478.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075478]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404012">
+	<dc:title><![CDATA[“The Distribution of CAP Benefits Among Member States and the Impact of a Partial Re-Nationalisation”]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. Timmers]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075671]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075671.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404013">
+	<dc:title><![CDATA[“Beyond ‘Connections in Brussels’: The Multi-Level Representation of Agriculture in Two French Regions”]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. A. Wright]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. I. Dalziel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. P. Ellis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stephen Hall]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075637.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075637]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404014">
+	<dc:title><![CDATA[The New Common Fisheries Policy (CFP): Towards Sustainable Management and a Profitable Fisheries Sector?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Magnor. Ner]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075743]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075743.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404015">
+	<dc:title><![CDATA[The Health Check: Further Steps to Adapt the Common Agricultural Policy to New Realities. Egmont European Affairs Program Working Paper 2009/01]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Braja B]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[hu Swain]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5075853.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5075853]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404016">
+	<dc:title><![CDATA[Multilateral Market Access Reforms of the Doha Round: A Preliminary Assessment of Implications for EU Agricultural Trade. CEPS ENARPRI Working Papers No. 11, 1 January 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H. I. J. Black]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. R. Parekh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Osborn]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 January 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079501.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079501]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404017">
+	<dc:title><![CDATA[Evaluating the Impact of Alternative Policy Scenarios on Multifunctionality: A Case Study of Finland. CEPS ENARPRI Working Papers No. 13, 1 July 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Heikki Lehtonen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jussi Lankoski]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jyrki. Niemi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 July 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079503]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079503.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404018">
+	<dc:title><![CDATA[Who finances the Queen’s CAP payments? The CAP as a dooH niboR Scheme. CEPS Policy Briefs No. 88, 1 December 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Neal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.J. Robson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Reynolds]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 December 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079379.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079379]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404019">
+	<dc:title><![CDATA[Scenarios for Modelling Trade Policy Effects on the Multifunctionality of European Agriculture. CEPS ENARPRI Working Papers No. 10, 1 January 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Janet Dwyer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Baldock]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hervé Guyomard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jerzy Wilkin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dorota. Klepacka]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 January 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079500]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079500.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404020">
+	<dc:title><![CDATA[Potential WTO Trade Reform: Multifunctionality Impacts for Ireland?. CEPS ENARPRI Working Papers No. 16, 7 June 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TABITA CORNELIA ADAMOV]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MIHAELA IANCU]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. IANCU]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. BRAD]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[7 June 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079507.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079507]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404021">
+	<dc:title><![CDATA[Structural Change and Market Opening in Agriculture. CEPS EU-Turkey Working Papers No. 10, 1 September 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erol H. Cakmak]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 September 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079547.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079547]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404022">
+	<dc:title><![CDATA[Modelling the Effects of Trade Policy Scenarios on Multifunctionality in Greek Agriculture: A Social Accounting Matrix Approach. CEPS ENARPRI Working Papers No. 14, 1 September 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Neville Millar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Robertson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter Grace]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ron Gehl]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Hoben]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 September 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079504.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079504]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404023">
+	<dc:title><![CDATA[Agricultural Market Access: Striking the Balance between Formulas and Water in the Tariffs. CPES ENARPRI Working Papers No. 18, 23 June 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Abdul Manaf Azima]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[23 June 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079509.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079509]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404024">
+	<dc:title><![CDATA[Modelling the Multifunctionality of Czech Agriculture. CEPS ENARPRI Working Papers No. 17, May 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tomáš Doucha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ivan. Foltýn]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079924]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079924.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404025">
+	<dc:title><![CDATA[Diseconomies in space: the effects of traditional sectorial EC policies and collaborative R&D schemes on regional disparities in the Community]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jurgen. Grote]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079966.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079966]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404026">
+	<dc:title><![CDATA[Turkey and the EU Budget: Prospects and Issues. CEPS EU-Turkey Working Papers No. 6, 1 August 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. Verhoef]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 August 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5079540.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5079540]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404027">
+	<dc:title><![CDATA[Europeanization of subnational polities: the impact of domestic factors on regional adaptation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Peter Bursens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jana. Deforche]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5080462.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5080462]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404028">
+	<dc:title><![CDATA[Regulating Risk in a Global Economy: Law, Politics and the Struggle to Govern Genetically Modified Foods]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mark A. Pollack]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5080681.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5080681]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404029">
+	<dc:title><![CDATA[Trade Policy Lobbying in the European Union: Who Captures Whom?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daniel Joseph Lapworth]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ian Harrison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[er Kim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher Howard Vane]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5080743]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5080743.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404030">
+	<dc:title><![CDATA[The new food equation: do EU policies add up? Bruegel Policy Brief 2008/06]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Indhira Santos]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Juan. Delgado]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5081199.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5081199]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404031">
+	<dc:title><![CDATA[Health Check of the CAP: What’s at stake? Egmont - European Affairs Publication, April 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jacques Keller-Noëllet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter. Timmerman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5081641.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5081641]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404032">
+	<dc:title><![CDATA[Insects on exotic broadleaved trees of the Fagaceae, namely Quercus borealis and species of Nothofagus]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.H.F. Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5082070]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5082070.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404033">
+	<dc:title><![CDATA[The New Context of the Agricultural Debate in Europe. Egmont Paper, no. 22, June 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Franklin Dehousse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter. Timmerman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5081544]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5081544.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404034">
+	<dc:title><![CDATA[The DOHA Round of WTO Negotiations: Practical Proposals towards Enhancing the Global Trading System and Fostering Economic Development. CEPS Task Force Reports No. 47, 1 July 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[David. Kernohan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 July 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5082082.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5082082]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404035">
+	<dc:title><![CDATA[Le PAC et les Autres Politiques Europeennes: Particularites et Convergences. = The CAP and other EU policies: Peculiarities and convergence. Egmont European Affairs Paper, March 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5083357.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5083357]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404036">
+	<dc:title><![CDATA[Scenarios for Modelling Trade Policy Effects on the Multifunctionality of European Agriculture. ENARPRI Working Paper No. 8, 1 July 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rebecca Rowe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jeanette Whitaker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jennifer Chapman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gail Taylor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 July 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5083884.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5083884]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404037">
+	<dc:title><![CDATA[The circle that cannot be squared. CEPS Commentary, 21 October 2010]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jorge Nunez. Ferrer]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[21 October 2010]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5087029]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5087029.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404038">
+	<dc:title><![CDATA[Change and continuity: agriculture in Palanpur]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. S. Retnowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.S. Budiyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5087430.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5087430]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404039">
+	<dc:title><![CDATA[Critical loads for nutrient nitrogen for soil-vegetation systems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R.C. Welch]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5082087]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5082087.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404040">
+	<dc:title><![CDATA[Trade Agreements, Multifunctionality and EU Agriculture. CEPS Paperbacks. December 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eleni Kaditi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Johan Swinnen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petra Salamon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Crescenzo dell’Aquila]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ellen Huan-Niemi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hans Jensen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marianne Kurzweil]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Oliver von Ledebur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jyrki Niemi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marijke Kuiper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wusheng Yu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Martina Brockmeier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rainer Klepper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Janine Pelikan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Frank van Tongeren]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hervé Guyomard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Janet Dwyer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Heikki Lehtonen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jussi Lankoski]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tomáš Doucha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ivan Foltýn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trevor Donnellan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kevin Hanrahan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Demitrios Psaltopoulos]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Eudokia Balamou]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yiorgos Alexopoulos]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Baldock]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dimitris Damianos]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Multifunctionality and EU Agriculture. CEPS Paperbacks. December 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5090424]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5090424.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404041">
+	<dc:title><![CDATA[The Perfect Storm: The Political Economy of the Fischler Reforms of the Common Agricultural Policy. CEPS Paperbacks. September 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Johan F.M. Swinnen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5090436]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5090436.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404042">
+	<dc:title><![CDATA[EU Land Markets and the Common Agricultural Policy. CEPS Paperbacks. February 2010]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pavel Ciaian]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D'Artis Kancs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Johan F.M. Swinnen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5090467]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5090467.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404043">
+	<dc:title><![CDATA[CAP Reform: Will the European Parliament take the bull by the horns?   CEPS Commentary, 7 June 2012]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Louise Knops]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Johan F.M. Swinnen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[7 June 2012]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5092908]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5092908.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404044">
+	<dc:title><![CDATA[Soil and plant water relations in low-head drip irrigation in Sri Lanka. Final Report of ODA Project R4378A]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J.S. Wallace]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Batchelor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.N. Dabeesing]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Teeluck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.C. Soopramanien]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52215]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52215.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404045">
+	<dc:title><![CDATA[Pesticide run-off study at ADAS Rosemaund: report of years 2 to 4 - Autumn 1989 to Spring 1991]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tamás Nepusz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrea Petróczi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Declan P Naughton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:51968]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/51968.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404046">
+	<dc:title><![CDATA[Research on Forestry and Water Resources 1987-88]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D.K. Waughray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.J. Lovell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.B. Moriarty]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Batchelor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Nangali]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Keatinge]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Mtetwa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Dubeq]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52206.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52206]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404047">
+	<dc:title><![CDATA[A guide to the estimation of the water use from upland catchments in the UK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I.A. Nicholson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/51953.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:51953]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404048">
+	<dc:title><![CDATA[PENGARUH PENGGANTIAN KONSENTRAT DENGAN KULIT  UBI KAYU (Manihot utilisima) FERMENTASI DALAM RANSUM  TERHADAP PRODUKSI KARKAS KELINCI  KETURUNAN VLAAMS REUS JANTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Attila Rákóczi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5223159]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5223159.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404049">
+	<dc:title><![CDATA[Western Ghats Forestry and Environment Project, Karnataka, India. Report on Project Options]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.G. Hodnett]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52249.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52249]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404050">
+	<dc:title><![CDATA[Research on Forestry and Water Resources 1988-89]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[W.M. Foster]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Batchelor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.G. Hodnett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.P. Bell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52239.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52239]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404051">
+	<dc:title><![CDATA[The status of traditional Scottish animal breeds and plant varieties and the implications for biodiversity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. Longwe-Ngwira]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Simtowe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Siambi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5223949]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5223949.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404052">
+	<dc:title><![CDATA[Competition for light and water in a Sugar Cane/Maize intercrop: Final report on ODA Project 215]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John Dalziel]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52253.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52253]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404053">
+	<dc:title><![CDATA[Biodiversity and Industry. Report of an e-Conference]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K. Blyth]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52354]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52354.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404054">
+	<dc:title><![CDATA[Innovation policy in Canada’s agri-food system: The functional food and natural health products’ segment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E. Duffey]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5230510.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5230510]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404055">
+	<dc:title><![CDATA[How do pesticides impact soil microbial structure and functioning?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Christopher Carl Howell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:5230054]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/5230054.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404056">
+	<dc:title><![CDATA[Pesticides and metabolites in groundwater: examples from two major UK aquifers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G.O Chukwu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K.I Nwosu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.N.A Mbanaso]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O Onwubiko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T.U Madu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Ogbonye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.U Nwoko]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52663.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52663]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404057">
+	<dc:title><![CDATA[The relevance and application of mycorrhizas for the restoration of dipterocarp forests on denuded areas of south-east Vietnam: Mycorrhizal Workshop given to Centre for Seeds and Reforestation, Long Thanh Nursery, Vietnam, 12th-15th February 1996]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Sonia Rodríguez Cruz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jacob Baelum]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Liz J. Shaw]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sebastian R. Sørensen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shengjing Shi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Thomas J. Aspray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Carsten S. Jacobsen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. D. (Gary D.) Bending]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[12th-15th February 1996]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53312.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53312]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404058">
+	<dc:title><![CDATA[Inventory of ammonia emissions from UK agriculture 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J.B. Rayaisse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. Tirados]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Kaba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.Y. Dewhirst]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.G. Logan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Diarrassouba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Salou]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.O. Omolo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Solano]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.J. Lehane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.A. Pickett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.A. Vale]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.J.. Torr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Esterhuizen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53405]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53405.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404059">
+	<dc:title><![CDATA[The application of soil micro-organisms for tree and crop improvement: ITE (AMSAL)/ICRAF Workshop March 4th - 10th 1991]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J.I. Sprent]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.W. Odee]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.A. Mason]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Ingleby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.C. Munro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53317.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53317]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404060">
+	<dc:title><![CDATA[Pilot project to determine the suitability of Integrated Administration and Control System (IACS) data to provide land use change data for annual greenhouse gas emission estimates. Final report to the Scottish Government]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J.U. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Fitton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.G. Miller]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Coull]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Lilly]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K.B. Matthews]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Buchan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.J. Chapman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Baggaley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.M. Thomson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53440.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53440]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404061">
+	<dc:title><![CDATA[The nitrogen cycle and its influence on the European greenhouse gas balance]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. D. Evans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. T. Monteith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/52540.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:52540]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404062">
+	<dc:title><![CDATA[NH3 release through a forest canopy: an agro-forestry experiment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Famulari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Braban]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. White]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Helfter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Coyle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.A. Sutton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Nemitz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53393.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53393]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404063">
+	<dc:title><![CDATA[Woburn soil moisture study]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Csilla Farkas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nándor Fodor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Csaba Gyuricza]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53499.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53499]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404064">
+	<dc:title><![CDATA[Modelling soil and surface water acidification at the Sor Catchment, NW Spain: an assessment of the EU acidification strategy using the MAGIC model]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Farhad Mirzaei]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Olaf Heidelbach]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53788]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53788.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404065">
+	<dc:title><![CDATA[Soilwater Information Processing System]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Plamen Mishev]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Phillip Kostov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53677]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53677.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404066">
+	<dc:title><![CDATA[Novel methods for spatial prediction of soil functions within landscapes (SP0531)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T. Mayr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Helaina Black]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W. Towers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Palmer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Cooke]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Freeman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Hornung]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Claire Marianne Wood]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Simon Wright]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Lilly]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. DeGroote]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Jones]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/54698.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:54698]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404067">
+	<dc:title><![CDATA[Infrared thermometry over a sparse millet crop: ICRISAT Sahelian Centre 1987]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. F. Harrison]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:56077]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/56077.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404068">
+	<dc:title><![CDATA[An enhanced classification of artificial ground]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sue Reed]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:55986]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/55986.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404069">
+	<dc:title><![CDATA[Variation in life history and flight morphological traits in Speckled Wood (Pararge aegeria) butterflies infected with a baculovirus.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Helen Hesketh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Melanie Gibbs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Casper Breuker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hans van Dyck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Emma Turner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rosemary Hails]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/56285.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:56285]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404070">
+	<dc:title><![CDATA[Effects of climatic change on water resources for irrigation: an example from Lesotho]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nicola White]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Scott Young]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Liz Bailey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Neil Breward]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andy Tye]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53785.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53785]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404071">
+	<dc:title><![CDATA[The Predatory Bird Monitoring Scheme (PBMS) Report 2006-7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L.A. Walker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.J. Lawlor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Llewellyn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.G. Pereira]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Elaine Potter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Townsend]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Turk]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.F. Shore]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:57050]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/57050.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404072">
+	<dc:title><![CDATA[Effects on water resources of upland management practices]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.A. Cole]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. D Hancock]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:53673]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/53673.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404073">
+	<dc:title><![CDATA[Critical Limits for Hg(II) in soils, derived from chronic toxicity data]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E. Tipping]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Lofts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Hooper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Frey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Spurgeon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Svendsen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/56861.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:56861]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404074">
+	<dc:title><![CDATA[Uncertainties in process-based modelling for environmental assessment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:57132]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/57132.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404075">
+	<dc:title><![CDATA[Ammonia emissions from UK non-agricultural sources in 2008: contribution to the National Atmospheric Emission Inventory]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Xavier Vollenweider]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:57577]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/57577.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404076">
+	<dc:title><![CDATA[The spatial distribution of ammonia, methane and nitrous oxide emissions from agriculture in the UK 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Philip C. Stevenson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Grzywacz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suresh P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Narayana Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ram Krishna Neupane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ram N. Chaudhary]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vinay A. Bourai]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[methane and nitrous oxide emissions from agriculture in the UK 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/57686.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:57686]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404077">
+	<dc:title><![CDATA[An art and design perspective: The development of a 3D interactive Saltaire UNESCO world Heritage site.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrew Taylor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ertu Unver]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:57640]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/57640.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404078">
+	<dc:title><![CDATA[Inventory and projections of UK emissions by sources and removals by sinks due to land use, land use change and forestry. Annual report July 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K.E. Dyson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.M. Thomson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.C. Mobbs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[U. Skiba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Clark]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.E. Levy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.K. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.F. Billett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K.J. Dinsmore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Ostle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Foeried]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.W. Matthews]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mackie]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Bellamy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Rivas-Casado]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Jordan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Higgins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.W. Tomlinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Grace]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Parrish]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Clement]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Moncrieff]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Manning]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[land use change and forestry. Annual report July 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58031]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58031.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404079">
+	<dc:title><![CDATA[Nutrients, phytoplankton and water clarity in Loch Leven following phosphorus loading reduction]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J N. Cape]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. J. van der Eerden]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. J. Sheppard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. D. Leith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. A. Sutton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58544.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58544]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404080">
+	<dc:title><![CDATA[A re-assessment of the phosphorus loading to Loch Leven, Kinross (Tayside), 1995 [Draft Final Report]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. E. Bailey-Watts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Kirika]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1995 [Draft Final Report]]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58546]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58546.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404081">
+	<dc:title><![CDATA[A re-assessment of the phosphorus loading to Loch Leven, Kinross (Tayside), 1994 [Progress Report]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R.J. Harding]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.R. Blackie]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1994 [Progress Report]]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58550.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58550]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404082">
+	<dc:title><![CDATA[Improving the cost-effectiveness of visual devices for the control of Riverine tsetse flies, the major vectors of Human African Trypanosomiasis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. Newton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58415]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58415.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404083">
+	<dc:title><![CDATA[Effects of storm events on mobilisaton and in-stream processing of dissolved organic matter (DOM) in a Welsh peatland catchment.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Barry G. Rawlins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Simon J. Kemp]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Emily H. Hodgkinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[James B. Riding]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher H. Vane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Catherine Poulton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Katy Freeborough]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59433.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59433]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404084">
+	<dc:title><![CDATA[New regional surveys of soil geochemistry in Northern Ireland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. Lilly]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Clive Auton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N.J. Baggaley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.P. Bowes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Claire Foster]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Haq]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Helen Reeves]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/58610.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:58610]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404085">
+	<dc:title><![CDATA[Plot-scale modelling of coffee agroforestry systems in Central America]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jean Dauzat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jean-Michel Harm]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gerry Lawson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Philippe Vaast]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59176]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59176.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404086">
+	<dc:title><![CDATA[Greenhouse gas emission in SE Asia: contrasts between an oil palm plantation and a primary forest.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard A. Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Qingchun Yuan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nita Aryanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59439]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59439.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404087">
+	<dc:title><![CDATA[The yield, development and chemical composition of some fast-growing indigenous and naturalised British plant species in relation to management as energy crops.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T.V. Callaghan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Scott]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H.A. Whittaker]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59514]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59514.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404088">
+	<dc:title><![CDATA[Using measurements close to a detection limit in a geostatistical case study to predict selenium concentration in topsoil]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T.G. Orton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.G. Rawlins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.M. Lark]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59556.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59556]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404089">
+	<dc:title><![CDATA[Responses of soil clay mineralogy in the Rothamsted Classical Experiments in relation to management practice and changing land use]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.M. Tye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.J. Kemp]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.R. Poulton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59525]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59525.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404090">
+	<dc:title><![CDATA[Comparison of Measurements of Ozone Dry Deposition to Crops and Grassland with the Dry Deposition Model Results]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[1965- Steve Hindle]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59465.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59465]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404091">
+	<dc:title><![CDATA[Problems with determining the particle size distribution of chalk soil and some of their implications]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Julia Wilson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59552]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59552.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404092">
+	<dc:title><![CDATA[SQID: Prioritising biological indicators of soil quality for deployment in a national-scale soil monitoring scheme. Summary report]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.I.J. Black]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Ritz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.D. Campbell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.A. Harris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Wood]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.M. Chamberlain]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Parekh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W. Towers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Scott]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59609]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59609.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404093">
+	<dc:title><![CDATA[Defining the response of Mamestra brassicae to mixed infections]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Johan Esterhuizen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Basilio Njiru]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Glyn A. Vale]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael J. Lehane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stephen J. Torr]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59855]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59855.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404094">
+	<dc:title><![CDATA[Peatland ecology in the British Isles: a bibliography]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sarah E.J. Arnold]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Philip C. Stevenson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Steven R. Belmain]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/59931.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:59931]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404095">
+	<dc:title><![CDATA[Report on collaborative project with the British Waterways Board on the effects of afforestation on the runoff from the catchments supplying the Crinan Canal reservoirs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Angéla Guentert]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60156.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60156]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404096">
+	<dc:title><![CDATA[A field study to assess the degradation and transport of diuron and its metabolites in a calcareous soil]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.W. Shaw]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60153]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60153.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404097">
+	<dc:title><![CDATA[From moorland to forest: the Coalburn catchment experiment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Robinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.E. Moore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T.R. Nisbet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.R. Blackie]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60630.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60630]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404098">
+	<dc:title><![CDATA[Utilisation of pollen resources by bumblebees in an enhanced arable landscape]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Jordan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Higgins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Smyth]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60614.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60614]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404099">
+	<dc:title><![CDATA[Modelling faecal coliform concentrations in streams]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Michael Renshaw]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Eduardo Garcia-Rodeja]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60632.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60632]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

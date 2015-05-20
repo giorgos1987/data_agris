@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015401500">
+	<dc:title><![CDATA[Economic analysis of deforestation in Mexico]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fern]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[o Arrocha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mauricio G. Villena]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018138.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018138]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401501">
+	<dc:title><![CDATA[Does size of operated area matter? Evidence from Malawi's agricultural production]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Greenwell C. Matchaya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018060.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018060]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401502">
+	<dc:title><![CDATA[An econometric study of CO2 emissions, energy consumption, income and foreign trade in Turkey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ferda Halicioglu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12017822]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12017822.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401503">
+	<dc:title><![CDATA[Challenges for Food Security in Eritrea -- A Descriptive and Qualitative Analysis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ravinder Rena]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018428.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018428]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401504">
+	<dc:title><![CDATA[Social Impact of Coffee Crisis on the Pasemah coffee farmers in South Sumatera]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stein T. Holden]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Klaus Deininger]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hosaena Ghebru]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018429.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018429]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401505">
+	<dc:title><![CDATA[Development of Individual Farming in Georgia: Descriptive Analysis and Comparisons]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Br]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[on B. Laws]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12017965.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12017965]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401506">
+	<dc:title><![CDATA[Eritrean Trade with Italy in Post-Independence Period – An Analytical Study]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lota Tamini]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pascal Ghazalian]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jean-Philippe Gervais]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bruno Larue]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018446.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018446]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401507">
+	<dc:title><![CDATA[Sustainable growth in a resource-based economy: the extraction-saving relationship]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrei Bazhanov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018282]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018282.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401508">
+	<dc:title><![CDATA[The management of inter-state rivers as demands grow and supplies tighten: India, China, Nepal, Pakistan, Bangladesh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ben Crow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nirvikar Singh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018338]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018338.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401509">
+	<dc:title><![CDATA[Investigating Discretionary Environmental Enforcement: a pilot experiment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erkan Erdogdu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018484.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018484]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401510">
+	<dc:title><![CDATA[trade implications of extending the turkey-eu customs union agreement to agricultural products]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H. Ozan Eruygur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erol H. Cakmak]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018342]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018342.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401511">
+	<dc:title><![CDATA[New renewable electricity capacity under uncertainty: The potential in Norway]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stein-Erik Fleten]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Geir Ringen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018546.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018546]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401512">
+	<dc:title><![CDATA[FOOD PRODUCTION VS. BIOMASS EXPORT VS. LAND-USE CHANGE: A CGE ANALYSIS FOR ARGENTINA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miles Perry]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018884.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018884]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401513">
+	<dc:title><![CDATA[Do Economic, Financial and Institutional Developments Matter for Environmental Degradation? Evidence from Transitional Economies]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Artur Tamazian]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Bhaskara Rao]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018623]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018623.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401514">
+	<dc:title><![CDATA[Can Market Access Help African Agriculture?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Montague J. Lord]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pawat Tangtrongjita]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018827.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018827]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401515">
+	<dc:title><![CDATA[Access to land and rural poverty in developing countries: theory and evidence from Guatemala]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pablo B]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[eira]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jose Maria Sumpsi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018832.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018832]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401516">
+	<dc:title><![CDATA[Negative externalities as the engine of growth in an evolutionary context]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Angelo Antoci]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stefano Bartolini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019164]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019164.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401517">
+	<dc:title><![CDATA[Biodiversity and economic growth: stabilization versus preservation of the ecological dynamics]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mathilde Douillet]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019014.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019014]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401518">
+	<dc:title><![CDATA[Indeterminacy, bifurcations and chaos in an overlapping generations model with negative environmental externalities]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Angelo Antoci]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mauro Sodini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019072]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019072.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401519">
+	<dc:title><![CDATA[The new institutional economics and agricultural organization]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[James Roumasset]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12018718]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12018718.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401520">
+	<dc:title><![CDATA[Энергетическая стратегия России и развитие возобновляемой энергетики]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrei Bazhanov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Igor Tyukhov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019042.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019042]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401521">
+	<dc:title><![CDATA[A theory of sharecropping: the role of price behavior and imperfect competition]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Debapriya Sen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019721.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019721]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401522">
+	<dc:title><![CDATA[Evaluating the Financial Position and Performance of a typical Dairy Farm in Bulgaria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mphumuzi Sukati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019201.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019201]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401523">
+	<dc:title><![CDATA[Oil price shocks and their short- and long-term effects on the Chinese economy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Weiqi Tang]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Libo Wu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ZhongXiang Zhang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019606]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019606.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401524">
+	<dc:title><![CDATA[Marco de análisis sobre la relevancia de los programas de maestría para el desarrollo territorial en América Central y en los Andes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jorge Mora-Alfaro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019768.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019768]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401525">
+	<dc:title><![CDATA[The Relative Decline of Agriculture in China]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[(John) Yeong-Sheng Tey]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019828.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019828]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401526">
+	<dc:title><![CDATA[Understanding of Social Capital in Gender-based Participatory JFM Programme: An Evidence from West Bengal]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nimai Das]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019969.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019969]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401527">
+	<dc:title><![CDATA[Energy management in 21st century: an inquiry into the mounting corporate hegemony over basic human necessities and the role of civil society as a countervailing force.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dipankar Dey]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020101.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020101]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401528">
+	<dc:title><![CDATA[Mechanisms of Governance of Sustainable Development]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hrabrin Bachev]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12019752.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12019752]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401529">
+	<dc:title><![CDATA[Consommation d’énergies et croissance du PIB dans les pays de l’UEMOA : Une analyse en données de panel]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mawussé Komlagan Nézan Okey]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020102]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020102.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401530">
+	<dc:title><![CDATA[Agricultural Recovery: Food Security and Beyond]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[U. Dragosits]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.A. Sutton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020036.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020036]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401531">
+	<dc:title><![CDATA[The stuff of legend: diamonds and development in southern Africa]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcus Nol]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Brooks Spector]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020136.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020136]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401532">
+	<dc:title><![CDATA[Posibilitati de creditare a agriculturii dupa aderarea la UE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MAGDALENA RADULESCU]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020349.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020349]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401533">
+	<dc:title><![CDATA[Spanish Merino wools and the Nouvelles Draperies: an industrial transformation in the late-medieval Low Countries]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John H. Munro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020264]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020264.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401534">
+	<dc:title><![CDATA[Energy efficiency in Europe: trends, convergence and policy effectiveness]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ramon Arigoni Ortiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrea Bastianin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrea Bigano]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cristina Cattaneo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aless]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ro Lanza]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Matteo Manera]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anil Mark]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michele Plotegher]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fabio Sferra]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020236]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020236.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401535">
+	<dc:title><![CDATA[Farming Management in Pakistan: Suggested Techniques]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gobind Herani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mohammad Pervez Wasim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Allah Wasayo Rajar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Riaz Ahmed Shaikh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020358.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020358]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401536">
+	<dc:title><![CDATA[Comparision of Agro-based Industry of Tharparkar and Barrage Area of Sindh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gobind M. Herani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020435.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020435]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401537">
+	<dc:title><![CDATA[Farming Management in Pakistan: Suggested Techniques]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gobind Herani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mohammad Pervez Wasim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Allah Wasayo Rajar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Riaz Ahmed Shaikh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020464]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020464.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401538">
+	<dc:title><![CDATA[Agro-based Industry of Tharparkar and Barrage Area of Sindh: Concluding Remarks]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gobind M. Herani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020428.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020428]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401539">
+	<dc:title><![CDATA[Agro-based Industry of Tharparkar and Barrage Area of Sindh: Solutions and Suggested Policy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gobind M. Herani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020429]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020429.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401540">
+	<dc:title><![CDATA[A Common Factor Approach to Spatial Heterogeneity in Agricultural Productivity Analysis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Markus Eberhardt]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Francis Teal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020266]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020266.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401541">
+	<dc:title><![CDATA[Maximin-optimal sustainable growth in a resource-based imperfect economy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrei Bazhanov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020518.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020518]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401542">
+	<dc:title><![CDATA[Resource curse and institutional quality in oil countries]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mohsen Mohsen Mehrara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Seyedmohammadsadegh Alhosseini]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Duman Bahramirad]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020642.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020642]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401543">
+	<dc:title><![CDATA[Maximin-optimal sustainable growth in a resource-based imperfect economy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrei Bazhanov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020708]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020708.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401544">
+	<dc:title><![CDATA[Socialism without liberation: Land Reclamation Projects in Guinea-Bissau]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dirk Kohnert]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020670.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020670]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401545">
+	<dc:title><![CDATA[Dryland Agriculture: Dynamics, Challenges and Priorities]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MCS Bantilan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P An]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Babu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[GV Anupama]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Deepthi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Padmaja]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020626.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020626]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401546">
+	<dc:title><![CDATA[On the Truly Noncooperative Game of Island Life II: Evolutionary Stable Economic Development Strategy in Brief]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F. F. BEZERRA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020791]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020791.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401547">
+	<dc:title><![CDATA[Rohstoffbasierte Staatsfonds: Theorie und Empirie]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marius Clemens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wilfried Fuhrmann]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020864.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020864]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401548">
+	<dc:title><![CDATA[Does India attain self sufficiency in Food production]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K.M. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.S. Meena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abhay Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.K.P. Singh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020835.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020835]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401549">
+	<dc:title><![CDATA[Solar PV rural electrification and energy-poverty: A review and conceptual framework with reference to Ghana]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[George Yaw Obeng]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hans-Dieter Evers]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020984]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020984.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401550">
+	<dc:title><![CDATA[Determinants of Food Security in Rural Areas of Pakistan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joseph Gogodze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Iddo Kan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ayal Kimhi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12020994]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12020994.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401551">
+	<dc:title><![CDATA[Global energy and environmental scenarios: Implications for development policy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dirk Willenbockel]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021010]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021010.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401552">
+	<dc:title><![CDATA[Adding Value: Certified Coffee Trade in North America]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daniele Giovannucci]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alice Byers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pascal Liu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021015]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021015.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401553">
+	<dc:title><![CDATA[Commodity Prices, Growth, and the Natural Resource Curse: Reconciling a Conundrum]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Paul Collier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Benedikt Goderis]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021097]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021097.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401554">
+	<dc:title><![CDATA[Natural Resource Booms and Inequality: Theory and Evidence]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Benedikt Goderis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samuel W. Malone]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021099]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021099.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401555">
+	<dc:title><![CDATA[Development of Gocken Multiplication Technology for Cocoyam]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yana Yusnita Yasin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021164]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021164.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401556">
+	<dc:title><![CDATA[Business Plan: Paper Recycling Plant]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Muhammad Ali]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sana Askari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Muhammad Salman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sheba Askari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021038]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021038.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401557">
+	<dc:title><![CDATA[Adoption Scale Analysis of Improved Cocoyam Production, Production and Storage Technologies across Gender in Enugu North Agricultural Zone of Enugu State Nigeria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.U Dimelu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.C Agbaeze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O.N Okoroafor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.B Amaefula]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021160.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021160]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401558">
+	<dc:title><![CDATA[Croatia's EU Accession: Socio-economic Assessment of Farm Households and Policy Recommendations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Judith Möllers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Patrick Zier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Klaus Frohberg]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gertrud Buchenrieder]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stefan Bojnec]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021130.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021130]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401559">
+	<dc:title><![CDATA[Empirical Analysis of Determinants of Productivity among Small holder Cassava Farmers in Abia State, Nigeria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rossana Lott Rodrigues]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Joaquim J. M. Guilhoto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021168]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021168.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401560">
+	<dc:title><![CDATA[Comparative Economic Evaluation of Adopters and Non-Adopters of Some Selected Technologies in Abia State]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.N Anyaegbunam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.C Ogbonna]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021177]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021177.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401561">
+	<dc:title><![CDATA[An Analysis of the Supply for Seed Yams in Nigeria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G.N Asumugha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.E Njoku]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O.C Aniedu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.C Ogbonna]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H.N Anyaegbunam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.O Akinpelu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O.O Ibeagi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021178.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021178]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401562">
+	<dc:title><![CDATA[Technical Efficiency of Small-Holder Cocoyam Farmers in Anambra State, Nigeria: Implications for Agricultural Extension Policy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.E Onyenweaku]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.E Agwu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021181]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021181.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401563">
+	<dc:title><![CDATA[Determinants of Gender Productivity among Small- Holder Cocoyam Farmers’ in Nsukka Agricultural Zone of Enugu State, Nigeria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.C Okoye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.N Asumugha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.U Dimelu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.E Agwu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.C Agbaeze]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021206.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021206]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401564">
+	<dc:title><![CDATA[Reconstruction of Religion and Ecology Discourses]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Suteja Hardiansyah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021494.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021494]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401565">
+	<dc:title><![CDATA[The impact of banning export of cereals in response to soaring food prices: Evidences from Ethiopia using the new GTAP African database]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Getachew Abebe Woldie]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Khalid Siddig]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021587.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021587]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401566">
+	<dc:title><![CDATA[Water use options for regional development. Potentials of new water technologies in Central Northern Namibia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alex]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ra Lux]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cedric Janowicz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021190]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021190.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401567">
+	<dc:title><![CDATA[Federal provincial fiscal arrangements and shared-cost programs in agriculture]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NUR FADLI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021716]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021716.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401568">
+	<dc:title><![CDATA[Effects of World Price and Oil Export Price Increases in the Framework of One-sector and Two-Sector Stylized Models]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zhanna Kapsalyamova]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021881.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021881]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401569">
+	<dc:title><![CDATA[Mapping environmental services in Guatemala]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stefano Pagiola]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ale Colom]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wei Zhang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021852]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021852.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401570">
+	<dc:title><![CDATA[Government policy and dynamic supply response: a study of the compulsory grain delivery system]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alemayehu Seyoum Taffesse]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021813]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021813.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401571">
+	<dc:title><![CDATA[Impacts of Watershed Development Programmes: Experiences and Evidences from Tamil Nadu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tomy Kuspriyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021800]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021800.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401572">
+	<dc:title><![CDATA[A theory of sharecropping: the role of price behavior and imperfect competition]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Debapriya Sen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021993]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021993.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401573">
+	<dc:title><![CDATA[On the Truly Noncooperative Game of Island Life: Introducing a Unified Theory of Value & Evolutionarily Stable Island Economic Development Strategy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erkan Erdogdu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022014.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022014]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401574">
+	<dc:title><![CDATA[How to feed the world in 2050: Macroeconomic environment, commodity markets - A longer term outlook]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Theodoros Skevas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Justus Wesseler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pedro Fevereiro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022020]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022020.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401575">
+	<dc:title><![CDATA[Turkish support to Kyoto Protocol: A reality or just an illusion]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erkan Erdogdu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022035]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022035.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401576">
+	<dc:title><![CDATA[Agricultural Crisis in India: The Root Cause and Consequences]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Albert Christopher Dhas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12021945]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12021945.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401577">
+	<dc:title><![CDATA[A Snapshot of Geothermal Energy Potential and Utilization in Turkey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Johann Kirsten]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Charles Machethe]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022038]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022038.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401578">
+	<dc:title><![CDATA[Natural gas demand in Turkey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[David Pearce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Phoebe Koundouri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022037.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022037]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401579">
+	<dc:title><![CDATA[An Expose of Bioenergy and its Potential and Utilization in Turkey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erkan Erdogdu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022042]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022042.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401580">
+	<dc:title><![CDATA[Some Thoughts on the Turkish Electricity Distribution Industry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erkan Erdogdu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022040]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022040.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401581">
+	<dc:title><![CDATA[Maximin-optimal sustainable growth in a resource-based imperfect economy]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andrei Bazhanov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022150]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022150.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401582">
+	<dc:title><![CDATA[Understanding efficiency of agrarian organisation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hrabrin Bachev]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022278]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022278.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401583">
+	<dc:title><![CDATA[Regulatory Reform in Turkish Energy Industry: An analysis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ines Kapphan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022045]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022045.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401584">
+	<dc:title><![CDATA[Supply and Demand Model for the Malaysian Cocoa Market]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Brian Czech]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022333.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022333]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401585">
+	<dc:title><![CDATA[Morbidity and pollution: model specification analysis for time-series data on hospital admissions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ronald J. Krumm]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Philip E. Graves]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022488]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022488.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401586">
+	<dc:title><![CDATA[Optimal public goods provision: implications of endogenizing the labor/leisure choice]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nicholas E. Flores]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Philip E. Graves]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022503.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022503]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401587">
+	<dc:title><![CDATA[Hedonic analysis in a spatial context: theoretical problems in valuing location-specific amenities]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Philip E. Graves]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Thomas A. Knapp]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022486]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022486.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401588">
+	<dc:title><![CDATA[Malaysian Cocoa Market Modeling: A Combination of Econometric and System Dynamics Approach]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shri Dewi Applanaidu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fatimah Mohamed Arshad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Amna Awad Abdel Hameed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akram Hasanov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nurjihan Idris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Amin Mahir Abdullah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mad Nasir Shamsudin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022334.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022334]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401589">
+	<dc:title><![CDATA[A note on the valuation of collective goods: overlooked input market free riding for non-individually incrementable goods]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Philip E. Graves]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022505.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022505]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401590">
+	<dc:title><![CDATA[Land market responses to economic recession in Kerala]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hari K K Kurup]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B K Sumayya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022605.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022605]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401591">
+	<dc:title><![CDATA[Does Global Climate Policy Promote Low-Carbon Cities? Lessons Learnt From The CDM]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maike Sippel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Axel Michaelowa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023028.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023028]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401592">
+	<dc:title><![CDATA[Measurement of Cannibalism Effects in buying experiments using Mixed Logit Models - The Example of a new Brand of the “Fruits of Lake Constance” Association -]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Adriano Profeta]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022817.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022817]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401593">
+	<dc:title><![CDATA[Micro-Farming Situation Observed through Manual Discriminant Analysis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Debabrata Basu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rupak Goswami]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sudipta Banerjee]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022853.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022853]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401594">
+	<dc:title><![CDATA[What about local climate governance? A review of promise and problems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maike Sippel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Till Jenssen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023029]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023029.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401595">
+	<dc:title><![CDATA[A Theoretical Framework for Country-of-Origin-Research in the Food sector]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Adriano Profeta]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12022816]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12022816.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401596">
+	<dc:title><![CDATA[A Commodity Curse? The Dynamic Effects of Commodity Prices on Fiscal Performance in Latin America]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[James Fenske]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023365]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023365.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401597">
+	<dc:title><![CDATA[Whose incentives? The evolution of inheritance practices, intergenerational conflict, and women’s control over land in rural Kenya]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Benjamin Linkow]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023407]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023407.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401598">
+	<dc:title><![CDATA[Marktstruktur und Preisbildung auf dem ukrainischen Markt für Rohmilch]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Oleks]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[r Perekhozhuk]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023500.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023500]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401599">
+	<dc:title><![CDATA[Textile Producer Cotton Imports and the Exchange Rate]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nazif Durmaz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Henry Thompson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12023445]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12023445.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

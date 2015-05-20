@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015401000">
+	<dc:title><![CDATA[MANAJEMEN AGRIBISNIS PETERNAKAN (PENGANTAR MANAJEMEN AGRIBISNIS)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[EDY PRASETYO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720530]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720530.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401001">
+	<dc:title><![CDATA[KEWIRAUSAHANAAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dyah  Mardiningsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sudiyono Marzuki]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sriyanto Dwidjatmiko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.Trisetyo Eddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720532]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720532.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401002">
+	<dc:title><![CDATA[KEWIRAUSARAAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DYAH MARDININGSIH]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720526.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720526]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401003">
+	<dc:title><![CDATA[STUDI KELAYAKAN DAN EVALUASI PROYEK (KAJIAN ASPEK BIAYA)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720529]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720529.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401004">
+	<dc:title><![CDATA[PENGEMBANGAN METODE ISOLASI DAN IDENTIFIKASI BAKTERI Salmonella DARI BERBAGAI BAHAN PANGAN HEWANI ASAL UNGGAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NURWANTORO NURWANTORO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[TRI AGUS SARTONO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[YOYOK BUDI PRAMONO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[KUSTOPO BUDIRAHARJO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720534.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720534]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401005">
+	<dc:title><![CDATA[Hubungan antara Bobot Badan dengan Proporsi Organ Pencernaan Sapi Jawa pada Berbagai Umur (The Relationship between Body Weight and the Proportion of Digestive Organs of Java Cattle at Different Ages).]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NUR FITRI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720551]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720551.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401006">
+	<dc:title><![CDATA[PENGENALAN ORGAN REPRODUKSI AYAM]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutiyono Sutiyono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720564.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720564]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401007">
+	<dc:title><![CDATA[PERFORMANS ANAK BERDASARKAN TIPE KELAHIRAN PADA KAMBING PERANAKAN ETAWA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutiyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Suryaningsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.T. Setiatin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.M.S. Lestari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720563]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720563.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401008">
+	<dc:title><![CDATA[KAJIAN KETERJAMINAN PANGAN HE WANI DI MASYARAKAT PESISIR PANTAI UTARA JAWA TENGAH (Kasus Di Kabupaten Dati II Jepara)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wulan Sumekar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720537.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720537]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401009">
+	<dc:title><![CDATA[TEKNOLOGI INSEMINASI BUATAN PADA AYAM BEKISAR]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutiyono Sutiyono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720560.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720560]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401010">
+	<dc:title><![CDATA[STUDI KERAGAAN DAN POLA KONSUMSI MAKANAN TRADISIONAL DI KOTAMADYA DATI II SEMARANG Study of Performance and Traditional Food Consumption In Semarang Municipality]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MIGIE HANDAYANI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720555.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720555]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401011">
+	<dc:title><![CDATA[TINJAUAN KOMPOSISI DAN SIFAT - SIFAT AIR SUSU (MILK)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Masykuri Masykuri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720568]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720568.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401012">
+	<dc:title><![CDATA[PENGEMASAN DAN PENGEPAKAN PRODUK SEGAR HASIL TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[. Masykuri . Masykuri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720572.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720572]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401013">
+	<dc:title><![CDATA[Laju Pertumbuhan dan Laju Asimilasi Bersih Rumput Gajah dari Letak Tunas Stek yang Berbeda dengan Beberapa Dosis Pupuk Nitrogen]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SAVITRI SARI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720614.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720614]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401014">
+	<dc:title><![CDATA[BENTUK KEMASAN (PACKAGING SHAPE) DAN BENTUK PENGEPAKAN (PACKING SHAPE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[. Masykuri . Masykuri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720575.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720575]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401015">
+	<dc:title><![CDATA[PENINGKATAN NILAI GIZI BIJI SORGHUM MELALUI TEKNOLOGI FERMENTASI DENGAN Saccharomyces cereviceae]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fajar Wahyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Srimukodining Srimukodining]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720625]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720625.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401016">
+	<dc:title><![CDATA[LAPORAN AKHIR PELAKSANAAN KEGIATAN PENGABDIAN KEPADA MASYARAKAT PROGRAM IPTEK PELATIHAN PEMBUATAN PUPUK ORGANIK BERKUALITAS UNTUK SAYUR DAN BUAH DI KECAMATAN AMBARAWA KABUPATEN SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Florentina Kusmiyati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahayuning Trimulatsin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wdyati Slamet]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720602.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720602]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401017">
+	<dc:title><![CDATA[PENGARUH AMONIASI DAN FERMENTASI TERHADAI KECERNAAN SERAT KASAR PUCUK TEBU SECARA IN SACCO (Penelitian Dosen Muda)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Widiyanto Widiyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720644]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720644.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401018">
+	<dc:title><![CDATA[PRODUKSI DAN KUALITAS HIJAUAN JAGUNG MANIS DENGAN PUPUK ORGANIK KAYA SUMBER HAYATI SEBAGAI SUMBER NITROGEN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rahayuning Tri Mulatsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Benedictus Sukamto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Florentina Kusmiyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720648.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720648]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401019">
+	<dc:title><![CDATA[ANALISIS KETERJAMINAN PANGAN RUMAH TANGGA KAITANNYA DE NGAN SISTEM PANGAN DI KABUPATEN DATI II RE MBANG, JAWA TENGAH (THE LINKAGES OF HOUSE HOLD FOOD REGENCY SECURITY WITH FOOD SYSTEM IN REMBANG REGENCY, CENTRAL OF JAVA)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[EDY PRASETYO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MUKSON MUKSON]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[BAMBANG MULYATNO S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720634.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720634]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401020">
+	<dc:title><![CDATA[PEMANFAATAN L1MBAH RI IMAH POTONG HEWAN DAN L1MBAH INDUSTRI MINUMAN TEH SEBAGAI PUPUK ORGANI UNTUK TANAMAN JAGUNG MANIS (Zea mays saccharata)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Widyati- Slamet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Endang Dwi Purbayanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Adriani Darmawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720668.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720668]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401021">
+	<dc:title><![CDATA[PENGARUH PENGGULUDAN DAN PUPUK KANDANG TERHADAP PERTUNIBUHAN DAN PRODUKSI I I LIAUAN RUMPUT PAKAN PADA TANAH LIN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Florentina Kusmiyati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahayuning Tri Mulatsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Adriani Darmawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720655]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720655.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401022">
+	<dc:title><![CDATA[EFEK SISA BAHAN ORGANIK PUPUK KOMPOS YANG D1BUAT DENGAN BANTUAN MIKROORGANISME (FM) TERHADAP KOMPONEN DAN PRODUKSI HIJAUAN JAGUNG MANIS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Budi Adi Kristanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahayuning Tri Mulatsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sutarno  Sutarno]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720658]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720658.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401023">
+	<dc:title><![CDATA[PENGARUH KADAR PROTEIN RANSUM DAN SUPEROVULASI INDUK TERHADAP PERTUMBUHAN ANAK DOMBA PRIANGAN PRASAPIH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Isroli Isroli]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wasmen Manalu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720673.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720673]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401024">
+	<dc:title><![CDATA[RFSPON TESTES DOMBA PRIANGAN SANTAN TERHADAP PEMBERIAN TESTOSTERON DAN RANSUM YANG BERBEDA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ISROLI ISROLI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720678]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720678.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401025">
+	<dc:title><![CDATA[OPTIMASI PROSES BIOKONVERSI BIM SORGUM DENGAN KAPANG Rhizopus oligosporus UNTUK BAHAN PAKAN UNGGAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Limbang Kustiawan Nuswantara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Eko Pangestu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marry Christiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Surono Surono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720694]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720694.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401026">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur Pada PT Cakrayoga Bumi Manunggal Desa Kalikuto Kecamatan Grabag Kabupaten Magelang : Kajian Pola Saluran Distribusi Pemasaran Telur]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ika Kristin Haryani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720689.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720689]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401027">
+	<dc:title><![CDATA[Ilmu makanan ternak Ruminansia (SAPI PERAH)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Limbang Kustiawan Nuswantara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720695.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720695]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401028">
+	<dc:title><![CDATA[Manajernen Usaha Peternakan Ayam Petelur di Vano Farm Desa Noborejo Kecamatan Argomulyo Kota Salatiga: Kajian Marjin Pemasaran dan Pola Distribusi.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Puji Yuliani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720690.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720690]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401029">
+	<dc:title><![CDATA[EVALUASI TERHADAP PENDUGAAN ROBOT BADAN DOMBA PRIANGAN BERDASARKAN UKURAN TUBUH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Isroli Isroli]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720732.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720732]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401030">
+	<dc:title><![CDATA[KADAR TESTOSTERON DALAM DARAH DAN JARINGAN EDIBEL PADA DOMBA PRIANGAN JANTAN YANG DISUNTIK TESTOSTERON PROPIONAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[All Ditinaedi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y.S. Dumanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahman Djanial]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sarjito Sarjito]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720740]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720740.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401031">
+	<dc:title><![CDATA[PENGARUH ANABOLIK STEROID TESTOSTERON PROPIONAT DAN RANSUM YANG BERBEDA TERHADAP PERFORMANS KARKAS DOMBA PRIANGAN JANTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Isroli Isroli]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720735.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720735]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401032">
+	<dc:title><![CDATA[PENGARUJI PENYVNTIKAN TESTOSTERON PROPIONAT TERHADAP GAMBARAN HEMATOLOGI DOMBA PRIANGAN JANTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ISROLI ISROLI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720755]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720755.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401033">
+	<dc:title><![CDATA[IRADIASI UNTUK PENINGKATAN PRODUKSI DAN PASCA PANEN HASIL TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anang Mohamad Legowo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Umiyati Atmomarsono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720818]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720818.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401034">
+	<dc:title><![CDATA[STRATEGI PEDOMAN UMUM PENOELOLAAN JAI.** HIJAU MANGROVE; Identifikasi dan Evaluasi Penilaian Warga Dalam Pelaksanaan Pemberdayaan Masyarakat Di Kabupaten Kendal, Kota Semarang, dan Kabupaten Demak]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[PROGRAM MAGISTER ILMU LINGKUNGAN PROGRAM MAGISTER ILMU LINGKUNGAN]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720766]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720766.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401035">
+	<dc:title><![CDATA[PE:NERAPAN TEPKNOLOGI REPRODUKSI DALAM UPAYA M EN INGKATKAN JUMLAH ANAK DOMBA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutiyono Sutiyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Endang Purbowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. I. Sri Winwuh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720930.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720930]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401036">
+	<dc:title><![CDATA[PENGUJIAN KUALITAS AMPAS TEBU (BAGASSE) SEBAGAI SUMBER PAKAN SERAT SECARA IN SACCO DENGAN KOMBINASI PERLAKUAN FISH{ DAN BIOLOGI]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DONI PRASETYOADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720862.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720862]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401037">
+	<dc:title><![CDATA[KETERSEDIAAN HIJAUAN PAKAN BERKESINAMBUNGAN MELALUI SISTEM TIGA STRATA DALAM RANGKA MENINGKATKAN PRODUKTIVITAS PETANI PETERNAK KAMBING]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SUTARNO SUTARNO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720936.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720936]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401038">
+	<dc:title><![CDATA[KESEIMBANGAN NITROGEN SAPI LOKAL YANG  MENDAPAT FARAH PUCUK TEBU TEROLAH DALAM RENTUK WAFER DAN PELET]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SURAHMANTO SURAHMANTO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[WIDIYANTO WIDIYANTO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721052.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721052]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401039">
+	<dc:title><![CDATA[EFEK INOKULASI BAKTERI RILIZOBIUM sp DAN PENBERIAN FOSFOR TERHADAP DERAJAT KATALISIS ENZIM NITROGENASE NODUL AKAR Centroseom pabescons BENTH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eny Fuskhah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Endeng Dwi Purbayanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Florentine Kusmiyati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahayuning Tri Mulatsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720920]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720920.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401040">
+	<dc:title><![CDATA[PENINGKATAN KETRAMPILAN PETERNAK MEL ALUI PENGAWETAN PRODUKSI HIJAUAN DAN PEMANFAATAN LIMBAHPERTANIAN SEBAGAI PAKAN BERKUALITAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SUTARNO SUTARNO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720940]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720940.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401041">
+	<dc:title><![CDATA[KEAMANAN PANGAN KACANG TANAH SEBAGAI BARAN DASAR PEMBUATAN PECEL YANG DLIUAL PEDAGANG KELILING DART KONTAMINASI CENDAWAN DAN TOKSINNYA DI KOTA SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Martini Martini]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suyatno Suyatno]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721082.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721082]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401042">
+	<dc:title><![CDATA[TEKOLOGI BATHING SEBAGAI UPAYA WEEKS' DAN PERBAIKAN MUTU BENIN DALAM RANGKA MENGATASI KEGAGALAN BUDIDAYA UDANG WINDU (Penants monodon) Dl TAMBAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Budi Pamilih Kahana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721109.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721109]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401043">
+	<dc:title><![CDATA[PERBAIKAN KUALITAS TANAMAN PAKAN MELALUI PERTANAMAN CAMPURAN RUMPUT DAN LEGUMINOSA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Adriani Darmawati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Budi Adi Kristanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Benedictus Sukamto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahayuning Tri Mulatsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721162.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721162]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401044">
+	<dc:title><![CDATA[Poliploidisasi Rumput Brachiaria brizantha dan Brachiaria decumbens dengan Frekuensi Pemberian Kolkisin Berbeda.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Juli Sulistyowati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721230]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721230.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401045">
+	<dc:title><![CDATA[Perubahan Pola Konsumsi Pakan Akibat Lama Transportasi pada Domba Lokal Jantan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Didik Subyantoro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721243]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721243.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401046">
+	<dc:title><![CDATA[Tampilan produksi dan Kualitas Susu Sapi Laktasi yang Diberikan Pakan Berbeda Kualitas sejak Kering Kandang.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eky Aan Hermawan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721229]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721229.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401047">
+	<dc:title><![CDATA[PENGGANTIAN RUMPUT RAJA DENGAN PUCUK TEBU TERHADAP FERMENTABILITAS RANSUM ISONUTRIEN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Many Christiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Limbang K Nuswantara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721166.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721166]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401048">
+	<dc:title><![CDATA[Pengaruh Penggunaan Sorghum Fermentasi pada Ransum Ayam Broiler terhadap Performan dan Rasio Efisiensi Protein]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ady Liestiana Nuary]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721265]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721265.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401049">
+	<dc:title><![CDATA[Poliploidisasi pada Rumput Setaria (s. spachelata dan s. splendida) dengan Frekuensi Pemberian Kolkisin yang Berbeda]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alvita Niniek Widyani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721244.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721244]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401050">
+	<dc:title><![CDATA[Peranan berbagai Pupuk Fosfat dalam Meningkatkan Pertumbuhan, Produksi, Jumlah dan Aktifitas Bintil Akar Kaliandra Merah (Calliandra calothyrsus) dan Lamtoro (Leucaena leucocephala)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andi Arianto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721268]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721268.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401051">
+	<dc:title><![CDATA[Penggunaan Berbagai Aras Urea dalam Amoniasi Tumpi terhadap Komponen Organiknya]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erlina Triansari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721271.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721271]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401052">
+	<dc:title><![CDATA[Pengaruh Substitusi Rumput Raja dengan Pucuk Tebu dalam Pakan Komplit Isonutrisi terhadap Kecernaan dan Fenomena Ruminal.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Warsiti Warsiti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721274.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721274]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401053">
+	<dc:title><![CDATA[Penggunaan Campuran Manure Ayam dan Tetes sebagai Starter dan pengaruhnya terhadap Produksi NH3 dan VFA Hasil Fermentasi Pucuk Tebu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Firmansyah Putra]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721269.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721269]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401054">
+	<dc:title><![CDATA[Penggtmaan Berbagai Aras Urea dalam Amoniasi Kulit Luar Kacang Tanah (Arachis hypogaea) terhadap Kandungan Protein Kasar dan Serat Kasar]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ida Nuryantiningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721272]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721272.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401055">
+	<dc:title><![CDATA[Degradiblitas Kecernaan Bahan Kering Dan Bahan Organik Jeram Padi Dan Daun Lamtoro Secara In Vitro Akibat Subtsusi Bawang Merah]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dyah Permatasari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721288]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721288.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401056">
+	<dc:title><![CDATA[Pertumbuhan Tanaman Lamtoro (Leucaenan leucocephala) dan Turi (Sesbania grandiflora) Akibat Perlakuan Konsentrasi Garam pada Media cair]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sub]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[riyo Adi Pamungkas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721267.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721267]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401057">
+	<dc:title><![CDATA[Penggunaan Berbagai Aras Urea pada Amoniasi Kulit Ari Biji Jagung terhadap Produksi VFA dan N-NH3 secara in vitro]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sukesi Restuningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721270]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721270.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401058">
+	<dc:title><![CDATA[Pengaruh Alelopati Gulma Teki (Ciperus Rotundus) dan Alang-Alang( Imperata Cylindrical) Terhadap Kadar Proteind Serat Kasar Hijaun Jagung (Zea Mays L.)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Am]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a Thomson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721289]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721289.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401059">
+	<dc:title><![CDATA[Pengaruh Pemberian Mulsa Enceng Gondok pada (Eichhornia crassipes ) Terhadap Pertumbuhan Dan Produksi Jerami Jagung Manis (Zea mays var saccharata]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maryati Maryati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721291.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721291]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401060">
+	<dc:title><![CDATA[Efek Subtisusi Jerami Bawang Merah Pada Jerami Padi Dan Daun Lamtoro Terhadap Produksi Protein Total Dan Degradabiltas Protein Secara In Vitro]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yuni Khoirun Nisa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721290.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721290]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401061">
+	<dc:title><![CDATA[Pengaruh Pemberian Mulsa Enceng Gondok (Eichhornia crassipes (Mart) Solms)terhadap Kualitas Jerami Jagung Manis (Zea mays saccharata]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rahasya Kencana Sumatra AMS]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721299.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721299]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401062">
+	<dc:title><![CDATA[Karakteristik Fotosinteses Rumput Gajah (Pennesetum purpureum) dan rumput kolonjono (Panicum muticum) dengan Tingkat Pupuk Organik pada Tanah Cekaman Salinitas]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Murningsih Murningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721313.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721313]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401063">
+	<dc:title><![CDATA[Pertumbuhan dan Produksi Rumput Gajah dan Rumput Kolonjono pada tingkat Pupuk Organik pada Tanah Cekaman Keasaman (Almunium)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ying Zhang]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lixia Zheng]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Xuejun Liu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tim Jickells]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Neil Cape]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Keith Goulding]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andreas Fangmeier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fusuo Zhang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721314.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721314]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401064">
+	<dc:title><![CDATA[Karakteristik Fotosintesis Rumput Pennisetum purpureum dan Rumput Panicum muticum dengan Berbagai Tingkat Pupuk Organik di Tanah Latosol Merah Coklat]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lulus Kusumaningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721320.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721320]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401065">
+	<dc:title><![CDATA[Manajemen Pemeliharaa Ayam Petelur Periode Starter di PT. Cakrayoga Bumi Manunggal Desa Kalikuto Kecamatan Grabag Kabupaten Magelang]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rodli Susanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721326.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721326]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401066">
+	<dc:title><![CDATA[Pertumbuhan dan Produksi Rumput Pennisetum purpureum dan Rumput Panicum muticum dengan Berbagai Tingkat Pupuk Organik di Tanah Cekaman Salinitas]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wahyuningtias Indah Kusumawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721323.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721323]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401067">
+	<dc:title><![CDATA[Curahan Waktu Tenaga Kerja Bagian Produksi pada PT Gema Usaha Ternak di Dusun Pronanggan Desa Purwomartani Kecamatan Kalasan Kabupaten Sleman]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rio Agus Putranto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721325]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721325.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401068">
+	<dc:title><![CDATA[Produksi Bahan Kering,Kadar P dan Kadar N Hijauan Puero (Pueraria phaseoloides) dengan Pemupukan Fosfat dan Suspensi Teh - Kombucha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Bambang Tri Nurdewanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721333]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721333.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401069">
+	<dc:title><![CDATA[Profil Lemak Darah pada Ayam Broiier yang Diberi Ransum Memakai Sorghum sebagai Pengganti Jagung]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Firli Fardila]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721337]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721337.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401070">
+	<dc:title><![CDATA[Produksi Bahan Kering,Kadar N dan P dengan Pemupukan Fosfat dan Suspensi Teh - Kombucha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dian Nurhadiyanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721334]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721334.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401071">
+	<dc:title><![CDATA[Profil Lernak Darah Itik Tegal Umur 62 Minggu yang Diberi Ransum Memakai Tepung Daun Lamtoro Diolah Melalui Penyemprotan dengan FeSO4]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Edy Wartika]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721335]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721335.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401072">
+	<dc:title><![CDATA[Respon Morfologi dan Fisiologi Rumput Benggala (Panicum ntaximum) dan R.umput Kolonjono (Panicum muticum)akibat Substitusi Parsial KCl oleh NaCl]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Novi Sartika Ekawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721339.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721339]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401073">
+	<dc:title><![CDATA[Respon Morfologi dan Fisiologi Beberapa Tanaman Pakan Diploid dan Poliploid Serta Sorghum Terhadap Cekaman Aluminiun]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Azis Rahman Hakim]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721338.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721338]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401074">
+	<dc:title><![CDATA[Serapan N dan P Hijauan Jagung Manis (Zea mays sacharata) dengan Pemupukan P dan dan Suspensi Teh-Kombucha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kushardian Arief Satria]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721342]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721342.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401075">
+	<dc:title><![CDATA[Serapan Nitrogen dan Fosfor Hijauan Puero (Pueraria phaseoloides) dengan Pemupukan Fosfat dan Suspensi Teh - Kombucha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wury]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ari Aprilia Yusan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721344.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721344]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401076">
+	<dc:title><![CDATA[Respon Morfologi dan Fisiologi Rumput Gajah dan Rumput Raja Akibat Substitusi KCl oleh NaCl]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erna Budiati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721340]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721340.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401077">
+	<dc:title><![CDATA[Respon Morfologi serta Fisiologi Tanaman Rumput Brachiaria brizantha dan Brachiaria decumbens Akibat Substitusi Parsial Nacl terhadap KCl]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Binta Rahmi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721341.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721341]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401078">
+	<dc:title><![CDATA[Konsentrasi Asam Lemak Atsiri dan Amonia Rumen In vitro Kecambah Biji Sorghum pada Berbagai Lama Fermentasi dan Aras Sumber Mineral]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Widayati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721345]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721345.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401079">
+	<dc:title><![CDATA[Pengaruh Jarak Tanam dan Aras Pemupukan Nitrogen terhadap Pertumbuhan dan Produksi Bahan Kering Hijauan sorgum (sarghum bicolor(L) Maench)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anis Rachmawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721351]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721351.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401080">
+	<dc:title><![CDATA[Nilai Energi Metabolis Biji Sorghum dengan Pemanasan Sangrai Diukur pada Ayam Petelur Periode Afkir]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Padwi Anwar Sayekti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721347]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721347.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401081">
+	<dc:title><![CDATA[Pengaruh Berbagai Sumber dan Dosis N terhadap Pertumbuhan dan Produksi Bahan Segar Hijauan Jagung Manis (Zea mays saccharata)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H Suripta]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Astuti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721348]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721348.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401082">
+	<dc:title><![CDATA[Konsentrasi VFA dan NH3 Rumen In vitro Kulit Jagung Manis yang Difermentasi Aras Ragi Isi Rumen dan Perbedaan Lama Pemeraman]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khrisma Yuli Prasetyo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721346.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721346]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401083">
+	<dc:title><![CDATA[Pengaruh Campuran Kotoran Ayam Kering dan Tetes sebagai Starter dan Pengaruhnya terhadap Kadar Protein dan Serat Kasar Hasil Fermentasi Pucuk Tebu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kardonal Kardonal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721349.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721349]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401084">
+	<dc:title><![CDATA[Pengaruh Substitusi Jagung dengan Sorgum (Sorghum vulgare (L)) yang Diolah secara Kimiawi Menggunakan Ca(OH)2 maupun CaCO3 terhadap Kecernaan Lernak dan Energi Metabolis pada Ayam Broiler]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rr. Laila  Windya Kusuma Citra]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721352]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721352.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401085">
+	<dc:title><![CDATA[Pengaruh Pupuk Nitrogen dan Pemotongan Bunga Jantan (Detasseling) terhadap Produksi Protein Kasar dan Serat Kasar Jerami Jagung Manis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Istiyowati Istiyowati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721353]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721353.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401086">
+	<dc:title><![CDATA[Pengaruh Penggunaan Level Starter Larutan Kubis dan Lama Pemeraman yang Berbeda terhadap Total Asam dan Gula Pereduksi Silase Bekicot]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Grasinia Sulistiono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721357.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721357]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401087">
+	<dc:title><![CDATA[Pengarith Penggunaan Sorghum dengan Perlakuan CaCO3 dalam Ransum Burung Puyuh sebagai Penggantian jagung terhadap Kecernaan Bahan Organik dan Protein]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wahyu Sri Asih Setyaningrum]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721355]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721355.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401088">
+	<dc:title><![CDATA[Pengaruh Perlakuan Kimiawi pada Biji Sorghum sebagai Pengganti Jagung terhadap Kecernaan Serat dan Bahan Organik pada Ayam Broiler]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ninik Lesmanawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721354]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721354.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401089">
+	<dc:title><![CDATA[Pengaruh Penggunaan Kulit Biji Kedelai dalam Ransum terhadap Kecernaan Lemak Kasar dan Energi Tercerna pada Kelinci Lokal]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yahya Imanuel]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721359.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721359]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401090">
+	<dc:title><![CDATA[Pengaruh Perlakuan Kimiawi Biji Sorghum sebagai Pengganti Jagung terhadap Kecernaan Protein dan Retensi Protein pada Ayam Broiler]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wanti Suryaningrum]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721356]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721356.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401091">
+	<dc:title><![CDATA[Pengaruh penggunaan Kunyit (curcuma domestica)dalam Ransum terhadap Kadar Lemak dan Kolesterol Darah Babi Periode Pertumbuhan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anom Suharyadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721358.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721358]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401092">
+	<dc:title><![CDATA[Pengaruh Penggunaan Dedak Fermentasi dan Penambahan Sumber Kalsium terhadap Kecernaan Bahan Kering dan Bahan Organik pada Ayam Kampung Periode Bertelur]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nanang Dwi Widodo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721360.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721360]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401093">
+	<dc:title><![CDATA[Pengaruh Penambahan Filler Dedak Halus terhadap Kandungan Nutrisi Silase Bekicot Yang Dikeringkan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joni Oktora]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721362.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721362]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401094">
+	<dc:title><![CDATA[Pengaruh Pemberian Kunyit dan atau Temulawak dalam Ransum Komersial Ayam Broiler terhadap Kecernaan Lemak dan Energi Metabolis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dwi Ambar Susanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721364]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721364.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401095">
+	<dc:title><![CDATA[Pengaruh Pemberian Kolkisin terhadap Sifat Poliploid Tanaman Rumput Eleusina indica dan Axonopus compressus]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alfiyah Kurniawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721366]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721366.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401096">
+	<dc:title><![CDATA[Pengaruh Lama Pengukusan terhadap Kadar Tanin Biji Sorghum]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eis Rahmawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721368]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721368.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401097">
+	<dc:title><![CDATA[Pengaruh Lama Pemeraman Fermentasi Limbah Kubis terhadap Parameter Metabolisme Rumen secara In Vitro.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Slamet Purwanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721369.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721369]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401098">
+	<dc:title><![CDATA[PANDUAN SOSIALISASI PEMBERDAYAAN PETANI PEMAKAI AIR ( P3A ) SECARA PARTISIPAT1F]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dewi Rostyaningsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rastaning Sakti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721483.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721483]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401099">
+	<dc:title><![CDATA[PEMANFAATAN ENCENG GONDOK Eichornia crassipes) SEBAGAI BAHAN PUPUK CAIR]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dwi Siwi H]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ayani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Susiana Purwantisari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rini  budi Rini Budi Hastuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sarjana Parman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721492.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721492]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

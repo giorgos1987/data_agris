@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015400900">
+	<dc:title><![CDATA[PENENTUAN TINGKAT EVAPOTRANSPIRASI TANAMAN JAGUNG DENGAN METODE RESISTIVITAS 2D]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TONNY Yulianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gatot Yutiyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719972.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719972]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400901">
+	<dc:title><![CDATA[MAnajemen Usaha Peternakan Kambing di Pusat Pembibitan Kambing Sumberejo Kabupaten Kendal : Kajian Perkandangan dan Sanitasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Floureda Indra Prasetyorini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719697]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719697.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400902">
+	<dc:title><![CDATA[Examination of the Ratios of Inoculums of Buffalo Faeces and Buffer Solution on the In Vtro Fibrous Feed Digestibility]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sudirman Sudirman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Utomo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Z Bachruddin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[BP Widyobroto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suhubdy Suhubdy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719640.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719640]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400903">
+	<dc:title><![CDATA[PEMANFAATAN LIMBAH PERTANIAN (JERAMI DAN KATUL) SEBAGAI AGENSIA PRIMING UNTUK MENINGKATKAN LAJU RESPIRASI TANAH TAMBAK UDANG : KOMBINASI PERLAKUAN BIOAUGMENTASI]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wilis Ari Setyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719642]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719642.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400904">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Pembibitan Ayam Ras Pedaging di PT. Charoen Pokphand Jaya Farm (PT. Central Agromina Unit Farm I Jati) Subang : Kajian Penanganan Produksi dan Pasca Produksi Telur]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ali Ustadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719978]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719978.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400905">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Sapi Perah di Balai Pembibitan Ternak Unggul Sapi Perah Baturraden. Purwokerto : Kajian Tatalaksana Pernberian Pakan Sapi Perah Laktasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Wijayanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11719985]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11719985.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400906">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Sapi Perah di BPTUSP Baturraden . Kajian Perkandangan dan Sanitasi Lingkungan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yuni Susiati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720039]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720039.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400907">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Sapi Perah di Balai Pembibitan Ternak Unggul Sapi Perah Baturraden Purwokerto : Kajian Tatalaksana Pemberian Pakan Sapi Perah Laktasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Atit Widiyowati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720041.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720041]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400908">
+	<dc:title><![CDATA[Manajemen Distribusi Semen Beku dan Pengggnaannya pada Sapi Potong di Pos Inseminasi Buatan Kabupaten Blora]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dwi Setyo Wibowo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720042.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720042]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400909">
+	<dc:title><![CDATA[Manajemen Inseminasi Buatan di Balai Pembibitan Ternak Unggul Sapi Perah Baturraden Purwokerto]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Icuk Hermawan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720044]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720044.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400910">
+	<dc:title><![CDATA[Manajemen Pembuatan Pakan Konsentrat Petelur di PT Aries Feedmill, Desa Kebumen, Kecamatan Sukoharjo,Kabupaten Kendal: Kajian Pembuatan Pakan Ayam Petelur Periode Layer l8]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Faridhotul Ain]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720045]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720045.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400911">
+	<dc:title><![CDATA[Manajemen pemeliharaan ayam petelur periode layer di Kombinasi Farm Desa Sumogawe Kecamatan Getasan Kabupaten Semarang : Kajian Kecukupan Kalsium dan Fosfor]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Veronica Susanti Sukmawati Kareang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720049.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720049]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400912">
+	<dc:title><![CDATA[Manajemen Pemeiiharaan sapi Perah Friesien Holstein di Balai Pembibitan Ternak unggul Sapi Perah Baturraden : Kajian Pemerahan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wiwin Wineika]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720051]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720051.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400913">
+	<dc:title><![CDATA[Manajemen Pengadaan Bekatul di Kecamatan Demak Kota Kabupaten Demak : Pengujian Potensi Bekatul]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ika Wuryanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720059.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720059]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400914">
+	<dc:title><![CDATA[Manajemen Pengolahan Susu Pasteurisasi di Milk Treatment Koperasi Peternakan Bandung Selatan : Kajian Tentang Pengujian Kualitas Susu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yeni Khalimah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720086.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720086]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400915">
+	<dc:title><![CDATA[Manajemen Penggunaan dan Pengaturan Semen Beku untuk Inseminasi Buatan pada Pos Inseminasi Buatan Jepon II Blora]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Imron Khamidi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720084.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720084]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400916">
+	<dc:title><![CDATA[Manajemen Proses Pengolahan Konsentrat Ternak sapi potong pada UD. Rosary Feed Kecamatan Wirosari Kabupaten Grobogan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Budi Haryati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720089.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720089]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400917">
+	<dc:title><![CDATA[Manajemen Usaha pada Industri Pengolahan Makanan Ternak Sapi UD. Akar Wangi Netas, Kelurahan Karangjati,Kecamatan Bergas, Kabupaten Semarang : Kajian Aspek Pengadaan Bahan Baku]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agus Ahsin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720096.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720096]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400918">
+	<dc:title><![CDATA[Manajemen Usaha Pembibitan Ayam Arab pada CV Kuda Hitam Perkasa Kediri : Kajian Pemberian Ransum Ayam Arab Parent Stock]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Evi Suprihatiningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720101]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720101.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400919">
+	<dc:title><![CDATA[Manajemen Usaha Pakan di PT Cakra Yoga Bumi Manunggal Grabag-Magelang (Pengelolaan Pakan Ayam ras Petelur Periode Layer)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Happy Rizkha Amalia F]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720098.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720098]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400920">
+	<dc:title><![CDATA[Manajemen Usaha Pembibitan Ayam Di PT. Satwa Utama Raya Unit 1 Purwosari Jawa Timur : Kajian Pemberian Pakan Ayam Pembibit Tipe Petelur Periode Breeder]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Teguh Ariyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720103.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720103]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400921">
+	<dc:title><![CDATA[Manajemen Usaha Pembibitan Ayam Pedaging Di PT. Charoen Pokphand Jaya Farm I Jati Kecamatan Cipunagara Kabupaten Subang : Kajian Perkandangan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dewi Hestina]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720107]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720107.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400922">
+	<dc:title><![CDATA[Manajemen Usaha Pernbibitan Ayam Petelur di PT. Satwa Utama Raya Unit I Kabupaten Pasuruan Jawa Timur : Kajian Upaya Pencegahan Penyakit]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dewi Mustikasari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720111]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720111.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400923">
+	<dc:title><![CDATA[Manajemen Usaha Pembibitan Ayam Petelur di PT. Satwa Utama Raya Unit I Purwosari Pasuruan Jawa Timur : Kajian Produksi Telur dan Penanganan Telur Pasca Produksi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gunawan Widayat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720116.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720116]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400924">
+	<dc:title><![CDATA[Manajemen Usaha Perbibitan Ayam Petelur Parent Stock PT. Charoen Pokphand Jaya-Farm (PT Satriya Utama Raya Unit 1 Purwosari) Kabupaten Pasuruan Jawa Timur: Kajian Perkandangan.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Romli Mustowa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720118.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720118]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400925">
+	<dc:title><![CDATA[Manajemen Usaha Pembibitan Ayam Ras Pedaging di PT Charoen Pokphand Jaya Farm (PT Central Agromina Unit Farm 1 Jati) Kecamatan Cipunagara Kabupaten Subang Jawa Barat : Kajian  Pencegahan Penyakit]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sufyan Taftazani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720120]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720120.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400926">
+	<dc:title><![CDATA[Manajemen Usaha Pembuatan Susu Pasteurisasi di Koperasi Susu Warga Mulya Kabupaten Sleman Yogyakarta : Kajian Pengolahan Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erlin Setiyoningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720123.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720123]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400927">
+	<dc:title><![CDATA[Manajemen Usaha Pengelolaan Hijauan Pakan Pada Balai Pembibitan Ternak Unggul Sapi Perah Kecamatan Baturraden, Purwokerto : Kajian Pengelolaan dan Potensi Rumput Raja]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Muktiani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[BIM Tampoebolon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Achmadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720128]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720128.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400928">
+	<dc:title><![CDATA[Manajemen Usaha Penggemukan Sapi PFH Jantan pada Usaha Peternakan Annamiyah di Desa Candirejo Kecamatan Tuntang Kabupaten Semarang : Kajian Pendapatan Usaha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Triyanto Triyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720170]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720170.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400929">
+	<dc:title><![CDATA[Manajemen Usaha Penggemukan Sapi PFH Jantan di Peternakan milik Bapak H. Rohrnat, Desa Urut Sewu, Ampel, Boyolali : Kajian Tata Laksana Pemberian Pakan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wiji Sri Sugiharti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720208.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720208]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400930">
+	<dc:title><![CDATA[Karakteristik Telur Ayam Asin Asap dan Daya Terima Konsumen (The Characteristics of Smoked Salty Chicken Egg and the Acceptability of Consumers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ANGGRAHINI PERTIWI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720180.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720180]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400931">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Pakan Sapi Potong di UD. Akar Wangi Netas Poultry Kelurahan Karangjati Kecamatan Bergas-Kabupaten Semarang : Kajian pengolahan Konsentrat]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dina Agustin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720216.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720216]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400932">
+	<dc:title><![CDATA[Manajemen Usaha Penggemukan Sapi Potong di PT. Lembu Adji Perkasa, Kabupaten Wonosobo: Aspek Perkandangan dan Sanitasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Prasetyo Suwiknyo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720210.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720210]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400933">
+	<dc:title><![CDATA[Manajemen usaha Pengolahan Susu di Koperasi Susu SAF (Sinau Andandani Ekonomi) Kecamatan Pujon Kabupaten Malang : Kajian Pengolahan Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ummi Rosyidah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720220]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720220.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400934">
+	<dc:title><![CDATA[Manajemen Usaha pengolahan Susu di PT. Fajar Taurus, Ciracas Jakarta Timur : Kajian Pengolahan Biokefir]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Apriliani Wul]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720224.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720224]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400935">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Fermentasi di PT. Fajar Taurus Jakarta Timur : Kajian Pengemasan Yogurt]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nanik Sukismi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720239.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720239]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400936">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu di PT. Fajar Taurus Jakarta . Kajian Pola Distribusi dan Marjin Pemasaran Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Arieka Prihartanty]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720227.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720227]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400937">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu di PT. Fajar Taurus Jakarta Timur : Kajian Fengolahan Yogurt]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maria Ulfah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720230]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720230.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400938">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu rrnentasi di PT Fajar Taurus Jakarta : Kajian Pengolahan Yoghurt]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ra Dewi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720237.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720237]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400939">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pada Koperasi Susu SAE Kecamatan Pujon Kabupaten Malang : Kajian Penanganan dan Uji Kualitas Susu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tri Suhartati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720242.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720242]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400940">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di CV. CITA NASIONAL Desa Sumogawe Kecamatan Getasan Salatiga Kabupaten Semarang : Kajian pengemasan Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Wijayanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720243.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720243]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400941">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di CV. CITA NASIONAL Desa Sumogawe Kecamatan Getasan Salatiga Kabupaten Semarang : Kajian pengolahan Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Betty Erawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720247]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720247.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400942">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Industri Susu Alam Murni Ujungberung Bandung : Kajian Pengolahan Susu Pasteurisasi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dwi Irianti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720251]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720251.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400943">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Kopersi Susu Warga Mulya Kabupaten Sleman, Yogyakarta : Kajian Uji Kualitas Bahan Baku Susu.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anis Dwi NRP]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720258.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720258]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400944">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Perusahaan Susu Karunia, Kediri : Kajian Ketenagakerjaan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Firdan Satriyo Aribowo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720264.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720264]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400945">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Koperasi Susu SAE Pujon Malang : Kajian Pengemasan dan Pelabelan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rohanah Rohanah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720253.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720253]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400946">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Koperasi Susu Warga Mulya Sleman, Yogyakarta Kajian : Sanitasi Lingkungan Produksi, Peralatan, dan Pekerja]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[kartini Kartini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720261.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720261]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400947">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Perusahaan Susu Karunia Kediri Jawa Timur : Kajian Pengemasan dan pelabelan Produk]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S. Marni Yuliyanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720274.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720274]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400948">
+	<dc:title><![CDATA[PENERAPAN MANAJEMEN AGRIBISNIS PETERNAKAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Edy  Prasetyo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mattson Mattson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dyah   Mardiningsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Srijanto Dwidjatmiko]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720303]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720303.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400949">
+	<dc:title><![CDATA[Manajemen Usaha Pengolahan Susu Pasteurisasi di Perusahaan Susu Sapi Karunia Kediri Jawa Timtr: Kajian Jalur Distribusi dan Marjin Pemasaran]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dekky Susanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720285.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720285]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400950">
+	<dc:title><![CDATA[Manajemen Pengolahan Susu Pasteurisasi di PT ISAM Bandung : Kajian Pengemasan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mitsunori Kurihara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Takehiro Nishida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Masaki Shibata]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720306]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720306.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400951">
+	<dc:title><![CDATA[PEMBINAAN KELOMPOK TANI TERNAK SAPI POTONG DALAM MENERAPKAN ZOOTEKNIK SAPTA USAHA BETERNAK SAPI POTONG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Budi Adi Kristanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.D. Purbajanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Syaiful Anwar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720305.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720305]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400952">
+	<dc:title><![CDATA[PEMBINAAN KELOMPOK TANI TERNAK SAPI POTONG DALAM MENERAPKAN ZOOTEKNIK SAPTA USAHA BETERNAK SAPI POTONG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TIM PENYULUH TIM PENYULUH]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720309.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720309]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400953">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Arab pada CV Kuda Hitam Kediri : Kajian Penangan Pasca Penetasan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anis Analisa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720307]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720307.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400954">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pedaging CV. Hadi PS Farm. Desa Manisharjo Kecamatan Nguter Kabupaten Sukoharjo : Kajian Pola Saluran Distribusi dan Margin Pemasaran Ayam Pedaging]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Asri Wuryani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720310.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720310]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400955">
+	<dc:title><![CDATA[PEMBINAAN KELOMPOK TANI TERNAK SAPI POTONG DALAM MENERAPKAN ZOOTEKNIK SAPTA USAHA BETERNAK SAPI POTONG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TIM PENYULUH TIM PENYULUH]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720311]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720311.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400956">
+	<dc:title><![CDATA[KAJIAN PERUBAHAN MUTU ORGANOLEPTIK DAN KIMIAWI SELAMA PROSES PEMBUATAN TEPUNG IKAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TIM PENYULUH TIM PENYULUH]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720312.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720312]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400957">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pedaging Di CV. Hadi Poultry Shop Farm, Desa Manisharjo Kecamatan Nguter Kabupaten Sukoharjo : Kajian Profitabilitas Usaha]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mitsunori Kurihara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Takehiro Nishida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akira ABE]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720313.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720313]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400958">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pedaging di Desa Tabet Kecamatan Kecamatan Limbangan Kabupaten Kendal (aspek Sanitasi dan Pencegahan penyakit)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Triwasono Bayu Aji]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720317]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720317.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400959">
+	<dc:title><![CDATA[PENGARUH TANIN AMPAS TEH TERHADAP KONSENTRASI PROTOZOA DAN SINTESIS PROTEIN MLKROBIA CAIRAN RUMEN SAPI SECARA IN VITRO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[AGUNG SURRATA]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[.MARRY CEIRISTIYANTO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720316.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720316]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400960">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pedaging pada CV. Hadi Poultry Shop Farm, Desa Manisharjo Kecarnatan Nguter Kabupaten Sukoharjo : Kajian Tenaga Kerja]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gayuh Mahesti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720320.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720320]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400961">
+	<dc:title><![CDATA[PENGARUH EFISIENSI REPRODUKSI TERNAK DOMBA TEXEL TERHADAP TINGKAT PENDAPATAN PETERNAK DI KABUPATEN WONOSOBO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DAUD  SAMSUDEWA]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SPI MIGIE HANOAYANI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720324]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720324.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400962">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pedaging pada Peternak Plasma PT. Mitra Lestari Jaya Kabupaten Banyumas (Kajian Pendapatan)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ike Agustina Dewinta Ratri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720330.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720330]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400963">
+	<dc:title><![CDATA[PENGARUH EFISIENSI REPRODUKSI TERNAK DOMBA TEXEL TERHADAP TINGKAT PENDAPATAN PETERNAK DI KABUPATEN WONOSOBO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rina Muryani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dwi Retno Lukiwati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720329]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720329.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400964">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Pembibit Petelur Di PT. Satwa Utara Raya I, Purwosari, Pasuruan,Jawa Timur:Kajian Kecukupan Energi dan Protein]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sukmawati Sukmawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720334]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720334.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400965">
+	<dc:title><![CDATA[PRODUKSI DAN KUALITAS WOOL DOMBA BATUR PADA PEMBERIAN PAKAN KONVENSIONAL DAN NON KONVENSIONAL]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[BHAKTI ETZA  SETIANI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SRI MULYANI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720338]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720338.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400966">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur di Cemara Sewu Farm di Desa Padaharja Kabupaten Tegal : Kajian Aspek Pola Saluran Pemasaran]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Sulistiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K Nugroho]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720337]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720337.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400967">
+	<dc:title><![CDATA[UJI KUALITAS DAGING PADA DEPOT DAGING TIDAK RESMI (ILEGAL) DI KABUPATEN SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SETYA BUDI M  ABDUH]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AHMAD N AL-BAARRI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720342.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720342]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400968">
+	<dc:title><![CDATA[PROFIL PENGEMBANGAN PETERNAKAN BURUNG PUYUH RAKYAT DI KABUPATEN DEMAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[BAMBANG MULYATNO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720348]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720348.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400969">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur Di Perusahaan Cemara Sewu Desa Padaharja Kabupaten Tegal: Kajian Ketenaga Kerjaan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Indera Galuh Ardhini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720349]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720349.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400970">
+	<dc:title><![CDATA[PERLAKUAN FISIK DAN BIOLOGIS PADA LIMBAH INDUSTRI PERTANIAN TERHADAP KOMPOSISI SERAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MARRY CHRISTIYANTO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AGUNG SUBRATA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720344.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720344]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400971">
+	<dc:title><![CDATA[POTENSI JERAMI PADI SEBAGAI PAKAN SAPI PERANAKAN AMERICAN BRAHMAN DI KABUPATEN REMBANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Many Christiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Eko Pangestu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fajar Wahyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Surono Surono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720343.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720343]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400972">
+	<dc:title><![CDATA[STRATEGI DAN PEMULIAAN TERNAK DALAM RANGKA PENINGKATAN PRODUKTIVITAS TERNAK DOMBA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sudiyono Marzuki]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720352.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720352]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400973">
+	<dc:title><![CDATA[EDIBLE PORTION DOMBA LOKAL JANTAN YANG DIBERI PAKAN DEDAK PADI DAN RUMPUT (EDIBLE PORTION OF MALE INDIGENOUS SHEEP FED RICE BRAN AND NAPIER GRASS)*)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. M. Sri  Lestari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sularno Sularno]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720355]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720355.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400974">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur Di PT Cakrayoga Bumi Manunggal Desa Kalikuto Kecamatan Grabag Kabupaten Magelang : Aspek Ketenagakerjaan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[GAlih Wuri Asdini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720359.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720359]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400975">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur di PT Cakrayoga Bumi Manunggal, Desa Kalikuto Kecamatan Grabag Kabupaten Magelang : Kajian Tatalaksana Perkandangan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ra Cahyono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720360]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720360.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400976">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur di PT Cakra Yoga Bumi Manunggal Kota Magelang :Kajian Pencegahan Penyakit]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Suryawati Ambar Setyarini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720363.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720363]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400977">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur di Vano Farm Desa NoborejoKecamatan Argomulyo Kota Salatiga Kajian : Kecukupan Kalsium dan Phosphor]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Hartati Catur Putro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720365]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720365.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400978">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Ayam Petelur di Vano Farm Desa Noborejo Kecamatan_Argomulyu Kota Salatiga : Kajian Marjin Pemasaran dan Pola Distribusi.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alam Suryawijaya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720368.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720368]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400979">
+	<dc:title><![CDATA[EFISIENSI PAKAN SAPI YANG DIPELIHARA DENGAN PAKAN KONSENTRAT YANG DITAMBAH AMPAS BIR]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Retno Adiwinarti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720376]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720376.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400980">
+	<dc:title><![CDATA[Potensi Saccharomyces cerevisiae dan Aspergillus oryzae dalam Mensintesis Kromium Organik Melalui Proses Fermentasi pada Media Onggok]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Retno Iswarin Pujaningsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Istna Mangisah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720383.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720383]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400981">
+	<dc:title><![CDATA[SUPLEMENTASI MINYAK BIJI KAPOK TERPROTEKSI DALAM RANSUM TERNAK DOMBA UNTUK MENINGKATKAN PRODUKTIVITAS DAGING RENDAH KOLESTEROL KAYA ASAM LEMAK OMEGA 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Widiyanto Widiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Soejono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Z. Bachrudin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hari Hartadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720443.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720443]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400982">
+	<dc:title><![CDATA[Manajemen Usaha Peternakan Itik Petelur Periode Grower dan Layer di Arum Saru Farm Kabupaten Kendal : Kajian Tatalaksana Pemberian Pakan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aris Naramuda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720405]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720405.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400983">
+	<dc:title><![CDATA[MODEL MANAJEMEN PERMODALAN DAN MANAJEMEN AGRIBISNIS SEBAGAI UPAYA PENGEMBANGAN PETERNAKAN RAKYAT DI JAWA TENGAH The Financial Capital and Agribusiness Management Models to Developed the Farmers Livestock in Central Java]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Edy Prasetyo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Srijanto Dwidjahriiko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wulan Sumekar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Titik Ekowati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720442]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720442.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400984">
+	<dc:title><![CDATA[KANDUNGAN ASAM AMINO DAN KECERNAAN NUTRIEN ECENG GONDOK TERFERMENTASI Aspergillus niger SERTA PENGGUNAANNYA DALAM RANSUM ITIK TEGAL]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DAUD  SAMSUDEWA]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SPI MIGIE HANOAYANI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720444]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720444.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400985">
+	<dc:title><![CDATA[PROFIL PENGEMBANGAN AGRIBISNIS TERPADU TERNAK ITIK DI KABUPATEN BREBES PROPINSI JAWA TENGAH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NIRMALA AFIATY]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720447.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720447]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400986">
+	<dc:title><![CDATA[IDENTIFIKASI DAN KARAKTERISASI FLAVOR DAGING SAPI ASAP KHAS KUPANG (SEI) BERDASARKAN PERBEDAAN TIPE PENGASAP]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[HEM RIZQIATI HEM RIZQIATI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AHMAD N. ALBAARRI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720446.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720446]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400987">
+	<dc:title><![CDATA[MANIPULASI OSMOREGULASI DENGAN KALIUM (K+ DAN KALSIUM (Ca++) SEBAGAI DASAR PENGEIVIBANGAN RUMPUT PAKAN DI DAERAH KERING]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Sumarsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MP Istna Mangisah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720451]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720451.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400988">
+	<dc:title><![CDATA['PERANAN PPAT CAMAT DALAM PROSES PEMBUATAN AKTA DAN PENDAFTARANNYA DI KOTAMADIA DATI II SEMARANG' OLEH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ENDANG SRI SANTI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[NUR ADHIM]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ZUBAIDI ZUBAIDI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SUKIRNO SUKIRNO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720453]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720453.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400989">
+	<dc:title><![CDATA[PERANAN DAN PENGARUH SERAT KASAR TERHADAP UKURAN SEKUM , PRODUKS1 DAN ABSORBS! VOLATILE FATTY ACID (VFA) PADA ITIK TEGAL]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ISTNA MANGISAH]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MAULANA H. .NASOETION]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720450]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720450.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400990">
+	<dc:title><![CDATA[Pengelolaan Pakan Konsentrat Sapi Potong dan Sapi Perah Di Koperasi Puspita Desa Klepu, Kecamatan Ceper, Kabupaten Iaaten Jawa Tengah]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Endang Owl Purbajantl]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Syalful Anwar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Kusmlyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720475]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720475.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400991">
+	<dc:title><![CDATA[METODE ILMIAH PROGRAM STUD! S-1 PRODUKS1 TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maulana Hamonangan Nasoetion]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720503]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720503.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400992">
+	<dc:title><![CDATA[STUDI POTENSI REPRODUKSI KAMBING BERANAK LEBIll DARI DUA EKOR PER KELAHIRAN SEBAGAI DASAR PENMBENTUKAN KELOMPOK KAMBING BERANAK BANYAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[. B. Sutiyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Enny Tantini Setiatin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.M. Sri Lestari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720510]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720510.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400993">
+	<dc:title><![CDATA[PENGARUH  PENAMBAHAN PROBIOTIK PADA PAKAN TINGGI LEMAK JENUH ATAU TIDAK  JENUH TERHADAP TINGKAT PRODUKTWITAS SERTA LEMAK ABDOMINAL DAN DARAH AYAM BROILER]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MIGIE HANDAYANI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720485.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720485]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400994">
+	<dc:title><![CDATA[STATISTIKA PROGRAM STUDI D-3 MANAJEMEN USAHA TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maulana Hamonangan Nasoetion]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720508.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720508]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400995">
+	<dc:title><![CDATA[KAJIAN POLA ELIMINASI KANDUNGAN LOGAM BERAT PADA SAPI POTONG YANG DIPELIHARA DI TPA JATIBARANG MIJEN SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mukh Arifin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Edy Rianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bambang Dwiloka]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720518]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720518.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400996">
+	<dc:title><![CDATA[PENGARUH BERBAGAI KADAR EKSTRAK HIPOPHYSA DALAM MENINGKATKAN KESUBURAN DON1BA BETINA The Use of Bypophysis Extract 's Level on does.for, Increashig Lis Fecundity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Mukodiningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720514]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720514.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400997">
+	<dc:title><![CDATA[MANAJEMEN AGRIBISNIS PETERNAKAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[BAMBANG S MULYATNO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[AGUS SETIADI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720523]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720523.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400998">
+	<dc:title><![CDATA[STUDI KELAYAKAN DAN EVALUASI PROYEK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wulan Sumekar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720524]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720524.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400999">
+	<dc:title><![CDATA[UJI KUALITAS DAGING SAPI POTONG YANG DIPELIHARA DI TPA JATIBARANG KOTA SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mukh Arifin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Endang Purbowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bambang Dwiloka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11720522]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11720522.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

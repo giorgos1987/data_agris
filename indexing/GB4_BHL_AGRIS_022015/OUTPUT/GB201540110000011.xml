@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015401100">
+	<dc:title><![CDATA[Pengaruh Pemupukan Kalsium dan Nitrogen terhadap Pertumbuhan dan Kadar Bahan Kering Rumput Gajah (Pennisetum purpureum) di Tanah Salin]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Suwignyo Rahman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721363]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721363.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401101">
+	<dc:title><![CDATA[Pengaruh Pemberian Kolkisin terhadap Sifat Poliploid Tanaman Rumput Raja (Pennisetum purpupoides) dan Rumput Benggala {Panicum maximum)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ana Sulistiyowati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721365]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721365.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401102">
+	<dc:title><![CDATA[Pengaruh Pemupukan Nitrogen dan Pemotongan Bunga Jantan Terhadap Produksi Bahan Kering Jerami Jagung Manis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rio Kiky Adhitama]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721361]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721361.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401103">
+	<dc:title><![CDATA[POLA KONSUMSI PANGAN GOITROGENIK DAN HUBUNGANNYA DENGAN UEI (KADAR IODIUM URIN) DI KABUPATEN CILACAP JAWA TENGAH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S.A. Nugraheni]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Martha Irene K.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Zein Rahfiludin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Romy Aruben]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721609.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721609]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401104">
+	<dc:title><![CDATA[PENGARUH EKSTRAK DAUN COMFREY ( Symphymm officinale, L) TERDADAP PERTUMBUIIAN SERAT RAMI (Boehmeria trivaL L)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Haryanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Susiana Purwautisari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721539.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721539]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401105">
+	<dc:title><![CDATA[VARIASI LAJU PERTUMBUHAN DAN REPRODUKSI POPULASI MENTIMUN LAUT (Maeda etre)PADA HABITAT YANG BERBEDA DI KEPULAUAN KARIMUNJAWA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rudhi Pribadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agus Sabdono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Retno Hartati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721655.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721655]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401106">
+	<dc:title><![CDATA[PENGENDALIAN MUTU   MINYAK ATSIRI SEREH WANGI (Citronella oil)  di UKM SARI MURNI  Dusun Pabongan RT 01 RW 05, Desa Berjo, Kec. Ngargoyoso Kab. Karanganyar]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ambrita Rahmayani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721845.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721845]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401107">
+	<dc:title><![CDATA[[The Relationship of MspI Growth Hormone Gene Polymorphism and Body Weight and Body Measurements of West Sumatera Pesisir Cattle]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jakaria Jakaria]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Duryadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RR Noor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Tappa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Martojo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721777]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721777.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401108">
+	<dc:title><![CDATA[[The Influence of Protected Kapok Seed Oil Supplementation on In Vitro Forage Fiber Utility]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Widiyanto Widiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Soejono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Z Bachrudin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Hartadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Surahmanto Surahmanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721791.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721791]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401109">
+	<dc:title><![CDATA[[Genetic Relationships, Effective Population Size and Rate of Inbreeding per Generation of Sheep Population in Kisar Island]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[JF Salamena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RR Noor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Sumantri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I Inounu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721865]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721865.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401110">
+	<dc:title><![CDATA[[Oxytetracycline Residues and Their Antibacterial Activity in Eggs Laid by Hens Administered by Therapeutic Dose of Oxytetracycline via Drinking Water]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mukh Arifin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Edy Rianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Purwanti Purwanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721863]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721863.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401111">
+	<dc:title><![CDATA[Uji Efektifitas Bakteri Klan°litik Sebagai Pengendali Pertumbuhan Kapang Patogen Penyebab Penyakit Utama Turanian Sayurau dan Potensinya Sebagai Bohan Biofungisida Ramah Lingkungan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[IGN. SUKMADYO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722056.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722056]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401112">
+	<dc:title><![CDATA[[The Effect of Sunflowers Receptalum (Helianthus annuus L.) and Probiotic on Decreasing the Degree of Subclinical Mastitis in Fries Holland Dairy Cattle]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I Nurdin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721867.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721867]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401113">
+	<dc:title><![CDATA[[The Effect of Soaking Time in Sodium Lactate on the Shelf Life of Beef in Room Temperature]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Hintono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Astuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Wuryastuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ES Rahayu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11721786.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11721786]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401114">
+	<dc:title><![CDATA[PELATIHAN PENGEMBANGAN SUMBERDAYA MANUSIA DALAM PERENCANAAN KONSERVASI SUMBERDAYA PESISIR DAN LAUT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DENNY NUGROHO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722065]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722065.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401115">
+	<dc:title><![CDATA[DESAIN DAN APLIKASI ALAT PENGERING SEDERHANA KOMBINASI TENAGA SURYA DAN BOILER PADA INDUSTRI KACANG OVEN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Subagiyo Subagiyo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wills Ari Setyati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ali Ridlo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722072.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722072]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401116">
+	<dc:title><![CDATA[ANALISIS KETERKAITAN INTERSEKTORAL, SEKTOR PERTANIAN, SENSOR INDUSTR/ DAN REKTOR JASA PEREKONONIAN JAWA TENGAH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tri Yuwono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722366]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722366.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401117">
+	<dc:title><![CDATA[PENGGUNAAN BERBAGAI MACAM JENLS PUPUK ANORGANIK PADA BUDIDAYA LATOB ( Caulerparacemesa Van Boose ) DALAM U'PAYA MENUNJANG KELANGSUNGAN PRODUKSI]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NIRWANI SOENARDJO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SRI REJEKI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RIA AZIZAH TN]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722383]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722383.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401118">
+	<dc:title><![CDATA[PENGARUH PENGUASAAN LAHAN SAWAH TERHADAP DISTRIBUSI PENDAPATAN (Kasus Di Kabapaten Banjarnegara, Propinsi Jawa Tengah)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Purbayu Dudi Santosa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722463]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722463.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401119">
+	<dc:title><![CDATA[Uji Aktivitas Ekstrak Daun Cempaka (Michelia champaca) Terhadap Pengendalian Pertumbuhan Jamur dan Bakteri Penyebab Penyakit Layu Pada Tanaman Tomat]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Haryanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Susiana Purwantisari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722434.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722434]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401120">
+	<dc:title><![CDATA[PEMANFAATAN BUAH PISANG SEBAGAI BAHAN DASAR PEMBUATAN SELAI DI KALURAHAN MANGUNSARI, GUNUNGPATI, SEMARANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rejeki Siti Ferniah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Susiana Purwantisari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Arina Tri Lunggani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rennin Pancasakti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722134.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722134]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401121">
+	<dc:title><![CDATA[PENENTUAN AGRIBISNIS UNGGULAN KOMODITI PERTANIAN BERDASARKAN NILAI PRODUKSI DI KABUPATEN GROBOGAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nur Indah Wul]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722794.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722794]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401122">
+	<dc:title><![CDATA[Energy Metabolism in Lactating Cow Trated With Recombinant Bovine Somatotropin Under High Environmental Temperature]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. Nonaka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Itoh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722926]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722926.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401123">
+	<dc:title><![CDATA[Urinary allantoin in lactating cows during heat exposure]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nomachi Nomachi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kouji Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722945.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722945]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401124">
+	<dc:title><![CDATA[Effects of Dietary Protein Degradabilty on Nitrogen and Energy Utilization of Lactating cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fuminori Nakai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yoshinori Hirashima]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Koichiro Ueda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kouji Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722944]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722944.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401125">
+	<dc:title><![CDATA[MANAJEMEN DAN TINGKAT KEPUASAN PEDAGANG PENGGUNA PADA SUBTERMINAL AGRIBISNIS SEWUKAN DI KABUPATEN MAGELANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SURANTO SURANTO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722951]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722951.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401126">
+	<dc:title><![CDATA[Analysis of Milk Urea Nitrogen by an Inexpensive Near Infrared Spectral Analysis at Wavelengths Less than 11OOnm]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Nakai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Nomachi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Takusari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723064]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723064.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401127">
+	<dc:title><![CDATA[Effects of Feeding Preserved Italian Ryegrass on Organic Matter Digestion, Methare Emission and Nitrogen Utilisation by Goats]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nurhayati Nurhayati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723065]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723065.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401128">
+	<dc:title><![CDATA[Monitoring blood urea nitrogen through near infrared spectra of urine in dairy cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Nomachi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kouji Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11722946.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11722946]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401129">
+	<dc:title><![CDATA[Towards the 'environmental-friendly' animal agriculture systems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mitsunori Kurihara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Takehiro Nishida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723063]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723063.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401130">
+	<dc:title><![CDATA[Deposisi Energi dan Konsentrasi VFA pada Sapi Peranakan Ongole Jantan yang Diberi Pakan Ampas Bir Dengan Pakan Basal Rumput Raja.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Susiloningsih Susiloningsih]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723263.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723263]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401131">
+	<dc:title><![CDATA[Deposisi Protein dan Konsentrasi NH3 Rumen pada Domba Lokal Jantan yang Mendapat Pakan Dedak Padi dengan Aras yang Berbeda]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S. Johari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Sutopo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Kurnianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Hasviara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723278]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723278.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401132">
+	<dc:title><![CDATA[Deposisi Protein dan Konsentrasi NH3 Rumen pada Sapi Peranakan ongole Jantan yang Diberi Pakan Ampas Bir Sebagai pengganti Konsentrat]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anis Triana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723281.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723281]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401133">
+	<dc:title><![CDATA[Deposisi Protein dan Konsentrasi NH3 Rumen Akibat Penggantian Konsentrat dengan Ampas Tahu Kering pada Domba Garut Jantan yang Diberi Rumput Gajah sebagai Ransum Basal]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Purwanto Purwanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723277]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723277.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401134">
+	<dc:title><![CDATA[Evaluasi Nilai Pemuliaan sapi Perah Betina di PT Naksatra Kejora Rowoseneng Temanggung]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pipin Puji Astuti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723283.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723283]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401135">
+	<dc:title><![CDATA[Evaluasi Pejantan Sapi Perah Berdasarkan Nilai Pemuliaan dan Contemporary Comparison Di PT. Naksatra Kejora Rowoseneng Temanggung.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NURUL KAMILIA]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samsul Ma'rif]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ayani Wiw]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723285]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723285.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401136">
+	<dc:title><![CDATA[Energy and protein utilization by goats fed Italian ryegrass silage treated with molasses, urea, cellulase or cellulase + lactic acid bacteria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Islam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kouji Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Takusari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723075.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723075]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401137">
+	<dc:title><![CDATA[Hubungan antara Ukuran-ukuran Badan dengan Bobot Badan Domba Priangan Jantan Dewasa di Kecamatan Cisurupan Kabupaten Garut Jawa Barat.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Heri Mahfiyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723289]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723289.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401138">
+	<dc:title><![CDATA[Analisis Rasio Harga Telur dan Harga Pakan di Petemakan Ayam Petelur Mangunsari Farm, Desa Mangunsari, Kecamatan Gunung Pati, Kota Semarang.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mohammad Taufik]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723296.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723296]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401139">
+	<dc:title><![CDATA[Hubungan antara Ukuran-Ukuran Tubuh dengan Bobot Badan Domba Lokal Betina Poel 3 dan 4 di Kecamatan Jambu Kabupaten Semarang.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ari Budiyanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723291.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723291]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401140">
+	<dc:title><![CDATA[Hubungan antara Ukuran-ukuran Tubuh dengan Bobot Tubuh Domba Lokal Betina Muda di Kecamatan Jambu Kabupaten Semarang.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agus Widhianto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723295.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723295]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401141">
+	<dc:title><![CDATA[Bobot dan Persentase Karkas Ayam Kampung Jantan Umur 14 Minggu Akibat Pemberian Tepung Daun Pepaya dalam Ransum.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Itoko Nonaka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kouji Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Osamu Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Masahiro Amari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723298.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723298]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401142">
+	<dc:title><![CDATA[Curahan Waktu Kerja Keluarga pada Pemeliharaan Ternak Kambing Peranakan Ettawa di Kecamatan Kaligesing Kabupaten Purworeio.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Afifah Afifah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723300.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723300]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401143">
+	<dc:title><![CDATA[Hubungan antara Ukuran Badan dengan Bobot Badan dan Bobot Karkas Babi Jantan Kebiri Periode Pengakhiran.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Haryati Puji Rahayu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723288]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723288.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401144">
+	<dc:title><![CDATA[Deposisi Energi dan Konsentrasi VFA Rumen pada Domba Lokal Jantan yang Mendapat Suplementasi Dedak Padi Halus.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shinta Setyowening]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723303]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723303.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401145">
+	<dc:title><![CDATA[Deposisi Energi dan Konsentrasi VFA Rumen Kerbau Jantan Muda yang Diberi Pakan Arnpas Bir sebagai Pengganti Konsentrat dengan Pakan Basal Jerami Padi.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ita Nur Aryani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723302]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723302.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401146">
+	<dc:title><![CDATA[Kelarutan Mineral N, P dan Znpada Polard dan Bekatul dalam Rumen Ternak Domba secara In sacco.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nishida T]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mitsunori Kurihara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fuminori Terada]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shibata M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723306]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723306.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401147">
+	<dc:title><![CDATA[Keoernaan Lemak Kasar dan Energi Metabolis pada Ayam Broiler yang Mendapat Ransum Kecambah Sorghum Sebagai Pengganli Jagung.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[i Basuma]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723304.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723304]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401148">
+	<dc:title><![CDATA[Ketahanan Dua Varietas Sorghum Sorghum Bicolor (L) Moench yang Mengalami Lama Stres Air Berbeda.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Reni Rikawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723308.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723308]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401149">
+	<dc:title><![CDATA[Komponen Proksimat Limbah Kubis Terfermentasi dengan Mikroorganisme Efektif pada Lama Pemeraman yang Berbeda]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ria Widya Sagita]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723313.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723313]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401150">
+	<dc:title><![CDATA[Komponen proksimat Kulit Jagung Manis yang Difermentasi dengan Berbagai Aras Ragi Isi Rumen dan Lama Pemeraman yang Berbeda]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ra Kurniadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723310]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723310.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401151">
+	<dc:title><![CDATA[Komponen Proksimat Limbah Organik Restoran pada Berbagai Kelas Hotel di Semarang yang dikeringkan dengan Berbagai Aras Penambahan Dedak Halus]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kus Oktarina]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723317]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723317.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401152">
+	<dc:title><![CDATA[Komponen Serat Daun Eceng Gondok (Eichorrnia crassipes) yang Difermentasikan dengan Berbagai Aras BOLUS.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joelal Achmadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723319]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723319.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401153">
+	<dc:title><![CDATA[Komposisi Proksimat Hasil Fermentasi Eceng Gondok (Eiichornia crasipes)dengan Aras pemberian Bolus Sapi yang Berbeda.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sudiyono Sudiyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[TH Purwatri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723324.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723324]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401154">
+	<dc:title><![CDATA[Kornposisi Kimiawi Limbah Wortel Terfermentasi dengan Lama Pemeraman yang Berbeda.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Diah Irawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723322.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723322]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401155">
+	<dc:title><![CDATA[KAJIAN POLA BERTANI PADI SAWAH  DI KABUPATEN PATI DITINJAU DARI SISTEM PERTANIAN BERKELANJUTAN  (Studi Kasus di Kecamatan Pati)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bakdo Praptono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723529.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723529]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401156">
+	<dc:title><![CDATA[PERILAKU PETANI BAWANG MERAH DALAM PENGGUNAAN DAN PENANGANAN PESTISIDA SERTA DAMPAKNYA TERHADAP LINGKUNGAN  (Studi Kasus di Desa Kemukten, Kecamatan Kersana, Kabupaten Brebes)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sri Wahyuni]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723648]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723648.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401157">
+	<dc:title><![CDATA[EVALUASI POTENSI DAN PROGRAM PEMERINTAH DALAM PEMBANGUNAN PETERNAKAN DI JAWA TENGAH : PENYEDIAAN PAKAN GUNA MENDUKUNG SWASEMBADA PRODUK TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SN Aritonang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723991]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723991.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401158">
+	<dc:title><![CDATA[Analysis of Thiobarbituric acid Value and Benzo(α)Pyrene of Smoked Tilapia (Oreochromis niloticus) Using Corn Cob and Coconut Shells Liquid Smokes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. Ario]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Irwani Irwani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chrisna A. S]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Baskoro Rochaddi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723993]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723993.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401159">
+	<dc:title><![CDATA[PENJAMINAN MUTU PAKAN BERBASIS HACCP]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Melia]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[IM Sugitha]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723999.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723999]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401160">
+	<dc:title><![CDATA[Energy Metabolsim In Lactating Cow Trated With Recombinant Bovine Somatotropin Under High Environmental Temperature]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I Nonaka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Itoh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Terada]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y. Obara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11724173]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11724173.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401161">
+	<dc:title><![CDATA[PENGEMBANGAN PAKAN TERNAK RUMINANSIA : MENGGAGAS LUMBUNG PAKAN BERBASIS HASIL SAMPING TANAMAN PANGAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joelal Achmadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11723997.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11723997]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401162">
+	<dc:title><![CDATA[The Relationship of MspI Growth Hormone Gene Polymorphism and Body Weight and Body Measurements of West Sumatera Pesisir Cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jakaria Jakaria]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Duryadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RR Noor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Tappa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725037.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725037]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401163">
+	<dc:title><![CDATA[The In Vitro Rumen Fermentability on the Processed Vegetable Waste]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Arina Musriyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725041]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725041.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401164">
+	<dc:title><![CDATA[Oxytetracycline Residues and Their Antibacterial Activity in Eggs Laid by Hens Administered by Therapeutic Dose of Oxytetracycline via Drinking Water]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Hintono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Astuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Wuryastuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ES Rahayu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725045.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725045]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401165">
+	<dc:title><![CDATA[Genetic Relationships, Effective Population Size and Rate of Inbreeding per Generation of Sheep Population in Kisar Island]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[JF Salamena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RR Noor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Sumantri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I Inounu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725060.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725060]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401166">
+	<dc:title><![CDATA[THE EFFECT OF N-NH3 INCLUSION ON THE DEGRADATION OF TANNIN OF SORGHUM GRAIN BY RUMEN MICROBES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joelal Achmadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11724003.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11724003]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401167">
+	<dc:title><![CDATA[The Effect of Sunflowers Receptalum (Helianthus annuus L.) and Probiotic on Decreasing the Degree of Subclinical Mastitis in Fries Holland Dairy Cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E Nurdin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725061]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725061.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401168">
+	<dc:title><![CDATA[The Quality of Dadih Mutan Lactococcus Lactis at Various Fermentation Times]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Muhtarudin Muhtarudin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725065]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725065.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401169">
+	<dc:title><![CDATA[Milk Production and Milk Fat Components of Ettawah Grade Goats under Cool Wind Exposure]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mulyati Mulyati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Achmadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Purnomoadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725067]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725067.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401170">
+	<dc:title><![CDATA[Utilization of Fermented Palm Bunches Trash Combined with Defaunation and Rumen By Pass Protein on Sheep Performance]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SA Akbar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725064.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725064]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401171">
+	<dc:title><![CDATA[The Supplementation of Cassava Leaves to Optimize the Use of Palm Press Fiber as Ruminant Feed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M Zain]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725074]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725074.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401172">
+	<dc:title><![CDATA[Semen Volume and Sperm Concentration of Simmental, Limousin and Brahman Cattles in Ungaran of Artificial Insemination Center]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I Sumeidiana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Wuwuh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Mawarti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725209]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725209.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401173">
+	<dc:title><![CDATA[Blood Protein Variability as Biogenetic Parameter of Java Cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Johari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Kurnianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sutopo Sutopo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Aminah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725203.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725203]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401174">
+	<dc:title><![CDATA[Morphology and Forage Dry Matter Yield Performance of Elephant and Para Grasses in Coastal Area Fertilized by Organic Fertilizer and Two Levels of Urea]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. James Quinlin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725043]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725043.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401175">
+	<dc:title><![CDATA[The Reduced Glucose, Acidity, and Preference of Fermented Meat “Petis” on the Different of Meat Broth]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ED Purbajanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Soetrisno]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Hanudin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SPS Budi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725205.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725205]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401176">
+	<dc:title><![CDATA[Study on Zn-Fitat Processing and Its Degradation In Rumen Fluid]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I Hernaman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T Toharmat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W Manalu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[PI Pudjiono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725242]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725242.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401177">
+	<dc:title><![CDATA[The Effect of Ipomoea batatas Leaves in Diet on the Carcass Characteristics of Broiler Chicken]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[IY Asmara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Garnida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W Tanwiriah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725207]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725207.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401178">
+	<dc:title><![CDATA[The In Vitro Digestibility of Processed Sugarcane]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nony Indrianti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725243]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725243.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401179">
+	<dc:title><![CDATA[Potentiality of Mixed Cellulolytic Microbes of Termite Extract, Elephant Feces Solution and Buffalo Rumen Fluid]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Prabowo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Padmowijoto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Z Bachrudin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Syukur]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725270.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725270]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401180">
+	<dc:title><![CDATA[Shorter Rearing Time of Broiler as Affected by Garlic (Allium Sativum L.) Supplementation on Concentrate Feed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Z Muhammad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[IAK Bintang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725246]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725246.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401181">
+	<dc:title><![CDATA[Shorter Rearing Time of Broiler as Affected by Garlic (Allium Sativum L.) Supplementation on Concentrate Feed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Z Muhammad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[IAK Bintang]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725272]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725272.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401182">
+	<dc:title><![CDATA[The Effect of Using Lactic Acid Bacteria Inoculant on Forage Garbage Ensiling in Traditional Market as Feed Stuff]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Muwakhid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Soebarinoto Soebarinoto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O Sjofjan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Am]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725245]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725245.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401183">
+	<dc:title><![CDATA[The In Vitro Digestibility of Rice Straw Fermented by Different Level of Fortified Rumen and Fermentation Times]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TF Sitorus]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Achmadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[CI Sutrisno]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725247]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725247.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401184">
+	<dc:title><![CDATA[The Effect of Using Lactic Acid Bacteria Inoculant on Forage Garbage Ensiling in Traditional Market as Feed Stuff]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Muwakhid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Soebarinoto Soebarinoto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O Sjofjan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Am]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725271.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725271]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401185">
+	<dc:title><![CDATA[The utilization of faecal inoculum of cow to investigate The in vitro digestibility of Kumpeh Grass (Hymenachne Amplexicaulis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M Afdal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[MD Toha]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725276.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725276]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401186">
+	<dc:title><![CDATA[Characteristic of Five Grasses on the Variours Salinity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Muktiani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[BIM Tampoebolon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Achmadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725274]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725274.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401187">
+	<dc:title><![CDATA[The Effect of Superovulation on Corpus Luteum in Simbrah Cow]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Adriani Adriani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Depison Depison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Rosadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y Supriondo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Isroli Isroli]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725277]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725277.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401188">
+	<dc:title><![CDATA[The Microbiologycal, Physical, and Chemical Changes of Petis Liquid during Dry Spontaneous Fermentation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[YB Pramono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ES Rahayu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suparmo Suparmo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T Utami]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725278.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725278]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401189">
+	<dc:title><![CDATA[Exploration and Selection of Rhizobium Resistance to Salinity and Its Association with Legume]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E Fuskhah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Anwar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ED Purbajanti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[RD Soetrisno]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[SPS Budhi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Maas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725273]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725273.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401190">
+	<dc:title><![CDATA[Immobilization Of Rennin Enzyme From Mucor pusillus With Alginate And Its Application In Cheese Making]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[KU Al Awwaly]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725279]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725279.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401191">
+	<dc:title><![CDATA[Variance Component of Body Weight of Etawa Grade at Sumberrejo Goat Breeding Center-Kendal Regency]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutaryo Sutaryo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y Setyaningrum]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Dwiloka]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725281]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725281.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401192">
+	<dc:title><![CDATA[Nutrition Quality and Digestibility of Eichhornia crassipes leaf fermented amoniation by in vitro with Trichoderma viride at the various period of fermentation]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Sumarsih]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[CI Sutrisno]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Pangestu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725311.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725311]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401193">
+	<dc:title><![CDATA[The Use of Shrimp Head Waste Meals by Soaking with Dusk Rice Husk Solution in Broiler Diets]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mirzah Mirzah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725312]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725312.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401194">
+	<dc:title><![CDATA[BROILER SMALL INTESTINE VILLI RESPONSE TO FEED CONTAINING PALM KERNEL CAKE WHICH FERMENTED WITH RHIZOPUS SP]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F Rahim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sabrina Sabrina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rusmawati Rusmawati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Syibli]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725283.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725283]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401195">
+	<dc:title><![CDATA[The Role of Non-formal Institution in the Development of Farming-based Area in Bandungan Sub-district, Semarang District]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Gopalakrishnan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Vadlamudi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Humayun]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. S. Vidya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Alekhya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Vijayabharathi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Bhimineni]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Seema]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Rathore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Om Rupela]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11726500.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11726500]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401196">
+	<dc:title><![CDATA[A study on Flavor and Various of Organic Acid of Fermented Milk Goat by Using Lactobacillus casei]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TW Murti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11725280]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11725280.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401197">
+	<dc:title><![CDATA[ILMU TANAMAN MAKANAN TERNAK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[YOYOK BUDI PRAMONO]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Hintono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nurwantoro Nurwantoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sri Mulyani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Heni Rizqiati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Masykuri Masykuri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11726613]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11726613.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401198">
+	<dc:title><![CDATA[MATA KULIAH  DINAMIKA POPULASI]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SURADI WIJAYA SAPUTRA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11726614]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11726614.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015401199">
+	<dc:title><![CDATA[Buku Ajar Hormon dan Sistem Reproduksi pada Ternak]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bambang Sudarmoyo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Isroli Isroli]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Siti Susanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11726572]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11726572.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

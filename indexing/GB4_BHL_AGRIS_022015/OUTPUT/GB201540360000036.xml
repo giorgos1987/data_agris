@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015403600">
+	<dc:title><![CDATA[Multimedia and e-Learning integration for supporting training programs in agriculture by MOODLE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Péter Lengyel]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405496.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405496]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403601">
+	<dc:title><![CDATA[Impact factors for mobile internet applications in the agri-food sectors]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Róbert Szilágyi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405518]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405518.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403602">
+	<dc:title><![CDATA[Vaccination against Foot-and-mouth disease : do initial conditions affect its benefit?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Thibaud Porphyre]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Harriet K. Auty]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael J. Tildesley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[George J. Gunn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[(Mark E. J.) M. E. J. Woolhouse]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18327708.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18327708]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403603">
+	<dc:title><![CDATA[Impacts for m-Internet applications and perspectives in agriculture]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Róbert Szilágyi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405519.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405519]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403604">
+	<dc:title><![CDATA[DSS for selection and evaluation of information system in SMEs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alistair B.A. Boxall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anthony Hardy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sabine Beulke]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tatiana Boucard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Laura Burgin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter D. Falloon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Philip M. Haygarth]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Thomas Hutchinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Sari Kovats]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Giovanni Leonardi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Leonard S. Levy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gordon Nichols]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dr. Simon Parsons]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Laura Potts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Stone]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Edward Topp]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David B. Turley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kerry Walsh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[1954- E. M. H. (Elizabeth M. H.) Wellington]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Richard J. Williams]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405523]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405523.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403605">
+	<dc:title><![CDATA[Mobile Internet in Agriculture (Hajdú-Bihar) Survery]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Triantafyllos G. Flouris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405527.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405527]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403606">
+	<dc:title><![CDATA[e-Factors in e-Agribusiness]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Szilárd Podruzsik]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[József Fogarasi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anita Major]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ágnes Virág]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405520]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405520.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403607">
+	<dc:title><![CDATA[Információtechnológiák az agrárgazdaságban]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405580.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405580]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403608">
+	<dc:title><![CDATA[Traceability requirements for information systems in the agro-food sector]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[István Füzesi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405526.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405526]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403609">
+	<dc:title><![CDATA[Assessments of Information Systems at Small and Medium-sized Enterprises in the Agri-food Sector]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gusztáv Nemes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher High]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405524]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405524.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403610">
+	<dc:title><![CDATA[Tények és talányok: az agrárinformatikus képzés jelene és jövője]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zsolt Magó]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405582.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405582]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403611">
+	<dc:title><![CDATA[Az információs rendszerek funkcionális változásai a kis és középvállalkozások szemszögéből]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tünde Rózsa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405588]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405588.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403612">
+	<dc:title><![CDATA[Genetikus algoritmus alkalmazása a mezőgazdasági termelés optimalizálásában]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Brendan Riordan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405600.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405600]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403613">
+	<dc:title><![CDATA[Az adatintegráció és elosztott feldolgozás lehetőségei az agrárinformatikában]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405602.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405602]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403614">
+	<dc:title><![CDATA[Az AMI@Netfood EU IST FP6-os projekt céljai és részeredményei]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gusztáv Nemes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher High]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405601.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405601]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403615">
+	<dc:title><![CDATA[Mobil Internetes eszközök agrárgazdasági aspektusai]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Róbert Szilágyi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405603.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405603]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403616">
+	<dc:title><![CDATA[Comparison of two soil tillage treatments for winter barley-soybean growing based only on residual nitrogen after soybean]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405504.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405504]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403617">
+	<dc:title><![CDATA[EDI - XML Standards and Technologies in the Agri-Food Industry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[István Füzesi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405605]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405605.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403618">
+	<dc:title><![CDATA[Agrárinformatikai oktatás/képzés mint a tudásalapú ágazat megalapozásának eszköze]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Herdon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405609]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405609.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403619">
+	<dc:title><![CDATA[Célorientált digitális talajtérképezés]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Doug Imig]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sidney. Tarrow]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18405611.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18405611]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403620">
+	<dc:title><![CDATA[Wheat-barley hybridization – the last forty years]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Márta Molnár-Láng]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gabriella Linc]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Éva Szakács]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18406099.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18406099]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403621">
+	<dc:title><![CDATA[60 Years of Hungarian Hybrid Maize 1953–2013]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Dronavalli]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Sharma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S K Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sube Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18406172]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18406172.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403622">
+	<dc:title><![CDATA[Book review: Proche-orient: le pouvoir, la terre et l’eau]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andri Cahyo Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Diah Susetyo Retnowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Catarina Sri Budiyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18419432]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18419432.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403623">
+	<dc:title><![CDATA[Rural transformation since 1970s in Dokur Village of Andhra Pradesh, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Amarender Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18424860]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18424860.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403624">
+	<dc:title><![CDATA[Financing Agribusiness by State Development Banks - the Case of Macedonia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Goran Kovachev]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18424982]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18424982.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403625">
+	<dc:title><![CDATA[Rural transformation since 1970s in Dokur Village of Andhra Pradesh, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Amarender Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425335.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425335]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403626">
+	<dc:title><![CDATA[Measuring Maize Price Volatility in Swaziland using ARCH/GARCH approach]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marc F. Bellemare]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425336.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425336]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403627">
+	<dc:title><![CDATA[Conditions and Perspectives of financial lending in Macedonian Agriculture and rural Development]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marija Gjosheva-Kovachevikj]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Goran Kovachev]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hristijan Risteski]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425089]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425089.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403628">
+	<dc:title><![CDATA[Financialization of food - The determinants of the time-varying relation between agricultural prices and stock market dynamics]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sutiyono Sutiyono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Riyadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sri Kismiati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425404.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425404]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403629">
+	<dc:title><![CDATA[Development of Potato in Bihar:Issues and Strategies]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K.M. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abhay Kumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425345]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425345.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403630">
+	<dc:title><![CDATA[SRI Cultivation in Andhra Pradesh : Achievements, Problems and Implications for GHGs and Work]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Narasimha Reddy Duvvuru]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Venkatanarayana Motkuri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425441]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425441.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403631">
+	<dc:title><![CDATA[Potatoes, Milk, and the Old World Population Boom]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jean Marie Marcoen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christophe V]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[enberghe]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425352.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425352]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403632">
+	<dc:title><![CDATA[A Socio-Economic Study on Adoption of Modern Agricultural Technologies in Bihar, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K.M. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.K.P. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abhay Kumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425400]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425400.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403633">
+	<dc:title><![CDATA[Population dynamics of the Sycamore Lace Bug (Corythucha Ciliata, Say, Heteroptera: Tingidae) in Hungary]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18426052.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18426052]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403634">
+	<dc:title><![CDATA[Phyllosphere of organically grown strawberries]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Frances Harris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18462546.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18462546]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403635">
+	<dc:title><![CDATA[Households Expenditure Pattern On Beef And Chicken Of Selected Households In Akoko South-West LGA Of Ondo State]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Santos R. Alimi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18425462]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18425462.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403636">
+	<dc:title><![CDATA[The effect of climate change on the population of sycamore lace bug (Corythuca ciliata, Say) based on a simulation model with phenological response]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Siswanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18426053.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18426053]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403637">
+	<dc:title><![CDATA[Tissue specific action of Gibberellin in Arabidopsis flowering and development]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aimone Porri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18524672]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18524672.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403638">
+	<dc:title><![CDATA[Standard methods for Apis mellifera anatomy and dissection]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Norman L Carreck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Andree]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Colin S Brent]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Diana Cox-Foster]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Harry A Dade]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[James D Ellis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fani Hatjina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dennis vanEnglesdorp]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18548084.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18548084]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403639">
+	<dc:title><![CDATA[The role of deformed wing virus in the initial collapse of varroa infested honey bee colonies in the UK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Christian. Egenhofer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Monica Alessi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jonas Teusch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jorge Núñez Ferrer]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18548083]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18548083.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403640">
+	<dc:title><![CDATA[Farm size and growth in field crop and Dairy farms in France, Hungary and Slovenia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Patanothai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C K Ong]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18544792]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18544792.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403641">
+	<dc:title><![CDATA[Unraveling the genetic architecture of subtropical maize (Zea mays L.) lines to assess their utility in breeding programs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T J Rego]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Pardhasaradhi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L S Jangawad]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604966]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604966.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403642">
+	<dc:title><![CDATA[Optimizing Livelihood and Environmental Benefits from Crop Residues in Smallholder Crop-Livestock Systems in Southern Africa. Series Paper Number 11]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604960]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604960.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403643">
+	<dc:title><![CDATA[Cropping systems strategy for effective management of Fusarium wilt in safflower]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604968]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604968.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403644">
+	<dc:title><![CDATA[Assessing the Impacts of Zimbabwe’s Agricultural Vouchers Input Program]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604967.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604967]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403645">
+	<dc:title><![CDATA[Uptake and utilization of nitrogen applied to the foliage of winter wheat]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jill Hopkinson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18547532]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18547532.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403646">
+	<dc:title><![CDATA[Tracking Adaptation Pathways and Identifying Strategies for Enhancing Grass-root Resilience to Climate Change Synthesis of Case Studies from Selected Countries of Asia (Bangladesh, China, India, Sri Lanka, Thailand and Viet Nam)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N P Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M C S Bantilan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Kattark]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[i]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M V R Murty]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604971.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604971]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403647">
+	<dc:title><![CDATA[Managing soil fertility constraints in market-led shift to high value agriculture for benefiting smallholders in the semi-arid tropics]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G Ch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[er]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D L Maheshwer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Hemalatha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K L Sahrawat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K Krishnappa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G L Sawargaonkar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K H Anantha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Sudi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L S Jangawad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Srinivasa Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Pardhasaradhi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R A Jat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604974.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604974]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403648">
+	<dc:title><![CDATA[Impact of hazardous components on CO2 biofixation from synthetic flue gas using Chlorella sp. JPR-1 in a raceway pond photobioreactor]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[hady Hadiyanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Heru Susanto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605467]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605467.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403649">
+	<dc:title><![CDATA[PERENCANAAN PERTANIAN BERKELANJUTAN DI KECAMATAN SELO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Sasongko Putra]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605609.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605609]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403650">
+	<dc:title><![CDATA[TINGKAT PENERAPAN SISTEM PERTANIAN BERKELANJUTAN PADA BUDIDAYA PADI SAWAH (STUDI KASUS DI KECAMATAN AMBAL KABUPATEN KEBUMEN)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Istiantoro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605608.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605608]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403651">
+	<dc:title><![CDATA[Pengelolaan Air Tanah Untuk Irigasi Berbasis Masyarakat Di Desa Pangkul  Kecamatan Cambai Kota Prabumulih]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Endang Mintaria]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605622]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605622.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403652">
+	<dc:title><![CDATA[Kelimpahan dan Keanekaragaman Arthropoda Tanah  di Lahan Sayuran Organik “Urban Farming”]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Ferdianto Budi Samudra]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605630]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605630.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403653">
+	<dc:title><![CDATA[Mannan Precipitation From Aloe Vera Leaf Pulp Juice Using Methanol And Isopropyl Alcohol As Anti-Solvent: Experimental And Empirical Modelling Approach]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D.S. Retnowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605468]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605468.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403654">
+	<dc:title><![CDATA[PENGEMBANGAN TEKNOLOGI BIOCODIGESTER ANAEROBIK UNTUK PERCEPATAN PRODUKSI BIOGAS DARI LIMBAH TAPIOKA DAN LIMBAH PETERNAKAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sunarso Sunarso]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Siswo  Sumardiono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605641.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605641]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403655">
+	<dc:title><![CDATA[Potential of pearl millet as a forage crop in wheat-based double cropping system in Central Asia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M C Manna]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T J Rego]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K L Sahrawat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T Bhattacharyya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Ramesh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K K B]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[yopadhyay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T R Rupa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Pathak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K V Padmaja]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18604972]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18604972.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403656">
+	<dc:title><![CDATA[EFISIENSI PENGGUNAAN PUPUK –N UNTUK PENGURANGAN KEHILANGAN NITRAT PADA LAHAN PERTANIAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- Ari Triyono]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605678]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605678.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403657">
+	<dc:title><![CDATA[ARAHAN PENGEMBANGAN PERWILAYAHAN KEGIATAN AGRIBISNIS DI KABUPATEN GROBOGAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rr. Damayanti Sinar Hapsari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605890]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605890.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403658">
+	<dc:title><![CDATA[PEMBENTUK KETAHANAN SOSIAL EKONOMI PETANI  TAMBAK MELALUI UPAYA SYLVOFISHERY  DI KELURAHAN MANGUNHARJO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fergal James Callaghan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605907]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605907.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403659">
+	<dc:title><![CDATA[PENGARUH FAKTOR PENAWARAN DAN PERMINTAAN TERHADAP KETAHANAN PANGAN HEWANI ASAL TERNAK DI JAWA TENGAH (The Effect of Supply and Demand Factors to Livestock Food Security in Central Java)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.S. Retnowati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.S. Budiyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605748]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605748.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403660">
+	<dc:title><![CDATA[ARAHAN PENGEMBANGAN USAHA TANI TANAMAN PANGAN BERBASIS AGRIBISNIS DI KECAMATAN TOROH, KABUPATEN GROBOGAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hak Deny Mim Shot TANTI]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samsul MA'RIF]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605959.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605959]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403661">
+	<dc:title><![CDATA[KAJIAN PEMANFAATAN LAHAN PERTANIAN DI KABUPATEN WONOSOBO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dwi H]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[oko]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605960.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605960]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403662">
+	<dc:title><![CDATA[PENGARUH ALIH FUNGSI LAHAN PERTANIAN TERHADAP KONDISI EKONOMI DI DESA DUREN KECAMATAN BANDUNGAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Johanne Claire Allinson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18606016]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18606016.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403663">
+	<dc:title><![CDATA[Iowa Agri-News, August 29, 2013, Vol. 13, no.18]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DWI ISTIANTO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18608198]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18608198.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403664">
+	<dc:title><![CDATA[ORANGE You Interested In Pumpkins...., 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E.-D. Schulze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Hoeberg]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Scarascia-Mugnozza]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. George]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Martin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Read]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Persson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Struwe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V. Wolters]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.F. Harrison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.R. Andersen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Beredse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Paces]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18605976.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18605976]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403665">
+	<dc:title><![CDATA[Iowa Agri-News, September 18, 2013, Vol. 13, no.21]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pavlos Pezaros]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18608201]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18608201.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403666">
+	<dc:title><![CDATA[Еко-управление в българското селското стопанство]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hrabrin Bachev]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Plamena Yovchevska]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dilyana Mitova]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Desislava Toteva]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anton Mitov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19085097]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19085097.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403667">
+	<dc:title><![CDATA[Soils of Moor House]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E. Glen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. A. C. Price]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. J. M. Caporn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Carroll]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. L. M. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Scott]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18619826]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18619826.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403668">
+	<dc:title><![CDATA[Understanding greenhouse gas balances of bioenergy systems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard D. Bardgett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John N. Quinton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Franciska T. de Vries]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:18619892]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/18619892.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403669">
+	<dc:title><![CDATA[Does Oil Income Impede Democratization In Muslim– Majority Countries?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Osman Nuri  Aras]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Elchin Suleymanov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ayaz Zeynalov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19085124.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19085124]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403670">
+	<dc:title><![CDATA[Report on the socio-economic impact of Natural Rubber cultivation under the block planting scheme in Tripura]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Roy Chowdhury Indrani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19085194.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19085194]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403671">
+	<dc:title><![CDATA[Penentuan Racun Perosak Organoklorin(OCPs) dan Polisiklik Aromatik Hidrokarbon(PAHs) Dari Kawasan Pertanian Dan Sungai-Sungai Tadahan Timah Tasoh Perlis.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SITI WASILATURROHMAH]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19163389.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19163389]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403672">
+	<dc:title><![CDATA[Global Climate Change Agenda and Processes: Scouting for Traditional Grassroot Adaptation Strategies in Arid and Semi-Arid Agriculture of India. Working Paper Series No. 46]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kevin Parris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19119369]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19119369.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403673">
+	<dc:title><![CDATA[Legume Genomics: From Genomic Resources to Molecular Breeding]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Austin. Boyle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[2006. Florida Atlantic University.Honors College.Bachelor's thesis]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19119367.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19119367]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403674">
+	<dc:title><![CDATA[Micro Irrigatino-Based Vegetable Farming for Income, Employment and Food Security in West Africa]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S J Twomlow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J C Urolov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Jenrich]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Oldrieve]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19204953.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19204953]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403675">
+	<dc:title><![CDATA[Supply Response and Investment in Agriculture in Andhra Pradesh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Dixit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J C Tewari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Vineela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A K Chaurasia]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H B Panchal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19204949]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19204949.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403676">
+	<dc:title><![CDATA[ANALISIS BIAYA DAN PENDAPATAN PENGOLAHAN KOPI LUWAK(Pada Usaha Bapak Efendi Ahmad Di Desa Way Mengaku Kecamatan Liwa Kabupeten Lampung Barat)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ardiansyah Ardiansyah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19207885.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19207885]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403677">
+	<dc:title><![CDATA[KAJIAN KONSENTRASI CPPU DAN DOSIS PUPUK ANORGANIK TERHADAP PERTUMBUHAN TANAMAN PORANG (Amorphophallus onchophyllus)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[EDITA LEBI MARIA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19209732]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19209732.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403678">
+	<dc:title><![CDATA[Learning how to do things differently: challenges in sharing tacit knowledge for agricultural and rural development (with examples from India and Namibia)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Barbara Adolph]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19206984]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19206984.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403679">
+	<dc:title><![CDATA[A comparison of micro-scale projects undertaken by different agencies. The case for Perak Tengah / Ainun Mardiah Mohd Hanifah, Noor Zahirah Mohd Sidek and Roslida Mustaffa]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ainun Mardiah Mohd Hanifah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Noor Zahirah Mohd Sidek]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Roslida Mustaffa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19209321.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19209321]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403680">
+	<dc:title><![CDATA[PERTUMBUHAN EMBRIO KELAPA KOPYOR (Cocos nucifera L.) PADA  BERBAGAI MODIFIKASI MEDIA KULTUR IN-VITRO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[RESLITA BR GINTING SILTA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19209733.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19209733]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403681">
+	<dc:title><![CDATA[Quality control and product tracing in ERP systems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Csaba Éva]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[László Csóti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[László Tamás]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19329726]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19329726.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403682">
+	<dc:title><![CDATA[Bogdan Lekić: Agrarna reforma i kolonizacija u Jugoslaviji 1918-1941 (Agrárreform és kolonizáció Jugoszláviában, 1918-1941)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[László Bíró]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1918-1941)]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19329933]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19329933.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403683">
+	<dc:title><![CDATA[Use of farmers' indicators to evaluate the sustainability of cropping systems on sloping land in Yunnan Province, China.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Madhu Subedi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trevor J. Hocking]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael A. Fullen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alison R. McCrea]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bozhi Wu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David J. Mitchell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/1932895.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:1932895]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403684">
+	<dc:title><![CDATA[Extreme Weather Events in Europe: preparing for climate change adaptation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tibor Szili Kovács]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Melinda Halassy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gábor Kovács]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Orsolya Oravecz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rebeka Katalin Szabó]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Katalin Török]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19329765.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19329765]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403685">
+	<dc:title><![CDATA[Persistent traditions : a long-term perspective on communities in the process of Neolithisation in the Lower Rhine Area (5500-2500 cal BC)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Luc Win]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sophia Wilhelm Amkreutz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19331338]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19331338.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403686">
+	<dc:title><![CDATA[Bhoochetana: Building Resilience and Livelihoods through Integrated Watershed Management. Resilient Dryland Systems Report No. 62.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J V D K K Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P J Dart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M U Khan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19439527.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19439527]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403687">
+	<dc:title><![CDATA[EVALUASI EKOFISIK DAYA DUKUNG LAHAN TAMBAK DI PESISIR KABUPATEN PEMALANG, JAWA TENGAH (The Eco-physics Evaluation of the Land Carrying Capacity of Fishpond in Coastal Area of Pemalang Regency, Central Java)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ermawan Fitra Purnama]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Boedi Hendarto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agung Suryanto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mukhlisin Mukhlisin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19417683.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19417683]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403688">
+	<dc:title><![CDATA[A generic protocol for an integrated land information system in humid subtropical highlands: a case study in Yunnan Province, China]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yongmei Li]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/1933049.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:1933049]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403689">
+	<dc:title><![CDATA[The development of sustainable cropping systems in the highlands of South-East Asia: general lessons for development projects]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Michael A. Fullen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:1932943]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/1932943.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403690">
+	<dc:title><![CDATA[STRATEGI PENGEMBANGAN AGRIBISNIS  WORTEL (Daucus carota L.)  DI KECAMATAN TAWANGMANGU KABUPATEN KARANGANYAR]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nita Dwi Suw]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[iyati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19482603.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19482603]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403691">
+	<dc:title><![CDATA[Factors affecting the choice of conservation agriculture practices adopted by smallholder cotton farmers in Zimbabwe]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Z Mavunganidze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J C Madakadze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M J Mutenje]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Nyamangara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19439532]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19439532.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403692">
+	<dc:title><![CDATA[Price and non-price determinants and supply response of rice in Côte d’Ivoire]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[David Boansi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19508511.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19508511]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403693">
+	<dc:title><![CDATA[ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI PRODUKSI  TANAMAN PANGAN DI KABUPATEN MALANG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fahrudin Fahrudin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19669104.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19669104]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403694">
+	<dc:title><![CDATA[EFEKTIVITAS ANALISIS PERAGAM UNTUK MENGENDALIKAN GALAT PERCOBAAN PADA RANCANGAN ACAK KELOMPOK DENGAN MATERI PERCOBAAN TERNAK BABI (Effectivity of Covariance Analysis to Controlled the Experimental Error in Randomized Block Design with Pig as Experimental Material)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pete Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jo Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Helen Flynn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ken Killham]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ignacio Rangel-Castro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bente Foereid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Matt Aitkenhead]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Steve Chapman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Willie Towers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Bell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Lumsdon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ronald Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Am]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a Thomson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ivan Simmons]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ute Skiba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Brian Reynolds]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher Evans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zoë Frogbrook]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ian Bradley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andy Whitmore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pete Falloon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19668710]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19668710.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403695">
+	<dc:title><![CDATA[Nitrous oxide emissions from European agriculture – an analysis of variability and drivers of emissions from field experiments]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R M Rees]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Augustin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Alberti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Ball]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Boeck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Cantarel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Chirinda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Chojnicki]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Giebels]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Gordon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Grosz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Horvath]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Juszczak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A K Klemedtsson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Klemedtsson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Medinets]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Machon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F Map]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Nyamangara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J E Olesen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D S Reay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Sanchez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A S Cobena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K A Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Sowerby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Sommer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J F Soussana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Stenberg]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C F E Topp]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O van Cleemput]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Vallejo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C A Watson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Wuta]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19439533.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19439533]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403696">
+	<dc:title><![CDATA[The FAOSTAT database of greenhouse gas emissions from agriculture]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Viktor Péter Grónás]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Márta Belényesi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Csaba Centeri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Julianna Skutai]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:19968070]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/19968070.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403697">
+	<dc:title><![CDATA[Immediate replacement of fishing with dairying by the earliest farmers of the NE Atlantic archipelagos]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lucy J E Cramp]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jennifer Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J A Sheridan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jessica Smyth]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Helen Whelton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Mulville]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N M Sharples]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R P Evershed]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/20443776.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:20443776]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403698">
+	<dc:title><![CDATA[Old institutions, new challenges: the agricultural knowledge system in Hungary]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Endang Mastuti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dwi Ardiana Setywardhani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:20666128]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/20666128.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015403699">
+	<dc:title><![CDATA[Re-visiting the Porter Hypothesis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[László Simon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sándor Balázsy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Borbála Biró]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Béla Kovács]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/20664404.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:20664404]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

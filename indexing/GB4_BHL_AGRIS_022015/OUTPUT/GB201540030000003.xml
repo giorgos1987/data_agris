@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015400300">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kraig L. Roozeboom]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350604.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350604]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400301">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gollden Sancoyo Adi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350607.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350607]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400302">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Merlyn D'Sa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350605.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350605]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400303">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Windi Atmaka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kawiji]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350606]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350606.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400304">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bambang Dwiloka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.L.M.R Rasana'e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Edy Rianto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350600]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350600.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400305">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Carsten. Daugbjerg]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350612]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350612.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400306">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S. Lehuger]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Gabrielle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Makowski]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.-C. Germon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Morvan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Hénault]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350608.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350608]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400307">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, April 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ben Klinck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Barbara Palumbo-Roe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mark Cave]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Joanna Wragg]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350610]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350610.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400308">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, July 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.J. McLaughlin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Whatmuff]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Warne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Heemsbergen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Barry]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Bell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Nash]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Pritchard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[July 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350613]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350613.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400309">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, September 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alan Cork]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nazira Quaraishi Kamal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sarwar Ahmed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.K.P. Jayanth]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Casagr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350615.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350615]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400310">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bambang Dwiloka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Edy Rianto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ratna Ekawati]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350617]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350617.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400311">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Endah Retno D]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fadilah -]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Enny Kriswiyanti A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350620]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350620.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400312">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, May 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. K. Lindley]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350623]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350623.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400313">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, July 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. Kitzler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Zechmeister-Boltenstern]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Holtermann]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[U. Skiba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Butterbach-Bahl]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[July 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350625]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350625.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400314">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Siriri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Wilson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Coe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.M. Tenywa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.A. Bekunda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.K. Ong]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.R. Black]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350624.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350624]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400315">
+	<dc:title><![CDATA[Managing Soybean Cyst Nematode, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Islam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Enishi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Purnomoadi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Higuchi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Takusari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Terada]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350807]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350807.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400316">
+	<dc:title><![CDATA[Optimum Plant Population in Iowa, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lesten Eliez Chisomo Chatepa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350811]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350811.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400317">
+	<dc:title><![CDATA[Optimum Plant Population in Iowa, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Iglika. Yakova]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350810]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350810.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400318">
+	<dc:title><![CDATA[Soybean Planting Date, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sukirno Sukirno]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350812]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350812.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400319">
+	<dc:title><![CDATA[Animal Industry News, 2010, Vol. 11, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aneeja Guttikonda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sridhar Gutam]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352255.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352255]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400320">
+	<dc:title><![CDATA[Managing Soybean for High Yield, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Vika Prasetyani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350808.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350808]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400321">
+	<dc:title><![CDATA[Methamphetamine Inhibitor: Calcium Nitrate– What You Need to Know, 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Wilson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Ingleby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.C. Munro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Sidibe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Traore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Kone]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I.I. Yattara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y. Cisse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Kante]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Samake]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Bathily]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Di]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Bayala]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Sanon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Atta]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Z.M. Alzouma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Ibro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.S. Laouali]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.D. Ibrahim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Saadou]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Krasova-Wade]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Neyra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Bouroulet]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352289]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352289.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400322">
+	<dc:title><![CDATA[Iowa Agricultural Organization Directory, 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hamdi Mayulu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352411]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352411.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400323">
+	<dc:title><![CDATA[Johne’s Disease–Beef, Fall 2009, Vol. 1, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R.J. Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.C. Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Batchelor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352437.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352437]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400324">
+	<dc:title><![CDATA[Johne’s Disease–Beef, Winter 2010, Vol. 1, no. 3]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Dumat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Chiquet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Aubry]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Morin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Juillot]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.F. Benedetti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352438.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352438]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400325">
+	<dc:title><![CDATA[Towards a Sustainable European Agricultural Policy for the 21st Century. Report of the CEPS Task Force on the Common Agricultural Policy in the 21st century: DOHA, mid-term review, and enlargement. CEPS Task Force Reports No. 42, 1 September 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jorge. Nunez Ferrer]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1 September 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352439.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352439]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400326">
+	<dc:title><![CDATA[Johne’s Disease–Beef, Spring 2010, Vol. 1, no. 4]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Deepak Shah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352440.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352440]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400327">
+	<dc:title><![CDATA[Organic News, March 23, 2010, Vol. 13]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G. J. L. Leeks]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Roberts]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352709.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352709]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400328">
+	<dc:title><![CDATA[Johne’s Disease–Dairy, Spring 2010, Vol. 1, no. 4]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.W. Bearden]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11352441]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11352441.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400329">
+	<dc:title><![CDATA[Agri-News, April 14, 2009, Vol. 9, no. 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Csaba Székely]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Balázs Györök]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Attila Kovács]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353318.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353318]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400330">
+	<dc:title><![CDATA[Animal Industry News, April 2006, Vol. 7, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. G. Thomson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. M. Fuller]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353322.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353322]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400331">
+	<dc:title><![CDATA[Agri-News, January 13, 2006, Vol. 6, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erry Riski Titisari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353822.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353822]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400332">
+	<dc:title><![CDATA[Animal Industry News, April 2002, Vol. 3, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Siti Norjihan Rusiman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353319.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353319]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400333">
+	<dc:title><![CDATA[Agri-News, April 25, 2006, Vol. 6, no. 7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Howard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353827.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353827]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400334">
+	<dc:title><![CDATA[Agri-News, January 25, 2006, Vol. 6, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K K Lee]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353823.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353823]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400335">
+	<dc:title><![CDATA[Agri-News, June 13, 2006, Vol. 6, no. 10]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Johana C. Misas Villamil]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353830.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353830]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400336">
+	<dc:title><![CDATA[Agri-News, September 13, 2006, Vol. 6, no. 18]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Babar Hussain]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353838]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353838.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400337">
+	<dc:title><![CDATA[Agri-News, July 25, 2006, Vol. 6, no. 14]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Kashiwagi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353834.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353834]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400338">
+	<dc:title><![CDATA[Agri-News, September 26, 2006, Vol. 6, no. 19]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NINDYA AGUNG ARIFBOWO]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353839]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353839.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400339">
+	<dc:title><![CDATA[Agri-News, October 13, 2006, Vol. 6, no. 21]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. N. R. Jeffers]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353841.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353841]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400340">
+	<dc:title><![CDATA[Agri-News, November 22, 2006, Vol. 6, no. 24]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mara Miele]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353837]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353837.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400341">
+	<dc:title><![CDATA[Agri-News, April 10, 2007, Vol. 7, no. 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M A Jorge]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Claessens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Hanson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M E Dulloo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Goldberg]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I Thormann]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Dumet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Roux]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Rudebjer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R S Hamilton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I Sanchez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Sharma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Taba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V D Houwe]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353844]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353844.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400342">
+	<dc:title><![CDATA[Agri-News, November 14, 2006, Vol. 6, no. 23]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H. E. Jones]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353843]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353843.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400343">
+	<dc:title><![CDATA[Iowa Agri-News, January 7, 2011, Vol. 11, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D P Josey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Toomsan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Mittal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P J Dart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J A Thompsan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353878.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353878]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400344">
+	<dc:title><![CDATA[Iowa Agri-News, March 9, 2011, Vol. 11, no. 5]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Bell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353881]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353881.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400345">
+	<dc:title><![CDATA[Impact of earthquakes on agriculture during the Roman–Byzantine period from pollen records of the Dead Sea laminated sediment]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T K Sreedevi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Srinivasa Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Chaliganti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R L Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353851.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353851]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400346">
+	<dc:title><![CDATA[Agri-News, February 6, 2007, Vol. 7, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zsuzsanna Hartyáni]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erno Nemecz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sándor Szabó]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353847.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353847]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400347">
+	<dc:title><![CDATA[Agri-News, April 5, 2007, Vol. 7, no. 5]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G. Roberts]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353850.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353850]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400348">
+	<dc:title><![CDATA[Agri-News, January 5, 2007, Vol. 7, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tanya Warnaars]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Richard Harding]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Roger Calow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nigel Arnell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353846.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353846]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400349">
+	<dc:title><![CDATA[Iowa Agri-News, April 6, 2011, Vol. 11, no. 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Prasetyo Edy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mukson Mukson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ekowati Titik]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Setiadi Agus]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353882]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353882.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400350">
+	<dc:title><![CDATA[Iowa Agri-News, April 8, 2011, Vol. 11, no. 7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Quentin Wodon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Morris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vincent Glaesener]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jean-Paul Zoyem]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Patricia Larbouret]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marc Moens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Evalyne Dianga]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ba Mdaye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[re Kavalec]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353883.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353883]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400351">
+	<dc:title><![CDATA[Iowa Agri-News, May 6, 2011, Vol. 11, no. 8]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Siti Amanah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353884]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353884.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400352">
+	<dc:title><![CDATA[Iowa Agri-News, May 10, 2011, Vol. 11, no. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P Azhaguvel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D V Saraswathi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Sharma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Varshney]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353885]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353885.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400353">
+	<dc:title><![CDATA[Agri-News, February 5, 2010, Vol. 10, no. 3]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. R. Helliwell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353891.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353891]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400354">
+	<dc:title><![CDATA[Agri-News, January 8, 2010, Vol. 10, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Wyn Grant]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353889.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353889]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400355">
+	<dc:title><![CDATA[Agri-News, March 5, 2010, Vol. 10, no. 4]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andreas Schneider]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353892]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353892.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400356">
+	<dc:title><![CDATA[Agri-News, January 14, 2010, Vol. 10, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Star]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Donaghy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353890.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353890]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400357">
+	<dc:title><![CDATA[Agri-News, May 12, 2010, Vol. 10, no. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nadine Mitschunas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Juliane Filser]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Markus Wagner]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353896.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353896]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400358">
+	<dc:title><![CDATA[Agri-News, November 16, 2010, Vol. 10, no. 20]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Attila Rákóczi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353899.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353899]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400359">
+	<dc:title><![CDATA[Agri-News, April 6, 2010, Vol. 10, no. 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N K Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D V S S R Sastry]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353900.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353900]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400360">
+	<dc:title><![CDATA[Agri-News, June 8, 2010, Vol. 10, no. 10]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fiona Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chris Johnson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353904.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353904]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400361">
+	<dc:title><![CDATA[Agri-News, July 14, 2010, Vol. 10, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Helen Hesketh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rosemary Hails]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353906.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353906]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400362">
+	<dc:title><![CDATA[Animal Industry News, February 2001, Vol. 2, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Dwivedi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Perotti]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Ortiz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353907]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353907.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400363">
+	<dc:title><![CDATA[Agri-News, August 20, 2010, Vol. 10, no. 14]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Koji Kotani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hiromasa Ishii]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hiroyuki Matsuda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ikeda Tohru]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353908]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353908.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400364">
+	<dc:title><![CDATA[Agri-News, October 8, 2010, Vol. 10, no. 17]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353911]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353911.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400365">
+	<dc:title><![CDATA[Agri-News, September 9, 2010, Vol. 10, no. 15]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Katherine Gwyneth Ader]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353909]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353909.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400366">
+	<dc:title><![CDATA[Agri-News, November 5, 2010, Vol. 10, no. 19]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Uffe Poulsen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353913]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353913.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400367">
+	<dc:title><![CDATA[Agri-News, August 22, 2006, Vol. 6, no. 17]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. K. Mathieson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jerry W. Knox]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. K. Weatherhead]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Joe Morris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. O. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. Yates]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353914]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353914.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400368">
+	<dc:title><![CDATA[Agri-News, February 6, 2009, Vol. 9, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Howard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353917]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353917.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400369">
+	<dc:title><![CDATA[Agri-News, January 9, 2009, Vol. 9, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Whitaker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.S. Chaplow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Potter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W.A. Scott]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Hopkin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Harman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. Sims]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Sorokin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353916.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353916]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400370">
+	<dc:title><![CDATA[Agri-News, April 10, 2009, Vol. 9, no. 5]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Hornung]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353920]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353920.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400371">
+	<dc:title><![CDATA[Agri-News, December 8, 2010, Vol. 10, no. 21]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Christian. Weise]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353915]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353915.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400372">
+	<dc:title><![CDATA[Agri-News, July 14, 2010, Vol. 10, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Imre Ertsey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Péter Balogh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Péter Drimba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[István Farkas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lajos Nagy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[József Ákos Papdi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353921.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353921]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400373">
+	<dc:title><![CDATA[Agri-News, June 5, 2009, Vol. 9, no. 8]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. M. Thorsen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. H. C. M. Schapendonk]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Höglind]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353923]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353923.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400374">
+	<dc:title><![CDATA[Agri-News, June 11, 2009, Vol. 9, no. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L J Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Subrahmanyam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D McDonald]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D H Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J P Moss]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353924]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353924.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400375">
+	<dc:title><![CDATA[Agri-News, May 8, 2009, Vol. 9, no. 7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L. May]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Dudley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.M. Spears]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T.W. Hatton-Ellis]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353922.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353922]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400376">
+	<dc:title><![CDATA[Agri-News, August 7, 2009, Vol. 9, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Robin L. Hall]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353927]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353927.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400377">
+	<dc:title><![CDATA[Agri-News, August 18, 2009, Vol. 9, no. 13]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fabien Wegmuller]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353928]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353928.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400378">
+	<dc:title><![CDATA[Agri-News, October 9, 2009, Vol. 9, no. 16]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nándor Fodor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353931.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353931]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400379">
+	<dc:title><![CDATA[Agri-News, November 13, 2009, Vol. 9, no. 18]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andreas Scheib]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353934.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353934]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400380">
+	<dc:title><![CDATA[Agri-News, September 16, 2009, Vol. 9, no. 15]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kevan B. Moffett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David A. Robinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Steven M. Gorelick]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353930.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353930]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400381">
+	<dc:title><![CDATA[Agri-News, February 7, 2008, Vol. 8, no. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John F. Morton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John K. Livingstone]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mohammed Mussa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353939.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353939]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400382">
+	<dc:title><![CDATA[Agri-News, December 4, 2009, Vol. 9, no. 20]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D Horna]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Debouck]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Dumet]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353935]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353935.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400383">
+	<dc:title><![CDATA[Agri-News, July 8, 2008, Vol. 8, no. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Hasan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353945]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353945.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400384">
+	<dc:title><![CDATA[Agri-News, April 11, 2008, Vol. 8, no. 6]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Don Appleton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fiona Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chris Johnson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353942.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353942]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400385">
+	<dc:title><![CDATA[Agri-News, June 6, 2008, Vol. 8, no. 8]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Denise Claire Welch]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353944.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353944]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400386">
+	<dc:title><![CDATA[Agri-News, July 8, 2008, Vol. 8, no. 10]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F. T. Last]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Fowler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. H. Freer-Smith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353946]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353946.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400387">
+	<dc:title><![CDATA[Agri-News, August 7, 2008, Vol. 8, no. 11]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. C. Mobbs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. M. Thomson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. W. Matthews]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. S. J. Broadmeadow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mackie]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Wilkinson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Benham]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Harris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Grace]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Quegan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Coleman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. S. Powlson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. P. Whitmore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Sozanska-Stanton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. E. Levy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Ostle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. D. Murray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353947]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353947.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400388">
+	<dc:title><![CDATA[Agri-News, August 19, 2008, Vol. 8, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Szilvia Bencze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Krisztina Balla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tibor J]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gyula Vida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ottó Bálint Veisz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353948]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353948.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400389">
+	<dc:title><![CDATA[Agri-News, November 7, 2008, Vol. 8, no. 17]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Geoff Spenceley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Catherine. Welch]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353953]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353953.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400390">
+	<dc:title><![CDATA[Iowa Agri-News, May 23, 2012, Vol. 12, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[George. Ross]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353952]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353952.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400391">
+	<dc:title><![CDATA[Agri-News, November 14, 2008, Vol. 8, no. 18]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fiona Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Barry Smith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353954.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353954]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400392">
+	<dc:title><![CDATA[Agri-News, May 4, 2007, Vol. 7, no. 7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Diana Nur Afifah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gemala Anjani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353956.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353956]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400393">
+	<dc:title><![CDATA[Agri-News, August 11, 2007, Vol. 7, no. 11]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tim Josling]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter. Walkenhorst]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353960]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353960.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400394">
+	<dc:title><![CDATA[Agri-News, December 5, 2008, Vol. 8, no. 19]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353955.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353955]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400395">
+	<dc:title><![CDATA[Agri-News, November 6, 2007, Vol. 7, no. 17]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F. Gomez-Delgado]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Roupsard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. le Maire]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Taugourdeau]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Perez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Vaast]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Rapidel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.M. Harm]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Voltz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.M. Bonnefond]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Imbach]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Moussa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353966.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353966]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400396">
+	<dc:title><![CDATA[Iowa Agri-News, August 8, 2011, Vol. 11, no. 13]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F. Gomez-Delgado]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Roupsard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. le Maire]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Taugourdeau]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Perez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Vaast]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Rapidel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.M. Harm]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Voltz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.M. Bonnefond]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Imbach]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Moussa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11354494]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11354494.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400397">
+	<dc:title><![CDATA[Agri-News, August 22, 2007, Vol. 7, no. 12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. H. Wilkinson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353961]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353961.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400398">
+	<dc:title><![CDATA[Agri-News, September 6, 2007, Vol. 7, no. 13]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Jayashree]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Ch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D A Hoisington]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C T Hash]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Vadez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Varshney]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Senthilvel]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11353962.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11353962]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400399">
+	<dc:title><![CDATA[Iowa Agri-News, September 9, 2011, Vol. 11, no. 15]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Hornung]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Howard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11354495.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11354495]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

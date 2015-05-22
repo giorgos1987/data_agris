@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of manure on retention by soil profile and uptake by soybean (Glycine max L. Merrill) – wheat (Triticum aestivum L.) crops of applied sulphur in a Vertisol in central India</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Saha</namePart>
+      <namePart type="given">Jayanta Kumar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal- 462 038, M.P. India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A field experiment was conducted in subtropical region of India on S deficient Vertisol to study the effect of organic manure on the fate of sulphur (S) applied through gypsum to soil growing soybean (rainy season) and wheat (winter season) in sequence. Farmyard manure (FYM) was applied before sowing of soybean and S was applied as gypsum at different rates before sowing of both crops for six years. Results of soil and plant sample analysis indicate that application of organic manure resulted in a decrease of the retention of applied gypsum-S particularly in sorbed fraction in upper 90 cm soil profile. Also, manure application caused significant lower uptake of S from applied gypsum. Thus less retention of S in conjunction with less uptake of S from gypsum source caused the S from applied gypsum more prone to leaching in manure treated plots.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>121</start>
+          <end>124</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-2.pdf</identifier>
+  </mods>
+</modsCollection>

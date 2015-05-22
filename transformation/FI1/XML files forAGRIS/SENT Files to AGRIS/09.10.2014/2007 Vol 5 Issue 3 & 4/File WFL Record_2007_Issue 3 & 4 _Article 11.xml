@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of harvest timing on olive (Olea europaea) oil accumulation and fruit characteristics under Australian conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mailer</namePart>
+      <namePart type="given">Rodney J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Australian Oils Research Laboratory, Department of Primary Industries, Private Mail Bag, Wagga Wagga, NSW, 2650, Australia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ayton</namePart>
+      <namePart type="given">Jamie</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Australian Oils Research Laboratory, Department of Primary Industries, Private Mail Bag, Wagga Wagga, NSW, 2650, Australia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Conlan</namePart>
+      <namePart type="given">Damian</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Australian Oils Research Laboratory, Department of Primary Industries, Private Mail Bag, Wagga Wagga, NSW, 2650, Australia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The Australian olive oil industry is expanding rapidly, with production set to reach 30,000 tonnes by 2010. Harvest timing plays a key role in the yield and quality of olive oil. In this study, fruit from three olive cultivars, Corregiolla, Mission and Paragon growing in the south western region of New South Wales, Australia, were harvested at six different times during the season, over three years. Physical measurements of the fruit, such as maturity index, moisture content, oil content (solvent extracted and mechanical) and fruit weight were determined. Most parameters measured showed a significant year effect. Harvest timing effects were also apparent. Generally, the moisture content of the fruit decreased as the fruit matured. Oil content by solvent extraction showed a rapid increase during the first part of fruit maturation, followed by a slower increase later in the season. Fresh fruit weight increased with maturity for most cultivars. Information about individual cultivars is important for growers when harvesting in order to gain maximum yield.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>58</start>
+          <end>63</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f11.pdf</identifier>
+  </mods>
+</modsCollection>

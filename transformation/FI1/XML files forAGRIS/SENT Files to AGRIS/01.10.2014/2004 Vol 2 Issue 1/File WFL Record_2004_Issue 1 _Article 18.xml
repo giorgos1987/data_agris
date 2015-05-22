@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Impact of agricultural export on food security in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adenegan</namePart>
+      <namePart type="given">Kemisola Omorinre</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oladele</namePart>
+      <namePart type="given">Oladimeji Idowu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Extension and Rural Development, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ekpo</namePart>
+      <namePart type="given">Mabel Nnennaya</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper examined the impact of agricultural export on Nigeria’s food security and also the structural factors influencing the food deficit profile of Nigeria. The data used in this study were obtained from secondary sources. The bulk of the data were collected from available information over the 1970 – 1999 period from various publications, trade figures from the financial and economic reviews, statistical bulletin of the Federal Office of Statistics (FOS) various issues, annual reports and statement of account and monthly report by the Central Bank of Nigeria. (CBN). The methods of data analysis used are: Descriptive Analysis, Multiple Regression Analysis, and Growth Rate Analysis. The result of this study brings into focus the need to increase the total domestic production of food to achieve food security in Nigeria. The household purchasing power will improve if food accessibility and availability is improved. This will reduce drastically the percentage of income spent on food. The overall findings particularly the trend on import and export earnings and the instability of staple food prices suggest that transitory food insecurity is a potential problem in Nigeria.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>107</start>
+          <end>112</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f18.pdf</identifier>
+  </mods>
+</modsCollection>

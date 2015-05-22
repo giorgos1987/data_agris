@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Socio-economic assessment of wood artifact products in Oyo state, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Faleyimu</namePart>
+      <namePart type="given">O. I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Forest Resources Management, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Agbeja</namePart>
+      <namePart type="given">B.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Forest Resources Management, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Wood carving industry has passed through many stages of development, from a purely primitive structure to a near-modern business. The industry has been in existence for over one hundred years but have suffered a stunted development due to neglect by policy makers. Wood carving is an important and long established traditional artifact industry in Ibadan metropolis and Oyo township. The industry has a very rich cultural background that has influenced in no small way, its organization, products and survival. Socio-economic assessment of wood artifact products in Oyo state, Nigeria was carried out with a view to determining the value of the enterprise. Structured questionnaires were administered on the wood carvers. Purposive sampling method was adopted in selecting the respondents. Forty questionnaires were given to wood carvers of which thirty two (80 per cent) were duly filled and returned. The study showed that a large number of people are engaged in the industry which has a high potential for employment and fuller utilization of timber resources. The product quality is greatly affected by the carvers’ skills as well as the tree species used. Results showed that the industry is profitable with an average Gross Margin of N333,274.50 and an average Net Return of N328,304.50 annually per enterprise. The wood carving industry is beset with some problems, prominent among these are lack of finance for expansion, narrow market, cultural belief and poor business organization. It is recommended that the carvers must of necessity team up as a cooperative society for a proper development of the industry which in turn would foster government assistance to provide incentives for wood carving industry in Nigeria.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>347</start>
+          <end>354</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/en3.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Organic matter and okra growth and yield examination on sandy loam soil amended with cattle and pig manure in humid Southwest Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Babatunde</namePart>
+      <namePart type="given">S. Ewulo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop, Soil and Pest Management, School of Agriculture and Agricultural Technology, Federal University of Technology, P.M.B 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Particulate organic matter (POM) is quick and easy for fungi and bacteria to decompose and the C and energy provided readily available. It is biologically active with a short turnover rate. In order to determine soil organic carbon (SOC) and N storage in whole soil (WS) and POM for different levels of cattle and pig manure and to compare their effect on soil nutrient and okra (Abelmoschus esculentus (L.) Moench) growth and yield, a screenhouse experiment was established. The experiment involved sandy loam soil (60% sand, 26% silt, 14% clay) amended with four levels (20, 40, 60 and 80 g kg-1 soil) of pig and cattle manure respectively and a control (0 g kg-1 soil). Seeds of a short duration variety (NHAe 47-4) were planted. Soil samples were collected for chemical analysis and selected plant growth parameters (plant height, number of leaves and stem girth) were monitored at the second, fourth, sixth and eighth weeks after planting. Yield parameters (okra pod weight, length and diameter) were determined at five harvests. Soil samples were analysed for whole soil and particulate organic matter C and N content, whole soil pH, Ca, Mg, K, P and Na were also determined. Data collected were subjected to analysis of variance and means separated using least significant difference (LSD) at p = 0.05. C:N ratio, C and N enrichment were calculated and correlation and regression equation established for whole soil and particulate organic matter C and N. Cattle and pig manure significantly increased WS O.C., pH, P, K, Ca and Na, with the exception of Mg, it also significantly increased okra stem girth, pod weight, pod length and pod diameter with the exception of plant height and number of leaves. Cattle and pig manure also significantly increased POM C and N and POM significantly enriched with WS C and N. Application of cattle and pig manure at 60 g kg-1 was found optimal for soil properties considered. Correlation coefficient between WS C and POM C and between WS N and POM N were all positive, however, the correlation decreased with time in C but increased in N.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>197</start>
+          <end>200</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a12.pdf</identifier>
+  </mods>
+</modsCollection>

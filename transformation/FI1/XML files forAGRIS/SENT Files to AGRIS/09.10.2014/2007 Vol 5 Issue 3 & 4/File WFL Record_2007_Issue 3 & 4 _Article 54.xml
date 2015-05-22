@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of redroot pigweed (Amaranthus retroflexus L.) emergence time and density on yield and quality of two sugar beet cultivars</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Heidari</namePart>
+      <namePart type="given">Gholamreza</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, Tabriz University, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nasab</namePart>
+      <namePart type="given">Adel Dabbagh Mohammadi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, Tabriz University, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Javanshir</namePart>
+      <namePart type="given">Aziz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, Tabriz University, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khoie</namePart>
+      <namePart type="given">Farrokh Rahimzadeh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, Tabriz University, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moghaddam</namePart>
+      <namePart type="given">Mohammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, Tabriz University, Tabriz, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In order to determine the effects of emergence time and plant density of redroot pigweed (Amaranthus retroflexus L.) on yield and quality of two sugar beet cultivars with morphologically different growth habit (Rasoul with prostrate growth habit and BR1 with erect growth habit) field experiments were conducted in 2004 and repeated in 2005. Redroot pigweed was established at densities of 4, 8 and 12 plants per metre of sugar beet row at 0,15, 30 and 45 days after sugar beet emergence. A weed-free control treatment was also included in the experiment. Emergence of redroot pigweed from zero to 30 days after sugar beet emergence time reduced sugar beet root, gross sugar and white sugar yield even at low density of 4 plants per metre of row. Redroot pigweed emerging 45 days after sugar beet emergence had no significant effect on sugar beet root and gross sugar and white sugar yield at all densities. The sugar beet harvest index (HI) decreased when redroot pigweed emergence time was synchronous with or 15 days after sugar beet emergence. Sugar and white sugar, potassium and sodium contents and alkalinity were not affected by weed emergence time and density. Root, gross sugar and white sugar yield of Rasoul cultivar were greater than those of BR1 when subjected to late emerging redroot pigweed competition (30 and 45 days after sugar beet emergence) and were not significantly different from the weed-free control. The results suggest that using sugar beet varieties with prostrate growth habit could reduce the redroot pigweed control costs.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>261</start>
+          <end>266</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a19.pdf</identifier>
+  </mods>
+</modsCollection>

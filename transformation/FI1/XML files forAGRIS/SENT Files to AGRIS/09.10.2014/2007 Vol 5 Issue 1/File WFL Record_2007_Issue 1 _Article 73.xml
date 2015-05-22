@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Lead and cadmium poisoning of goats raised in cement kiln dust polluted area</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oluokun</namePart>
+      <namePart type="given">J. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Livestock Improvement Programme, Institute of Agricultural Research and Training, Moor Plantation, PMB. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fajimi</namePart>
+      <namePart type="given">A. K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Livestock Improvement Programme, Institute of Agricultural Research and Training, Moor Plantation, PMB. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adebayo</namePart>
+      <namePart type="given">A. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Livestock Improvement Programme, Institute of Agricultural Research and Training, Moor Plantation, PMB. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ajayi</namePart>
+      <namePart type="given">F. T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Livestock Improvement Programme, Institute of Agricultural Research and Training, Moor Plantation, PMB. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The impact of cement kiln dust pollution on the environment was evaluated using the concentrations of heavy metals in the test and control sites as a guide. Clinical signs of toxicosis ranging from locomotor disturbances to complete posterior paralysis in goats raised in polluted area were observed. Soil lead (Pb) levels in test and control sites were 890+43.01 ppm and 105.75+3.76 ppm respectively and for contaminated soils fell within the range of toxic levels (500-1000 ppm). Pb concentrations in forages within the polluted area and the control were 420+153.9 ppm and 265.5+65.99 ppm respectively, and the Pb concentrations in soil and forages in polluted areas correlated positively. Cadmium (Cd) level in polluted soil was 28.75+6.57 ppm and in forages grown on the same soil 24.5+2.69 ppm. These figures for cadmium showed little clinical significance and are found below the toxic limit. The blood lead levels of goats in polluted and non-polluted areas were 0.511+0.12 ppm and 0.085+0.01 ppm respectively. This figure in polluted area is within the 0.35 ppm level regarded as diagnostic of heavy metal in toxication and only marginally different from the 0.4 ppm considered terminal. These results conclude that the cement kiln dust pollution is hazardous and is enough a reason for the relocation of the cement factory away from residential area if it becomes impossible to relocate man and animals.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>382</start>
+          <end>384</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e29.pdf</identifier>
+  </mods>
+</modsCollection>

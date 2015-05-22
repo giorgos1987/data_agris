@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Seasonal influence on mineral concentrations in dairy cows’ blood and feed resources collected from Morogoro, Tanzania</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mtui</namePart>
+      <namePart type="given">Dorah J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan. Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mellau</namePart>
+      <namePart type="given">Lesakit S.B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Medicine and Public Health, Sokoine University of Agriculture, P.O.Box 3021, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lekule</namePart>
+      <namePart type="given">Faustin P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shem</namePart>
+      <namePart type="given">Martin N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hayashida</namePart>
+      <namePart type="given">Maki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fujihara</namePart>
+      <namePart type="given">Tsutomu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Mineral elements constitute a relatively small amount of the diet of animals but they are vital to animal health, reproduction and productivity. The concentrations of minerals in 129 blood samples from zero grazed dairy cows (Friesian or Ayrshire crosses of Tanzania Shorthorn Zebu aged between 4 and 7 years) and feed resources (forages, maize bran, rice bran and sunflower) from Morogoro, Tanzania, were analyzed to establish their levels and how they were influenced by seasonal variations. Results showed that crude protein content of feed resources was not influenced by seasonal changes except in forages, which decreased in dry season (p&lt;0.05). All feeds had high fibre fractions in all seasons. Plasma concentrations of P, Cu Zn and Fe increased in dry season (p&lt;0.05), while that of Ca, Mg, S and Se in whole blood did not vary with seasons. The mineral concentrations of Cu in plasma and Se in whole blood were below the critical levels. The plasma Fe concentration varied (p&lt;0.001) markedly between rainy and dry seasons with lowest values recorded in rainy season. The seasonal variations did not change the concentrations of macro minerals in forages but had impact on concentrate supplements and feed resources’ micro elements. Feed resources had sufficient concentrations of Ca, P, Mg, S, Cu and Fe in all seasons. Zinc and Se concentrations in forages were lower than the recommended levels. Our results of variable impact of seasonal changes on the concentration of minerals in the blood and feed resources suggests the need for supplementation of deficient minerals like Cu, Zn and Se in the forms, which are readily available and affordable by farmers for optimal cows’ productivity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>274</start>
+          <end>280</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a21.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The physico-chemical properties of a complementary diet prepared from vegetable proteins</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ikujenlola</namePart>
+      <namePart type="given">Victor A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science &amp; Technology, Obafemi Awolowo University, Ile-Ife, Nigeria. Present address: Department of Food Science &amp; Technology, Rufus Giwa Polytechnic, Owo, Ondo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fashakin</namePart>
+      <namePart type="given">Joseph B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal University of Technology, PMB 704, Department of Food Science &amp; Technology, Akure, Ondo State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Complementary diets were prepared from vegetable proteins. The grains (maize, rice and cowpea) were germinated. The blend was formulated and studied for viscosity, bulk density, swelling and water holding capacity. The germination period was 72 h for maize and rice and 48 h for cowpea. The germinated diet indicated significant (P&lt;0.005) reduction in the paste viscosity from over 10,000 cps to about 3,000 cps at 10% matter.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>23</start>
+          <end>26</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f5.pdf</identifier>
+  </mods>
+</modsCollection>

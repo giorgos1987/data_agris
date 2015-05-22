@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of plant growth regulators on somatic embryogenesis from leaf in vitro cultures of Helianthus tuberosus L.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mostafa</namePart>
+      <namePart type="given">Nadir El</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Agroalimentaire et Santé, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5, Route de Casablanca, B.P. 577, Settat, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fakiri</namePart>
+      <namePart type="given">Malika</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Agroalimentaire et Santé, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5, Route de Casablanca, B.P. 577, Settat, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Benchekroun</namePart>
+      <namePart type="given">Mounsif</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Agroalimentaire et Santé, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5, Route de Casablanca, B.P. 577, Settat, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amzil</namePart>
+      <namePart type="given">Jamila</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Agroalimentaire et Santé, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5, Route de Casablanca, B.P. 577, Settat, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Arbaoui</namePart>
+      <namePart type="given">Akram El</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Agroalimentaire et Santé, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5, Route de Casablanca, B.P. 577, Settat, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hilali</namePart>
+      <namePart type="given">Said</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire des Sciences de l’Environnement et du Développement, Université Hassan Premier, Faculté des Sciences et Techniques de Settat, Km 3,5. Route de Casablanca B.P. 577. Settat, Maroc.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Jerusalem artichoke (Helianthus tuberosus L.) belongs to sunflower Compositae family, generally considered as one of the oldest among modern agricultural plants. The effects of plant growth regulators on somatic embryogenesis were studied in leaf cultures of Helianthus tuberosus L. Leaf tissues of genotypes derived from allohexaploid species Helianthus tuberosus L. (2n = 6x = 102) responded to growth regulators (BAP/kinetin, NAA/IAA), while adventitious organogenesis or somatic embryogenesis were occasionally induced. A remarkable regeneration frequency (about 39 to 41.6%) was only achieved from leaves from plants treated with BAP 0.5 or NAA 0.1 mg l-1. White globular structures were initiated on the adaxial surface of these leaves without intermediate callus phase. Somatic embryogenesis was asynchronous and embryoids of different developmental stage were simultaneously detected on each explant. Although many embryos developed single or malformed cotyledons or germinated precociously without differentiation of complete root system, phenotypically normal plants were regenerated after rooting on half strength MS free regulators medium.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>213</start>
+          <end>216</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a15.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Public perception of genetic engineering and the choice to purchase genetically modified food in Jamaica</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Abdulkadri</namePart>
+      <namePart type="given">Abdullahi O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Economics, The University of the West Indies, Mona Campus, Kingston 7, Jamaica.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pinnock</namePart>
+      <namePart type="given">Simone E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Biotechnology Centre, The University of the West Indies, Mona Campus, Kingston 7, Jamaica.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tennant</namePart>
+      <namePart type="given">F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Biotechnology Centre, The University of the West Indies, Mona Campus, Kingston 7, Jamaica. Department of Life Sciences, The University of the West Indies, Mona Campus, Kingston 7, Jamaica.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Since the release of the first genetically modified (GM) crop into the marketplace in the 1990’s, there has been continuing debate over the acceptability of such products. Today, GM crops are extensively grown in Argentina, Canada and the United States. However, these crops have not made similar inroads into Europe or Japan where regulations governing GM crops and food products are more restrictive. Moreover, a highly precautionary approach to food safety and environmental protection is promoted in these regions. International pressures including the precautionary tone of the 2000 Biosafety Protocol governing transboundary movements of GM crops and media campaigns out of Europe appear to have influenced the adoption of preventative or precautionary policies which are restricting, if not prohibiting, the availability of GM crops to farmers in several developing countries. Studies in developed countries suggest that acceptance of GM crops and food products is influenced by awareness and knowledge of the technology and confidence in the food system and regulatory bodies. With such studies limited in developing countries, this paper presents the results of a survey conducted on public perception of genetic engineering and GM products in Jamaica. In this developing country, a National Biosafety Committee was established in 1997 and regulatory guidelines for the release of genetically modified organisms drafted in 2000; the importation of GM crops is approved for research purposes only and there is no commercial importation or plantings of GM crops. Survey data were analysed using summary statistics and a logistic model framework was used to investigate the relationship between consumer’s willingness to buy GM product on one hand and (1) knowledge of genetic engineering, (2) awareness of regulatory bodies, (3) perception of GM foods, and (4) demographic characteristics on the other. Our findings suggest that the Jamaican consumer is fairly knowledgeable of the technology and overwhelmingly supports mandatory labeling of GM products. Safety of GM crops and food products remains a major concern for the consumer and the perception of the prospects for genetic engineering to improve the quality of life represents a major factor in a consumer’s decision to purchase GM products.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>8</start>
+          <end>12</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f1.pdf</identifier>
+  </mods>
+</modsCollection>

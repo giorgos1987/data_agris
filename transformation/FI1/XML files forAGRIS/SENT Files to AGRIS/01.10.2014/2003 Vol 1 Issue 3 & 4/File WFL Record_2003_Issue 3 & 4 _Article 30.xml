@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth and dry matter partitioning of soybean under variable nitrogen supplies and elevated CO2</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Srivastava</namePart>
+      <namePart type="given">Avinash C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Biochemistry &amp; Plant Physiology, Sher-e-Kashmir University of Agricultural Sciences &amp; Technology of Jammu Chattha, Jammu- 180009, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khanna</namePart>
+      <namePart type="given">Yoginder P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Biochemistry &amp; Plant Physiology, Sher-e-Kashmir University of Agricultural Sciences &amp; Technology of Jammu Chattha, Jammu- 180009, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to determine reciprocal effects of low to high doses of nitrogenous fertilizer (N30- 30 kg ha-1, N40- 40 kg ha-1, N50- 50 kg ha-1, N60- 60 kg ha-1, N70- 70 kg ha-1) and CO2 enriched environment on growth and dry matter partitioning in soybean (Glycine max (L.) Merril cv JS-335). Plants were grown from seedling emergence to maturity inside open top chambers under ambient CO2 (350±50 µmol mol-1) and elevated CO2(600±50 µmol mol-1) and analyzed at seedling, vegetative, flowering, pod forming and harvesting stages. Soybean responded to both CO2 enrichment and nitrogen supply. Plants grown under CO2 enrichment were taller and attained greater leaf area, root and shoot growth along with more dry matter at all growth stages. Growth of the plant under elevated CO2 was further enhanced with the increase in nitrogen application. However, optimum growth and yield response to soybean was obtained at 60 kg ha-1 of nitrogen instead of its recommended dose 50 kg hac-1 or low (30-40 kg hac-1) and high (70 kg hac-1) nitrogen doses. Response to high CO2 also depends upon the growth stage of the plant and it was more at vegetative and flowering stages compared to maturity stages. Our study indicates that reassessment of critical nitrogen concentration of soybean at regional and global level is needed in the present atmospheric conditions for getting maximum production under changing climate.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>162</start>
+          <end>167</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-10.pdf</identifier>
+  </mods>
+</modsCollection>

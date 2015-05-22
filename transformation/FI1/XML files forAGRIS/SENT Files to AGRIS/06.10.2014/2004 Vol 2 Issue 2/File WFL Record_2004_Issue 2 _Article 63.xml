@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influences on air quality and odor from mechanically ventilated swine finishing buildings in Illinois</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Miller</namePart>
+      <namePart type="given">Gay Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Pathobiology, University of Illinois, Urbana, IL 61802, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maghirang</namePart>
+      <namePart type="given">Ronaldo G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological and Agricultural Engineering, Kansas State University, KS, 66506, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Riskowski</namePart>
+      <namePart type="given">Gerald L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological and AgriculturalEngineering, Texas A&amp;M University, College Station, TX 77843, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Heber</namePart>
+      <namePart type="given">Albert J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural and Biological Engineering, Purdue University, West Lafayette, IN 47907, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Robert</namePart>
+      <namePart type="given">Matthew J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, University of Illinois, Urbana, IL 61801, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Muyot</namePart>
+      <namePart type="given">Maria E. T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Statistics, University of Illinois, Champaign, IL 61820, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The overall objective of this study was to examine the odor emission rate differences between deep pit and shallow pit swine finishing buildings, while also examining the influence of various practices and building characteristics controlled by management. Another objective was to evaluate the need for sampling at both the inlet and exhaust locations to accurately represent the odor emission rate contributed by the building. Air samples were collected at the air inlets and at exhaust fans of 26 swine finishing buildings during four sampling visits per building conducted from June 2000 through August 2001. Barn conditions and management were carefully observed during each sampling visit. Air samples were evaluated by an 8-member sensory panel and dynamic olfactometry. Season, temperature, relative humidity, manure depth, pig density, air cleanliness, barn cleanliness, test fan size, test fan location (barn or pit level), pig health, pit type, and panelist were found to be important determinants of odor emission rates. Thus, while management options can be used to reduce odor emitted by swine buildings, uncontrollable variables are also significant influences. Air inlet odor concentration measured by olfactometry was found to be dependent on farm and panelist; the building within a farm and season were not significant. Thus, inlet sampling was important to establish the farm baseline, but inlet sampling at every barn on the farm was unnecessary to characterize the odor emitted by the building; equivalently, one ambient reading on a farm may be sufficient to characterize the ambient air coming into all barns on a farm.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>353</start>
+          <end>360</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/e2.pdf</identifier>
+  </mods>
+</modsCollection>

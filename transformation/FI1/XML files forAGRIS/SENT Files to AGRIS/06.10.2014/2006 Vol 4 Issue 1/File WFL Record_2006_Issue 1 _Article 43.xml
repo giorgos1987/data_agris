@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The response of pigeonpea genotypes of different duration types to variation in temperature and photoperiod under field conditions in Kenya</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Silim</namePart>
+      <namePart type="given">S.N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), P.O. Box 39063, Nairobi 00623, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Coe</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Centre for Research in Agroforestry (ICRAF), P.O. Box 30677, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Omanga</namePart>
+      <namePart type="given">P. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Dryland Farming Research Centre, P.O.Box 340, Machakos, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gwata</namePart>
+      <namePart type="given">E.T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), P.O. Box 39063, Nairobi 00623, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Field studies were conducted with pigeonpea [Cajanus cajan (L.) Millsp.] in Kenya to determine the influence of photoperiod and temperature on flowering. Variation in temperature was achieved by planting six genotypes at four locations varying in altitude where temperature decreased with increase in altitude and variation in photoperiod was achieved through artificial lighting (about 12.6 h – natural day length, 14.5 h and 16.0 h) .The genotypes used in the study were carefully selected to represent different duration types (extra-short-, short-, medium- and long-duration) and major pigeonpea production regions. Equations that describe the rates of development (1/) were used to determine rates of progress of each genotype towards flowering as influenced by temperature and photoperiod. For photoperiods below 13 h, rates of progress towards flowering were influenced by temperature in five genotypes (ICPL 90011, ICPL 87091, ICP 7035, ICP 6927 and ICEAP 00040). The optimum temperatures for rapid flowering were 24.7°C for the extra-short-duration genotype, 23.1°C for the short-duration genotype, 23.8°C and 22.2°C for medium-duration genotypes and 18.3°C for the long-duration genotypes, which indicated that the origin of the genotype had a strong influence on adaptation. The effects of photoperiod on rates of progress towards flowering were investigated only under sub-optimal temperatures. The extra-short-duration genotype (ICPL 90011) was the least responsive to variation in photoperiod, while the two long-duration genotypes (ICEAP 00040 and T-7) were most sensitive to photoperiod variation with flowering rate reduced by 0.001 d-1 per hour increase in day length.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>209</start>
+          <end>214</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a17.pdf</identifier>
+  </mods>
+</modsCollection>

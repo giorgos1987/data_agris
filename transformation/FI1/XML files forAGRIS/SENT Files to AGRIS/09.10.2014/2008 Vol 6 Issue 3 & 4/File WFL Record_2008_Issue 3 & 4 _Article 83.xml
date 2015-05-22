@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Seasonal changes in phosphorus and phosphatase compositions in soils enriched with poultry litter</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mankolo</namePart>
+      <namePart type="given">Regine N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Natural Resources and Environmental Sciences, Alabama A&amp;M University, PO Box 1208 Normal, AL 35762.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sistani</namePart>
+      <namePart type="given">Karamat R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>USDA-ARS, Waste Manage. and Forage Res. Unit Bowling Green KY 42101.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Senwo</namePart>
+      <namePart type="given">Zachary N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Natural Resources and Environmental Sciences, Alabama A&amp;M University, PO Box 1208 Normal, AL 35762.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ranatunga</namePart>
+      <namePart type="given">Thilini D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Natural Resources and Environmental Sciences, Alabama A&amp;M University, PO Box 1208 Normal, AL 35762.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Season and soil depth may play an important role in phosphorus (P) dynamics and mineralization in soil because of changes in soil moisture, temperature and microbial activity. This study was conducted to quantify P fractions and enzymatic activity from poultry litter (PL) application as affected by soil depth and time of application. Poultry litter was applied at the rate of 15.75 Mg ha-1 yr-1 based on N requirement of bermudagrass for maximum growth. Phosphorus distribution among different fractions (Al-, Fe- and Ca-bound; organic P and residual) was extracted sequentially. Results showed that P fractions were significantly affected by season and soil depth (P&lt;0.01). Phosphorus fractions varied within season and soil depth with less P measured on the topsoil for early spring application. There was little P movement down to 10 cm depth. Enzyme activities were affected by the soil depth in the first year but no significant differences occurred in the second year. The smallest enzyme activity of 3.3 mg -nitrophenol kg-1soil h-1 was recorded with alkaline phosphatase in cool weather. Phosphatase activity, although related to P availability does not offer greater benefits in predicting soil P. Based on our analysis the concentration of P on the soil surface does not pose environmental concerns as related to the time of PL application for the short length of this study.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>415</start>
+          <end>420</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e4.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Glyphosate resistant biotypes of wild poinsettia (Euphorbia heterophylla L.) and its risk analysis on glyphosate-tolerant soybeans</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Vidal</namePart>
+      <namePart type="given">Ribas Antonio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crop Science Department, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brazil 91540-000.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Trezzi</namePart>
+      <namePart type="given">Michelangelo Muzzel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade Tecnológica Federal do Paraná, Pato Branco, PR, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">De Prado</namePart>
+      <namePart type="given">Rafael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidad de Córdoba, Cordoba, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ruiz-Santaella</namePart>
+      <namePart type="given">Juan Pedro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidad de Córdoba, Cordoba, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vila-Aiub</namePart>
+      <namePart type="given">Martín</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IFEVA (Conicet), Universidad de Buenos Aires, Buenos Aires, Argentina.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The continuous use of a single herbicide for weed control can result in selection of biotypes resistant to that compound. Greenhouse experiments were conducted to assess the occurrence of wild poinsettia (Euphorbia heterophylla, EPHHL) resistant biotypes to glyphosate. Two suspected glyphosate- resistant biotypes from the northern part of Rio Grande do Sul, Brazil, were compared to known glyphosate-susceptible biotypes. Dose-response curves were used to compare the biotypes, with rates ranging from 0 to 450 g ha-1 in one experiment, and from 0 to 1200 g ha-1 in another. The resistance factor, calculated with the I50 data, indicated the resistant biotypes were about three times less sensitive to glyphosate than the susceptible biotypes. This is the first report of a glyphosate-resistant biotype in a weed species of major importance and distribution in Brazil. A risk analysis is discussed for the occurrence of glyphosate-resistant wild poinsettia in glyphosate-tolerant soybeans.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>265</start>
+          <end>269</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/e5.pdf</identifier>
+  </mods>
+</modsCollection>

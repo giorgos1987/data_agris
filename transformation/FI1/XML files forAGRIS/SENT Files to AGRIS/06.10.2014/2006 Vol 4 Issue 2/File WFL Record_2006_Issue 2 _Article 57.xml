@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Interdisciplinary analysis of homegardens in Savadkouh/Iran: Plant uses and socioeconomic aspects</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khoshbakht</namePart>
+      <namePart type="given">Korous</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Shahid Beheshti, Environmental Science Research Institute, Tehran, Iran. Institute of Crop Science,University of Kassel (INK),D-37213 Witzenhausen, Steinstr.19, Germany
+</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hammer</namePart>
+      <namePart type="given">Karl</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Crop Science,University of Kassel (INK),D-37213 Witzenhausen, Steinstr.19, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amini</namePart>
+      <namePart type="given">Siawuch</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Socio-cultural Studies (ISOS),University of Kassel,D-37213 Witzenhausen, Steinstr.19, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Biodiversity and plant uses of homegardens in each area depend on ecologic and socioeconomic characteristics. Relationships between agroecologic and socioeconomic aspects of homegardens were studied at Savadkouh/Iran. Four sub-areas according to different altitudes including twenty villages were visited. Altogether eighty homegardens (four in each village) were visited randomly and complete information on socioeconomic factors, plant species diversity and uses of them was collected through direct observation of homegardens and interviews with farmers. Six different zones were recognized. Residential area, fruit trees, vegetables and pulses were the most important zones. The number of zones per homegarden ranged from four to six. All in all seventy-six plant species with 4 different groups of uses were identified. Plant diversity was highest for fruits (33 species), followed by vegetables (28 species), pulses (9 species) and finally other crops with 6 species. Average homegarden’s area in different sub-areas was very diverse between 574 m² in the fourth sub-area to 1386 m² in the first sub-area. Homegardens were the second most frequent activity for women after housekeeping and the third most one for men after animal husbandry and fieldwork. Most of the women (87%) were more than 20 years old and involved in household and homegarden routine activities, apart from other works and only 13% of them work outside. Labor input by gender was varied, and in all sub-areas women put much time in homegardens. Most of the products that were obtained from homegardens were used for home consumption and surplus was sold in the local markets. The total income from homegardens was 2-16% of total income in different sub-areas. Six types of homegardens were identified by cluster analysis based on agroecologic and socioeconomic variables.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>277</start>
+          <end>282</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e6.pdf</identifier>
+  </mods>
+</modsCollection>

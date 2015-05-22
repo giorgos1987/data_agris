@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of growing conditions on yield and quality of cherry: II. Fruit quality</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Predieri</namePart>
+      <namePart type="given">Stefano</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Biometeorology, Bologna Section. IBIMET-CNR Bologna, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dris</namePart>
+      <namePart type="given">Ramdane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>World Food Ltd. , Meri-Rastilantie 3C, FIN-00980 Helsinki, Finland</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rapparini</namePart>
+      <namePart type="given">Francesca</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Biometeorology, Bologna Section. IBIMET-CNR Bologna, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cherry fruit quality is determined by attributes that affect fruit marketing appeal and consumer satisfaction at consumption. The quantification of specific cherry fruit quality parameters is of high importance in the orientation of the decision-making process at every production step, from the choice of cultivar and agricultural practices to be applied, to the determination of harvest date, always geared towards ultimate consumer satisfaction. This review discusses opportunities for fruit quality evaluation and improvement.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>307</start>
+          <end>309</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a26.pdf</identifier>
+  </mods>
+</modsCollection>

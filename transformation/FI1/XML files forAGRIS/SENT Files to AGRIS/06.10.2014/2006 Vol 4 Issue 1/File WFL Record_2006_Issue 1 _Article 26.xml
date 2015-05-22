@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Antioxidant capacity of dry vegetal extracts checked by voltammetric method</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Campanella</namePart>
+      <namePart type="given">Luigi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Rome “La Sapienza”, P.le A. Moro 5, 00185 Rome, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Martini</namePart>
+      <namePart type="given">Elisabetta</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Rome “La Sapienza”, P.le A. Moro 5, 00185 Rome, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rita</namePart>
+      <namePart type="given">Guido</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Rome “La Sapienza”, P.le A. Moro 5, 00185 Rome, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tomassetti</namePart>
+      <namePart type="given">Mauro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Rome “La Sapienza”, P.le A. Moro 5, 00185 Rome, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In the present research some of the vegetal matrixes that are more common and more frequently described in the literature for their high antioxidant activity, such as green tea, black tea, rosemary and coffee, were selected and analysed to test the total antioxidant capacity of respective dry extracts. In addition to these products, which are well known and extensively investigated, it was deemed of interest to test acerola and açaì, i.e. “new” food products from the Brazilian Amazon forest, which have only recently become the focus of interest for food and drug industries. Also analysed were two herb teas consisting of a mixture of natural antioxidants called “Herb Tea” and “Quality Tea”. Methanol, acetone and aqueous dry extracts were prepared from each of these vegetal matrixes, using for extraction solvents considered to be complementary in processes for the extraction of antioxidant substances present in the vegetal matrixes. For the three extracts obtained from each matrix the antioxidant capacity was determined using a new electrochemical method based on the measurement of the anodic area of a cyclic voltammogram.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>135</start>
+          <end>144</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f26.pdf</identifier>
+  </mods>
+</modsCollection>

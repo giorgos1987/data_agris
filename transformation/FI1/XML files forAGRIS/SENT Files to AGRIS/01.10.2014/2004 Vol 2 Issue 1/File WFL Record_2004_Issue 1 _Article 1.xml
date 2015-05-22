@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>α-Aminooxi-β-phenylpropionic acid controls phenylalanine ammonia lyase gene expression during storage of asparagus spears</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bhowmik</namePart>
+      <namePart type="given">Pankaj Kumar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Production Science, Faculty of Agriculture, Kagawa University, Miki-Cho, Kagawa 761-0795, Japan. Kita-Gun, Miki-Cho, Ikenobe 3464-8, Kagawa 761-0701, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Matsui</namePart>
+      <namePart type="given">Toshiyuki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Production Science, Faculty of Agriculture, Kagawa University, Miki-Cho, Kagawa 761-0795, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In order to examine and regulate the phenylalanine ammonia lyase (PAL) gene expression in stored asparagus spears α-aminooxi-β- phenylpropionic acid (AOPP), a specific inhibitor of PAL was used. Freshly harvested asparagus spears were soaked in aqueous solution of AOPP for 1 h at 200°C and then stored for 48 h. AOPP at 300 μM effectively inhibited the induction of harvest induced PAL activity in both top and bottom portion of asparagus spears. AOPP at a concentration of 100 μM was not effective. At a much higher concentration of 600 μM no additional effect but somewhat less inhibition of the PAL activity was observed. PAL gene expression was detected in both top and bottom potion of the spears just after harvest but AOPP decreased the level of transcripts for PAL. This was accompanied by a reduction of toughness. The data suggest that downstream products of PAL activity may be important not only for wound healing and defense reactions, but also for regulation of PAL gene expression during lignification.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>10</start>
+          <end>13</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f1.pdf</identifier>
+  </mods>
+</modsCollection>

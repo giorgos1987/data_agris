@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of feeding urea–treated wheat straw on body weight gain and biochemical metabolites of young camels</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Sultan</namePart>
+      <namePart type="given">S. I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Public Health and Animal Husbandry, College of Veterinary Medicine and Animal Resources, King Faisal University, P. O. Box 11647, Al-Ahsa 31982, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Spraying of urea solution (0.1g/ml) in water to wheat straw at a concentration of 40 g/kg resulted in two-fold increase in protein content of straw. Feeding of urea-treated straw to camels significantly increased weight gain compared to camels fed on straw only. Lack of adverse effect of feeding urea on liver, heart and muscle-specific enzymes suggested that feeding urea at this concentration could be tolerated.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>202</start>
+          <end>203</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a19.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Rural leadership and sustainable agriculture: Criteria for recruiting leaders</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Zamani</namePart>
+      <namePart type="given">G. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agricultural Education and Extension, College of Agriculture, Shiraz University, Shiraz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Karami</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agricultural Extension, College of Agriculture, Shiraz University, Shiraz, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Agricultural development can only be sustained over the long-term if there are motivated and committed rural leaders who keep the momentum going.  One of the responsibilities of agricultural extension agents is to empower the rural leaders and develop their leadership competencies. The main  purpose of this research project was to identify the criteria that extension agents should consider in selecting and recruiting effective rural leaders for sustainable agricultural development. Although leadership was considered to be important in agricultural development under “modernization” paradigm and transfer of technology model, it is an essential ingredient for achieving sustainable agriculture. In this regard, ‘action research’  methodology, contingency approach of leadership and knowledge of paradigm shift in agriculture were applied to provide an in-depth picture of factors involved in leadership training programs at rural areas. A total of 10 extension agents through a purposive sampling design took part in the action research and cooperated for seven months. Six stages were defined and followed for this action research: training, diagnosing, planning, action, debriefing and evaluation stages. Based on the findings three groups of rural leaders were identified as potential, volunteer and active leaders. A comprehensive model consisting of four major characteristics of rural leaders: personality traits, technical skills, socio-economic status and professional traits – was developed. The model shows 17 major criteria, which extension agents should consider in recruiting potential rural leaders. Finally, recommendations for successful “Leadership Development Programs” in sustainable agricultural development process were suggested.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>228</start>
+          <end>234</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e7.pdf</identifier>
+  </mods>
+</modsCollection>

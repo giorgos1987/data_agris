@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Conceptual model for sardine and anchovy inverse cyclic behavior in abundance</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Jufaili</namePart>
+      <namePart type="given">Saud M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Agricultural and Marine Science, P. O Box 34, Al-Khod 123, Sultanate of Oman.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The overall objective of this study is to understand the inverse relation in the abundance of sardine and anchovy stocks around the world. Three cases have been used for this purpose: the California, Japanese and Peruvian sardine and anchovy stocks. The conceptual model argues that when sardines expand to high levels, anchovies contract to lower levels and retreat to their refuge areas. These refuge areas provide suitable habitat with optimal food and environmental conditions where the contracted fish stock can be found all the year around and persist in spite of the dominance of the other species. The contracted fish, anchovies for example, will remain in their refuge areas until an “event” allows them to expand and take over the system again. Simultaneously, the previously expanded sardine population contracts to its own refuge area. The review focuses on identifying 1) the “event” that triggers the fluctuation between sardines and anchovies, where the sardines and anchovies expand to and what limits their expansion, and where the fish contract to, and 2) which changes occur with the fish while they are at high levels versus when they are at low levels. The findings show that the sardines and anchovy alternations are mainly triggered by long-term environmental changes referred to as regime shifts in which environmental changes from cold to warm and vice versa. The patterns of sardines and anchovies fluctuations generally coincide with such regime shifts. Sardines were correlated positively with the warm regimes and anchovies with cold regimes for the Pacific Rim cases, California, Japan and Peru. Furthermore, it was found that the expansion of the sardines and anchovies is a function of habitat suitability, mainly in terms of temperature. The sardines/ anchovies will expand as far as the environmental conditions allow. The expansion of sardines and anchovies is limited by many factors including temperature, predation and distance between the spawning and nursery grounds. The sardines/anchovies retreat to their refuge areas when environmental conditions become unfavorable. These refuge areas are generally coincident with the spawning areas where fish are found all year round. Changes that occur with the sardines/anchovies when at high levels reflect density dependent processes.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>317</start>
+          <end>327</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e17.pdf</identifier>
+  </mods>
+</modsCollection>

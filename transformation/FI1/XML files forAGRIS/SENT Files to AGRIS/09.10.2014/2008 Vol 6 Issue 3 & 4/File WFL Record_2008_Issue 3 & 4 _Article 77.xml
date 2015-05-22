@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Socio-economic factors influencing power tiller use among sawah farmers in Bida, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ademiluyi</namePart>
+      <namePart type="given">Yinka Segun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Center for Agricultural Mechanization, Ilorin, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oladele</namePart>
+      <namePart type="given">Oladimeji Idowu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics Education and Extension, Botswana College of Agriculture, University of Botswana, P/Bag 0027, Gabaorone, Botswana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wakatsuki</namePart>
+      <namePart type="given">Toshiyuki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Kinkim University, Nara, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper examines socio-economic factors influencing power tiller use among sawah farmers in Bida, Nigeria. This is based on the fact few units of power tillers were imported for lowland rice cultivation. The power tiller is a multipurpose hand tractor designed primarily for rotary tilling and other operations on small farms. The study was carried out in Niger state, Nigeria, and a list of rice farmers in the villages where sawah technology was disseminated was compiled with a total of 2064 farmers. The availability of power tiller is a prerequisite for the adoption of sawah rice production technology. A simple random sampling technique was used to select 200 farmers, and data were collected on their socio-economic variables and power tiller use. Descriptive statistics was used to analyze the socio-economic features of the farmers while the probit model was used to capture the socio-economic factors influencing the use of power tillers among rice growing farmers. The results show that majority of the farmers are about 42 years of age with quranic form of education, belonging to at least one farmers group and have been farming for about 12 years. The land tenure system is predominantly through inheritance. The respondents are predominantly practicing sawah, and power tiller use among the respondents is about 85 percent. Important socio-economic characteristics that are of crucial concern in the introduction of power tiller to sawah adopting farmers are age, educational level, membership of farmer group, farm size, land tenure, practice sawah, location/distance of sawah plot and cost of power tiller use. The effect of each of these socio-economic characteristics and their interaction will determine the trend of continuous and future use of power tillers among the rice farmers.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>387</start>
+          <end>390</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a39.pdf</identifier>
+  </mods>
+</modsCollection>

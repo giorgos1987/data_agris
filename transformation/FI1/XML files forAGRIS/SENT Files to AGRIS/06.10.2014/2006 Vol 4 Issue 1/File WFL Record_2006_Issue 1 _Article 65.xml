@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Interactive effects of salinity and Primo on the growth of Kentucky bluegrass</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pessarakli</namePart>
+      <namePart type="given">Mohammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Sciences, The University of Arizona, Tucson, AZ 85721, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marcum</namePart>
+      <namePart type="given">Kenneth B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Applied Biological Sciences, Arizona State University, Mesa, AZ 85281, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kopec</namePart>
+      <namePart type="given">Dave M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Sciences, The University of Arizona, Tucson, AZ 85721, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Kentucky bluegrass (Poa pratensis L.), cv. Nu Star was studied in a greenhouse to evaluate its growth responses in terms of shoot length and dry matter (D.M.) weight under NaCl (sodium chloride) salinity stress and different levels of Trinexapac-ethyl (Primo Max). The grass was grown hydroponically under control and one level of salinity stress [EC (electrical conductivity) of 5 dS/m] and three levels of Primo Max plant growth regulator (97.18, 194.36 and 291.54 g/ha), using Hoagland solution No. 1. Plant shoots (clippings) were harvested weekly, oven dried at 60°C, and dry weights recorded. At each harvest, shoot length was measured and recorded, percent visual canopy green cover (%CGC) was also estimated. The results show that shoot length and shoot D.M. weight of Kentucky bluegrass significantly decreased with salinity and/or Primo treatments. However, the differences in shoot lengths and shoot D.M. weights were not significant between Primo treatments at 194.36 and 291.54 g/ha application rates. The green coverage of the turf canopy decreased under salinity stress, and the reduction of green canopy coverage by salinity was more pronounced when turf was treated by Primo, suggesting that Primo significantly reduced the salt tolerance of Kentucky bluegrass. The above results were observed for both cumulative as well as the weekly growth responses.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>325</start>
+          <end>327</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/e17.pdf</identifier>
+  </mods>
+</modsCollection>

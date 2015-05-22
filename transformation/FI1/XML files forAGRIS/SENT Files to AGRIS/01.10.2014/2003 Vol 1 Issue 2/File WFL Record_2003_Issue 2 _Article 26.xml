@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Applications of mild technology to horticultural products: Experiences from the IVTPA</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Senesi</namePart>
+      <namePart type="given">Emilio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IVTPA - Experimental Institute for Technological Improvement of Agricultural Products, Via Venezian 26, 20133 Milano, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Mild technologies must satisfy the demand for nutritious, wholesome and tasty foods and, at the same time, must give final products and ingredients some properties useful to improve their utilisation and to increase their economic values. Mild technologies studied and experimented at IVTPA include fresh-cut horticultural products technique (no heat treatment), dehydrofreezing, dewatering-impregnation-soaking (DIS) in concentrated solutions, dehydropasteurisation, active packaging. Attention is drawn to those techniques that are expanding in industrialised countries and are promising in terms of both consumer acceptance and marketing exploitations. This review shows that there is not a unique general method suitable for every raw material and every final product. The choice of the best process depends on fruits and vegetables to be used and on the desired characteristics of the endproduct.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>150</start>
+          <end>159</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-138.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Analysis of Tunisian Ruta graveolens L. oils from Jemmel</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fredj</namePart>
+      <namePart type="given">Mouna Ben Hadj</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Supérieur de Biotechnologie, Monastir, Rue Tahar Haddad, 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marzouk</namePart>
+      <namePart type="given">Belsem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Supérieur de Biotechnologie, Monastir, Rue Tahar Haddad, 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chraief</namePart>
+      <namePart type="given">Imed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Faculté de Médecine, Monastir, Rue Avicenne, 5000 Monastir,Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Boukef</namePart>
+      <namePart type="given">Kamel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centre National de Transfusion Sanguine, Bab-Saadoun, Tunis, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marzouk</namePart>
+      <namePart type="given">Zohra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Végétale, Faculté de Pharmacie, Monastir, Rue Avicenne, 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The first aim of this study was to describe in detail the chemical composition of Tunisian Ruta graveolens L. essential oils (EOs) from Jemmel. The second aim was to test their antibacterial activity. The essential oils obtained from fresh aerial parts were analysed by using gas chromatography and mass spectrometry (GC-MS).The antimicrobial activity was evaluated against 13 bacterial strains including hospital bacteria and four reference strains (Gram-positive Enterococcus faecalis and Staphylococcus aureus and Gram-negative Escherichia coli and Pseudomonas aeruginosa). All the EOs were dissolved in Tween-80. The minimum inhibitory concentrations (MIC) and the minimum bactericidal concentrations (MBC) were determinated by sub-culture at TSA agar plates which were incubated at 37°C for 18 to 24 h. Fifteen compounds were identified. All oils were found to be rich in ketones and alcohols, especially 2-nonanone, 2-undecanone and 2-nonanol. These oils had a moderate antimicrobial activity against the majority of bacteria tested; the hospital strains Aeromonas hydrophila and Vibrio cholerae non-O1 were most sensitive.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>52</start>
+          <end>55</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f11.pdf</identifier>
+  </mods>
+</modsCollection>

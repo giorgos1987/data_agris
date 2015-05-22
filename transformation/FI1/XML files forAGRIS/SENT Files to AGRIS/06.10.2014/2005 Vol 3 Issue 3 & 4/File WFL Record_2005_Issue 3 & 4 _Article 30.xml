@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Contributions of selected non-timber forest products to household food security in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odebode</namePart>
+      <namePart type="given">Stella O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Extension and Rural Development, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Despite numerous policies and programmes geared towards improving the living standard of rural households in Nigeria, it has been difficult to stem the growth of food in security. Forest and trees are becoming scarce, thus resulting in a state of inbalance between what rural households need and what they can obtain. This is a threat to their survival. To ensure continuity, rural households involve themselves in the management of forest areas for continual availability of non-timber forest products (NTFPs). This study examines the contributions of selected non-timber forest products in ensuring household food security in Osun State of Nigeria. Data were generated through the use of structured questionnaires administered to 120 randomly selected rural household heads. The chi-square result showed that a significant relationship exists between household food security and the degree of contribution of NTEPs on rural households (X2 = 11.64, p = 0.05). A major conclusion is that the efforts geared at accelerating sustainable forest development, management and environmental conservation have not achieved the desired result. Moreover, the forest reserve areas should be made more accessible to rural households and laws governing forest reserved areas be reviewed and made flexible so that rural populace in such environment can benefit from such. A recommendation in this paper is the need to allow existing legislation restricting forest access to local people and discriminating against small forest enterprises should be modified to allow local people to use the forest for gathering forest products and for growing food and cash crops.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>138</start>
+          <end>141</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/e1.pdf</identifier>
+  </mods>
+</modsCollection>

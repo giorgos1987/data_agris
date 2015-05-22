@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biotechnology applications in crops</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Agong</namePart>
+      <namePart type="given">Stephen Gaya</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Administration, Planning and Development, Jomo Kenyatta University of Agriculture and Technology, P.O. Box 62000, Nairobi, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Genetic engineering technology has revolutionized agriculture and related biological sciences. This manuscript presents and discusses the details of biotechnology applications in the crops with special emphasis on horticulture. Modern biotechnology and in particular genetic engineering adds greater precision and speed in plant breeding. Genetic transformation of plants has simplified by the use of recombinant DNA technology. Commonly utilized vectors include: Agrobacterium tumefaciens and A. rhizogenes. Identification of the transgenic products (plants) proceeds faster via molecular techniques like RAPD and RFLP polymerase chain reaction protocols. A number of horticultural crops; fruits, vegetables and flowers have been transformed thus increasing the market utility.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>222</start>
+          <end>225</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-24.pdf</identifier>
+  </mods>
+</modsCollection>

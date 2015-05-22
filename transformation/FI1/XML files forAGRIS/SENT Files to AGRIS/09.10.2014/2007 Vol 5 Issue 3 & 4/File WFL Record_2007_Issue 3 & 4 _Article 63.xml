@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of cytokinin and calcium on cut flower quality in rose (Rosa hybrida L.) cv. Illona</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mortazavi</namePart>
+      <namePart type="given">N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Naderi</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khalighi</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Babalar</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Allizadeh</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cuttings of rose cultivar Illona were grown in pots and treated with different levels of cytokinin (0, 0.1, 1 and 10 µmol/l) and calcium (0, 10, 20 and 30 mmol/l). Cut flowers were harvested and kept in the distilled water and under laboratory conditions. The cytokinin and calcium application decreased senescence percentage and electrolyte leakage and increased activity of anti-oxidant enzymes, catalase and peroxidase. The effects of cytokinin and calcium on relative water content and total protein content in cut flowers of rose cultivar Illona were not significant respectively. The highest level of cytokinin and calcium increased the permanence and quality of cut flowers more effectively than the other treatments.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>311</start>
+          <end>313</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a28.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of lactation period on fatty acid profile of breast milk</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Lalude</namePart>
+      <namePart type="given">Lawuyi O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Obafemi Awolowo University, Ile-Ife, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Torimiro</namePart>
+      <namePart type="given">Spencer E. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Obafemi Awolowo University, Ile-Ife, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fashakin</namePart>
+      <namePart type="given">Joseph B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Obafemi Awolowo University, Ile-Ife, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study compares the fatty acid profiles of breast milk from full-term (FT) and pre-term (PT) infant mothers. Using gas-chromatographic technique, the breast milk secreted during the 1st; and 4th weeks of lactation were used to analyse fatty acid composition. Myristic (C14), palmitic (C16), oleic (C18:1) and linoleic (C18:2) acids were the predominant fatty acids found in both FT and PT milk samples. FT milk, however contained higher percentages of unsaturated fatty acids (C18:1 and C18:2) when compared to PT milk samples (P&lt;0.05). Saturated fatty acids generally decrease as lactation period increases in both PT and FT mothers’ milk. Lactation period was found to have a significant effect on fatty acid profiles of mothers’ milk. The high content of polyunsaturated fatty acids in the mothers’ milk will be of advantage in terms of both energy needed for growth and nervous system development for both the PT and FT.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>59</start>
+          <end>61</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f9.pdf</identifier>
+  </mods>
+</modsCollection>

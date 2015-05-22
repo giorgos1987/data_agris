@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Movement and flow velocity of groundwater in wells</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dökmen</namePart>
+      <namePart type="given">Funda</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of İhsaniye, Campus of Veziroğlu, Vinsan, İzmit, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kurtuluş</namePart>
+      <namePart type="given">Cengiz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Faculty of Engineering, Department of Geophysics, Campus of Umuttepe 41380 İzmit, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The movement and the flow velocity of groundwater were determined from data obtained from ten wells drilled in Derince district of Kocaeli, İzmit, Turkey. The data were determined on the basis of Darcy’s law. The depths and groundwater levels of the wells ranged from 16 to 115 m and from 3.90 to 25.10 m, and the maximum and the minimum discharge rates were determined to be 604.8 and 172.8 m3 day-1, respectively. The velocity of the groundwater varied between 21.6 and 75.6 m day-1. The filtration of the aquifer and the hydraulic slope affected the flow of the groundwater strongly. Pumping and the slope of the basement influenced strongly by the velocity of the groundwater.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>470</start>
+          <end>472</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e14.pdf</identifier>
+  </mods>
+</modsCollection>

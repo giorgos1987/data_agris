@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Plant regeneration and Agrobacterium-mediated transformation of African cowpea [Vigna unguiculata (L.) Walp] genotypes using embryonic axis explants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Raji</namePart>
+      <namePart type="given">Adebola A. J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Biotechnology Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria; c/o Lambourn Ltd, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oriero</namePart>
+      <namePart type="given">Eniyou</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Biotechnology Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria; c/o Lambourn Ltd, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odeseye</namePart>
+      <namePart type="given">Bola</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Biotechnology Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria; c/o Lambourn Ltd, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odunlami</namePart>
+      <namePart type="given">Toyin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Biotechnology Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria; c/o Lambourn Ltd, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ingelbrecht</namePart>
+      <namePart type="given">Ivan L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Biotechnology Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria; c/o Lambourn Ltd, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A rapid and reproducible in vitro plant regeneration procedure was developed for embryonic axis explants of cowpea [Vigna unguiculata (L.) Walp]. Moderate levels of 6-benzylaminopurine (0.5-2 mg l-1) were effective in inducing multiple shoots on decapitated embryonic axes on a Murashige and Skoog medium. Shoots developed in two overlapping, yet distinguishable, phases. First, multiple shoot clusters were induced within 15 days after explant preparation. Then, adventitious shoot buds emerged and continued to proliferate upon further subculturing. Shoots elongated on a medium containing 1.0 mg l-1 zeatin, 0.5 mg l-1 gibberellic acid and 0.1 mg l-1 indole acetic acid. Rooting of shoots was 100% efficient on a hormone-free medium or on a medium with 0.01-0.05 mg l-1 indole acetic acid. Diverse cowpea genotypes of African origin formed multiple shoots using this protocol with an efficiency that ranged from 50 to 95%. The two most responsive genotypes, IT86D-1010 and IT82D-889, yielded on average ten plantlets per explant within 3 months for about 90% of starting explants. Using the kanamycin gene as selectable marker and Agrobacterium tumefaciens as vector, transgenic cowpea shoots expressing an intron-interrupted ß-glucuronidase reporter gene were obtained. PCR and Southern hybridization demonstrated the stable integration of the kanamycin gene in the plant genome, thus showing that this shoot regeneration system is compatible with Agrobacterium-mediated transformation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>350</start>
+          <end>356</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a32.pdf</identifier>
+  </mods>
+</modsCollection>

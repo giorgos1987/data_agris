@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Autolysate and enzymatic hydrolysates from yam (Dioscorea opposita Thunb.) tuber mucilage tororo have antioxidant and angiotensin I-converting enzyme inhibitory activities</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nagai</namePart>
+      <namePart type="given">Takeshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suzuki</namePart>
+      <namePart type="given">Nobutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Graduate School of Biosphere Science, Hiroshima University, Higashi-hiroshima 7398528, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nagashima</namePart>
+      <namePart type="given">Toshio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Autolysate and enzymatic hydrolysates from yam (Dioscorea opposita) tuber were prepared and the functional properties were demonstrated. The yields of lyophilized powders obtained were low, 0.75-2.0% on the basis of fresh tuber. Each lyophilized powder possessed high antioxidative and scavenging activities against superoxide anion and hydroxyl radicals. Particularly trypsin hydrolysate exhibited strongly these activities. Moreover, these samples showed angiotensin I-converting enzyme inhibitory activities similar to peptides derived from casein, fish muscle and other food proteins. The present study indicates that autolysate and enzymatic hydrolysates from yam tuber whose health benefits are supported by sufficient scientific substantiation have the potential to be an increasingly important component of a healthy lifestyle and to be beneficial to the public and the food industry.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>39</start>
+          <end>43</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f8.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Outcrossing in cowpea</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fatokun</namePart>
+      <namePart type="given">Christian A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, (IITA), Ibadan, Nigeria. PMB 5320, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ng</namePart>
+      <namePart type="given">Quat</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food and Agriculture Organisation (FAO) Regional Office, Bangkok, Thailand.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cowpea is a self-pollinated crop and this is encouraged by the arrangement of floral parts. However, outcrossing has been reported and frequency of occurrence could vary depending on the genotypes involved and the environment where grown. Insects have been implicated in the movement of pollen in cowpea from one plant to another. Many insects visit cowpea flowers, which have extra-floral nectaries and in the process facilitate both self and cross pollination. Three cowpea lines with anthocyanin pigment, a dominant trait, and a fourth line lacking the pigment were used to measure the frequency of outcrossing in cowpea. Each of the lines with anthocyanin pigment was separately planted in alternate rows with the line lacking the trait at a spacing of 90 cm between and 25 cm within rows. In another study carried out at two different locations in Nigeria and one in the Republic of Benin two cowpea lines were used to measure extent of pollen movement. The two lines were planted in concentric circles with the line having anthocyanin pigment occupying the first four innermost circles surrounded by circles of plants of the line with no pigment. Each circle was spaced 1.0 metre to the next. Results obtained from both studies showed that outcrossing occurs in cowpea albeit at a low frequency of less than 1.0 percent. In addition, outcrossing occurred up to 31 metre distance. The insects most likely to be involved in pollen movement in cowpea are bumble bees and honey bees. The results of these studies would be useful in risk assessment for bioengineered cowpea, which need to be carried out prior to its release to the environment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>334</start>
+          <end>338</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a33.pdf</identifier>
+  </mods>
+</modsCollection>

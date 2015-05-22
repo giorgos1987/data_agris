@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Endogenous phosphorus loss in ruminants: A review</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Tayo</namePart>
+      <namePart type="given">Grace O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Key Laboratory of Agricultural Ecological Engineering, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan 410125, P.R. China. Babcock University, P. M. B. 21244, Ikeja, Lagos, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tan</namePart>
+      <namePart type="given">Zhiliang</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Key Laboratory of Agricultural Ecological Engineering, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha, Hunan 410125, P.R. China.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Phosphorus (P), a major mineral in animal nutrition is currently a focus of the livestock industry. This is because of its high fecal excretion by livestock and the subsequent environmental pollution, especially in the eutrophication of lakes and surface water. Areas of intensive animal husbandry and dairy farms where P is fed in excess are particularly affected. Ruminants must be fed according to precise net requirement to reduce excessive loss in feces. The knowledge of fecal endogenous loss is necessary to precise maintenance P requirement. Variation exists in the endogenous fecal loss and P availability values in feedstuffs among different countries. Quantitative information on these indices is needed. Salivary P, dry matter intake and physical nature of diets are major determinants of endogenous P loss but the mechanisms surrounding their role are yet to be clearly defined. Uniform, precise and acceptable method of estimating endogenous P loss in ruminants is to be developed. A lot of studies have been carried out on P metabolism in recent times but some aspects of the metabolism in ruminants are poorly understood. This review attempts to discuss these problems in the light of past and recent findings on P loss with a view to exploring areas for further research.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>267</start>
+          <end>273</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a20.pdf</identifier>
+  </mods>
+</modsCollection>

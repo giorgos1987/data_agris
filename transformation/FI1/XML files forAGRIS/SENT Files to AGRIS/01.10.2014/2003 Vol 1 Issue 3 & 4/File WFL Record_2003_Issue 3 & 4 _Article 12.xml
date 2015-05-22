@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of germination on the nutritional and functional properties of African oil bean (Pentaclethra macrophylla Benth) seed flour</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Enujiugha</namePart>
+      <namePart type="given">Victor N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Food Science &amp; Technology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Badejo</namePart>
+      <namePart type="given">Adebanjo A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Food Science &amp; Technology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Iyiola</namePart>
+      <namePart type="given">Samuel O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Food Science &amp; Technology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oluwamukomi</namePart>
+      <namePart type="given">Matthew O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Food Science &amp; Technology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seed flour samples of freshly harvested raw and germinated African oil bean (Pentaclethra macrophylla Benth) were analysed for proximate composition, elemental concentrations, as well as presence and levels of some anti-nutritional factors. The seeds took 16 days to germinate under wet sawdust conditions at 25°C. The results of chemical analysis show that the germinated seeds had significantly (P&lt;0.05) higher crude protein content and lower values of other components compared with the fresh seeds. Germination increased the protein content by more than 60% and decreased the oil content by 38%, which is an indication of a marked improvement in nutritional value, especially if the seeds are used as protein supplements. All the minerals analysed showed slight decreases due to germination with the exception of magnesium and iron, which were not significantly (P&gt;0.05) affected by the process. The highest reduction of &gt;27 % was recorded for sodium, indicating its utilization in the development of the cotyledons. Germination lowered significantly (P&lt;0.05) the levels of phytic acid and phytate-phosphorus in the seeds, and this could have resulted from an increase of phytase activity. The results indicate improved nutrient availability, especially divalent metals and protein, due to germination. The tannic acid content of the seeds was not affected by germination. Germination increased the water and oil absorption capacities of the defatted Pentaclethra seed flour. Also, foaming and emulsification capacities increased with germination, although the raw seed gave a more stable foam and better gel. Protein solubility increased both at acid and alkaline pH as a result of the process of germination. The results show that the functional quality of African oil bean seeds can be improved by germination prior to processing.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>72</start>
+          <end>75</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-12.pdf</identifier>
+  </mods>
+</modsCollection>

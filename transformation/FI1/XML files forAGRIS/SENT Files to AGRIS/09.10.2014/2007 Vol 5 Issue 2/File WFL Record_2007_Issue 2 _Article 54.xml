@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of soil erosion on water, soil, humus and nutrient losses in different crop systems in the Moldavian Plateau, Romania</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bucur</namePart>
+      <namePart type="given">Daniel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine, Iasi, M. Sadoveanu 3, 700490, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jitareanu</namePart>
+      <namePart type="given">Gerard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine, Iasi, M. Sadoveanu 3, 700490, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ailincai</namePart>
+      <namePart type="given">Costica</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Research and Development Station of Podu- Iloaiei, Nationala 86, 707365, Iasi County, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tsadilas</namePart>
+      <namePart type="given">Christos</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Agricultural Research Foundation, Institute of Soil Mapping and Classification, 1 Theophrastos street, 41335, Larissa, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ailincăi</namePart>
+      <namePart type="given">Despina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Research and Development Station of Podu- Iloaiei, Nationala 86, 707365, Iasi County, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mercus</namePart>
+      <namePart type="given">Adrian</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Research and Development Station of Podu- Iloaiei, Nationala 86, 707365, Iasi County, Romania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The natural characteristics of the Moldavian Plateau land and the human intervention lead to soil degradation on the slopes damaging seriously the environmental quality. In order to contribute to maintain soil losses at acceptable levels it was monitored surface runoff and soil erosion under cultivation conditions of the dominant plants in the area. The experiments carried out at the Podu-Iloaiei Agricultural Research and Development Station, during 1965-2006, aimed to study of water runoffs and soil losses by erosion in different crops; the annual rate of soil losses under anti- erosion protection of different crops; the influence of water runoffs and soil erosion on soil organic matter and nutrient losses. For this purpose an appropriate experimentation was established in a side with an average slope of 11%, including plots (25 m x 4 m) for runoff control, isolated from the rest of the area by metallic walls and equipped downstream with installations for collecting water and soil samples. The measurements were carried out on the whole area of the catchments, where the experiments were conducted since 1980, arranged by strip cropping and contour buffer strip. The experiments were supported by the appropriate instrumentation of a hydrological station providing rain gauge, triangular waste weir, limnigraph and devices for water and soil samplings. The results showed that mean annual soil losses by erosion during 1980-2006 were 0.14 t/ha in perennial grasses on the second growth year, 2.01 t/ha in beans, 2.57 t/ha in maize and 3.06 t/ha in sunflower. The highest losses were registered in maize continuous culture (335 kg/ha humus, 17.43 kg/ha nitrogen, 1.06 kg/ha mobile phosphorus and 2.36 kg/ha mobile potassium); these amounts decreased very much at the same time with the increase in rotation structure of crops (pea, wheat, alfalfa and perennial grasses) protecting soil against erosion. At three and four year rotations, which included good and very good cover plants for protecting soil against erosion, the amount of eroded soil and nutritive elements lost by erosion were very close to the limit allowable for this area.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>261</start>
+          <end>264</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/e4.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Diagnosis and correction of iron chlorosis in fruit trees: A review</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pestana</namePart>
+      <namePart type="given">Maribela </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia de Recursos Naturais, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">de Varennes</namePart>
+      <namePart type="given">Amarilis </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto Superior de Agronomia, Departamento de Química Agrícola e Ambiental, Tapada da Ajuda, 1349-017 Lisboa, Portugal. </affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Faria</namePart>
+      <namePart type="given">Eugénio Araújo </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia de Recursos Naturais, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Several plant species grown in calcareous soils in arid and semiarid regions are iron-deficient, a condition known as lime-induced iron chlorosis, or simply as iron chlorosis. The nutritional status of perennial plants is commonly evaluated by leaf analysis. However, there is often no correlation between iron in leaves and degree of chlorosis, and therefore leaf analysis presents serious limitations as a technique to evaluate lime-induced iron chlorosis. Recently, a technique for the early prognosis of iron chlorosis based on floral analysis was developed for fruit trees to help prevent the development of iron deficiency and avoid losses in yield and quality. Correction of iron chlorosis is commonly carried out by massive applications of synthetic iron chelates to soils. Since iron is rapidly immobilized in the soil, this treatment has to be repeated each year, representing a major part of fertilizer costs. Environmental impacts of chelates in soils have not been properly investigated, but it is known that they also result in enhanced plant uptake of metals such as copper and nickel. Alternative, more environment-friendly treatments are being evaluated. In this article we concentrate on reviewing current methods to detect and correct iron chlorosis in fruit trees.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>46</start>
+          <end>51</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1A46-51diagnosis.pdf</identifier>
+  </mods>
+</modsCollection>

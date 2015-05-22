@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quality characteristics and yield attributes of sweetpotato (Ipomoea batatas L.) genotypes grown under sustainable cultural conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Islam</namePart>
+      <namePart type="given">Shahidul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Arkansas at Pine Bluff, 1200 North University Drive, Mail Slot 4913, Pine Bluff, AR 71601, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Porter</namePart>
+      <namePart type="given">Owen A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Arkansas at Pine Bluff, 1200 North University Drive, Mail Slot 4913, Pine Bluff, AR 71601, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Izekor</namePart>
+      <namePart type="given">Steve E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Arkansas at Pine Bluff, 1200 North University Drive, Mail Slot 4913, Pine Bluff, AR 71601, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Garner</namePart>
+      <namePart type="given">James O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Arkansas at Pine Bluff, 1200 North University Drive, Mail Slot 4913, Pine Bluff, AR 71601, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Sweetpotato [Ipomoea batatas (L.) Lam.] is grown all over the world to produce a wide range of industrial, food and beverage products. In USA, sweetpotato is grown in southern states to produce roots for human consumption. The area planted locally has been steadily increasing, as has household expenditure on fresh sweetpotato roots. Experiments were conducted over three years namely 2003, 2004 and 2005 for the selection of suitable genotypes and to identify optimum cultural practices such as in-row spacing and fertility. The average total marketable yield of the breeding lines ‘B 94-14’, ‘NC 98-608’, ‘94-96’ and varieties Beauregard and Georgia Jet was higher than the local commercial average. There was no interaction between in-row plant spacing and N-fertilization rates. U.S. # 1’s yield significantly increased with row spacing decrease from 15 through 7 inches, 65-195 bushels per acre. There was no significant difference between 7 and 10 inches, and 12 and 15 inches spacing among all grades recorded. The percent U.S. # 1’s was higher in 7 and 10 inches spacing (53 and 43%) compared to 12 and 15 inches spacing (22-17%). The U.S. # 1’s storage root yields under low nitrogen treatment were higher than for ‘non’ and ‘high’ N treatments. Beauregard was the best variety in terms of storability, losing an average of only 1.4% per month, while on the NC-98-608 was the worst, at 3.0%. ‘Beauregard’, ‘B 94-14’, ‘NC 98- 608’, ‘Jewel’ and ‘Georgia Jet’ tended to rank higher for uniformity of shape than other varieties/genotypes studied. Results from the study will provide farmers with information for making informed decisions on which variety to plant that will optimize profits and give them nformation on the soon to be released advanced lines. The results are also useful in future conventional and molecular breeding program for improvements of the desired quality criteria of sweetpotatoes.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>220</start>
+          <end>224</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a10.pdf</identifier>
+  </mods>
+</modsCollection>

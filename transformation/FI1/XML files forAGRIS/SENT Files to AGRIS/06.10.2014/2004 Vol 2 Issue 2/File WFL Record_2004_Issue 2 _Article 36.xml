@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reciprocal grafting between early maturing and normal maturing olive varieties: Preliminary effects on the nature of juvenility and flowering</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Malik</namePart>
+      <namePart type="given">Nasir S.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>USDA-ARS, Integrated Farming and Natural Resources Research Unit 2413 East Highway 83, Weslaco, Texas, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bradford</namePart>
+      <namePart type="given">Joe M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>USDA-ARS, Integrated Farming and Natural Resources Research Unit 2413 East Highway 83, Weslaco, Texas, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Reciprocal grafting was performed between young trees (18 months old) of early maturing (within 1-2 year) and normal maturing (4-6 years) varieties of olives. Scions of an early maturing variety 'Arbequina' grafted on young rootstocks of a normal maturing variety 'Manzanillo', and grown for 7 months in greenhouse conditions, produced flowers when subjected to flower inducing chilling period. Conversely, scions from juvenile ‘Manzanillo’ trees grafted on early maturing ‘Arbequina’ failed to produce flowers under similar conditions. In addition, scions taken from a mature tree (L712; that flowered after 4 years) when grafted on juvenile rootstock plants of normal maturing varieties 'Manzanillo and Mission' and allowed to grow for 8 months also produced flowers when subjected to flower inducing conditions. The results indicate that once an olive shoot has been matured or conditioned to receive flowering stimulus, it continues to produce flowers even on nodes that were formed after it had been grafted on roots of a plant that had not been matured. Apparently, olive roots do little to control the ability of the shoot to be receptive to chilling stimulus for flower induction in olives. However, the possibility exists that the roots may play role in flower or fruit development in olives.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>197</start>
+          <end>200</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a7.pdf</identifier>
+  </mods>
+</modsCollection>

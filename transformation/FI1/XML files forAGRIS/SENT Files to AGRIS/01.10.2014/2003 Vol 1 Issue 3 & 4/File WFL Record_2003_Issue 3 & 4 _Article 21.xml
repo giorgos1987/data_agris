@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Protoplast isolation, culture and application to genetic improvement of woody plants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Liu</namePart>
+      <namePart type="given">Jihong</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Key Laboratory of Crop Genetic Improvement, National Center of Crop Molecular Breeding Huazhong Agricultural University, Wuhan 430070, P.R.China.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Xu</namePart>
+      <namePart type="given">Xiaoyong</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Key Laboratory of Crop Genetic Improvement, National Center of Crop Molecular Breeding Huazhong Agricultural University, Wuhan 430070, P.R.China.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Deng</namePart>
+      <namePart type="given">Xiuxin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Key Laboratory of Crop Genetic Improvement, National Center of Crop Molecular Breeding Huazhong Agricultural University, Wuhan 430070, P.R.China.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Traditional breeding of most woody plants is more or less confronted with certain barriers. Protoplast isolation and culture pave way for genetic improvement of woody plants. Since the first try on protoplast isolation and culture was conducted much progress has been made in woody plants, covering most of the important species including fruit trees, such as citrus, apple, pear, mango, kiwifruit, litchi, and forestry trees, such as sandalwood, poplar, eucalyptus, mulberry, conifer, etc. The present paper reviews the general protocols concerning protoplast isolation and culture, summarizes the factors affecting protoplast isolation and culture, introduces the variations, inclusive of chromosome number, morphology and resistance, occurring in protoplast-derived plants. In addition, application of protoplast to genetic improvement and basic study of woody plants are discussed herein, such as cryopreservation, somatic hybridization, genetic transformation and other basic researches.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>112</start>
+          <end>120</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-1.pdf</identifier>
+  </mods>
+</modsCollection>

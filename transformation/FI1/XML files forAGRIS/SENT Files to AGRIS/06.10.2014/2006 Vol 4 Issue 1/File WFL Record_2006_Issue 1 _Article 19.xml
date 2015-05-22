@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Forced air cooling system for Zea mays</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Cortbaoui</namePart>
+      <namePart type="given">Patrick</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Engineering, Macdonald Campus of McGill University, 21,111 Lakeshore Rd., Ste-Anne-de-Bellevue, Quebec, Canada, H9X 3V9. Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Boul. Gouin, Saint-Jean-sur-Richelieu, Quebec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Goyette</namePart>
+      <namePart type="given">Bernard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Boul.Gouin, Saint-Jean-sur-Richelieu, Quebec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gariépy</namePart>
+      <namePart type="given">Yvan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Engineering, Macdonald Campus of McGill University, 21,111 Lakeshore Rd., Ste-Anne-de-Bellevue, Quebec, Canada, H9X 3V9.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Charles</namePart>
+      <namePart type="given">Marie Thérèse</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Boul.Gouin, Saint-Jean-sur-Richelieu, Quebec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Raghavan</namePart>
+      <namePart type="given">Vijaya G.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Engineering, Macdonald Campus of McGill University, 21,111 Lakeshore Rd., Ste-Anne-de-Bellevue, Quebec, Canada, H9X 3V9.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vigneault</namePart>
+      <namePart type="given">Clément</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Bioresource Engineering, Macdonald Campus of McGill University, 21,111 Lakeshore Rd., Ste-Anne-de-Bellevue, Quebec, Canada, H9X 3V9. Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Boul.Gouin, Saint-Jean-sur-Richelieu, Quebec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Three cultivars of sweet corn were precooled immediately after harvest using a forced-air cooler system. Combinations of two air flow rates, 1 and 3 L·s-1·kg-1 of produce, and two cob orientations, parallel and perpendicular to the air flow were tested. Both precooled and room cooled corn cobs were stored for 7 and 21 days at 1ºC and 90-95% RH. Half cooling time and quality attributes were measured to assess the performance of the forced-air cooler compared to room cooling. Higher air flow rate (3 L·s-1·kg-1) and perpendicular orientation of corn cobs reduced significantly the cooling time. On the other hand, forced-air precooling extended the storage life of sweet corn cobs for a period of 21 days by conserving high total soluble solids and moisture content and maintaining fairly good general quality. The three cultivars of sweet corn were shown to be different in their keeping quality over time.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>100</start>
+          <end>104</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f19.pdf</identifier>
+  </mods>
+</modsCollection>

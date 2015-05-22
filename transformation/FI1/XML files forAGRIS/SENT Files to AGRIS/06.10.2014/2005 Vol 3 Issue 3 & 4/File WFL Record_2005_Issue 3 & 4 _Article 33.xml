@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Using principal component analysis to characterize the Tibagi River hydrographic basin, Paraná State, Brazil</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bisinoti</namePart>
+      <namePart type="given">Márcia Cristina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Química, Universidade Estadual de Campinas-UNICAMP, CP 6154 - 13084971, Campinas-SP, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yabe</namePart>
+      <namePart type="given">Maria Josefa S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Química, Universidade Estadual de Londrina-UEL; Campus Universitário, CP 6001, 86051-970, Londrina-Pr, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gimenez</namePart>
+      <namePart type="given">Sônia M.N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Química, Universidade Estadual de Londrina-UEL; Campus Universitário CP 6001, 86051-970, Londrina-Pr, Brazil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper aims to study the chemical and biological parameters in the ecological system of the Tibagi River in Paraná State, Brazil. In this context, several limnologic parameters were evaluated: pH, dissolved oxygen, conductivity, turbidity, temperature, ammonium, nitrate, nitrite, total phosphorus, total alkalinity, oxygen chemistry demand, total solids, transparency, seston, chlorophyll a, b, and c, phaeophytin, fecal and total coliforms during the 1991 and 1998/1999 hydrologic years, from eight sampling stations sited along the Tibagi River. The results obtained in this monitoring were evaluated by Principal Components Statistical Analysis (PCA) and Hierarchical Group Analysis for comparison of the basin conditions over time. The principal components of the data group isolated the observations regarding the headwater, detaching it out as a referential area of reduced environmental impact. It can conclude that the parameters quantified are very efficient for identifying and that the dry season shows the worst water quality. These were caused by organic matter, nutrients (originate) from anthropogenic sources (spatial sources) and mainly municipal wastewater, affecting the quality and hydrochemistry of the river water, which have been differentiated and assigned to polluting sources. The water quality has undergone degradation over the years, in spite of a positive modification of the fauna and flora populations. The Tibagi River basin influences other important aquatic systems in the country, and it has been considered a point of dispersion of several species of the Atlantic ocean. A comparison of the data obtained for the two time periods studied showed that parameters studied suffered an increase in the concentrations along the Tibagi River hydrographic basin. It can conclude that the degree of degradation in Tibagi River is low and this way people of Paraná State can use this water, after conventional treatment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>153</start>
+          <end>160</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/e4(2).pdf</identifier>
+  </mods>
+</modsCollection>

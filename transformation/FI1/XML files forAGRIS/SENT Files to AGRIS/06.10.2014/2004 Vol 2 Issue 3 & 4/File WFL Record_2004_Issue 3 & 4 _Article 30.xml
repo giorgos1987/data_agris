@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Dry matter partitioning and plant development as function of environmental factors in wheat (Triticum aestivum L.) cv. Avalon</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">B. Laghari</namePart>
+      <namePart type="given">Karim</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Biological Sciences, University of Wales, Bangor, LL57 2UW, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Munir</namePart>
+      <namePart type="given">Muhammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Plant Sciences, University of Reading, Reading, RG6 6AS, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">F. Farrar</namePart>
+      <namePart type="given">John</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Biological Sciences, University of Wales, Bangor, LL57 2UW, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">N. Mahar</namePart>
+      <namePart type="given">Ali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Reading, Reading, RG6 6AT, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Dry matter partitioning in shoots and roots increased by high light intensity (400 µmol m-2 s-1) and low temperature (15°C) whereas the shoot:root ratio increased with low light intensity (110 µmol m-2 s-1) and decreased with low nitrogen concentration (0.6 mM) and was similar at 15 and 20°C in this study. Plants received high light intensity (400 µmol m-2 s-1) increased fully expanded leaves on main stem, number of tillers and number of fully expanded leaves on tillers whereas high temperature (20°C) accelerated the rate of development of fully expanded leaves on main stem. Both high nitrogen (6 mM) and low temperature (15°C) treatments increased the development of number of tillers and number of leaves on tillers. Similarly, low nitrogen concentration (0.6 mM) increased the amount of sucrose in shoot and root. The relationship of shoot dry weight to different parameters showed that high light (400 µmol m-2 s-1), nitrogen (6 mM) and temperature (20°C) significantly shortened the growth and developmental processes as compared to low level of these environmental factors.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>149</start>
+          <end>156</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a13.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Forage legumes for soil productivity enhancement and quality fodder production</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odunze</namePart>
+      <namePart type="given">A. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute For Agricultural Research (IAR), Ahmadu Bello University Zaria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tarawali</namePart>
+      <namePart type="given">S.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA) &amp; International, Livestock Research Institute (ILRI) Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">de Haan</namePart>
+      <namePart type="given">N. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA) &amp; International, Livestock Research Institute (ILRI) Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akoueguon</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA) &amp; International, Livestock Research Institute (ILRI) Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amadji</namePart>
+      <namePart type="given">A. F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Nationale de Researches Agricoles du Benin (INRAB), Benin.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schultze-Kraft</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Hohenheim (380), Stuttgart, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bawa</namePart>
+      <namePart type="given">G. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute For Agricultural Research (IAR), Ahmadu Bello University Zaria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Ruminant performance in the tropics, as in the Northern Guinea Savanna of Nigeria, is affected by seasonal variation in the availability and quality of pasture, and supplementation of animal feeds in these systems is constrained by the high price of imported inputs. Also, for farming systems in the subhumid zone of West Africa, nitrogen is generally the most limiting nutrient for crop production, and this problem has been compounded in recent decades by the difficulties faced by farmers in obtaining N fertilizers. The integration of forage legumes into the cropping cycles in the NGS of Nigeria could have the potential to enhance yields of subsequent crops through the increase in plant available N and organic carbon in the soil, as well as quality fodder for feeding livestock in the zone. Following the investigation of this, results obtained show that that Macrotyloma uniflorum and Centrosema pascuorumtreatments resulted in lower bulk density than the other legume treatments for the two years. Also following one year cropping,Aeschynomena histrix/maize intercrop showed 64% increase in soil organic carbon, and was followed by Stylosanthes hamata/maize (30%), and sole A. histrix (20 %). Planting of Lablab (black seed), intercrop of Chaemacrista rotundifolia, M. uniflorum, Lablab and A. histrix with maize could result in over 100% soil N improvement within one year. The intercrop of M. uniflorum with maize resulted in higher maize grain yield than the sole maize, over the period 2000 to 2002. As much as 2.50 t ha-1 of maize stover could be obtained after planting forage legumes/maize for two years and this could be mixed with as much as 15 t ha-1 of legume residues to produce quality fodder for supplemental feeding of livestock especially in the dry seasons when livestock feed is scarce. Both maize and legume grains, and quality fodder could be sold for cash returns to the farmer, thus improving the farmers’ income from farming.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>201</start>
+          <end>209</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a8.pdf</identifier>
+  </mods>
+</modsCollection>

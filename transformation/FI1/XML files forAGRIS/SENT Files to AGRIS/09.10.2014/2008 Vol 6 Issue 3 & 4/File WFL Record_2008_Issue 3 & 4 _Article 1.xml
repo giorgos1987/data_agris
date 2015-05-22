@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quality evaluation of Maria Aurelia nectarine variety during short-term storage</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Özkaya</namePart>
+      <namePart type="given">Okan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cukurova University, Karaisali Vocational College, Karaisali, Adana Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dündar</namePart>
+      <namePart type="given">Ömür</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cukurova University, Horticulture Dept. Balcali, Adana, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Advanced maturity of nectarines cv. Maria Aurelia were harvested and sealed in modified atmosphere packaging (MA) bags and stored for 10 days. Quality was evaluated initially and after storage period plus 5 day shelf life. According to the results MA packaging reduced the weight losses. Other quality parameters; total soluble solid concentration, fruit juice acidity, color and individual sugar levels; were almost similar with control. Depending on overall quality evaluation MA packaging can be useful for short-term storage for reducing the weight losses and maintain the other studied parameters for 10 day storage of Maria Aurelia nectarin variety.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>9</start>
+          <end>10</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f1.pdf</identifier>
+  </mods>
+</modsCollection>

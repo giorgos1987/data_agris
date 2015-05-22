@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Response of pumpkin (Cucurbita ficifolia L.) to some growth regulators</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ntui</namePart>
+      <namePart type="given">V. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Uyoh</namePart>
+      <namePart type="given">E. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Enok</namePart>
+      <namePart type="given">L. N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Udensi</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Genetics and Biotechnology, University of Calabar, Calabar, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pumpkin (Cucurbita ficifolia L.) is a climbing or creeping monoecious annual plant grown in Nigeria for its stem, leaves, fruits and seeds, which are rich sources of calcium, potassium and vitamins (niacin). The effects of growth regulator (IAA and BAP) applications [ 0 (distilled water, control), 50, 100 and 150 mg l-1] on the growth characteristics and sex expression in   C. ficifolia were investigated. The research was carried out at the Biological Science Experimental Farm, University of Calabar, Calabar, Nigeria, from May to September, 2006. The experimental design was a 2 x 4 factorial arrangement on a Randomized Complete Block Design. Analysis of variance for the growth characters showed significant (P&lt;0.05) increase in number of leaves, leaf area, internode length, vine length, number of female flowers and number, size and weight of fruits in plants treated with IAA 100 mg l-1. The control took significantly (P&lt;0.05) fewer days to form fruit from flowering. Number of seeds per fruit was highest in IAA 50 mg l-1. IAA was generally more effective in inhibiting male flowers and increasing the number of female flowers than BAP. Applications of growth regulators at higher doses (150 mg l-1 for IAA and 100 and 150 mg l-1 for BAP) showed a decreasing effect in most of the characters studied. It is hoped that this information will prove useful to researchers who wish to improve upon the agronomic characters of C. ficifolia.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>211</start>
+          <end>214</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a22.pdf</identifier>
+  </mods>
+</modsCollection>

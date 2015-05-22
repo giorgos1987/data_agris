@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Proximate and elemental composition and their estimated daily intake in infant formulae from developed and developing countries: A comparative analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Olu-Owolabi</namePart>
+      <namePart type="given">Bamidele I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fakayode</namePart>
+      <namePart type="given">Sayo O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, Louisiana State University, Baton Rouge, LA 70803, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adebowale</namePart>
+      <namePart type="given">Kayode O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Onianwa</namePart>
+      <namePart type="given">Patricia C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The proximate compositions (moisture, protein, ash, fat, crude fiber and carbohydrate) and levels of thirty seven elements (P, Ca, Cu, Mg, Mn, Na, K, Zn, Pb, Bi, Sn, Ti, Si, Tl, Sb, Ba, Se, Sr, S, Ag, Cd, Mo, Ni, Al, As, Be, Co, Cr, Sc, V, W, Zr, B, Ce, Li, Te and U) were determined in thirteen brands infant formulae samples obtained from three developing (Nigeria, South Africa and Venezuela) and five developed (USA, France, Italy, Denmark and Germany) countries. In addition, the daily intakes of the elements from formulae from developing and developed countries were estimated and compared. The results from this study indicated that the qualities, elemental compositions and their estimated daily intake from infant formulae obtained from developing countries compare well with those from the developed countries and within statutory safe limits. However, some essential elements, such as Se, Co, Cr and Mo, were not detected in most formulae from developing as well as from developed countries.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>40</start>
+          <end>44</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f7.pdf</identifier>
+  </mods>
+</modsCollection>

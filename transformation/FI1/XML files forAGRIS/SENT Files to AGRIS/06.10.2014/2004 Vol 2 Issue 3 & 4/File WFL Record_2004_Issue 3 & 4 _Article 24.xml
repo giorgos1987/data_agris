@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effectiveness of fluorescent pseudomonads strains HF22 and HF142 to control bacterial canker of tomato</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Boudyach</namePart>
+      <namePart type="given">E. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Cellulaire et Moléculaire, Faculté des Sciences, Université Ibn Zohr Agadir, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fatmi</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Phytobactériologie, Institut Agronomique et Vétérinaire Hassan II, Agadir, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Boubaker</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Cellulaire et Moléculaire, Faculté des Sciences, Université Ibn Zohr Agadir, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aoumar</namePart>
+      <namePart type="given">A. Ait Ben</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Cellulaire et Moléculaire, Faculté des Sciences, Université Ibn Zohr Agadir, Maroc.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akhayat</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Cellulaire et Moléculaire, Faculté des Sciences, Université Ibn Zohr Agadir, Maroc.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Two fluorescent pseudomonads strains, HF22 and HF142, were isolated from the rhizoplane of tomato roots, originating from Souss-Massa-Darâa Valley, Agadir, Marocco. The potential utilization of these strains to protect plants of tomato (cv. Daniela, Spain) against bacterial canker was investigated. Tests were realized with spontaneous resistant mutants to antibiotics: ampicillin (100 µg ml-1), nalidixic acid (100 µg ml-1) and chloramphenicol (25 µg ml-1). Several treatments were tested to adhere cells of bacteria to tomato seeds: distilled water, NaCl 0.85%, agar at 0.1% and 0.2%, xanthan gum at 0.25% and 0.5%. The best bacterization was obtained with xanthan gum at 0.5% as adhesive. The population fixed was ~ 4×105 cfu seed-1 and viable population after 28 days of storage of treated seeds at 5°C was ~105 cfu seed-1 for HF22r and ~5×10³ cfu seed-1 for HF142r. Tests of root-colonization showed that HF22r and HF142r established a large spermosphere populations (~ 3.8×105 cfu seed-1 for HF22r and ~ 9×105 cfu seed-1 for HF142r), and colonization of tips of roots was similar for both strains (~10³ cfu cm-1). Control of bacterial canker under greenhouse in commercial-like conditions using tomato (cv. Daniela, Spain) showed that the two strains significantly reduced (P&lt;0.001) infection compared to the untreated control. The bacterium HF142 reduced the infection totally when applied as seed treatment followed by a root treatment before transplanting compared to the control.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>115</start>
+          <end>120</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a7.pdf</identifier>
+  </mods>
+</modsCollection>

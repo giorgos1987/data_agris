@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Factors that influence coat hair length in primitive horses (Equus caballus)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Stachurska</namePart>
+      <namePart type="given">Anna</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Biology and Animal Breeding, Agricultural University, 13 Akademicka str., 20-950 Lublin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pięta</namePart>
+      <namePart type="given">Mirosáaw</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Biology and Animal Breeding, Agricultural University, 13 Akademicka str., 20-950 Lublin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jaworski</namePart>
+      <namePart type="given">Zbigniew</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Polish Academy of Sciences, Institute of Genetics and Animal Breeding, PostĊpu str. 1, JastrzĊbiec, 05-552 Wólka  Kosowska,Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ussing</namePart>
+      <namePart type="given">Anne P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Danish National Library of Science and Medicine, 49 Nørre Allé, DK-2200, København N, Denmark.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pluta</namePart>
+      <namePart type="given">Michal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Biology and Animal Breeding, Agricultural University, 13 Akademicka str., 20-950 Lublin, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was undertaken to investigate one of the adaptation mechanisms in primitive horses (Equus caballus), specifically the alterations of coat hair length, with regard to factors which influence this phenotype. Both the Polish Konik breed and the Bilgoraj population descend from the Tarpan (Equus caballus gmelini). Polish Koniks are included in the Global Strategy for the Management of Farm Animal Genetic Resources. In order to study environmental influence on hair length, the free-ranging horses in the forest reservations were compared to horses kept in stables, with limited access to pastures. 479 hair samples from the dorsal side near the withers, of 188 horses, were cut off closely to the skin and measured. Analysis of variance was used to elaborate the data. The results indicate that the primitive horses living in the East of Poland retained the ability of adapting to variable environmental conditions. The coat hair length is affected by the season of the year, the environment in which the horses are kept (stable/reservation), the geographic location of the breeding centre, as well as the horse’s age, gender and origin. The winter coat length of free-ranging horses amounts on average to 5.8 cm and is approx. 4.6 cm longer than the summer coat. The winter coat usually consists of two layers: outercoat and undercoat. The mean length of the underhairs is approx. 2.2 – 2.9 cm. The summer coat consists of outerhairs only. The stabled horses have a shorter coat, and the seasonal difference is less pronounced in this group. Foals have longer hairs than adult horses. Geldings have longer coat hairs than stallions and mares. Both kinds of hairs are longer in the Polish Koniks than in the Bilgoraj horses.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>215</start>
+          <end>219</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a18.pdf</identifier>
+  </mods>
+</modsCollection>

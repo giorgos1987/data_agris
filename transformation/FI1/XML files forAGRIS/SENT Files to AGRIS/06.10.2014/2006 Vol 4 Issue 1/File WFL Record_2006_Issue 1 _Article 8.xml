@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Postharvest control of blue mold of apples with reduced-risk fungicides together with anti-scald agent diphenylamine under cold and controlled atmosphere storage conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Errampalli</namePart>
+      <namePart type="given">Deena</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agriculture and Agri-Food Canada, SCPFRC, 4902 Victoria Ave. N., Vineland Station, ON L0R 2E0, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>To preserve apple fruit quality, diphenylamine (DPA; scald inhibitor) and thiabendazole (TBZ; postharvest fungicide) were applied together as postharvest treatment. Due to the development of resistance to TBZ, the incidence of blue mold (Penicillium expansum) has increased in apple storages in recent years. To manage the fungicide resistance, two reduced-risk fungicides, cyprodinil or fludioxonil or a combination of cyprodinil and fludioxonil, together with 1000 µg ml-1 of diphenylamine were tested against blue mold caused by DPA-resistant and TBZ-resistant; or DPA-resistant and TBZ-sensitive P. expansum in vitro and in vivo on ‘Empire’ apples in cold and controlled atmosphere (CA) storages. In vitro studies, TBZ-sensitive isolates did not grow on TBZ while TBZ-resistant isolates grew on TBZ; all six isolates grew on DPA and no mycelial growth was observed on cyprodinil and/or fludioxonil. Under both cold and CA storage conditions, DPA controlled scald in DPA-treated fruit but did not control blue mold caused by DPA-resistant isolates of P. expansum. DPA did not affect the control of blue mold when DPA was applied together with 225 to 450 µg ml-1 of cyprodinil or 300 to 600 µg ml-1 of fludioxonil or 225 +150 µg ml-1 of cyprodinil and fludioxonil. These two reduced risk fungicides, which have different modes of action from each other and that of TBZ, were able to suppress TBZ-resistant blue mold in the presence of anti-scald agent DPA and thus have a potential to be incorporated into the postharvest disease management strategies.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>43</start>
+          <end>47</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f8.pdf</identifier>
+  </mods>
+</modsCollection>

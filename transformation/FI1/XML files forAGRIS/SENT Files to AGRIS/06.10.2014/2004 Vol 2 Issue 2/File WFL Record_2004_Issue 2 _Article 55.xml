@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Silver thiosulfate prolongs vase life and improves quality of cut gladiolus and rose flowers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Humaid</namePart>
+      <namePart type="given">Abdulrahman  I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticulture Department, College of Agric. and Vet. Med., King Saud Univ., Buraidah, Al-Qassim, Kingdom of Saudi Arabia. P.O. B. 1482 Buraidah.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Gladiolus (Gladiolus gandavensis) ‘Rose Supreme’ and rose (Rosa hybrida L.) ‘Evel Tower’ cut flowers were treated with 4 mM silver thiosulfate solution (STS) for different periods to evaluate the effect of various pulse periods on flower vase life and quality. Treating cut gladiolus spikes and rose stems with STS at 4 mM for 60 min prolonged flower vase life by 75.86% and 54.16%, respectively, and improved postharvest quality. Rose stems pretreated with STS for 30, 40 or 60 min. never showed bent neck. Silver thiosulfate treatments showed an antimicrobial effect, as the bacterial count in the basal parts of gladiolus and rose stems pretreated with STS was significantly reduced. There was an adversely proportional relationship between STS pulse period and total bacterial count in the basal parts of the stems. The longer the pulse period the fewer the total microbial count. Treating gladiolus cut flowers with STS improved flower-opening rate and reduced deterioration rate. Maximum open and lowe st deteriorated number of gladiolus flowers occurred when spikes were treated with STS at 4 mM for 60 min.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>296</start>
+          <end>300</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a26.pdf</identifier>
+  </mods>
+</modsCollection>

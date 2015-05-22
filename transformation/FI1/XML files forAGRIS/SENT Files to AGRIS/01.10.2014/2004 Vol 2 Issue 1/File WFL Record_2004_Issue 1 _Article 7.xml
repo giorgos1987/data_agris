@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of hydrocolloids on the limonin content of Kinnow juice</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Aggarwal</namePart>
+      <namePart type="given">Poonam</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Punjab Agricultural University, Ludhiana, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sandhu</namePart>
+      <namePart type="given">K.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Punjab Agricultural University, Ludhiana, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Four hydrocolloids viz. gum acacia, carboxymethylcellulose (sodium salt), pectin and sodium alginate added at 0.2, 0.2, 0.05 and 0.3 g kg-1 respectively were found suitable in reducing limonin content in Kinnow juice. CMC and sodium alginate were found to be 28% more effective than control in masking bitterness due to limonin content after six months of storage. Juice containing CMC was found the best in its flavour followed by sodium alginate, gum acacia and pectin.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>44</start>
+          <end>48</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f7.pdf</identifier>
+  </mods>
+</modsCollection>

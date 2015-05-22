@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Water clarification using Moringa oleifera seed coagulant: Maiduguri raw water as a case study</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Abdulsalam</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Chemical Engineering Programme, Abubakar Tafawa Balewa University, Bauchi P.M.B 0248, Bauchi, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gital</namePart>
+      <namePart type="given">A. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bauchi State Water Treatment Plant, Gubi, Bauchi,Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Misau</namePart>
+      <namePart type="given">I. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Chemical Engineering Programme, Abubakar Tafawa Balewa University, Bauchi P.M.B 0248, Bauchi, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suleiman</namePart>
+      <namePart type="given">M. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Chemical Engineering Programme, Abubakar Tafawa Balewa University, Bauchi P.M.B 0248, Bauchi, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A study was carried out on the clarification of Maiduguri raw water (MRW) using extracted and unextracted Moringa oleifera (MO) coagulants. The results showed that the optimum dosages for the extracted and unextracted MO coagulants were 180 and 300 mg/l respectively. The removal efficiencies for the extracted and unextracted MO coagulants at these dosages were 82.35% and 76.47% respectively. Quality parameters, such as colour, turbidity and pH, fell within the standards required for clarified water. The settling times for the extracted and unextracted MO coagulants were higher than that of aluminium sulphate. It was observed that the coagulation process has no effect on the natural hardness and alkalinity. The effect of particle size on the coagulation process indicates that the smaller the particle size of MO coagulants the better the coagulation process.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>302</start>
+          <end>306</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e13.pdf</identifier>
+  </mods>
+</modsCollection>

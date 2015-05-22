@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Screening of some lactobacillus strains for their antifungal activities against aflatoxin-producing aspergilli in vitro and maize</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Elsanhoty</namePart>
+      <namePart type="given">Rafaat M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Genetic Engineering and Biotechnology, Department of Industrial Biotechnology, Branch of Food and Dairy Biotechnology, Minufiya University, Egypt.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This work was done to assess the potential of fourteen strains of lactic acid bacteria to inhibit the outgrowth of some common food-spoilage fungi, especially aflatoxin-producing aspergilli. Two fungi were isolated and identified from various food sources. One of the isolates was identified as Apergillus flavus (AF) and produced aflatoxin B1 and B2. The other of the isolates was identified as Aspergillus parasiticus (AP) and produced aflatoxin B and G. Cell-free supernatants of fourteen lactobacillus strains were evaluated for the antifungal activity using an agar gel-diffusion method. Of the tested lactic acid bacteria 12 had inhibitory effect on the indicator fungi, while two strains did not have any antifungal activity on either AF or AP. The maximum activity against fungus was shown by L. plantarum and L. acidophilus ATCC 20552. The antifungal activity was retained after heating, and the produced antifungal metabolites were pH dependent, and the effect decreased by decreasing of the supernatant concentration. Based on these results, cell-free supernatants of both L. plantarum and L. acidophilus ATCC 20552 were chosen to study their capability to inhibit the growth of aspergilli in maize kernels, damage percentage and reduce the aflatoxin production during a 30 days of storage period at room temperature. The results indicated that the lactobacillus strains examined could be used as natural food grade (bio) control agents for management of the problems caused by Aspergillus during storage of cereals.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>35</start>
+          <end>40</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f8.pdf</identifier>
+  </mods>
+</modsCollection>

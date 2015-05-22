@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Bioremediation of a petroleum-hydrocarbon polluted agricultural soil at different levels of water application in Port Harcourt, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ayotamuno</namePart>
+      <namePart type="given">Josiah M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kogbara</namePart>
+      <namePart type="given">Reginald B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Taleat</namePart>
+      <namePart type="given">Muideen O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A combination of field cells was used in experiments involving biostimulation with agricultural fertilizers to evaluate the bioremediation of a crude oil polluted agricultural soil at different levels of soil water. Petroleum pollution of an agricultural soil was simulated on the field by pouring crude oil on the cells from perforated cans. Remediation options involving the introduction of mineral fertilizers and periodic application of different amounts of water to the contaminated soils were then utilized for treatment. Laboratory analysis of soil characteristics showed an increase in the total heterotrophic bacterial (THB) counts and a corresponding reduction in soil organic carbon and total hydrocarbon content (THC) at the end of the six-week remediation period. The percentage of THC reduction ranged from 44% to 90% in the five treatment cells. The control site, which received no treatment, revealed no significant hydrocarbon loss (3%) within the study period. The results of the total heterotrophic bacterial (THB) counts revealed that petroleum-degrading bacteria responded to variations in soil water level during their metabolic activity; this corroborated with the correlation analysis between percent of THC reduction and time across the treatment cells, which indicated significance at 5% probability level thus highlighting the position that different soil moisture levels induces marked differences in biodegradation rates as remediation period increases. This implies that the level of water in the soil is a major factor that affect biodegradation rate and hence attention has to be given to the control of the moisture level in the soil to optimum, in order to achieve an accelerated biological clean up of petroleum polluted agricultural soils in Port Harcourt, Nigeria.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>214</start>
+          <end>217</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e4.pdf</identifier>
+  </mods>
+</modsCollection>

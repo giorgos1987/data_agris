@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Physicochemical and functional properties of native starches from cassava varieties in Southwest Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Onitilo</namePart>
+      <namePart type="given">M. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Science and Technology Department, University of Agriculture, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sanni</namePart>
+      <namePart type="given">L. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Science and Technology Department, University of Agriculture, Abeokuta, Nigeria. International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Daniel</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Breeding and Seed Technology, University of Agriculture, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maziya-Dixon</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dixon</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pre- and postharvest factors such as genetic factors, environmental conditions during the growth of the plant and the method of starch isolation have been found to have a profound effect on the properties of root and tuber starches. The physicochemical, functional and pasting properties as well as granule morphology of starches from 40 different new cassava varieties (36 cassava mosaic disease-resistant CMD clones) and currently released cassava varieties in Nigeria (TMS 30572, 4(2) 1425, TME 1 and 82/00058) from experimental farm of the International Institute of Tropical Agriculture, Ibadan, Southwest Nigeria, were investigated. Moisture content of the starches (dried) ranged between 3.59 and 11.53%, ash content was 0.03-0.49%, protein content 0.23–0.70%, sugar content 0.51–3.46% and starch content 60.34–86.79%. Amylose and dry matter contents were 15.24–30.20% and 88.47– 96.41% respectively. The water absorption capacity ranged from 86.83 to 127.54%, while solubility and swelling power (at 85oC) were 1.03–2.10% and 9.04–16.90% respectively. Starch damage ranged between 0.39 and 2.10%, dispersibility was 81.5–89.5% and least gelation concentration 2.00–4.67%. The pH of the starches ranged from 4.06 to 9.22. The starches had peak viscosity between 261.17 and 593.17 RVU, peak time ranged from 3.36 to 4.25 minutes and pasting temperature ranged between 63.75 and 65.65oC. Set back viscosity ranged from 19.04 to 79.92 RVU and breakdown viscosity from 141.21 to 328.96 RVU. The final viscosity of the starches ranged between 141.21 and 244.84 RVU. The granule size as viewed under microscope ranged from 12.5 to 23.83 µm with round shapes. There were significant varietal differences in all the physicochemical properties of the starches except the amylose content. Significant varietal differences (p &lt; 0.05) were also recorded in all the functional and pasting properties of the starches except the least gelation concentration. There were no significant varietal differences (p &gt; 0.05) in the granule size of the starches. The study revealed that the significant varietal differences in the properties of the starches from the different CMD resistant varieties imply that the starches have potentials for a wide end use.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>107</start>
+          <end>114</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f22.pdf</identifier>
+  </mods>
+</modsCollection>

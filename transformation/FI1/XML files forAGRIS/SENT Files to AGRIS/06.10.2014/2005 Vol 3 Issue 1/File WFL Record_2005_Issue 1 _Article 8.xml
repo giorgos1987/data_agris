@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of cooling delay and cold-chain breakage on ‘Santa Clara’ tomato</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">de Castro</namePart>
+      <namePart type="given">Larissa R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Agricultural Engineering, State University of Campinas (UNICAMP), Cidade Universitária Zeferino Vaz, s/n, Campinas, SP, Brazil, CP 6011, 13083-970.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vigneault</namePart>
+      <namePart type="given">Clément</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Agricultural Engineering, State University of Campinas (UNICAMP), Cidade Universitária Zeferino Vaz, s/n, Campinas, SP, Brazil, CP 6011, 13083-970. Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, CANADA, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Charles</namePart>
+      <namePart type="given">Marie Thérèse</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, CANADA, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cortez</namePart>
+      <namePart type="given">Luís A. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Agricultural Engineering, State University of Campinas (UNICAMP), Cidade Universitária Zeferino Vaz, s/n, Campinas, SP, Brazil, CP 6011, 13083-970.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The cold-chain was broken by transferring tomato fruit from cold storage to ambient room temperature. The transfer was performed at different storage time. Precooled tomato, stored under continuous cold condition, was used as control to ascertain the effect of cold-chain break on several quality parameters associated with postharvest tomato fruit. Surveyed quality parameters included weight loss, soluble solids, titratable acidity, firmness, color and global acceptance/general appearance. The results indicated that more severe effects resulted from earlier cold-chain breakage and that less ripened tomato was apparently more susceptible to abuse. It was also demonstrated that there were no significant differences between tomato submitted to a 4-day cooling-delay treatment and the tomatoes that were cooled immediately after harvest. Fruit submitted to cold-chain-breakage treatments exhibited signs of abnormal ripening, increased weight loss and fungus development. It is most likely that disease development was stimulated by water condensation on fruit surface during warming episode.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>49</start>
+          <end>54</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/f8.pdf</identifier>
+  </mods>
+</modsCollection>

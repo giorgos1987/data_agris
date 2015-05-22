@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Resuscitation of eight-year VBNC Providencia stuartii</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dhiaf</namePart>
+      <namePart type="given">Amel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cabinet Dr Allaya, Ouled Salah 5116, Ksour Essef, Tunisia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bakhrouf</namePart>
+      <namePart type="given">Amina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculte de Pharmacie de Monastir, 56100 Tunisia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Providencia stuartii was stressed by incubation in soilmicrocosms for eight years. After five years of starvation, no culturable strain was observed. Incubation of samples in nutrient-rich broth medium not supplemented with growth factors, however, allowed resuscitation of VBNCcells so that subsequent platingyielded observable colonies for significantly extended periodsof time. Recovery of VBNC Providencia stuartii was obtained by incubation in nutrient broth even after eight years of starvation. To see whether the samples contained the same strain of Providencia stuartiiin oculated eight years ago, the complete 16S rRNA gene was PCR amplified and sequenced from initial, stressed and revived strains of Providencia stuartii. The 16S rRNA gene sequences from eight-year stressed strains were homologous with a high degree of similarityto the GenBank reference strain and were identical to each other.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>447</start>
+          <end>450</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">??</identifier>
+  </mods>
+</modsCollection>

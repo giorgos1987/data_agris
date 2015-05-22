@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Determination of optimum harvestable length of shoots in tea (Camellia sinensis L.) based on the current shoot growth, rather than interval plucking</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Amiri</namePart>
+      <namePart type="given">M. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, University of Zanjan, Zanjan, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asil</namePart>
+      <namePart type="given">M. Hassanpour</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, University of Guilan, Rasht, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to compare the quantity and quality of black tea (Camellia sinensis clone 100) yield by different manual plucking harvesting. Comparison the plucking method based on three lengths (5, 10 and 15 cm) of current shoot after regular annual pruning, with the standard conventional plucking in three flushing periods (spring, summer and fall) in a Randomized Complete Block Design (RCBD) experiment with four replications under environmental conditions of north of Iran during 2002 to 2003. Parameters including fresh weight of green leaves (as yield), canopy area, soluble and insoluble ash, % tannin, % caffeine, theaflavins (TF), % thearubigins (TR), ratio TR/TF in black tea, total color (TC) and brightness (BR) were measured. Black tea quality factors such as total theaflavins, thearubigins and total colour decreased with course of plucking (i.e., increasing yield quantity), while there was a positive relationship between increasing yield per bush and increasing canopy area of each bush. The highest amount (2420 g bush-1) for green leaves yield and the widest canopy area (7247 cm2 bush-1) were obtained in the 5 cm treatment in spring flush, followed by 10 and 15 cm respectively. The quantity and quality (compounds which contribute to black tea quality) fluctuated by the seasonal growth (spring, summer and fall) and variation of shoot length. The variability in caffeine and tannine was not significant, whereas the variability in TF ranging from 0.89 to 1.8% and for TR ranging from 9.9 to 14.1% for black leaf tea indicated a quality difference among the shoot lengths for plucking in spring flushing. The brightness (BR) in black tea leaf ranged from 21.4 to 24.6% with an average of 24% in spring flushing, and total colour (TC) varied from 4.1 to 5.2% with an average of 4.5%, indicating that brightness, colour and flavor index decreased when TR/TF decreased.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>122</start>
+          <end>124</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a3.pdf</identifier>
+  </mods>
+</modsCollection>

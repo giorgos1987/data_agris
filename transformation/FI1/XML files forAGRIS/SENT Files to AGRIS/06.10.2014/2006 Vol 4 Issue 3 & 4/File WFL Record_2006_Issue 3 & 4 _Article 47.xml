@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Chemical speciation of metals in environment, its relevancy to ecotoxicological studies and the need for biosensor development</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Azeez</namePart>
+      <namePart type="given">P. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>EIA Division, Sálim Ali Center for Ornithology and Natural History (SACON), Anaikatty (PO),Coimbatore- 641108, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Prusty</namePart>
+      <namePart type="given">B. Anjan Kumar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>EIA Division, Sálim Ali Center for Ornithology and Natural History (SACON), Anaikatty (PO),Coimbatore- 641108, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jagadeesh</namePart>
+      <namePart type="given">E.P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, Government Engineering College, Trichur, Kerala, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Compared with studies on metal toxicity, studies discussing toxicity in the context of the environmental chemistry of metals are rare. Studies on chemical fractionation of metals upon their entry to the environment, as a contaminant, furthermore are rather less. On the other hand, studies reporting environmental residues of such pollutants are numerous from locations round the globe, especially developed and developing economies.  Nevertheless, the role of chemical speciation or fractionation of metal pollutants in the manifestation of toxicity is well realized: the importance of the bio-available fractions is also well acknowledged. It is found that certain fractions of the metals are likely to get attached to the cell surface and transported inside while major portion of the metals remains in the medium unable to enter the organism. This situation is largely determined by the  physicochemical characteristics of the microenvironment of the organism. Organisms are known to change their interior settings as well as external microenvironment either to restrict the entry of a toxicant to their body structure or to selectively gather required elements. The present paper attempts to brief chemical speciation of metals in view of the above facts. Attempt is also made to relate it to bioavailability and toxicity, and to discuss the potentials of biosensors in investigating metal pollution.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>235</start>
+          <end>239</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e8.pdf</identifier>
+  </mods>
+</modsCollection>

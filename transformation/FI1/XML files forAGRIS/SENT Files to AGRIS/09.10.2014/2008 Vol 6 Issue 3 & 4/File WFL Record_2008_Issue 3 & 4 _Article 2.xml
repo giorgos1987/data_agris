@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Functional properties of water extracts from fully ripened silver vine [Actinidia polygama (Sieb. et Zucc.) Planch. ex Maxim.] berries</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nagai</namePart>
+      <namePart type="given">Takeshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suzuki</namePart>
+      <namePart type="given">Nobutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ITE Nagoya Research Institute, Toyoake, Aichi 4701131, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nakazawa</namePart>
+      <namePart type="given">Yozo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nagashima</namePart>
+      <namePart type="given">Toshio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The content of vitamin C was measured in fully ripened silver vine berries. As a result, the value (313 mg/100 g wet berries) was much higher than those of fruit species such as garden strawberry, kiwi berry, haskap, blueberry, and lemon. The antioxidative activity and scavenging activities against active oxygen species such as hydroxyl radicals, superoxide anion radicals, and DPPH radicals were investigated in water extracts prepared from fully ripened silver vine berries. The activities were extremely high similar to those of 5 mM ascorbic acid and 1 mM α-tocopherol. Moreover, these extracts possessed high ACE inhibitory activity. The present study indicates that fully ripened silver vine berries should find applications in various fields of foods and medicals and will be increasingly regarded as a health-promoting food.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>11</start>
+          <end>14</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f2.pdf</identifier>
+  </mods>
+</modsCollection>

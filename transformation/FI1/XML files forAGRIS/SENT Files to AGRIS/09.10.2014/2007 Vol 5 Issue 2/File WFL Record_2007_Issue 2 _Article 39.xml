@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Levels of awareness and adoption of disseminated livestock technologies in Enugu state, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jegede</namePart>
+      <namePart type="given">O. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Agricultural Extension and Research Liaison Services, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bolorunduro</namePart>
+      <namePart type="given">P. I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Agricultural Extension and Research Liaison Services, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ikani</namePart>
+      <namePart type="given">E. I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Agricultural Extension and Research Liaison Services, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study examined the level of awareness and adoption of disseminated improved livestock production technologies among smallholder livestock farmers in Enugu State, South Eastern Nigeria. Forty randomly selected respondents were interviewed and data collected analyzed by descriptive statistics. The results showed that generally, the farmers’ average awareness levels of the improved livestock technologies were still low (27.3%). Correspondingly, average adoption levels were also low (21.1%). From this study, it can be seen that a major cause of low adoption level of many of the improved livestock technologies in the state was due to poor awareness creation. In order to ensure greater success and productivity in livestock, it is important for Enugu Agricultural Development Project (EADP), the grass root extension agency in the state, to intensify efforts in the awareness creation on improved livestock technologies. Extension demonstration methods for livestock extension activities like field days and field visits can be used to disseminate improved technologies rapidly.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>185</start>
+          <end>188</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a16.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Survey on the adoption of yam minisett technology in South-Western Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Agbaje</namePart>
+      <namePart type="given">G. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, PMB 5029, Moor Plantation, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oyegbami</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, PMB 5029, Moor Plantation, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The production of yam and the high demand of yam tubers for food created an imbalance and scarcity of tuber that could be used as planting materials. The development of alternative method of seed production using minisett instead of the traditional method of milking was believed to be able to provide enough seeds while ware tubers are only used for consumption. The study focused on the adoption of yam minisett technology in southwestern Nigeria. Three yam producing states were randomly selected in South-Western Nigeria; and yam farmers were purposively selected from farmers in each of the states for interview. A validated interview guide was used to source information from farmers. The result indicated that most respondents are men and fifty percent are within the ages of 41-50 years. Majority (76%) of the respondents cultivated less than one hectare of yam plot, and 60% of the farmers had received information on the technology from the agricultural development programme (ADPs) in their state. Thirty-three percent of the farmers have adopted yam minisett technology while those that did not adopt mentioned high input cost, low success rate, labour intensive and marketing problems as the reasons for their non-adoption.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>134</start>
+          <end>137</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/a1.pdf</identifier>
+  </mods>
+</modsCollection>

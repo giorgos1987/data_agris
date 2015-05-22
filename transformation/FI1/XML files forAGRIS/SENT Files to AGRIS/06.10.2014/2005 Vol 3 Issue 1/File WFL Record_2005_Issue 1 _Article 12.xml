@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Bacteriological study of isolates from seminal fluids of infertile men in Ila and Ifedore local government areas, Osun State, South-Western Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kosamat</namePart>
+      <namePart type="given">Y.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Osamat, State Hospital, Ila-Orangun.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adebolu</namePart>
+      <namePart type="given">T.T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A total of 47 seminal fluids from men with fertility problems were investigated during the period of study (October, 2003 – February, 2004). The seminal fluids were processed for semen analysis, culture and sensitivity. Semen analysis results showed that 22 samples (46.8%) had low sperm count (less than 20 million cells/ml), 4 (8.5%) borderline count, 11 (23.4%) moderate oligospermia (1-20 million sperm cells/ml), 3 (6.4%) severe oligospermia (less than 1 million sperm cells/ml) and 7 (14.9%) azoospermia (no sperm cells in the seminal fluid). Thirty-four (72.1%) of the semen specimens collected yielded growth of bacteria. The isolates included Staphylococcus aureus (61.8%), Escherichia coli (14.7%), Klebsiella spp. (11.7%) and Proteus spp. (11.7%). The bacterial isolates were collectively sensitive to rocephin (100%) and peflacin (100%) irrespective of the organism. For the isolated S. aureus, the least effective antibiotics were ampicillin (10%) and penicillin (10%), for E. coli ampicillin (20%), for Klebsiella spp. and Proteusspp. chloramphenicol (25%) and streptomycin (25%) respectively.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>73</start>
+          <end>74</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/f12.pdf</identifier>
+  </mods>
+</modsCollection>

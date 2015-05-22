@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Polyphenol content and browning of Canadian icewines</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kilmartin</namePart>
+      <namePart type="given">Paul A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, The University of Auckland, Private Bag 92019, Auckland, New Zealand.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Reynolds</namePart>
+      <namePart type="given">Andrew G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, Ontario, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pagay</namePart>
+      <namePart type="given">Vinay</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, Ontario, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nurgel</namePart>
+      <namePart type="given">Canan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, Ontario, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Johnson</namePart>
+      <namePart type="given">Robin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, Ontario, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The polyphenol composition of a range of Ontario icewines and late harvest wines was quantified. For 1999-2000 experimental wines, the FAUX icewines (harvested above -8°C and before 18 December) had high concentrations of hydroxycinnamates (10 to 37 mg/L in Riesling; 53 to 82 mg/L in Vidal) which dropped to concentrations below 10 mg/L for the REAL icewines (harvested at temperatures -8°C or below and after 28 December). However, in 2002 experimental icewines, high concentrations of hydroxycinnamates were seen in both REAL and FAUX wines (40 to 84 mg/L in Riesling; 106 to 129 mg/L in Vidal), but all of the grapes were harvested before 11 December. Low to moderate concentrations of total hydroxycinnamates were observed in commercial icewines (10 to 40 mg/L) and late harvest wines (5 to 60 mg/L). Freeze concentration during icewine making appears to have substantial impact upon polyphenol composition and concentration, but time of harvest and growing season appear to be equally important.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>52</start>
+          <end>57</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f10.pdf</identifier>
+  </mods>
+</modsCollection>

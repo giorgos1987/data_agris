@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Molecular approach to citrus flavonoid and limonoid biosynthesis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Moriguchi</namePart>
+      <namePart type="given">Takaya </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant, Cell and Environment, National Institute of Fruit Tree Science, Tsukuba, Ibaraki 305-8605, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kita</namePart>
+      <namePart type="given">Masayuki </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant, Cell and Environment, National Institute of Fruit Tree Science, Tsukuba, Ibaraki 305-8605, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hasegawa</namePart>
+      <namePart type="given">Shin </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Western Regional Research Center, United States Department of Agriculture, Agricultural Research Service, 800 Buchanan Street, Albany, CA 94710, USA. </affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Omura</namePart>
+      <namePart type="given">Mitsuo </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Citriculture, National Institute of Fruit Tree Science, Shimizu, Shizuoka 424-0292, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Citrus fruits are rich in secondary metabolites such as carotenoids, flavonoids and limonoids. Recent studies show that these secondary metabolites possess potential health benefits for humans, including anti-inflammatory and anti-cancer properties. Due to these properties, biochemical studies of citrus secondary metabolites have been intensively investigated. However, our knowledge on the molecular aspects of the biosynthesis of these compounds has been limited. Some of the genes involved in the flavonoid and limonoid biosynthesis have been isolated from citrus. In this review, we report on the expression of flavonoid- and limonoid-biosynthetic genes in citrus towards pharmacological applications and breeding using a molecular technique.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>22</start>
+          <end>25</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1F22-25molecular.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reaction of Dioscorea alata (water yam) to anthracnose disease in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Aduramigba-Modupe</namePart>
+      <namePart type="given">Adefoyeke O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, PMB 5320, Ibadan, Nigeria. Department of Botany and Microbiology, University of Ibadan, Nigeria. *Current address: Department of Biological Sciences, Redeemer’s University, PMB 3005, Redemption City, Ogun State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asiedu</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, PMB 5320, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odebode</namePart>
+      <namePart type="given">A. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany and Microbiology, University of Ibadan, Nigeria. *Current address: Department of Biological Sciences, Redeemer’s University, PMB 3005, Redemption City, Ogun State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Anthracnose disease, caused by the pathogen Collectotrichum gloeosporioides Penz., is a serious challenge to the cultivation of Dioscorea alata, a major source of food and income for millions of farm households in the tropics. Five breeder’s lines and eighteen landraces of D. alata from IITA’s germplasm collection were screened in the field in three agroecological zones (southern guinea savanna, derived savannah and the humid forest) of Nigeria for two years. The objective was to study their reactions to anthracnose disease and investigate the influences of environment (E) and genotype x environment (G x E) interactions on these using the Additive Main Effects and Multiplicative Interaction (AMMI) model. Environments (E), obtained as location x year combination, genotypes (G) and G x E interactions were highly significant (P&lt;0.01) for severity of anthracnose disease and accounted for 48, 26.2 and 25.8% of the treatment (G x E combination) sum of squares, respectively. Incidence and severity of foliar symptoms were assessed on three occasions during each growing season. The disease was most severe at Umudike in the humid forest, followed by Ibadan (derived savannah) and Mokwa (southern guinea savannah). The severity was also higher in 1999 across all locations than in 2000. TDa 289 and TDa 294 were identified as the most resistant genotypes. TDa 297, TDa 95/00328, TDa 95/00197 and TDa 95/00010 were stable in their reactions to anthracnose disease across the environments. These lines could be useful in breeding for increased and more stable resistance to anthracnose disease in yam breeding programmes.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>248</start>
+          <end>252</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a13.pdf</identifier>
+  </mods>
+</modsCollection>

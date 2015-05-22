@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Physico-chemical, rheological and sensory characteristics of British commercial chapatti flours</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rehman</namePart>
+      <namePart type="given">Salim-ur-</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Science and Technology, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Paterson</namePart>
+      <namePart type="given">Alistair</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Strathclyde Institute of Pharmacy and Biomedical Sciences, Department of Bioscience, University of Strathclyde, 204 George Street, Glasgow G1 1XW, Scotland, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Piggott</namePart>
+      <namePart type="given">John R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Strathclyde Institute of Pharmacy and Biomedical Sciences, Department of Bioscience, University of Strathclyde, 204 George Street, Glasgow G1 1XW, Scotland, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Wheat varieties grown in Britain are commonly bred for good bread making qualities, but the performance of good bread making flours is not granted well to produce satisfactory chapatti due to high gluten strength and lack of good sheeting properties. The objective was comparative evaluation of commercial chapatti flours marketed in Britain for flour parameters relevant to suitability for production of chapattis, steam-leavened breads. Two commercial flours, Mehrani Wholemeal and Mehrani Brown, were not significantly different in some of key physico-chemical, rheological and sensory characteristics. Mehrani Wholemeal had excellent chapatti making qualities: formed a benchmark for comparison.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>35</start>
+          <end>39</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f6.pdf</identifier>
+  </mods>
+</modsCollection>

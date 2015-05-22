@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Performance of a new formulation of atrazine for weed control in maize in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Chikoye</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, Nigeria, C/o L.W. Lambourn and Co., Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, U.K.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Udensi</namePart>
+      <namePart type="given">Udensi E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, Nigeria, C/o L.W. Lambourn and Co., Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, U.K.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lum</namePart>
+      <namePart type="given">A. Fontem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, Nigeria, C/o L.W. Lambourn and Co., Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, U.K.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effects of a new formulation of atrazine for weed control in maize were studied during the wet season of 2002 and 2003 at Ibadan, Nigeria. The treatments were the new formulation at doses from 1.0 to 3.5 kg a.i./ha and the old formulation at the recommended dose of 3.0 kg a.i./ha. Untreated and hoe-weeded plots were controls. At 4 weeks after treatment (WAT) in both years, the new formulation gave 85 to 98% control of Commelina benghalensis, Passiflora foetida, sedges and Talinum triangulare. The old formulation provided 92 to 95% control of these weeds. All herbicide treatments gave only 65 to 78% control of Panicum maximum. To attain 80% control at 4 WAT, 3.0 kg a.i./ha of the new formulation was required in 2002, and 2.0 kg a.i./ha in 2003. To attain an 80% reduction in weed dry matter at harvest needed between 4.0 and 5.0 kg a.i./ha of the new formulation. Weed dry matter accounted for 60% reduction in grain yield in 2002 and 70% in 2003. Maize grain yield, similar to that obtained from the old formulation and the hoe-weeded control, was attained with 2.5 kg a.i./ha of the new formulation in both years. Therefore, the new formulation of atrazine is effective for weed control in maize at doses lower than the recommended dose for the old formulation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>114</start>
+          <end>117</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/a6.pdf</identifier>
+  </mods>
+</modsCollection>

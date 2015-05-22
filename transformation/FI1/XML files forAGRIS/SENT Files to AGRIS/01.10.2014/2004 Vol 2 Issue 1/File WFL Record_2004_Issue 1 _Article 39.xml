@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Pollination and breeding of eggplants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pessarakli</namePart>
+      <namePart type="given">Mohammad Mahdi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biochemistry and Molecular Biophysics, College of Science and Honors College, The University of Arizona, Tucson, AZ 85721, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dris</namePart>
+      <namePart type="given">Ramdane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>World Food, RD Ltd. Meri-Rastilantie 3 C, FIN-00980 Helsinki, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The purpose of this review article is to provide clear and brief information on pollination and breeding of eggplant to increase yield and improve fruit quality. Considerable progress in artificial pollination and plant breeding techniques have played a very important role in increasing plant, including eggplant, yield and improving fruit quality. With classical methods, homozygous diploid lines can be obtained in 5-8 years depending on the species. In-vitro techniques such as anther and pollen culture have been very successful in shortening the required time for this process. Artificial pollination and proper breeding techniques substantially increase eggplant yield and improve its fruit quality.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>218</start>
+          <end>219</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a9(2).pdf</identifier>
+  </mods>
+</modsCollection>

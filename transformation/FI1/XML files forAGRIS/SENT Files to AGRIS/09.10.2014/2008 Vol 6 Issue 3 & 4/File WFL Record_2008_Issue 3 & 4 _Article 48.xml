@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of inhibitors on the changes of potato tuber quality during the storage period</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pranaitiene</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Lithuanian University of Agriculture, Studentu-11, Akademija, LT-53361, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Danilcenko</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Lithuanian University of Agriculture, Studentu-11, Akademija, LT-53361, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jariene</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Lithuanian University of Agriculture, Studentu-11, Akademija, LT-53361, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dabkevicius</namePart>
+      <namePart type="given">Z.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lithuanian Institute of Agriculture, Dotnuva - Akademija, LT-58344 Këdainiai, Lithuania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to assess the effect of chemical and natural inhibitors on potato tubers quality during the storage period. For the inhibition of tuber sprouting of medium early potato cultivars Goda, Gloria and Vaiva during the storage, essential oils of aromatic plants, caraway (Carum carvi L.) and dill (Anethum graveolens L.), with s-carvone being the active agent were used. For comparison, the chemical inhibitor CIPC (powder) containing chlorpropham was used. During the storage, the potato tubers were sprayed with inhibitors twice, i.e. in the beginning of October and in the beginning of January. Potato tubers were treated with the chemical inhibitor only once, at the beginning of October. Potato tubers of each treatment were stored for eight months (from September until May) in refrigerating cabinets of KX- type with automatic temperature control at 9°C (±0.5°C) and 90-95% relative humidity. The data revealed that of the natural–origin inhibitors, dill seed extract was found to be more effective, especially when applied on the tubers of the medium early potato cv. Goda and Gloria. The applied inhibitors slowed down the tuber sprouting during the storage compared with the untreated potato tubers. In potato tubers of all cultivars, the greatest quantity of amino acids was observed before storage. After 8 month storage, potato tubers of the analyzed cultivars treated with caraway or dill essential oil demonstrated the greatest quantity of amino acids.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>231</start>
+          <end>235</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a10.pdf</identifier>
+  </mods>
+</modsCollection>

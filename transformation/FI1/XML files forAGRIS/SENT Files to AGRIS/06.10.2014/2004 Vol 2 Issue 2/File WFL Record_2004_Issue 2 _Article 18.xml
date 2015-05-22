@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Recovery in embryonated chicken eggs of viable but non-culturable Salmonella</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dhiaf</namePart>
+      <namePart type="given">Amel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Recherche en Microbiologie et Santé, Hôpital de circonscription de Ksour Essef, 5180 Tunisia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bakhrouf</namePart>
+      <namePart type="given">Amina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Analyse et de Contrôle des Polluants Chimiques et Microbiologiques, Ministère de la Recherche Scientifique et de la Technologie, Faculté de Pharmacie de Monastir, 5000 Monastir, Tunisia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Salmonella paratyphi B and Salmonella typhimurium were starved in seawater microcosms respectively for 12 and 6 years. After starvation periods, major part of water was evaporated in each microcosm and salt crystals appeared. No culturable cells were obtained in selective and non-selective media. Salty suspension of each microcosm was inoculated in the yolk sacs of embryonated chicken eggs. Culturable cells were detected in a large proportion of eggs.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>104</start>
+          <end>107</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f18.pdf</identifier>
+  </mods>
+</modsCollection>

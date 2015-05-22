@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Nutraceuticals and functional foods: II. Current international regulatory status</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Tsao</namePart>
+      <namePart type="given">Rong</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Program, Agriculture &amp; Agri-Food Canada, 93 Stone Road West, Guelph, Ontario N1G 5C9, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akhtar</namePart>
+      <namePart type="given">M. Humayoun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Program, Agriculture &amp; Agri-Food Canada, 93 Stone Road West, Guelph, Ontario N1G 5C9, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>commentary</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Our ancestors consumed plant materials and animal products to live. As civilization progressed there were realizations that for sustenance of life and good health food should be composed of proper amounts of carbohydrate, protein, lipids and minerals. Carbohydrates provide the needed calories, while protein supplies the essential amino acids the body needs but cannot produce. Similarly, human body is also in need of certain mineral nutrients for body structure as well survival; for example calcium is needed for maintaining a healthy bone density especially in elderly women. Vitamins, on the other hand, are essential and for protection from common diseases such as scurvy, anemia, and ricket. (More details in the full article.)</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>18</start>
+          <end>20</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/commentary2.pdf</identifier>
+  </mods>
+</modsCollection>

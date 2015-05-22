@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Physiological basis for reduced photosynthesis and growth of cadmium-treated wheat cultivars differing in yield potential</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family"></namePart>
+      <namePart type="given">Samiullah</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh 202002, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">N. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh 202002, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nazar</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh 202002, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ahmad</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh 202002, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Two cultivars of wheat (Triticum aestivum L.), namely PBW343 (high yielding type) and WH542 (low yielding type), were treated with Cd(NO3)2 0 and 100 mg kg-1 soil to test the physiological basis for reduced photosynthesis and growth. Activity of carbonic anhydrase and stomatal conductance were reduced by cadmium treatment suggesting mesophyll and stomatal effects on cadmium-induced reduction in photosynthesis.  This decrease was more pronounced in WH542 compared to PBW343 leading to greater reductions in growth characteristics in WH542 at 30, 60 and 90 days after sowing. The effect of cadmium on both the cultivars was more conspicuous at 30 days after sowing.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>375</start>
+          <end>377</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e27.pdf</identifier>
+  </mods>
+</modsCollection>

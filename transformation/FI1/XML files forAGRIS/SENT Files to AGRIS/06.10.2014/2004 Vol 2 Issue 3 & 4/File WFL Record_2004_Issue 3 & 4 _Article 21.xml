@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Germinability, vigour and electrical conductivity changes in acceleratedly aged watermelon (Citrullus lanatus T.) seeds</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Maskri</namePart>
+      <namePart type="given">A. Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Sciences, College of Agricultural and Marine Sciences, Sultan Qaboos University,P.O. Box 34 Al-Khod 123, Muscat, Sultanate of Oman.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">M. Mumtaz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Horticultural Sciences, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Iqbal</namePart>
+      <namePart type="given">M. Javed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Horticultural Sciences, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abbas</namePart>
+      <namePart type="given">Mazhar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Horticultural Sciences, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Changes in viability and vigour in watermelon (Citrullus lanatus T.) seeds stored at high temperature (45°C) and high relative humidity (100%) for 0, 3, 5, and 7 days were observed. Storage at 45°C and high humidity caused severe damage to seed membranes as evidenced by loss of viability and an increase in electrical conductivity (EC) values. There was a positive correlation (r² = 0.89) between germination capacity and EC measured in seeds aged acceleratedly for 7 days. Germination percentage and radicle length decreased while germination speed, time to 50% germination and electrical conductivity increased with the passage of ageing time. These differences are indicative of an increase in the proportion of deteriorated seeds and with loss of membrane integrity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>100</start>
+          <end>103</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a4.pdf</identifier>
+  </mods>
+</modsCollection>

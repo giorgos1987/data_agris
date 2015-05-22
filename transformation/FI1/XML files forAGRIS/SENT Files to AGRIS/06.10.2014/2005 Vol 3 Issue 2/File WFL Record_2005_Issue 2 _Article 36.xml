@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vitro effect of condensed tannins from tropical fodder crops against eggs and larvae of the nematode Haemonchus contortus</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">López</namePart>
+      <namePart type="given">J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Programa de Maestría y Doctorado en Ciencias de la Producción y la Salud Animal, Universidad Nacional Autónoma de México (UNAM), Cuautitlán-Izcalli, Méx., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ibarra</namePart>
+      <namePart type="given">O. F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Parasitología, Facultad de Medicina Veterinaria y Zootecnia (FMVZ), UNAM, Ciudad Universitaria, D.F., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cantó</namePart>
+      <namePart type="given">G.J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro Nacional de Investigación en Parasitología Veterinaria, Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias (INIFAP), Rancho GB, Qro., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vásquez</namePart>
+      <namePart type="given">C.G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Coordinación de la Investigación Científica, FMVZ-UNAM, Ciudad Universitaria, D.F., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tejada</namePart>
+      <namePart type="given">Z.I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro Nacional de Investigación en Microbiología Veterinaria, INIFAP, Palo Alto, D.F., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shimada</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratorio de Rumiología y Metabolismo Nutricional (RuMeN), Coordinación General de Estudios de Posgrado e Investigación, Facultad de Estudios Superiores-Cuautitlán, UNAM, Juriquilla, Qro., México.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The efficacy of condensed tannins contained in some tropical fodder crops (Arachis pintoi, Guazuma ulmyfolia, Leucaena leucocephala and Manihot esculenta Crantz) that are known to be suitable for ruminant feeding, in controlling eggs and larvae of the parasitic nematode Haemonchus contortus was studied in vitro. Five concentrations (0.1, 0.3, 0.9, 4.5 and 45 ppm) of condensed tannins (purified through Sephadex LH-20) from each plant species were evaluated in a 5 x 5 factorial arrangement of treatments on a completely randomised design, with a commercial nematicide (albendazole) being included as a positive control. In the first experiment, the effects of the condensed tannins on H. contortus’ eggs and larvae (L3) were tested. The results showed only a 0–2% reduction in the number of eggs, regardless of the condensed tannins source and dose studied. As for the larvae, A. pintoi was found to control 11.5-100%, G. ulmyfolia 20.9-99.4%, L. leucocephala 5.9-74.2% and M. esculenta 14.7-100% of the larvae, depending on the concentration used. Albendazole was effective against 24.4-98.4% of the larvae. In a second experiment, L3 larvae were reduced 32.3-98.8% by A. pintoi, 33.7-98.8% by G. ulmyfolia, 6.3-98.4% by L. leucocephala, 24.4-98.8% by M. esculenta and 29.5-98.7% by albendazole. Therefore, it was concluded that the condensed tannins contained in the tropical fodder crops tested were effective in controlling L3 larvae of H. contortus at concentrations of 4.5 and 45 ppm, but had little or no ovicidal effect.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>191</start>
+          <end>194</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/a11.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Determinants of profitability in rain-fed paddy rice production in the Ikenne Agricultural Zone, Ogun State, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Olubanjo</namePart>
+      <namePart type="given">Olugbenga O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics, Olabisi Onabanjo University, Yewa Campus, Ayetoro, Ogun State, Nigeria. * G.P.O. Box 17507, Dugbe, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oyebanjo</namePart>
+      <namePart type="given">Olumayowa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics, Olabisi Onabanjo University, Yewa Campus, Ayetoro, Ogun State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effect of farm inputs use on the profitability of rain-fed paddy rice production in the Ikenne Agricultural Zone, Ogun State, Nigeria, was analysed. The Cobb-Douglas type unit-output-price (UOP) profit function was fitted to the study data using the Zellner’s seemingly unrelated regression (SUR) technique. The results revealed that the elasticity of the profit function increased with the quantity of fertilizer applied and the size of the farmland cultivated, while there was a decline with respect to increased use of hired labour and rice seeds. Fertilizer should thus be made available and affordable to rice farmers in the Ikenne Agricultural Zone since this will enhance farm productivity and ensure increased profitability of rain-fed paddy rice production. Extension activities should also be intensified and focused on introducing labor–saving devices such as tractorisation and at enhancing farmers’ access to improved seeds.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>97</start>
+          <end>101</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a4.pdf</identifier>
+  </mods>
+</modsCollection>

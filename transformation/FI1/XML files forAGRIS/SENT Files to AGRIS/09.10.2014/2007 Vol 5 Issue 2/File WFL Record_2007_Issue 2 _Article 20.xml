@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Chemical composition of black plum (Vitex doniana): an under-utilized fruit</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Agbede</namePart>
+      <namePart type="given">J. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Nutritional Biochemistry, Department of Animal Production and Health, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ibitoye</namePart>
+      <namePart type="given">A. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop, Soil and Pest Management, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Samples of Vitex doniana fruit were collected from Akure metropolis. The dried edible portion was washed, ground into powder and analyzed for the proximate composition and mineral content. Thereafter, the phytin, tannin, ascorbic acid and sugar contents of the powder were also determined using standard procedures. The mean values for the proximate composition were: moisture 487.7±0.5, ash 52.7±0.1, fat 30.0±0.4, fibre 67.3±0.7, protein 72.8±0.1 and carbohydrate 289.5±0.8 g kg-1. Phytin, phytin-phosphorus and tannin levels were 100, 28.2±0.1 and 50 mg kg-1, respectively. The fruit contained relatively adequate quantities of nutritionally needed macro-mineral elements, and the concentration of sugars ranged between 474 and 40,000 mg kg-1. Though it has lower vitamin C content when compared with other well known fruits, it is safe for consumption and could be a cheap source of raw material for juice production in this region.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>95</start>
+          <end>96</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f20.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of different priming techniques on seed invigoration and seedling establishment of lentil (Lens culinaris Medik)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ghassemi-Golezani</namePart>
+      <namePart type="given">Kazem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aliloo</namePart>
+      <namePart type="given">Ali Asghar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Valizadeh</namePart>
+      <namePart type="given">Mustafa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moghaddam</namePart>
+      <namePart type="given">Mohammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Early emergence and stand establishment of lentil (Lens culinaris Medik) are considered to be the most important yield-contributing factors in rainfed areas. Laboratory tests and two field experiments were conducted in RCB design in 2006 and 2007 at the University of Tabriz, Iran, to evaluate the effects of hydropriming, halopriming (solutions of 1.5% KNO3 and 15 mS/cm NaCl) and osmopriming (PEG: Polyethylene glycol 6000 at -0.8MPa) on seedling vigor and field establishment of lentil. Analysis of variance of laboratory data showed that hydropriming significantly improved imbibition rate, germination rate, seed vigor index, shoot, root and seedling dry weights and reduced electrical conductivity of seed leachates, compared to other seed treatments. However, germination percentage for seeds primed with KNO3, water andPEG were statistically similar, but higher than those for unprimed and NaCl priming. Overall, hydropriming treatment was comparatively superior in the laboratory tests. Invigoration of lentil seeds by hydropriming and NaCl priming resulted in higher seedling emergence and establishment in the field, compared to control and seed priming with KNO3 and PEG. Seedling emergence rate was also enhanced by priming seeds with water, NaCl and KNO3. It was, therefore, concluded that hydropriming is a simple, low cost and environmentally friendly technique for improving seed and seedling vigor of lentil.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>222</start>
+          <end>226</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a17.pdf</identifier>
+  </mods>
+</modsCollection>

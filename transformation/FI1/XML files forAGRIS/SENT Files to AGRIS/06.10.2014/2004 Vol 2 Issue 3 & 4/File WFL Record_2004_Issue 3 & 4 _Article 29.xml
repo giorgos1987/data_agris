@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Commercial agriculture, marital status and other influences on food availability: A Kenyan case study</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">W. Kiriti</namePart>
+      <namePart type="given">Tabitha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Economics, The University of Queensland, Brisbane QLD 4072, Australia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tisdell</namePart>
+      <namePart type="given">Clem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Economics, The University of Queensland, Brisbane QLD 4072, Australia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This article examines the relationship between agricultural commercialization, marital status and other factors that affect per capita food availability by means of a case study in the Nyeri district in Kenya. It was found that cash cropping has a negative influence on per capita food availability in the male-headed households. This negative influence is not apparent in the female-headed households and in fact, per capita food availability rises with increased agricultural commercialization. Households of married women seem to suffer more in terms of reduced food availability than households headed by females. Husbands have control over cash income and, therefore, influence food purchases. They are less likely than females to use the cash for food purchases and tend to spend the cash on themselves, thus reducing food availability to family members. This suggests that in some patriarchal societies, caution should be displayed in encouraging cash cropping, especially in male-headed households. Cash cropping under such circumstances is unwise from both a food availability and food security point of view because it can result in reduced crop diversification hence increasing the risks of income food deficits for families. Other factors found to have an influence on per capita food availability are employment of women outside households, educational level of the women and the quality of land.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>141</start>
+          <end>148</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a12.pdf</identifier>
+  </mods>
+</modsCollection>

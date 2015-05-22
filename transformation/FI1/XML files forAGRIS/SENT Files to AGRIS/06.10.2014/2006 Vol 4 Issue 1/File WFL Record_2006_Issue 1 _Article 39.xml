@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Participatory on-farm evaluation of the performance of drought-tolerant maize varieties in the Guinea savannas of Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kamara</namePart>
+      <namePart type="given">Alpha Yaya</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria, C/o L.W. Lambourn &amp; Co., Carolyn House, 26 Dingwall Road, Croydon CR93EE England.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kureh</namePart>
+      <namePart type="given">Ibrahim</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Agricultural Research (IAR), Ahmadu Bello University (ABU), P.M.B. 1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Menkir</namePart>
+      <namePart type="given">Abebe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria, C/o L.W. Lambourn &amp; Co., Carolyn House, 26 Dingwall Road, Croydon CR93EE England.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kartung</namePart>
+      <namePart type="given">Peter</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Agricultural Research (IAR), Ahmadu Bello University (ABU), P.M.B.1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amaza</namePart>
+      <namePart type="given">Paul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria, C/o L.W. Lambourn &amp; Co., Carolyn House, 26 Dingwall Road, Croydon CR93EE England.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tarfa</namePart>
+      <namePart type="given">Bitrus</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Agricultural Research (IAR), Ahmadu Bello University (ABU), P.M.B. 1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Maize is an important food crop in the Guinea savannas of Nigeria where it is gradually replacing the traditional cereal crops, such as sorghum and millet because of its high productivity. Despite its high yield potential, maize production is faced with numerous constraints. One of these is drought both at the beginning and during the growing season, which significantly reduces grain yield. Therefore early-maturing varieties that are tolerant to drought or extra-early maturing varieties that escape drought are desirable in these communities. Efforts are being made at IITA to develop or identify drought-tolerant maize varieties that are adapted to the Guinea savannas of West Africa. This study evaluated three maize varieties that have been identified either to tolerate or escape drought. The drought-tolerant maize varieties were evaluated on farmers’ fields for two years in two Federal States of northern Nigeria. Generally, the on-farm yield of the maize varieties evaluated was higher than the average grain yield reported for northern Nigeria. Farmers differed in their preferred choice of varieties. In the relatively market-driven production systems in the communities in Borno State, the early-maturing and high-yielding drought-tolerant variety (TZE-COMP 3 DT) was popular. Since this variety attains physiological maturity in late September when rainfall is less, it can be harvested and processed for sale. It therefore has high potential for adoption in these communities. On the contrary, in the relatively resource-poor sorghum-based production systems in Kano State; extra-early maturing varieties (95TZEE-W and 95TZEE-Y) were preferred to provide food security during the period of food scarcity in August/September. The emphasis was therefore more on earliness of crop maturity than on high yields.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>192</start>
+          <end>196</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a13.pdf</identifier>
+  </mods>
+</modsCollection>

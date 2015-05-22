@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Hydrolysis of organic phosphates by commercially available phytases: Biocatalytic potentials and effects of ions on their enzymatic activities</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Tazisong</namePart>
+      <namePart type="given">Irenus A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Agricultural &amp; Environmental Sciences, P.O. Box 1087, Alabama A&amp;M University, Normal, AL 35762, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Senwo</namePart>
+      <namePart type="given">Zachary N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Agricultural &amp; Environmental Sciences, P.O. Box 1087, Alabama A&amp;M University, Normal, AL 35762, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Taylor</namePart>
+      <namePart type="given">Robert W.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Agricultural &amp; Environmental Sciences, P.O. Box 1087, Alabama A&amp;M University, Normal, AL 35762, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">He</namePart>
+      <namePart type="given">Zhongqi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>USDA-ARS, New England Plant, Soil, and Water Laboratory, Orono, ME 04469, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Commercially available phytases from wheat and fungus Aspergillus ficuum have been used in environmental and agricultural phosphorus study. In order to better understand the biochemical properties of these two phytases, in vitro experiments were conducted to study their catalytic potentials to hydrolyze a number of representative organic phosphates [phytate; -nitrophenyl phosphate (PNP); p-nitrophenyl phosphate di-2-amino-2-ethyl-1-3-propanediol (PNP2A2E); p-nitrophenyl phosphate bis-cyclohexylammonium (PNPBC); bis-p-nitrophenyl phosphate (Bis-PNP); D-glucose 6-phosphate sodium salt (DG6PNa); and D-glucose 6-phosphate disodium salt (DG6P2Na)]. The results showed that the activity of wheat phytase in hydrolyzing these substrates was in the order: phytate &gt; PNPBC &gt; PNP2A2E &gt; PNP &gt; DG6P2Na &gt; DG6PNa &gt; Bis-PNP. Substrate preference for the fungal phytase followed the pattern: phytate &gt; PNP &gt; PNP2A2E &gt; PNPBC. The kinetic constants of the two enzymes on these substrates demonstrated that the binding affinity for the fungal phytase with phytate was the highest. We further observed that As, Ba, Br and I ions enhanced the fungal phytase activity, whereas wheat phytase activity was suppressed by most ions we tested. Information obtained in this research is helpful in assessing the application of the two phytases in phosphate pollution research under various environmentally relevant conditions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>500</start>
+          <end>505</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e19.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Nitrogen requirements for growth and early fruit development of drip-irrigated processing tomato (Lycopersicon esculentum Mill.) in Portugal</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Machado</namePart>
+      <namePart type="given">Rui M.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade de Évora, Instituto de Ciências Agrárias Mediterrânicas (ICAM), Apartado 94, 7002-554, Évora, Portugal.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bryla</namePart>
+      <namePart type="given">David R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>United States Department of Agriculture, Agricultural Research Service, Horticultural Crops Research Unit, 3420 NW Orchard Avenue, Corvallis, Oregon, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Veríssimo</namePart>
+      <namePart type="given">M.L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade de Évora, Instituto de Ciências Agrárias Mediterrânicas (ICAM), Apartado 94, 7002-554, Évora, Portugal.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sena</namePart>
+      <namePart type="given">A.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade de Évora, Instituto de Ciências Agrárias Mediterrânicas (ICAM), Apartado 94, 7002-554, Évora, Portugal.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oliveira</namePart>
+      <namePart type="given">M.R.G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade de Évora, Instituto de Ciências Agrárias Mediterrânicas (ICAM), Apartado 94, 7002-554, Évora, Portugal.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effect of continuous application of small quantities of nitrogen (N) in irrigation water and N applied as starter on growth and development of processing tomato, from transplanting to beginning of fruit set, was studied in two experiments — a pot experiment and a field trial. The pot experiment was carried out with eight treatments, including two soil types and four levels of N application (13.2, 18.2, 28.2 and 48.2 mg/L of N). The field trial consisted of four N treatments, including a control with only 6.4 mg/L of N available naturally in the irrigation water, 15 kg/ha of N applied at pre-plant, 15 kg/ha of N applied at pre-plant plus 20 mg/L of N applied continuously during irrigation, and 15 kg ha-1 N applied at pre-plant plus 40 mg/L of N applied continuously during irrigation. Plant growth was significantly affected by soil type and N level under controlled conditions, increasing linearly in luvisol (sandy loam) and regosol (sand) soil at an average rate of 0.52 and 0.64 g dry weight per mg N in the irrigation water, respectively. However, under field conditions in luvisol soil, additional N, whether added at pre-plant or continuously during irrigation, had no effect on any measure of aboveground plant growth, including leaf area, plant dry weight or early fruit production, but reduced root length density below ground. Overall, N in the irrigation water was sufficient for the young tomato plants between planting and fruit set, and adding more N at pre-plant or by fertigation only resulted in luxury N consumption.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>215</start>
+          <end>218</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a7.pdf</identifier>
+  </mods>
+</modsCollection>

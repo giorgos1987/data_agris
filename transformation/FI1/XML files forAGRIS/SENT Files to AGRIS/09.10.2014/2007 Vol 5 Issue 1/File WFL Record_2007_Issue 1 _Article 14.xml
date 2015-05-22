@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biochemical deterioration of soybean daddawa – a condiment</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Popoola</namePart>
+      <namePart type="given">Tope O. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, University of Agriculture, Abeokuta 110001, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kolapo</namePart>
+      <namePart type="given">Adelodun L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Science Laboratory Technology, The Polytechnic, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Afolabi</namePart>
+      <namePart type="given">Oluwatoyin R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, University of Agriculture, Abeokuta 110001, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soybean daddawa prepared using three different processing methods (traditionally fermented seeds, seeds fermented with salt (NaCl) and seeds fermented with starter cultures) were evaluated for biochemical changes in ambient storage conditions. The fermented product was assessed for pH, titratable acid, peroxide value, free fatty acids, antioxidant capacities as well as water and fat absorption capacities as indices of deterioration. The pH of stored samples increased in the alkaline range, titratable acidity of samples also increased with storage. Peroxide values of samples increased significantly from 3.87 meq/kg on the first day of storage to 30.73 meq/kg in two weeks on naturally fermented soy daddawa samples. Values obtained for FFA also increased with storage period, while antioxidant capacity and water and fat absorption capacities decreased drastically with storage. Although, values obtained for the parameters evaluated differed with the methods of processing, the differences were not significant (p&gt;0.05). However, values obtained at the start of the experiment and after 14 days of storage differed significantly. Most of the biochemical changes in monitored functional properties of the samples became noticeable on the 4th and 6th day of storage. The results are discussed with reference to food safety and shelf life of the product.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>67</start>
+          <end>70</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f14.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Microbiological investigation of maggot meal, stored for use as livestock feed component</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Awoniyi</namePart>
+      <namePart type="given">T.A.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Production &amp; Health, The Federal University of Technology, PMB 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adetuyi</namePart>
+      <namePart type="given">F.C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, The Federal University of Technology, PMB 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akinyosoye</namePart>
+      <namePart type="given">F.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, The Federal University of Technology, PMB 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The fresh and 9-month stored samples of freshly harvested dried, milled housefly larvae (maggots of Musca domestica) were investigated for the presence of microbes for the determination of its suitability for inclusion in livestock diet. The predominant bacteria species isolated in the samples include Bacillus cereus, Corynebacterium pyogenes, Micrococcus tetragenus, Pseudomonas aeruginosa, Staphylococcus aureus and Streptoccus faecalis. The fungi isolated include Aspergillus flavus, Fusarium moniliformis and a yeast (Saccharomyces cereus). The mean plate counts of bacteria were 2.56×10³ and 1.1×10³ cfu g-1 in the fresh and stored samples respectively, those of fungi were 0.21×10³ and 3×10³ cfu g-1 for the fresh and stored samples respectively. From the proximate analysis, the percentage moisture, fibre and ash contents of the stored maggot meal were higher (23, 7.5 and 12.5%, respectively) than for the fresh meal. Since the moisture in the stored maggot meal (23%) was higher than the peak figure of 12% stipulated by FAO for stored food product, it was concluded that the stored maggot meal was prone to deterioration by the population of fungi and bacteria in the improperly stored sample.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>104</start>
+          <end>106</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a5.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The physico-chemical, eating and sensorial properties of germinated brown rice</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jiamyangyuen</namePart>
+      <namePart type="given">Sudarat</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agro-Industry, Faculty of Agriculture, Natural Resources and Environment, Naresuan University, Phitsanulok 65000, Thailand.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ooraikul</namePart>
+      <namePart type="given">Buncha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural, Food and Nutritional Science, University of Alberta, Edmonton, Alberta, T6G 2P5 Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Effects of germination process and germination time on selected physico-chemical, eating and sensorial properties of germinated brown rice were studied. Germination process included soaking rice in water for 6 or 12 h before draining and leaving it to germinate for the periods of 0, 6, 12, 18 and 24 h. Results showed that effects of germination process on cooking and textural properties of cooked rice were more pronounced when rice was soaked and germinated for a longer period. During germination, α-amylase plays important roles and altered structure in rice kernels. Compared to cooked regular brown rice, panelists rated intensity of attributes in cooked germinated rice as being sweeter, softer, more swelled and cohesive. For rice soaked for 6 or 12 h, there was significant positive correlation between germinating time and α-amylase activity (r = 0.859 and 0.807), size expansion, gel consistency (r = 0.889, r = 0.956) and alkaline spreading value (r = 0.850, r = 0.992). On the other hand, hardness (r = -0.952, r = -0.834), amylose content (r = -0.989, r = -0.990), bulk density (r = - 0.882, r = - 0942), pasting properties, cooking time (r = -0.802, r = -0.788), % water uptake (r = -0.981, r = -0.959) and % volume expansion (r = -0.954, r = -0.964) showed significant negative correlation with germinating time.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>119</start>
+          <end>124</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f21.pdf</identifier>
+  </mods>
+</modsCollection>

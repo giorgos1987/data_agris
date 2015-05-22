@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Status of agricultural production and mechanization in Mexico</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Duran-Garcia</namePart>
+      <namePart type="given">H. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí, Av. Dr. Manuel Nava 8, Zona Universitaria, C.P.78290, San Luis Potosí, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Romero-Mendez</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí, Av. Dr. Manuel Nava 8, Zona Universitaria, C.P.78290, San Luis Potosí, México.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Knowledge of the mechanization level of a country, region or state requires to have a certain base of comparison; for example: total number of machines, number of machines per surface area, number of tractors and potency per inhabitant or farmer, amount of labor animals, power per hectare, active population in the field and wages paid to agricultural workers. From this information, various mechanization levels can be established, namely: a) totally mechanized surface, when all the cultivation labor, from land preparation to harvest, is carried out using tractors and suitable machinery; b) partially mechanized surface, when land preparation, sowing, fertilization, cultivation and harvest, although susceptible of being carried out by using machinery, are partially conducted with machines but also with animal and even human labor; c) non-mechanized surface, when agricultural work is carried out only with animal and human labor. The mechanization of agricultural production processes represents one of the means to increase agricultural productivity; that is, to increase the amount of products harvested per cultivated hectare. The present work aims to determine the situation of agricultural mechanization in Mexico. It is concluded that the agricultural mechanization process adopted in Mexico, far from favoring its development, has worsened the poverty levels and accentuated the concentration of income in the hands of those who have managed, through various ways, to accumulate land ownership and make use of infrastructure and financial resources dedicated to farming activities by the government. The agricultural sector’s growth model has resulted in the massive expulsion of peasants, given that it does not guarantee the generation of sufficient means for their subsistence.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>216</start>
+          <end>219</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a9.pdf</identifier>
+  </mods>
+</modsCollection>

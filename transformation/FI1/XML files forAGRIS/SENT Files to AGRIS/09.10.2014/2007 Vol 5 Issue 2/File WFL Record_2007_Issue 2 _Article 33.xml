@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of heat and soil texture on seed germination and seedling emergence of marama bean, Tylosema esculentum (Burch.) A. Schreib.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Travlos</namePart>
+      <namePart type="given">Ilias S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Economou</namePart>
+      <namePart type="given">Garyfalia</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Karamanos</namePart>
+      <namePart type="given">Andreas J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Marama bean [Tylosema esculentum (Burch.) A. Schreib.] is an underutilized drought tolerant legume native to the arid and semi-arid regions of southern Africa, which produces protein- and oil-rich seed and tubers with potential for use as human food and animal fodder. Laboratory and greenhouse experiments were conducted in Greece, in order to investigate germination and emergence of this species. Most treatments, likewise control, resulted to relatively high germination and emergence percentages, confirming that marama seeds have no physiological dormancy. The speed and percentage of Tylosema esculentum seed germination was greatly increased by an immersion in hot water for 2 to 4 min or dry heating for 5 min at 100 to 150oC, while higher temperatures proved harmful to some seeds. These highly positive responses of marama seeds to such treatments clearly indicate that there is a moderate coat-imposed dormancy in this species. Soil texture seems crucial for T. esculentum emergence, as long as there was a beneficial effect of the sandy soil on seedling emergence (probably due to the optimization of several soil physical properties), while clay loam soils are rather unsuitable for marama emergence.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>153</start>
+          <end>156</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a10.pdf</identifier>
+  </mods>
+</modsCollection>

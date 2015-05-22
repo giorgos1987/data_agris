@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Community development committees’ participation in forest protection in Delta Central Zone, Delta State, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ofuoku</namePart>
+      <namePart type="given">A. U.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Delta State University, Asaba campus, Asaba, Delta State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Agbogidi</namePart>
+      <namePart type="given">O. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Delta State University, Asaba campus, Asaba, Delta State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study was carried out to investigate the participation of community development committees (CDCs) in forest protection in Delta Central agro-ecological zone, Delta State, Nigeria. Their forest protection measures, perceived benefits and reasons for not participating in forestry extension meetings were also ascertained. Participants who were members of CDCs were purposively selected from the eight local government areas that constitute the study yielding a sample of 80 respondents. The findings show that the major occupations of the respondents are teaching, trading, farming and hunting. Forestry extension activities they were involved included conservation campaign; forest exploitation control; supply of hybrid planting materials etc. Perceived benefits for participants were improved economic status, increased income and employment by forestry department. The extension contact most often indicated was personal contact and meetings exhibitions. A majority of the respondents (75%) were of the opinion that the communities decided the extension programmes. The reason given for non-participation in meetings was mainly inadequate publicity for such meetings. The level of respondent’s education, sex and occupation had significant correlation with the participation in extension and forestry department’s meetings. For sustainable forest utilization, adequate publicity for meetings, more measures to check illegal exploitation and sustained participation of the communities in decision making and programme design were recommended.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>292</start>
+          <end>295</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e19.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Adoption of conservation production systems within the upper region of the Scioto river watershed in Ohio</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Napier</namePart>
+      <namePart type="given">Ted L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Ohio State University, 2120 Fyffe Road, Columbus, Ohio 43210.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bridges</namePart>
+      <namePart type="given">Tracy</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Ohio State University, 2120 Fyffe Road, Columbus, Ohio 43210.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Data were collected from 113 land owner-operators within the upper region of the Scioto River watershed in central Ohio during the summer and fall of 1999 to identify factors influencing adoption of soil and water conservation production systems at the farm level. A theoretical perspective developed from selected components of the farm structure model was developed to guide the investigation. Linear regression analysis revealed that predictive factors included in the statistical analysis exhibited limited utility for explaining variability in a composite index of conservation adoption behavior. Gross farm income was the only independent variable that was significant at the 0.05 level for explaining variability in adoption of conservation production index scores. Findings are discussed in the context of future conservation efforts within the study watershed. Implications for future public soil and water conservation programs within the study watershed are examined.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>287</start>
+          <end>294</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-environment-9.pdf</identifier>
+  </mods>
+</modsCollection>

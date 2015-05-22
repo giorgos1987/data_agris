@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of packaging films on the physical characteristics and sensory aspects of shredded cabbage at different storage conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ibrahim</namePart>
+      <namePart type="given">Roshita</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osman</namePart>
+      <namePart type="given">Azizah</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saari</namePart>
+      <namePart type="given">Nazamid</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Russly</namePart>
+      <namePart type="given">Abdul Rahman</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Minimally processed vegetables in fresh and ready-to-cook form are gaining the confidence of both the trader and the consumer. This has led to a need to develop technology for extending the shelf life. This study was conducted to determine the effects of using different types of polymeric films [polypropylene (PP), low density polyethylene (LDPE), high density polyethylene (HDPE) and PVC cling wrap (control)] of varying permeabilities to gases and water vapour and also with and without the application of vacuum packaging on the physical characteristics and sensory aspects of the minimally processed (MP) shredded cabbage during storage at 5±1°C and 90-95% RH. Physical characteristics were determined by quantitative measurements of weight loss, colour and texture. Sensory evaluation involved subjective acceptability and descriptive analyses. Generally, in almost all the analyses done, the quality of the MP shredded cabbage deteriorated with increase in storage time. Among all the packaging films used, it was found that PP could extend the shelf life of the MP shredded cabbage almost up to 3 weeks with minimum colour change, reduction in weight loss and deterioration in sensory properties and marginally low changes in other parameters tested. PVC cling wrap (control) was found to be the least effective packaging film. Samples in vacuum packaging showed no significant difference with those in non-vacuum packaging in almost all the parameters tested for all the different packaging films used.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>58</start>
+          <end>65</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/f10.pdf</identifier>
+  </mods>
+</modsCollection>

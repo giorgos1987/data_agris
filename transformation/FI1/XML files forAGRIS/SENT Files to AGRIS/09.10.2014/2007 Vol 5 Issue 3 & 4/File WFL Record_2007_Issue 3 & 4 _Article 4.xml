@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>An exploratory study of public awareness and knowledge of antioxidants in Trinidad, West Indies</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Boodhu</namePart>
+      <namePart type="given">Ambika</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, University of the West Indies, St. Augustine, Republic of Trinidad and Tobago.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Badrie</namePart>
+      <namePart type="given">Neela</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, University of the West Indies, St. Augustine, Republic of Trinidad and Tobago.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study investigated public awareness and knowledge of antioxidants in particular reference to fruit and vegetable consumption by consumers in Trinidad. A structured questionnaire was presented to 184 respondents. The criteria for inclusion of respondents were being over 17 years and being responsible for purchase and preparation of foods. Data were analyzed by descriptive statistics, chi-square and general linear modeling using SPSS. More than half of respondents or/and family members had heart disease and/or cancer. Of the 77.7% who were aware of antioxidants, 69.7% categorized them as ‘very important’. Fruits (80.4%) and vegetables (80.4%) were selected as ‘good’ sources of antioxidants. Vitamin C was the most well known antioxidant. Some (60.9%) were unaware of the importance of consuming at least five servings of fruits and vegetables per day; 58.2% consumed ≤ 1 serving of fruits and 44.4% consumed ≤ 1 serving of vegetables daily. Some major deterrents to fruits and vegetables consumption were ‘being expensive’, ’too busy’ and ‘having forgotten’. More than half of respondents were unaware that vitamin pills/dietary supplements could contain high levels of antioxidants which could have negative health effects. Income, education and age were linked (p&lt;0.05) to awareness of antioxidants. Although the sample size was small, the study identified specific areas for public health promotion of antioxidants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>23</start>
+          <end>28</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f4.pdf</identifier>
+  </mods>
+</modsCollection>

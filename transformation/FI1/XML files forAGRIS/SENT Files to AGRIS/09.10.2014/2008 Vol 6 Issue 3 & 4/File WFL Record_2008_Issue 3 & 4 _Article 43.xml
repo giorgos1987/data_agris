@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of cadmium on yield and cadmium concentration in the edible tissues of endive (Cichorium endivia L.) and rocket (Eruca sativa Mill.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akoumianakis</namePart>
+      <namePart type="given">Kostantinos A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, Iera Odos 75, Votanikos 118 55, Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Passam</namePart>
+      <namePart type="given">Harold C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, Iera Odos 75, Votanikos 118 55, Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Barouchas</namePart>
+      <namePart type="given">Pantelis E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Soil Science and Agricultural Chemistry, Iera Odos 75, Votanikos 118 55, Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moustakas</namePart>
+      <namePart type="given">Nicholas K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Soil Science and Agricultural Chemistry, Iera Odos 75, Votanikos 118 55, Athens, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pot experiments were conducted under glasshouse conditions to study the effects of cadmium (Cd) on yields and Cd concentration in the edible plant parts of endive (Cichorium endivia, L.) and rocket (Eruca sativa, Mill.) during two growing seasons (winter and spring). Cadmium was applied to the pot medium (peat-soil mixture) at rates of 0, 5, 10 and 20 mg kg-1. The fresh and dry mass of endive and rocket were not affected by Cd application in either cultivation period, and toxicity symptoms were not observed. In both seasons, the rise in Cd concentration in the edible plant parts with increasing Cd application was characterized by quadratic and linear regression. From the results it was clear that both endive and rocket accumulated Cd. Diethylene triamine penta acetic acid–triethanol amine (DTPA-TEA)-extractable Cd significantly correlated with the Cd concentration in endive and rocket indicating that this extractant could be used to predict Cd concentration in the edible parts of these two crops.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>206</start>
+          <end>209</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a5.pdf</identifier>
+  </mods>
+</modsCollection>

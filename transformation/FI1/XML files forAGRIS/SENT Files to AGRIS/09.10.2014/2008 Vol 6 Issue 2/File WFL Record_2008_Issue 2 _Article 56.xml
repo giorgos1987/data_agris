@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Interrelation of irrigation frequency and manuring on the growth and water use efficiency of wheat under arid condition</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Inoue</namePart>
+      <namePart type="given">Mitsuhiro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Arid Land Research Center, Tottori University, Hamasaka 680-0001 Tottori city, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Irshad</namePart>
+      <namePart type="given">Muhammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Arid Land Research Center, Tottori University, Hamasaka 680-0001 Tottori city, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ahmed</namePart>
+      <namePart type="given">Bouya Ahmed Ould</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Arid Land Research Center, Tottori University, Hamasaka 680-0001 Tottori city, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Good water management along with appropriate soil amendments is necessary for sustainable crop production. An experiment was conducted to evaluate the response of wheat (Triticum aestivum L.) to manuring and irrigation frequency in sand dune soil under growth chamber conditions for eight weeks. Manure was applied at the rate of 0 (M0), 10 (M1) and 20 Mg ha-1 (M2) along with daily, 2 or 4 days irrigation frequencies denoted as W1, W2 and W3, respectively. Irrespective of the manure the daily irrigation gave 18 and 25% higher biomass yield as compared to W2 and W3, respectively. Application of M1 and M2 enhanced dry matter yield by 57 and 107%, respectively, whereas the number of tillers were increased by 69 and 117%, respectively as compared to unamended soil. The cumulative evapotranspiration (ET) was slightly increased in M1, whereas in M2 it was similar to M0 in spite of the higher plant biomass. Thus, the manured soil saved higher magnitude of water than control soil. The water use efficiency (WUE) of crop under M1 and M2 treatments was increased by 42 and 115% compared to M0. For both ET and WUE, irrigation frequencies varied as W1 &gt; W2 &gt; W3. Photosynthetic rate (PN), transpiration rate and stomatal conductance (gs) apparently decreased with longer irrigation period, however, plants maintained dark green color in W3. As expected the cumulative ET was positively associated with PN, gs and transpiration rate.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>290</start>
+          <end>294</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a31.pdf</identifier>
+  </mods>
+</modsCollection>

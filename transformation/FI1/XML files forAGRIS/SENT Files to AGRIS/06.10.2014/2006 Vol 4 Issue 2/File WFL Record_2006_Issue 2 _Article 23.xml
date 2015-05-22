@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Structure and performance evaluation of cocoa marketing institutions in South-Western Nigeria: An economic analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Folayan</namePart>
+      <namePart type="given">J.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, Federal University of Technology Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Daramola</namePart>
+      <namePart type="given">G.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, Federal University of Technology Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oguntade</namePart>
+      <namePart type="given">A.E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, Federal University of Technology Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study employs various measures of parameters of market structure such as concentration ratio, Gini Coefficients and Herfindahl Index and Market performance such as cost and return and multiple regression analyses in an attempt to examine empirically structural performance of cocoa marketing institutions in South-Western Nigeria using cross sectional data collected from 140 cocoa marketers in the study area. The empirical results revealed that based on the outcome of various parameters measure of market concentration indexes, cocoa market was found to be perfectly competitive. Also, the result of market performance analysis revealed that cocoa marketing is profitable while the postulated regressors explained about 96 percent variation in the quantity of cocoa purchased in the study area.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>125</start>
+          <end>128</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f23.pdf</identifier>
+  </mods>
+</modsCollection>

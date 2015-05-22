@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>On-farm evaluation of some plant extracts as biofungicide and bioinsecticide on cowpea in Southwest Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Owolade</namePart>
+      <namePart type="given">O. F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alabi</namePart>
+      <namePart type="given">B. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osikanlu</namePart>
+      <namePart type="given">Y. O. K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal College of Agriculture, I.A. R.&amp; T., Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odeyemi</namePart>
+      <namePart type="given">O. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal College of Agriculture, I.A. R.&amp; T., Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Aqueous extracts of leaves of Carica papaya L., Tithonia diversifolia (Hemsl) A. Gray and Acalypha ciliata Forsk were evaluated on farmers fields as potential biofungicide and bioinsecticide against the brown blotch disease and insect pests of Ife Brown variety of cowpea in year 2002 and 2003 planting seasons. All the crude extracts significantly reduced the incidence and severity of the disease, and the population of the insect pests of cowpea (P&lt;0.01) in all the farmers’ fields. Extracts from the leaves of Carica papaya was the most effective of the botanicals and its performance was comparable to that of Benlate and Nuvacron in both disease and insect control.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>237</start>
+          <end>240</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a13.pdf</identifier>
+  </mods>
+</modsCollection>

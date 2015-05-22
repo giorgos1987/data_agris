@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The role of parentage studies in Arabian and Bactrian camel’s pedigree verification</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Swailem</namePart>
+      <namePart type="given">Abdulaziz M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Biotechnology Research Center, Natural Resources and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, P.O. 6086, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Busadah</namePart>
+      <namePart type="given">Khalid A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Camel Research Center, Faculty of Veterinary Medicine and Animal Resources, King Faisal University, Al-Hassa 31982, P.O. 45345, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shehata</namePart>
+      <namePart type="given">Maher M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Biotechnology Research Center, Natural Resources and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, P.O. 6086, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Askari</namePart>
+      <namePart type="given">Ejaz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Biotechnology Research Center, Natural Resources and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), Riyadh 11442, P.O. 6086, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Molecular marker technologies have revolutionized the way animal genetics research is conducted. The development of DNA-based genetic markers has had a revolutionary impact on animal genetics. For commercial breeders, DNA typing offers a new and powerful test for collecting information on their animals and to enhance genetic improvement through the selection of high performance progeny. The identification of markers for traits of economic importance will also facilitate the selection of superior animals in the future. The present study was conducted to evaluate the use of RAPD markers in parentage relations and to investigate misidentification paternity frequency in self and cross-species of Arabian and Bactrian camels. Some mating groups and offspring’s exhibited a homogeneous pattern indicative of a very low level of DNA polymorphism and the others showed a low heterogeneous polymorphism. Cluster analysis revealed two main clusters of the S (Sufer) group with 89-92% similarity, two main clusters of the M (Magaheem) group and the sire of this group is 76% genetically similar to the dams and their offspring, one main cluster of the G (Shogeh) group and one offspring out of group with 91% similarity. On the other hand, cluster analysis of the B (Bactrian) group revealed three main clusters. Cluster A consisted of dam 2 and 3 pregnant from Arabian sire. Cluster B includes 4 samples and subdivided into 2 subgroups; Subgroup A includes dam 10 Bactrian pregnant from Arabian sire and its offspring, Subgroup B includes mother 12 Bactrian pregnant from Arabian sire and its offspring with 0.84-0.89 similarity matrix. Cluster C consisted of 3 subgroups; Subgroup A includes Bactrian dam pregnant from Arabian sire and Bactrian dam pregnant from Bactrian sire, Subgroup B includes Bactrian dam pregnant from Arabian sire and the offspring of Bactrian dam and Bactrian sire, Subgroup C includes 3 samples: 2 Bactrian dams pregnant from Bactrian sire and one of their offspring with 0.89-0.92 similarity matrix. Amplification products of the sires, dams and offspring’s revealed the presence of common and specific markers. Thus, RAPD-DNA-based markers are powerful tools for parentage studies in camel.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>??</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>??</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>??</start>
+          <end>??</end>
+        </extent>
+        <date>??</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a29.pdf</identifier>
+  </mods>
+</modsCollection>

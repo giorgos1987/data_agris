@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Livestock impact on dynamic and structure of tropical dry forest of the Sierra de Manantlán, Mexico</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Montero-Solís</namePart>
+      <namePart type="given">Flor María</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidad Veracruzana, Facultad de Biología, Zona Universitaria, Xalapa, Ver., México</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sánchez-Velásquez</namePart>
+      <namePart type="given">Lázaro Rafael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratorio de Biotecnología y Ecología Aplicada, Dirección General de Investigaciones, Universidad Veracruzana, Campus para la Cultura, las Artes y el Deporte, AP 250, Av. Culturas Veracruzanas No. 101, Col. Emiliano Zapata, Xalapa, Ver., CP 91090, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rosario Pineda-López</namePart>
+      <namePart type="given">María del</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratorio de Biotecnología y Ecología Aplicada, Dirección General de Investigaciones, Universidad Veracruzana, Campus para la Cultura, las Artes y el Deporte, AP 250, Av. Culturas Veracruzanas No. 101, Col. Emiliano Zapata, Xalapa, Ver., CP 91090, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Martínez-Rivera</namePart>
+      <namePart type="given">Luis Manuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto Manantlán de Ecología y Conservación de la Biodiversidad, Centro Universitario de la Costa Sur, Universidad de Guadalajara, Autlán de Navarro, Jal., México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moermond</namePart>
+      <namePart type="given">Timothy</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Wisconsin-Madison, Department of Wildlife, Madison, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aguirre</namePart>
+      <namePart type="given">Juan Corral</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidad Veracruzana, Facultad de Biología, Zona Universitaria, Xalapa, Ver., México.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cattle foraging within tropical dry forest (TDF) is a common practice in West of Mexico. Effect of cattle exclosure on structure and dynamics of tropical dry forest was analyzed using four years’ record in the Sierra de Manantlán Biosphere Reserve, Mexico. Sixteen permanent plots were randomly established at four sites of TDF (eight plots with livestock exclosure and eight plots without livestock exclosure). During four years, all plant individuals ≥ 1.30 m height were recorded. Sixty species were registered, 41 in cattle exclusion treatments and 38 in treatment without exclusion; 20 species were shared among treatments during the four years study. Species richness was not significantly different (P&gt;0.05) between treatments (plots with exclosure vs. plots without exclosure). Only until the fourth year, Shannon-Wiener index was significantly different between treatments (P &lt; 0.05). For all species, except for three, higher population growth rates (λ) were observed at the exclosure treatment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>266</start>
+          <end>270</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e14.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Evaluation of the susceptibility of local cocoa germplasms in Nigeria to Phytophthora pod rot disease using the leaf discs technique</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Otuonye</namePart>
+      <namePart type="given">A. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cocoa Research Institute of Nigeria, P.M.B. 5244, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adeoti</namePart>
+      <namePart type="given">A. Y. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agriculture, Abeokuta, P.M.B. 2240, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Agbeniyi</namePart>
+      <namePart type="given">S.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cocoa Research Institute of Nigeria, P.M.B. 5244, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aikpokpodion</namePart>
+      <namePart type="given">P. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cocoa Research Institute of Nigeria, P.M.B. 5244, Ibadan, Oyo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Enikomehin</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agriculture, Abeokuta, P.M.B. 2240, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Popoola</namePart>
+      <namePart type="given">T. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agriculture, Abeokuta, P.M.B. 2240, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The Phytophthora pod rot disease constitutes a major threat to cocoa cultivation in all cocoa-growing regions worldwide. It is one of the most important diseases limiting the attainment of genetic yield potential of this tree crop. Though available, chemical control methods are often expensive and beyond the reach of peasant farmers that produce more than 95% of Nigeria crop. Also, the limited knowledge of rational chemical application among rural farmers and the adverse effect on the environment makes it an unfriendly approach. Breeding commercially viable resistant cacao genotypes have been advocated to be the most durable control approach against the Phytophthora pod rot. Towards achieving this objective, promising cacao materials were selected from the gene pool in Cocoa Research Institute of Nigeria (CRIN) Headquarters, Ibadan. Screening of these eight selected cocoa clones with four isolates of Phytophthora megakarya of known aggressiveness in combination-NGRI4, using the leaf discs inoculation method at standard inoculum concentration of zoospores of 3 x 105 ml-1 was carried out. Results showed that T12/5 was resistant, while clones T17/11 and T86/2 are moderately resistant. The other clones, T85/5, T85/45 and T20/11, were moderately susceptible. It is therefore suggested that clone T12/5 be integrated into the resistance breeding effort against Phytophthora pod rot.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>327</start>
+          <end>329</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a31.pdf</identifier>
+  </mods>
+</modsCollection>

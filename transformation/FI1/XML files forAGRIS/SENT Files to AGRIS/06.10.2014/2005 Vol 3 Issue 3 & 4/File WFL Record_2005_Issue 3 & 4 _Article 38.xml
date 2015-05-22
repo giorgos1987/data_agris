@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Proprietary elicitor affects seed germination and delays fruit senescence</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Linden</namePart>
+      <namePart type="given">James C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemical Engineering, Colorado State University, Fort Collins, CO 80523, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Stoner</namePart>
+      <namePart type="given">Richard R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Founder &amp; President, AgriHouse, Inc., Berthoud, CO 80513, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The proprietary elicitor, BEYOND All Natural Plant Amendment, improves seed germination rates with tomato, bean, corn and many other vegetable and flower seeds. Compared to controls, treated plants emerge sooner and are more vigorous, which results in statistically increased crop performance and higher yields. This elicitor does not appear to be a systemic agent in plants, but to impact receptors on the cell surface and initiate molecular level signal transduction processes. For example, induction of β-1,3-glucanase in treated seeds is associated with improvement in germination rates. This elicitor does not utilize ethylene as a secondary messenger, but appears to reduce ethylene biosynthesis. Application of this elicitor either by foliar spray or root feeding prior to harvest delays fruit senescence by inhibiting ethylene biogenesis. Presently, ripening of harvested citrus is initiated with ethylene at the start of storage. Since fruit from BEYOND treated trees exhibit better storage characteristics, it may be concluded that ethylene biosynthesis is reduced by application of the elicitor to citrus. This phenomenon is also studied using triple response assays on etiolated Arabidopsis thaliana seedlings. BEYOND treated seeds show no stimulation of ethylene biosynthesis, as do some elicitors. Since this elicitor reduces ethylene formation, physiological factors controlling plant development are no longer negatively impacted by ethylene, resulting in improved growth at all stages. BEYOND All Natural Plant Amendment is manufactured by AgriHouse Inc., Berthoud, Colorado USA (US Patent No. 6,193,988).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>184</start>
+          <end>189</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/e9.pdf</identifier>
+  </mods>
+</modsCollection>

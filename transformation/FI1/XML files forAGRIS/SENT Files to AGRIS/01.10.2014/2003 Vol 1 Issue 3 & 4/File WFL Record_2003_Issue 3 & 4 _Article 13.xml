@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Nutritional requirements and amino acids utilization by lactic acid bacteria from wine – A short review</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">de Nadra</namePart>
+      <namePart type="given">Maria C. Manca</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Bioquímica, Química y Farmacia, Universidad Nacional de Tucumán and Centro de Referencia para Lactobacilos (CERELA), Ayacucho 491.4000 Tucumán, Argentina.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Arena</namePart>
+      <namePart type="given">Mario E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Bioquímica, Química y Farmacia, Universidad Nacional de Tucumán and Centro de Referencia para Lactobacilos (CERELA), Ayacucho 491.4000 Tucumán, Argentina.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saguir</namePart>
+      <namePart type="given">Fabiana M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Bioquímica, Química y Farmacia, Universidad Nacional de Tucumán and Centro de Referencia para Lactobacilos (CERELA), Ayacucho 491.4000 Tucumán, Argentina.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>It is well known that lactic acid bacteria need multiple nutritional requirements for growth. They require numerous amino acids and other growth factors to develop in synthetic media. In this review the amino acid requirements, the effect of L-malic acid and citric acids metabolism on these requirements and the catabolism of amino acids by lactic acid bacteria from wine are discussed, with emphasis on arginine and its amino acid derivates: citrulline and ornithine.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>76</start>
+          <end>79</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-13.pdf</identifier>
+  </mods>
+</modsCollection>

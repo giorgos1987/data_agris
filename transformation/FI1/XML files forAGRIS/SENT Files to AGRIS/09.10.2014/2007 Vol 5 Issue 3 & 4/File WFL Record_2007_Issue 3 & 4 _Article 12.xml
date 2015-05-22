@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Antioxidant and antihypertensive activities of autolysate and enzymatic hydrolysates from yam (Dioscorea opposita Thunb.) ichyoimo tubers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nagai</namePart>
+      <namePart type="given">Takeshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suzuki</namePart>
+      <namePart type="given">Nobutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ITE Nagoya Research Institute, Toyoake, Aichi 4701131, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tanoue</namePart>
+      <namePart type="given">Yasuhiro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, National Fisheries University, Yamaguchi 7596595, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kai</namePart>
+      <namePart type="given">Norihisa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, National Fisheries University, Yamaguchi 7596595, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nagashima</namePart>
+      <namePart type="given">Toshio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Autolysate and enzymatic hydrolysates from yam ichyoimo tubers were prepared by autolysis and digestion using three peptic enzymes. The potential antioxidant capacity and angiotensin I-converting enzyme (ACE) inhibitory activity were also investigated. Among these sample species, autolysate and trypsin hydrolysate exhibited extremely high antioxidant activities. In addition, high ACE inhibitory activities were detected in the same sample species similar to peptides derived from food proteins, for example fish muscle, casein, zein, sake and other food proteins. Yam ichyoimo tubers is an excellent source of antioxidant compounds and exhibited great efficiency in scavenging against active oxygen species. The discovery of our research is helpful to produce processed foods with high antioxidant activity and antihypertensive activity and high health benefits in food industry.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>64</start>
+          <end>68</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f12.pdf</identifier>
+  </mods>
+</modsCollection>

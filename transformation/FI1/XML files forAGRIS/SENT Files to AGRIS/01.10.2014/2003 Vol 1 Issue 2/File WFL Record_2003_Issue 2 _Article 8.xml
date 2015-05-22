@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Membrane-bound polyphenol oxidases and peroxidases from Metroxylon sagu: Changes in activity and isoenzyme profiles during maturation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Onsa</namePart>
+      <namePart type="given">Galila Hassan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Biotechnology, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saari</namePart>
+      <namePart type="given">Nazamid bin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Biotechnology, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osman</namePart>
+      <namePart type="given">Azizah</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Biotechnology, Universiti Putra Malaysia, 43400 UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bahri</namePart>
+      <namePart type="given">Shamsul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Biotechnology and Strategic Research Unit, Malaysian Rubber Board, 47000 Sg. Buloh, Selangor Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Membrane-bound polyphenol oxidases (mPPO: E.C.1.10.3.2) and peroxidases (mPOD: E.C.1.11.1.7) were isolated from membrane-fractions of Metroxylonsagu employing temperature-induced hase partitioning technique using Triton X-114. The specific activities in unit activity / mg protein and their isoenzyme profile were studied during maturation. The stages of maturity are the young stage (1-2 years old), pre-mature (6-8 years old) and mature stage (9-12 years old). The highest mPPO specific activity was observed at the top log section of young stage and then decreased by 3.0 and 25-fold at premature and mature stage, respectively. On the other hand, mPOD activity was found to be constant at the early stages of maturity up to the premature stage. mPOD activity then increased by 1.5 and 2.9-fold at premature and matured stage respectively. High mPOD activity at mature stage was associated with the appearance of new isoenzymes as well as intensification of the existing one. A change in the polypeptides during maturation was also observed.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>60</start>
+          <end>65</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-51.pdf</identifier>
+  </mods>
+</modsCollection>

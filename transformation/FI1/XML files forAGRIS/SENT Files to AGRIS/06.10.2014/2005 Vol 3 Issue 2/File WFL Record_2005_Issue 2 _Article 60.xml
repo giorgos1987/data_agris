@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Impact of monocrotophos and neem oil mixture on defoliator management in groundnut</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sahayaraj</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crop Protection Research Centre, Department of Zoology, St. Xavier’s college,Palayamkottai 627 002, Tamil Nadu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amalraj</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant protection Research Unit, Department of Botany, St. Joseph’s College, Trichy- 620002, Tamil Nadu 620 002, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The integrated effect of intercropping, a synthetic pesticide (monocrotophos) (M) and neem based biopesticide (neem oil - 2%) (NO) on three groundnut defoliators damage and also the groundnut production was studied. The monocrotophos and neem oil combination was found to be very effective in reducing the defoliator infestation. Defoliator’s incidence was significantly higher in untreated plots, resulting in significantly lower yield (1539 kg ha-1). Application of monocrotophos and neem oil mixture increased the groundnut yield (2011 kg ha-1) compared to monocrotophos (1878 kg ha-1) and control categories. The estimated avoidable groundnut and black gram yield loss were lower in monocrotophos treatment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>313</start>
+          <end>315</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/e8.pdf</identifier>
+  </mods>
+</modsCollection>

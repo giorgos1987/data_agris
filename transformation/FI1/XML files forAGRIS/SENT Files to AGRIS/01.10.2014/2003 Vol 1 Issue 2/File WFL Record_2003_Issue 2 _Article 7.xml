@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Evaluation of breadfruit (Artocarpus communis) in traditional stiff porridge foods</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mayaki</namePart>
+      <namePart type="given">Olutayo M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akingbala</namePart>
+      <namePart type="given">John O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemical Engineering, University of the West Indies, St. Augustine, Trinidad.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Baccus-Taylor</namePart>
+      <namePart type="given">Gail S. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemical Engineering, University of the West Indies, St. Augustine, Trinidad.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Thomas</namePart>
+      <namePart type="given">Sydney</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemical Engineering, University of the West Indies, St. Augustine, Trinidad.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Process parameters for producing the best breadfruit flours for stiff porridges were determined. Physical properties, chemical composition, and storage properties of the flours; and sensory properties of stiff porridges of the flours were determined. Chips of dimensions 1.0 x 1.5 x 1.5 cm of the pulp of unripe, but matured breadfruit, dried at 80 °C for 18 hours produced the best flour. Concentrations of the chemical components of pre-cooked pulp flour were higher than that of the raw pulp flour, with the exception of starch, while flour from the mixture of pulp and core contains higher percentages of ash, fat, protein and fibre compared with either the raw or pre-cooked pulp flours. Flours from the core were brown, while the other breadfruit parts, including pulp with core, produced cream-coloured flours. Viscosity of flour pastes increased rapidly as from flour concentration of 30g Kg-1. Sugar content increased, while swelling power and paste viscosity decreased during storage of breadfruit flour. Flour of raw pulp cooked at 300g Kg-1 flour concentration resembled breadfruit stiff porridge best, while pre-cooked flour at 350g Kg-1 flour concentration produced a porridge comparable with stiff porridge of freshly cooked and pounded breadfruit pulp in terms of hardness, stickiness and mouldability.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>54</start>
+          <end>59</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-45.pdf</identifier>
+  </mods>
+</modsCollection>

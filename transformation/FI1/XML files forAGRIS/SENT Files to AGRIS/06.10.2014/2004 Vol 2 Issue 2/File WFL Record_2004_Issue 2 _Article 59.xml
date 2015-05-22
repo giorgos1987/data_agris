@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of environmental factors on the quality of wheat grown in Algeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Amir</namePart>
+      <namePart type="given">Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Institut d’Agronomie, Université Mouloud Mammeri,Tizi-ouzou, 15000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Djabri</namePart>
+      <namePart type="given">D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Institut d’Agronomie, Université Mouloud Mammeri,Tizi-ouzou, 15000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Guellil</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Institut d’Agronomie, Université Mouloud Mammeri,Tizi-ouzou, 15000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Youyou</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Institut d’Agronomie, Université Mouloud Mammeri,Tizi-ouzou, 15000, Algeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The wheat production still remains beneath the national consumption in Algeria and undergoes quantitative and qualitative variations. To understand the fluctuations in cereal production at a regional level, soft and hard wheat (Triticum aestivum, T. durum) varieties grown on the same locations were sampled in three non-successive periods and analyzed for quality characteristics. Our study demonstrated the positive impact of the rainfall during the 2003 season on the specific weight (74.86-83.70 kg hl-1) and the one thousand-kernel weight (TKW 34.89-46.90 g) almost through the four locations studied. The increase of the average TKW was remarkable between 1999 and 2003 for the variety Vitron (10.74%). The impact of the external factors on the vitreousness of the hard wheat varieties (84.31-93.04%) was also studied. The protein content of the seeds showed highly positive correlations with rainfall (r1 exceeds +0.80), but no clear relationship between the temperature and the quality factors was detected in most of the locations (r2 ranged from 0 to – 0.9).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>315</start>
+          <end>319</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a30.pdf</identifier>
+  </mods>
+</modsCollection>

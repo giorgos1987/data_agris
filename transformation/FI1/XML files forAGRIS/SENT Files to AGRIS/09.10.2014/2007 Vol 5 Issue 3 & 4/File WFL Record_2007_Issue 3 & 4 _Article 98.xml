@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Genetic variation of some botanical and cultivar varieties of Acer sp.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rzepka-Plevneš</namePart>
+      <namePart type="given">D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin, ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Smolik</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin, ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Drzewiecka</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin, ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Genetic variation of two botanical varieties of Acer sp. (Acer palmatum var. heptalobum, Acer palmatum f. atropurpureum) and seven its cultivars (Acer palmatum ‘Dissectum Atropurpureum’, Acer palmatum ‘Dissectum Ornatum’, Acer palmatum ‘Garnet’, Acer palmatum ‘Osakazuki’, Acer palmatum ‘Nicholsonii’, Acer japonicum ‘Aconitifolium’ and Acer shirasavanum ‘Aureum’) from the collection of the Przelewice Dendrological Garden were investigatedusing inter simple sequence repeat (ISSR) markers. Thirty ISSR primers were screened and 11 were selected for their ability to produce clear and reproducible patterns of multiple bands. A total of 142 loci of 200 – 2750 bp were amplified, of which 84 (59.2%) were polymorphic, 8 (5.6%) monomorphic and 50 (35.2%) were accession-specific. In addition, specific ISSR loci were obtained for all of the nine accessions tested. A dendrogram generated using the UPGMA, based on a similarity measure of total character difference, showed that the Acer cultivars and varieties clustered into three main groups (a, b and c). The first group ‘a’ included Acer palmatum ‘Dissectum Ornatum’ and Acer palmatum var. heptalobum (52% similarity), the second one ‘b’ included 5 cultivars, Acer palmatum ‘Nicholsonii’, Acer palmatum f. atropurpureum, Acer palmatum ‘Osakazuki’, ‘Garnet’ and Acer japonicum ‘Aconitifolium’ (71.5% similarity) and the third one ‘c’ Acer shirasavanum ‘Aureum’ and Acer palmatum ‘Dissectum Atropurpureum’ (57% similarity).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>481</start>
+          <end>485</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/e28.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Production of doubled haploids from some Jordanian wheat cultivars via anther culture technique</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Hassawi</namePart>
+      <namePart type="given">Dhia S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Al-Balqa Applied University, Faculty of Agricultural Technology, Biotechnology Department, Al-Salt 19117, Jordan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Qrunfleh</namePart>
+      <namePart type="given">Issam</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Al-Balqa Applied University, Faculty of Agricultural Technology, Biotechnology Department, Al-Salt 19117, Jordan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dradkah</namePart>
+      <namePart type="given">Nidal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Center for Agricultural Research and Technology Transfer, Amman, Jordan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Double-haploid plantlets derived from anther culture of wheat are useful breeding materials. However, efficiency of androgenesis needs improvement. We studied the androgenetic ability of five wheat cultivars that are adapted to the Jordan environment. Genotypes significantly affected anther response and callus production. Callus induction frequency was 3.6, 3.1, 2.3, 1.6 and 1.5% for cultivars Acsad 65, Hourani Nawawi, Hourani 27, F8 and Deir Alla respectively. Green plantlet regeneration was influenced significantly by cultivar. The highest frequency was produced by cultivar Acsad 65. Albino plantlets were produced by cultivars Hourani Nawawi and Acsad 65.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>161</start>
+          <end>164</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/a11.pdf</identifier>
+  </mods>
+</modsCollection>

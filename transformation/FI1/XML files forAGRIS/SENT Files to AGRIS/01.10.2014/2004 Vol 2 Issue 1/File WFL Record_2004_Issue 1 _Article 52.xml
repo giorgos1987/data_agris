@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Induced mutations for yield and its components in durum wheat (Triticum durum Desf.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sakin</namePart>
+      <namePart type="given">Mehmet Ali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Gaziosmanpasa University, Faculty of Agriculture, Department of Field Crops, Tokat, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yildirim</namePart>
+      <namePart type="given">Ahmet</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Gaziosmanpasa University, Faculty of Agriculture, Department of Field Crops, Tokat, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Induced mutations have been used to generate genetic variability and have been successfully utilized to obtain high yielding varieties in durum wheat. The aims of the present study were to: (i) determine induced variation in yield and the other quantitative characters, (ii) evaluate the value of induced mutations in durum wheat improvement. Durum wheat (Triticum durum Desf.) variety Gediz-75 seeds without presoaking treated with 0.1, 0.2, 0.3 and 0.4% EMS for 8 hours at 24°C. Base populations were retained by randomly selecting normal appearing single plants and those with high grain yield. The selected plants were grown as the M3 generation. Some mutant progenies derived from 0.1% and 0.3% EMS treatment in the M3 exhibited higher yield means than that of control. High heritability estimates observed for mutant populations demonstrated that induced variation was maintained in the M2 and M3 generations. Some mutant progeny populations in M4 had higher single plant grain yield than the control. As a result, mutations affecting yield and other characters can be used in durum wheat breeding.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>285</start>
+          <end>290</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a22(2).pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Fruit phenolics as natural antimicrobial agents: Selective antimicrobial activity of catechin, chlorogenic acid and phloridzin</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Muthuswamy</namePart>
+      <namePart type="given">Sivakami</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Tree Fruit Bio-product Research Program, Department of Environmental Sciences, Nova Scotia Agricultural College, P.O. Box 550, Truro, NS, B2N 5E3, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rupasinghe</namePart>
+      <namePart type="given">H. P. Vasantha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Tree Fruit Bio-product Research Program, Department of Environmental Sciences, Nova Scotia Agricultural College, P.O. Box 550, Truro, NS, B2N 5E3, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Fruit phenolics have attracted a great interest recently as potential natural antimicrobial agents that could be used to extend the shelf life of valueadded fruit and vegetable products. The antimicrobial activity of catechin, chlorogenic acid and phloridzin at 1, 5, 10 and 25 mM concentrations was assessed against three marker pathogenic bacteria, one probiotic bacterium, two yeasts and one food spoilage fungus using the turbidity assay. The growth of pathogenic bacteria, Escherichia coli O157:H7, Listeria innocua and the food spoilage fungus, Penicillium chrysogenum, were suppressed by all the phenolics at 25 mM but the growth of food spoilage yeast Saccharomyces cerevisiae was inhibited only by chlorogenic acid and phloridzin. Chlorogenic acid exhibited a greater inhibitory effect on opportunistic pathogen, Candida albicans, than that of catechin and phloridzin. The growth of probiotic bacterium, Lactobacillus rhamnosus, was not affected by the three phenolics at any tested concentrations except by 25 mM phloridzin.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>81</start>
+          <end>85</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f15.pdf</identifier>
+  </mods>
+</modsCollection>

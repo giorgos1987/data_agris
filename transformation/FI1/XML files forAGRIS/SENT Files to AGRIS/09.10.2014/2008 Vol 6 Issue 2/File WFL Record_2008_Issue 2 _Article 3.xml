@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Chemical composition of fermented roselle (Hibiscus sabdariffa) calyx as affected by microbial isolates from different sources</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ojokoh</namePart>
+      <namePart type="given">A.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P.M.B.704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adetuyi</namePart>
+      <namePart type="given">F.C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P.M.B.704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akinyosoye</namePart>
+      <namePart type="given">F.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P.M.B.704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pure strains of Aspergillus niger, Aspergillus flavus, Saccharomyces cerevisiae and Bacillus subtilis, isolated from fermented roselle (Hibiscus sabdariffa) calyx and from other food sources (rice and eba), were cultured and subsequently used to ferment eight portions of 100 g each of roselle calyx for 72 hours. The results of the proximate composition revealed that the protein contents (10.8-12.6%) in the samples fermented with indigenous isolates were higher than those (7.4-9.2%) in the samples fermented with non-indigenous isolates. The fat contents in the samples fermented with indigenous isolates were higher than in the samples fermented with non-indigenous isolates, and the ash contents in the samples fermented with non-indigenous isolates were higher than in the samples fermented with indigenous isolates, except for the samples fermented with Bacillus subtilis where there was no considerable difference in the fat and ash contents. A decrease in crude fibre was recorded only in the samplesfermented with indigenous Saccharomyces cerevisiae and Bacillus subtilis. All the samples fermented with non-indigenous isolates were lower in phytate contents when compared with the samples fermented with indigenous isolates. There was no significant difference in tannin contents in all the fermented samples.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>19</start>
+          <end>21</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f3.pdf</identifier>
+  </mods>
+</modsCollection>

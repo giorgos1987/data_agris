@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Staple food policy and supply response in Nigeria: A case of cassava</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nkang</namePart>
+      <namePart type="given">Nkang M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, University of Calabar, P. M. B. 1115, Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Udom</namePart>
+      <namePart type="given">Daniel S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, University of Calabar, P. M. B. 1115, Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abang</namePart>
+      <namePart type="given">Sylvester O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, University of Calabar, P. M. B. 1115, Calabar, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Increased government concern in making agriculture a major foreign exchange earner and contributor to the nation’s gross domestic product as part of its economic diversification agenda leads directly to a need for information about farmers’ response to changes in price and non-price factors. This is particularly important in the case of Nigerian cassava production; having assumed a centre stage as a potential export crop, and in spite of constituting a significant proportion of staple diets of Nigerians. This paper analyses the supply response of cassava farmers in Nigeria using a dynamic regression model. The results show that tinkering with price and market incentives may have adverse effects on farmers’ response, and in turn government’s objective of making cassava a foreign exchange earner for the country. Again, the paper reveals that contractionary fiscal policies would hurt crops such as cassava, which are responsive to non-price fiscal incentives.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>143</start>
+          <end>146</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f27.pdf</identifier>
+  </mods>
+</modsCollection>

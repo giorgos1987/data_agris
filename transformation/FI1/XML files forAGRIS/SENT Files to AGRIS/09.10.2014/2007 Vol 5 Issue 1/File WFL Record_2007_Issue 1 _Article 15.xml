@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of black currant genotype on the quality and rheological properties of jams</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rubinskiene</namePart>
+      <namePart type="given">Marina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lithuanian Institute of Horticulture, LT-54333 Babtai, Kaunas distr., Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Speiciene</namePart>
+      <namePart type="given">Vilma</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>KTU Food Institute, Taikos st. 92, LT- 51180, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Leskauskaite</namePart>
+      <namePart type="given">Daiva</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Kaunas Technological University, Department of Food Technology, Radvilơnǐ st. 19, LT- 50254, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Viskelis</namePart>
+      <namePart type="given">Pranas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lithuanian Institute of Horticulture, LT-54333 Babtai, Kaunas distr., Lithuania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Berries of black currant cultivars grown in Lithuania (Joniniai and Vakariai), Byelorussia (Minaj Shmyriov), Sweden (Öjebyn and Titania) and Scotland (Ben Alder and Ben More) and their respective jams were investigated. The influence of plant genotype on the chemical composition of black currant and their products was evaluated. Additionally, rheological characteristics of black currant jams were determined. Cultivars Vakariai and Joniniai contained the largest amount of ascorbic acid, 2.58 and 2.36 g kg-1, respectively. Berries from cultivars Vakariai and Ben Alder contained the largest amount of dry soluble solids, anthocyanins and acidity. Jams made from the berries of cv. Vakariai had the largest amount of ascorbic acid (1.06 g kg-1) and anthocyanins (1.47 g kg-1). Rheological properties of black currant jams depended on dry matter content and the amount of pectin in the berries. Jams made from the berries of cvs Öjebyn, Vakariai and Titania were characterized as strong gels with well-connected structure, high water binding capacity and apparent viscosity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>71</start>
+          <end>75</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f15.pdf</identifier>
+  </mods>
+</modsCollection>

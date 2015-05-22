@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A comparative study of the ultrastructure of spring wheat genotype DH83Z118.32, its albino progeny and their photosynthetic pigments</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Redha</namePart>
+      <namePart type="given">Amina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Botany Program, * Biochemistry Program, Department of Biological Sciences, Faculty of Science, Kuwait University, Kuwait.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Afzal</namePart>
+      <namePart type="given">Mohammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Botany Program, * Biochemistry Program, Department of Biological Sciences, Faculty of Science, Kuwait University, Kuwait.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In order to better understand the mechanism of albinism in wheat plants, we have compared the leaf chloroplast ultrastructure and photosynthetic pigments of the of spring wheat genotype DH83Z118.32 plants. Leaf samples were taken from donor plants regenerated them by anther cultures that resulted in green and albino plantlets. The albino plants showed clear changes in their chloroplast ultrastructure. A contraction in the intergrana lamellae and its disorientation were observed. Disruption of the internal structure with vesiculated plasmalemma, accumulation of lipid droplets, and starch granules, vacuolation of cytoplasm along with disruption of chloroplast were mainly observed in these mutant plants. Plastids differentiated exclusively into amyloplasts accumulating starch and losing their thylakoids as well as their capacity to divide. Mutant phenotypes were analyzed for their photosynthetic pigments and results show accumulation of phytoene in albino regenerated plants, along with chlorophyll-b with few carotenoids, all at very low concentrations. A comparison of these results with those obtained from green plants showed severe chloroplast damage in spring wheat albino plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>228</start>
+          <end>233</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a21.pdf</identifier>
+  </mods>
+</modsCollection>

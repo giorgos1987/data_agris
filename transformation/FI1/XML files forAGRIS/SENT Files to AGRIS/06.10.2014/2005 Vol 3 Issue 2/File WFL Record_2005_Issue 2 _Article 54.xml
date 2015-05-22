@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth and uptake of arsenic by rice irrigated with As-contaminated water</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Delowar</namePart>
+      <namePart type="given">Hossain K. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>United Graduate School of Agricultural Sciences, Tottori University, Minami 4-101. Koyama-cho, Tottori, 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yoshida</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Tottori University, Minami 4-101. Koyama-cho, Tottori, 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Harada</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Tottori University, Minami 4-101. Koyama-cho, Tottori, 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sarkar</namePart>
+      <namePart type="given">A. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bangladesh Institute of Nuclear Agriculture (BINA), P. O. Box-4, Mymensingh-2200, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Miah</namePart>
+      <namePart type="given">M. N. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bangladesh Institute of Nuclear Agriculture (BINA), P. O. Box-4, Mymensingh-2200, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Razzaque</namePart>
+      <namePart type="given">A. H. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bangladesh Institute of Nuclear Agriculture (BINA), P. O. Box-4, Mymensingh-2200, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Uddin</namePart>
+      <namePart type="given">Md. Imtiaz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bangladesh Institute of Nuclear Agriculture (BINA), P. O. Box-4, Mymensingh-2200, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adhana</namePart>
+      <namePart type="given">Kelali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Tottori University, Minami 4-101. Koyama-cho, Tottori, 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Perveen</namePart>
+      <namePart type="given">Mst Farida</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Tottori University, Minami 4-101. Koyama-cho, Tottori, 680-8553, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>To ensure food security, the Bangladesh government has supported the cultivation of a number of high yielding rice varieties which require a large volume of irrigation water. The use of groundwater for irrigation has increased abruptly over the last couple of decades. About 80% of pumped groundwater is utilized in the agricultural sector, but the groundwater in many areas of Bangladesh is severely contaminated with arsenic. So, there is a possibility of arsenic accumulation in rice and rice plants from arsenic-contaminated irrigation water. This study aims at assessing the extent of accumulation of arsenic in rice plants and its effects on growth and yield of rice.Arsenic concentrations in paddy soils (irrigated with 0, 2.5, 5, 10, 15 and 20 mg L-1 of arsenic water) were 0-0.2, 0-0.95 and 0-0.27 mg kg-1 at tillering, heading and ripening stages. Rice grains accumulated arsenic from soil/water and arsenic accumulation varied greatly in the two rice varieties studied. Arsenic concentrations in rice grains were 0-0.07 and 0-0.14 mg kg-1 dry weight in rice varieties BRRIdhan-28 and Iratom-24, respectively. The growth and yield of rice plants were reduced significantly with increased doses of arsenic but the grain weight was not affected. Among the different yield components, the number of tillers per pot, number of effective tillers per pot and grain yield per pot reduced greatly with the higher dose (20 mgL-1) of arsenic applied. Yield reduction of more than 60 and 40% for Iratom-24 and BRRIdhan-28, was found with 20 mg L-1 of arsenic as compared to control. The reduction in straw yield was also significantly higher for both of rice varieties with the 20 mg L-1 arsenic application.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>287</start>
+          <end>291</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/e2.pdf</identifier>
+  </mods>
+</modsCollection>

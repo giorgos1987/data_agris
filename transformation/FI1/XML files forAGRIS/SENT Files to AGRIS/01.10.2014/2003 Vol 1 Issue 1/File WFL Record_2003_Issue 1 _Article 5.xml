@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of ripening stage and storage temperature on postharvest quality of pepino (Solanum muricatum Ait.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Prono-Widayat</namePart>
+      <namePart type="given">Heru </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Humboldt University Berlin, Institute of Horticultural Sciences, Section Quality Dynamics/Postharvest Physiology, Lentzeallee 75, 14195 Berlin, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schreiner</namePart>
+      <namePart type="given">Monika </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Vegetable and Ornamental Crops Großbeeren/Erfurt e.V.,Theodor-Echtermeyer-Weg 1, 14979 Großbeeren, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Huyskens-Keil</namePart>
+      <namePart type="given">Susanne </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Humboldt University Berlin, Institute of Horticultural Sciences, Section Quality Dynamics/Postharvest Physiology, Lentzeallee 75, 14195 Berlin, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family"> Lüdders</namePart>
+      <namePart type="given">Peter</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Humboldt University Berlin, Institute of Horticultural Sciences, Department Fruit Science, Albrecht-Thaer-Weg 3, 14195 Berlin, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pepino fruits cv. ‘Golden Globe’ were harvested at three ripening stages, premature (28-42 days after pollination), mature (38-57 days after pollination), and ripe (53-72 days after pollination), and stored at temperatures of 5°C and 18°C with a relative air humidity of 95% and 75% respectively, for up to 21 days. The results indicate that the metabolic activities leading to the overall fruit quality changes in pepino during ripening were more and predominantly affected by the genetically determined ripening process in comparison to storage temperatures in the range of 5°C to 18°C. However, the results revealed that pigments and carbohydrates, i.e. chlorophylls, pectic substances, monosaccharides and disaccharides, belong to those fruit quality attributes which vary to some extent depending on the storage temperature, specifically at high temperatures of 18°C. This indicates a pronounced temperature effect on the dynamics of fruit quality. Storing pepinos at lower temperature (5°C) with a high relative air humidity (95 %) appeared to limit the loss of most of the fruit quality attributes without resulting in chilling injuries.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>35</start>
+          <end>41</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1F35-41effect.pdf</identifier>
+  </mods>
+</modsCollection>

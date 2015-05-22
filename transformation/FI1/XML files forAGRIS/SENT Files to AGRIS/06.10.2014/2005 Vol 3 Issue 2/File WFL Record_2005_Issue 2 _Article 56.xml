@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Adsorption of benzene and naphthalene to modified montmorillonite</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">El-Nahhal</namePart>
+      <namePart type="given">Yasser</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut für Anorganiche Chemie, Christian-Albrechts-Universität, Olshausenstr. 40, D-24118 Kiel, Germany. Environmental Protection and Research Institute P. O. Box 1175 (EPRI) Gaza, Palestinian National Authority (PNA)</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Safi</namePart>
+      <namePart type="given">Jamal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Protection and Research Institute P. O. Box 1175 (EPRI) Gaza, Palestinian National Authority (PNA). Faculty of Agriculture and Environment, Al-Azher University-Gaza, Palestinian National Authority (PNA).</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study aims to characterize the adsorption pattern of benzene and naphthalene on montmorillonite modified with hexadecyltrimethylammonium (HDTMA), tetramethylammonium (TMA), tetraethylammonium (TEA), tetrabutylammonium (TBA) or benzyltrimethylammonium (BTMA). Adsorption isotherms of benzene and naphthalene from water followed Langmuir and Freundlich models respectively. The Langmuir form of the isotherms suggests that benzene and naphthalene adsorbed to the surfaces as a monolayer. Binding coefficient of naphthalene increased as the molecular weight of the pre-adsorbed surfactant increased. Adsorption of benzene and naphthalene follows the sequence: montmorillonite-benzyltrimethylammonium &gt; montmorillonite hexadecyltrimethylammonium &gt; montmorillonite-tetrabutylammonium &gt; montmorillonite-tetraethylammonium &gt; montmorillonite-tetramethylammonium. The results indicate that using those complexes can be useful in removing pollutants from water.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>295</start>
+          <end>298</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/e4.pdf</identifier>
+  </mods>
+</modsCollection>

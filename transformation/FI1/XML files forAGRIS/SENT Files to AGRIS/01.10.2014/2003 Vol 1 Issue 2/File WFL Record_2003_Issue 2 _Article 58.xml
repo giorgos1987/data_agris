@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Use of waste generated from cinnamon bark oil (Cinnamomum zeylanicum Blume) extraction as a post harvest treatment for Embul banana</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ranasinghe</namePart>
+      <namePart type="given">Lakshmie S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jayawardena</namePart>
+      <namePart type="given">Bimali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abeywickrama</namePart>
+      <namePart type="given">Krishanthi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Waste water samples collected from a cinnamon bark oil distillery, was extracted and analyzed by Gas Chromatography. The major constituent of the extracted oil solution was cinnamaldehyde (66.21%). Previously isolated and identified fungal pathogens causing anthracnose and crown rot of Embul banana were treated in vitro with oil extract. The oil was fungistatic and fungicidal within the range of 0.64 mg/ml – 1.00 mg/ml. Spraying Embul banana with emulsions of the oil extract prior to storage, controlled crown rot enabling banana to be stored for up to 14 days at ambient temperature (28 ± 2°C) and 21 days at 14 °C; 90% r.h. in modified atmosphere. A standard fungicide; benomyl treatment and control were included. There was no any detrimental effect of the physico-chemical properties such as percentage weight loss, fruit firmness, pH, total soluble solids and titratable acidity due to the treatment of oil extract. The evaluation of organoleptic properties showed higher acceptability of oil treated banana.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>340</start>
+          <end>344</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-environment-62.pdf</identifier>
+  </mods>
+</modsCollection>

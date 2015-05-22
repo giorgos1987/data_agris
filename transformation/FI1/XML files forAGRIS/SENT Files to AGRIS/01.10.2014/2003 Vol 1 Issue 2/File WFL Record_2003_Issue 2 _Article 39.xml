@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of rootstock on fruit quality and peel peroxidase activity of ‘Afourer’ mandarin fruit at low temperature storage</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">El-hilali</namePart>
+      <namePart type="given">F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Agronomique et Vétérinaire Hassan II, Complexe Horticole d’Agadir, B.P. 18/S, Agadir 80.000, Morocco.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Remah</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Agronomique et Vétérinaire Hassan II, Complexe Horticole d’Agadir, B.P. 18/S, Agadir 80.000, Morocco.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ait-Oubahou</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Agronomique et Vétérinaire Hassan II, Complexe Horticole d’Agadir, B.P. 18/S, Agadir 80.000, Morocco.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akhayat</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculté des Sciences, Université Ibnou Zohr, Agadir.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Afourer, a murcott selection is a seedless and late variety of mandarin (Citrus reticulata Blanco) recently discovered in Morocco. The tree bears large fruit size with deep orange color at maturity in late February. The literature regarding production techniques, appropriate rootstocks and postharvest fruit characteristics is still scarce. Fruits of ‘Afourer’ mandarin harvested from trees grafted on rootstocks sour orange Citrus aurantium L., ‘Sacatan’ citrumelo (Citrus paradisa Macf.. x Poncirus trifoliata Raf.), ‘Troyer’ citrange (Citrus sinensis L. [Osb.] x Poncirus trifoliata Raf.) and Citrus volkameriana Pasq., were evaluated during storage for several weeks at two temperatures of 4 and 8°C. After storage, all fruits from different rootstocks were free from any peel disorder or damage. Fruit quality characteristics vary according to the rootstock type. Firmness of fruits harvested on the rootstocks ‘Troyer’ citrange and ‘Sacatan citrumelo was higher than those harvested from the two other rootstocks. Fruits harvested from C. volkameriana have the lowest firmness. The highest juice content after 30 days storage was obtained from fruit harvested on C. volkameriana and ‘Troyer’ citrange and lowest in fruits from Afourer on ‘Sacatan’ citrumelo. Fruit from ‘Troyer’ citrange and ‘Sacatan’ citrumelo have more acid content than fruit picked from other rootstocks. In general Total soluble solids in juice was high in fruits from all combinations except for fruit harvested from C. aurantium stored at 4°C. Peroxidases (EC 1.11.1.7) activity in the peel of fruit showed at 4°C, a continuous increase in the specific activity (%) of the enzyme during storage. In contrast at 8°C, the tendency was characterized by an increase followed by a decrease during the second phase of storage.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>234</start>
+          <end>237</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-agriculture-75.pdf</identifier>
+  </mods>
+</modsCollection>

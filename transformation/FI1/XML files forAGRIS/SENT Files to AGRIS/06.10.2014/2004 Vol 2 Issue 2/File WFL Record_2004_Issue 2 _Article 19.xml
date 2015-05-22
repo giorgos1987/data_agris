@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Optimization of enzymatic liquefaction of papaya (Carica papaya L.) and jackfruit (Artocarpusheterophyllus Lam.) pulp using response surface methodology</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Chauhan</namePart>
+      <namePart type="given">Attar Singh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Fruit And Vegetable Technology, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Afroze</namePart>
+      <namePart type="given">Sadia Gul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Fruit And Vegetable Technology, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ramesh</namePart>
+      <namePart type="given">Mysore Nagaraj Rao</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Avula</namePart>
+      <namePart type="given">Ramesh Yadav</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Fruit And Vegetable Technology, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rekha</namePart>
+      <namePart type="given">Mysore Narayan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Fruit And Vegetable Technology, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ramteke</namePart>
+      <namePart type="given">Ramesh Shyam</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Fruit And Vegetable Technology, Central Food Technological Research Institute, Mysore-570 013, Karnataka, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Enzymatic liquefaction of jackfruit and papaya pulp, using a commercial enzyme (pectinase) was investigated and evaluated by response surface methodology. The effect of enzyme concentration, incubation time and hydrolysis temperature were found to be significant in case of jackfruit whereas juice yield in case of papaya was influenced by enzyme concentration and incubation time. In the present study, polynomial equations were derived using multivariate analysis, for predicting the reduction in alcohol insoluble solids and increase in juice yield for jackfruit and papaya respectively. The models were verified experimentally against predicted response and were found to be suitable.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>108</start>
+          <end>113</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f19.pdf</identifier>
+  </mods>
+</modsCollection>

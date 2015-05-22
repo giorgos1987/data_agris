@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Risks of increased weed problems associated with introduction of non-native bee species</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Goulson</namePart>
+      <namePart type="given">Dave</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Biodiversity and Ecology, School of Biological Sciences, University of Southampton, Bassett Crescent East, Southampton, SO16 7PX, U.K.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>commentary</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Bees are widely regarded as beneficial insects. They are major pollinators of many crops and in the case of the honeybee Apis mellifera they produce valuable honey. As a result, honeybees originating in Europe and the Middle East have been introduced to almost every country in the world except Antartica. Other species such as various bumblebees and the alfalfa leafcutter bee Megachile rotundata have also been widely introduced by man, with little regard to the possible negative consequences. These include: competition with native pollinators for floral resources; competition for nest sites; co-introduction of natural enemies, particularly pathogens, which may infect native organisms; pollination of exotic weeds; disruption of pollination of native plants. Most studies to date have focused on competition, a notoriously difficult process to demonstrate, with equivocal result. Recently, clear evidence has emerged that introduced bees play a major role in pollination of some weed species, and that the associated economic and environmental costs are high. Negative impacts of exotic bees need to be carefully assessed before further introductions are carried out.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>11</start>
+          <end>13</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/c1.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biological control of black vine weevil (Otiorhynchus sulcatus, Coleoptera: Curculionidae) by entomopathogenic bacteria and their cell-free toxic metabolites from Xenorhabdus species</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mahar</namePart>
+      <namePart type="given">A.N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Reading, Reading, RG6 6AT, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Munir</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Plant Sciences, University of Reading, Reading, RG6 6AS, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">S.R.</namePart>
+      <namePart type="given">Gowen</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Plant Sciences, University of Reading, Reading, RG6 6AS, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hague</namePart>
+      <namePart type="given">N.G.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Reading, Reading, RG6 6AT, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tabil</namePart>
+      <namePart type="given">M. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Plant Sciences, University of Reading, Reading, RG6 6AS, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Biocontrol agents such as Xenorhabdus nematophila and X. nematophila ssp. bovienii and their cell-free protein toxin complexes were lethal to larvae of O. sulcatus when applied to potting compost in the absence of plants. Similarly, strawberry plants infected with O. sulcatus larvae were protected from damage by applications of both cell suspensions of the bacteria and solutions of their cell-free toxic metabolites, indicating that it is the protein toxins, which are responsible for the lethal effects observed. These toxic metabolites were found more effective against O. sulcatus larvae when treated in soil microflora. Insect mortality is increased by increasing temperature and bacterial concentration. The toxins remained pathogenic for several months when stored in potting soil either at 15 or 20°C, however, bacterial cells were not as persistent as the toxins. It is therefore suggested that these bacteria and their toxic metabolites can be applied in soil for insect pest control.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>209</start>
+          <end>212</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a24.pdf</identifier>
+  </mods>
+</modsCollection>

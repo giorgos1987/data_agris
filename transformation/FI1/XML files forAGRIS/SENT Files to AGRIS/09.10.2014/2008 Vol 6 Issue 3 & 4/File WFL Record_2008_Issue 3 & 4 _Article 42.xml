@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of climatic factors on potato late blight disease in Ardabil plain of Iran</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Zargarzadeh</namePart>
+      <namePart type="given">Frouaddin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Pathology, Faculty of Agriculture, University of Mohaghegh Ardabili, Ardabil, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ghorbani</namePart>
+      <namePart type="given">Ardavan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Range &amp; Watershed Management,  Faculty of Agriculture, University of Mohaghegh Ardabili, Ardabil, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asghari</namePart>
+      <namePart type="given">Ali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Production &amp; Breeding, Faculty of Agriculture, University of Mohaghegh Ardabili, Ardabil, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nouri-Ganbalani</namePart>
+      <namePart type="given">Gadir</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Pathology, Faculty of Agriculture, University of Mohaghegh Ardabili, Ardabil, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Late blight is the most important disease of potato crop throughout the world and in northwest of Iran, it can destroy the whole crop in epidemic years. According to the Ministry of Agriculture Bureau in Ardabil province, the late blight reached an epidemic level in 1997 in Ardabil plain and resulted in major damage to the crop. Climatic factors including temperature, relative humidity and rainfall play the major role in developing and spreading of this disease. In this research, the effects of temperature, rainfall and relative humidity on the incidence of the late blight was investigated in Ardabil plain. Daily, monthly and yearly weather data of Ardabil climatic station were obtained for the period of 1992-2002. Data were grouped and analysed using graphical and statistical methods. Initially, variance analysis was conducted using nested method between study years and within the months of years. Then study years were grouped using cluster analysis by the UPGMA method. It was found that there were significant correlations between climatic factors, particularly temperature and rainfall, with the incidence of the late blight. Study years grouping using climatic factors in the incidence period of late blight could discriminate the year 1997 from the rest of the years. Moreover, it was recognized that when an effective rainfall (about 30 mm) occurs in the growing season and mean daily temperature range is about 19ºC for 10 consecutive days, there is a possibility of occurrence and spreading of the disease and preventive measures must be taken.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>200</start>
+          <end>205</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a4.pdf</identifier>
+  </mods>
+</modsCollection>

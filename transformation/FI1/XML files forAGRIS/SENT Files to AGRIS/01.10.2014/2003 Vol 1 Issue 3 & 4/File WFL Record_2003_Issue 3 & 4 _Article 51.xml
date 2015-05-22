@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Competitive anion sorption effects on dairy wastewater dissolved phosphorus extraction with zeolite-based sorbents</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dao</namePart>
+      <namePart type="given">Thanh H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>United States Department of Agriculture, Agricultural Research Service, Beltsville Agricultural Research Center, Animal Manure and By-Products Laboratory, 10300 Baltimore Ave, Beltsville, MD 20705, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Dairy wastewater is often used to irrigate field crops. Soluble and colloidal phosphorus (P) must be removed from the supernatant liquid to avoid further P loading of high-P fields. Information is needed on P sorption capacity of natural and synthetic zeolites and fly ash in a complex wastewater and on how the spent products release sorbed PO4-P. Sorption isotherms were determined in single and multi-anion standard solutions and dairy wastewater to quantify the sorption capacity of modified zeolites and fly ash and increase our understanding of underlying mechanisms of oxyanion retention. Solution anion concentrations were determined by high-performance ion chromatography. The results show that natural zeolites have negligible affinity for NO3- or PO43- anions. Surfactant-modified (SMZ) and synthetic (SZBP) zeolites and fly ash exhibit significant capacities to bind PO4-P. Phosphate sorption on SMZ and SZBP was described by the Langmuir equation, with sorption maxima, Smax, averaging 0.71 and 0.31 mmol g-1, respectively. Class C fly ash strongly sorbs and removes PO4-P from solution. Sorption maxima increase by 4-fold and Langmuir K constants indicate a higher bonding energy than those of SMZ and SZBP. Competitive sorption is evident in PO4-P sorption from mixed solutions of SO4-S, NO3-N, and PO4-P. All sorbents removed dissolved PO4-P from multi-ion dairy wastewater suspensions containing 10 to 100 g solid L-1. The order of efficacy is fly ash ≥ SZBP &gt; SMZ. Although differences in affinity and desorption exist, the zeolite-based sorbents prove valuable as temporary sinks and offer promise in the development of reversible recovery treatments of P-laden animal wastewater.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>263</start>
+          <end>269</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-6.pdf</identifier>
+  </mods>
+</modsCollection>

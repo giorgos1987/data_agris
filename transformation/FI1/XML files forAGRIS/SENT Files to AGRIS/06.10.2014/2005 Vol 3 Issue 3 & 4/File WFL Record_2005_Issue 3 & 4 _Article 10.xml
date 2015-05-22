@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Evaluation of hypercarbia atmosphere on the mortality of dried-fruit beetle, Carpophilus hemipterus (Linnaeus)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Gbaye</namePart>
+      <namePart type="given">O.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Storage Research Laboratory, Biology Department, Federal University of Technology, P.M.B.704 Akure, Ondo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odeyemi</namePart>
+      <namePart type="given">O.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Storage Research Laboratory, Biology Department, Federal University of Technology, P.M.B.704 Akure, Ondo State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Carpophilus hemipterus (Linnaeus) is a cosmopolitan postharvest pest of dried, ripe or fermenting fruits. The lethal effect of carbon-dioxide atmosphere on all the life stages (egg to adult) of the dried-fruit beetle was investigated at 29±2oC and 90±5% r.h. The life stages were exposed for 0, 2, 4, 6 and 8 hours. Post-treatment survival of the surviving life stages was also monitored. The results showed that after exposure for 2 hours to carbon-dioxide atmosphere, the mortalities of C. hemipterus egg, larva, pupa and adult were 26.7, 60.0, 0 and 0% respectively while after 8 hours exposure their mortalities were 26.7, 86.7, 100.0 and 90.0% respectively. Their LT50 values were 39.8, 2.1, 7.0 and 6.6 hours respectively while the LT95 values were 107.0, 7.9, 14.5 and 11.0 hours respectively. Correlation analysis between the exposure periods and mortalities showed significant positive relationship in the larva and adult stages. Hypercarbia atmosphere had some post-treatment effect on the exposed larvae of C. hemipterus that subsequently pupated and the adults which eclosed from the exposed pupae.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>43</start>
+          <end>46</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f10.pdf</identifier>
+  </mods>
+</modsCollection>

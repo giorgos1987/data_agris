@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Cultivar evaluation and mega-environment investigation of Dioscorea cayenensis cultivars in Ghana based on the GGE biplot analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Otoo</namePart>
+      <namePart type="given">Emmanuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crops Research Institute, P.O. Box 3785, Kumasi, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asiedu</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, PMB 5320, Oyo Road, Oyo, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cultivar evaluation and mega-environment identification are the most important objectives of multi-environment trials (MET). The objective of this study was to assess the effect of genotype and genotype x environment interaction on the tuber yield of 18 yellow yam (D. cayenensis L.) genotypes via GGE (genotype plus genotype x environment) biplot methodology. Experiments were conducted using a completely randomized design (RCD) 4 years at 3 locations (12 environments). The biplot analysis identified three D. cayenensis mega-environments in Ghana. The first mega-environment contained Wenchi 2002 (WEN02) with G10 as the winning genotype; Genotype 16 won in the second mega-environment consisting of Wenchi 2004 (WEN04), Bodwease 2001 (BOD01), Bodwease (BOD02), Fumesua 2001 (FUM01),Wenchi 2003 (WEN03), Bodwease 2004 (BOD04) and Fumesua 2002 (FUM02) and the winning genotype at Fumesua 2003 (FUM03), Wenchi 2001 (WEN01), Bodwease 2003 (BOD03) and Fumesua 2004 (FUM04) (the third mega-environment) was Genotype 17. Two thirds of the tested genotypes were identified as redundant. Genotype 16 was the most stable and highest yielding genotype and Genotype 11 the poorest. Genotypes 16 and 17 were closest to the ideal genotype. FUM02 and BOD04 were closest to the ideal environment with BOD04 as the best and WEN02 the poorest environment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>162</start>
+          <end>166</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/a15.pdf</identifier>
+  </mods>
+</modsCollection>

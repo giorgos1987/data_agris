@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Fruit yield and quality of watermelon in relation to grafting</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Alexopoulos</namePart>
+      <namePart type="given">Alexios A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, 75 Iera Odos, Votanikos, Athens 118 55, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kondylis</namePart>
+      <namePart type="given">Angelos</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, 75 Iera Odos, Votanikos, Athens 118 55, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Passam</namePart>
+      <namePart type="given">Harold C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, 75 Iera Odos, Votanikos, Athens 118 55, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Watermelon (Citrullus lanatus [Thunb.] Mansf., cv. Crimson Sweet) was grafted onto four rootstocks (Long gourd, Early Max, Max-2 and F-14 gourd). Grafting increased fruit size, resulting in higher yields than in the non-grafted control. Fruits from grafted plants had a thicker rind and slightly lower total soluble solids content than the fruit from non-grafted plants. However, it is considered that these differences in fruit characteristics do not constitute serious quality defects and therefore grafting of this crop is advantageous.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>178</start>
+          <end>179</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/a10.pdf</identifier>
+  </mods>
+</modsCollection>

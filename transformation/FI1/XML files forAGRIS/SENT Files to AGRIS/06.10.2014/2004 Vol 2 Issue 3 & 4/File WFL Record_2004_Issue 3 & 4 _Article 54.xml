@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Taxonomical studies on rocky freshwater prawns at Erin-Ijesha waterfalls</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bello-Olusoji</namePart>
+      <namePart type="given">A. Oluayo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fisheries and Wildlife Department, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">T. Omolayo</namePart>
+      <namePart type="given">Ariyo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fisheries and Wildlife Department, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Arinola</namePart>
+      <namePart type="given">Aderonke</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fisheries and Wildlife Department, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The taxonomical studies on the freshwater prawn species found at Erin-Ijesha waterfalls were carried out. The morphometric variables compared with the meristic features of the prawns were used to identify and then classify the prawns into the appropriate category (i.e. family, genus and species). There were significant differences (p&lt;0.05) for all morphological and meristics data obtained on the prawns. The length-weight relationship, weight-fecundity relationship and length-fecundity relationship were also determined. Estimated numbers of eggs from 120 berried females ranged from 10 to 27 and egg number per mg of total body weight was 2.47. The regression equation and R² value for length-weight relationship are W = -0.0522 + 0.067L and 0.852 respectively while the regression equation and the R² value for fecundity and weight/length relationship are F = -16.957 + 5.381×1 + 17.79×2 and 0.331, respectively. The morphometric and meristic features revealed that the fresh water prawns at Erin-Ijesha belongs to the infraorder Caridea, family Atyidae and genus Caridina. The results also showed that there exists a strong relationship between length and weight (R² =0.741). The relationship between fecundity and weight is weak (R²=0.382) and that between fecundity and length is relatively strong (R = 0.64). This means that as length increases, weight also increases and the number of eggs (fecundity) is directly proportional to the length of the prawn.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>280</start>
+          <end>283</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/e11.pdf</identifier>
+  </mods>
+</modsCollection>

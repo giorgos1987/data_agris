@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The use of starch and its derivatives as biopolymer sources of packaging materials</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fang</namePart>
+      <namePart type="given">Jianmin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The BioComposites Centre, University of Wales, Bangor, Gwynedd, LL57 2UW, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fowler</namePart>
+      <namePart type="given">Paul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The BioComposites Centre, University of Wales, Bangor, Gwynedd, LL57 2UW, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In recent years, biodegradable polymers with controllable lifetimes have become increasingly important for many applications in the areas of agriculture, biomedical implants and drug release, forestry, wild life conservation and waste management. Starch is a naturally occurring biodegradable polymer and readily available from agriculture. It is widely used in food and non-food applications and isolated from crops such as maize, potatoes, tapioca, rice and wheat. Starch is therefore an inexpensive and commodity material. For packaging use however, dry starch is not thermoplastic and its granular form is unsuitable for most uses in the plastics industry, mainly due to processing difficulties during extrusion or injection moulding. For this reason, research workers have developed several methods to render starch appropriate for industrial uses. In particular, extrusion and incorporation of plasticisers, graft copolymerisation, preparation of blends with thermoplastic polymers and chemical modification have all been studied as means to prepare packaging materials.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3%4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>82</start>
+          <end>84</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-15.pdf</identifier>
+  </mods>
+</modsCollection>

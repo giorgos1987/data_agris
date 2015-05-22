@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reduction of pollution load to marine waters from a vegetable oil refinery at Bejaia, Algeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mizi</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Valorisation des Sous-Produits Oléicoles, Département de Chimie, Faculté des Sciences, Université Badji Mokhtar, B.P 12 El-hadjar, Algérie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Haouam</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of the Water Treatment, Department of Chemistry, Faculty of the Sciences, University of Mantouri, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ghheid</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Analytic Chemistry, Department of Chemistry, Faculty of Science, University of Badji Mokhtar, B. P. 12 El-Hadjar, Algerie.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Waste water from a vegetable oil refinery located at Bejaia (Algeria) has been found to introduce a very high pollution load to the receiving marine waters. Experiments of de-oiling followed by coagulation and flocculation showed the method quite effective in removing most of the fat content, about half of the chemical oxygen demand and one-fifth of the suspended matter.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>327</start>
+          <end>328</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e14.pdf</identifier>
+  </mods>
+</modsCollection>

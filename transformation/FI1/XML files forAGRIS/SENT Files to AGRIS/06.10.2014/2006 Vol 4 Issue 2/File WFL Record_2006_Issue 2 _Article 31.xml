@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>An economic analysis of split application of organo-mineral fertiliser on okra in humid forest zone of Nigeria.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akanbi</namePart>
+      <namePart type="given">W.B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ladoke Akintola University of Technology, Department of Agronomy, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adediran</namePart>
+      <namePart type="given">J.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Soil and Water Management, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Olaniyan</namePart>
+      <namePart type="given">A.B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Ibadan, Department of Agronomy, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Togun</namePart>
+      <namePart type="given">A.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Ibadan, Department of Crop Protection and Environmental Biology, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Field experiments were carried out during cropping seasons on a sand loam soil, with okra (Abelmoschus esculentus Moench) at the Institute of Agricultural Research and Training, Ibadan, Nigeria, to evaluate the economic viability of split application of organo-mineral fertilizer on okra. The study involved the use of organic based fertilizer split-applied at different rates. The treatment consisted of (i) 4 tonnes/ha compost applied once, (ii) 2–split application of 4 tonnes/ha compost, (iii) 3-split application of 4 tonnes/ha compost, (iv) Single application of 2 tonnes/ha compost with N 30 kg/ha, (v) 2-split application of 2 tonnes/ha compost + N 30 kg/ha, (vi) 3-split application of 2 tonnes/ha + N 30 kg/ha, (vii) recommended dose of inorganic fertilizer and (viii) control (no fertilizer application). The three agro-economic indicators: increased yield, increased net returns and benefit cost ratio were employed in determining the suitability of split application of organic and inorganic fertilizer. Results showed that the most profitable practice was the 2-split application of 2 t/ha compost enriched with N 30 kg/ha. The treatment produced a favourable 1.9:1 benefit:cost ratio, increased net returns of between 20.2 and 74.3% per hectare and gave maximum profit per Naira above other treatments hence its recommendation as a modest cultural practice. Fortifications of compost with mineral fertilizer reduced the cost of production, increased the net return and produced higher benefit: cost ratio. It is concluded that 2-split application of 2 t/ha compost + N 30 kg/ha is economically suitable for okra production in the humid forest zone of Nigeria.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>161</start>
+          <end>163</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a4.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of increasing concentrations of sodium carbonate on pearl millet Pennisetum americanum</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ali</namePart>
+      <namePart type="given">Ghulam M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Crop Sciences, National Agriculture Research Centre, park road Islamabad, Pakistan. Present address: Laboratory of New Crops, National Institute of Crop Sciences, National Agriculture Research Organization Kannondai 2-1-18 Tsukuba, Ibaraki 305-8666 Japan</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Collins</namePart>
+      <namePart type="given">J.C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Biological Sciences, University of Liverpool, L69 3BX, Liverpool, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">McNeilly</namePart>
+      <namePart type="given">T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Significant reduction of seedling root length was observed, due to increased concentration of Na2CO3 and considerable variation was found between accessions for growth in salt. Analysis by non-linear least square inversion method using root length data revealed significant differences in pearl millet accessions on the basis of salinity threshold Ct, the Na2CO3 solution concentration at which root length begins to decrease. The concentration caused a 50% decrease in root length (C50) and the concentration causing zero root growth (C0). From the comparison of these three characters, C50 appears to be a useful character by means of assessing and quantifying salinity tolerance.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>265</start>
+          <end>272</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a19.pdf</identifier>
+  </mods>
+</modsCollection>

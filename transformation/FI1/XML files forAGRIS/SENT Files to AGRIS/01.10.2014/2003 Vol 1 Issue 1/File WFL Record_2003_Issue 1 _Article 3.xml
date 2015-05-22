@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Insulin resistance, diet and cardiovascular disease: A review</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jones</namePart>
+      <namePart type="given">Rebecca L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Prince Henry’s Institute of Medical Research, P.O. Box 5152, Clayton, VIC 3168, Australia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Obesity and cardiovascular disease (CVD) are two of the leading causes of morbidity and mortality in developed countries. Direct influences of diet on obesity are obvious, however equally strong is the evidence that CVD is caused by and preventable by diet. A common link between these two conditions is insulin resistance (IR), characterized by elevated insulin levels due to an insensitivity to insulin’s action post pranially Recent research has highlighted the strong connection between IR and incidence and severity of CVD. IR is associated with the generation of very small dense low density lipoprotein (LDL) which confers a high risk for cardiovascular disease, more so than any previously identified risk factor for CVD. Given the clear correlation with IR, dietary approaches may be considered to be highly effective as a treatment strategy or preventative measure. This review concentrates on this newly discovered link between IR and CVD, and presents a balanced view of dietary measures which could contribute to corrections in insulin imbalances, responsiveness to insulin, and therefore reduce CVD incidence and obesity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>26</start>
+          <end>29</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1F26-29insulin.pdf</identifier>
+  </mods>
+</modsCollection>

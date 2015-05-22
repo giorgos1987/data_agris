@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Hydroponics: A modern technology supporting the application of integrated crop management in greenhouse</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Savvas</namePart>
+      <namePart type="given">Dimitrios </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Floriculture and Landscape Architecture, Faculty of Agricultural Technology, T.E.I. of Epirus, P.O. Box 110, Arta 47100, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Commercial hydroponics is a modern technology involving plant growth on inert media in place of the natural soil, in order to uncouple the performance of the crop from problems associated with the ground, such as soil-borne diseases, nonarable soil, poor physical properties, etc. Various non-toxic porous materials are used as plant growth substrates, including rockwool, perlite, pumice, expanded clay, various volcanic materials, polyurethane foam, coir dust, etc. A balanced distribution of small and larger pores is required in a substrate to ensure adequate availability of water to the plants without to affect the supply of oxygen to the roots. Hydroponics has no adverse effect on the quality of fruits and flowers produced in such systems. In contrast, the complete control of nutrition via the nutrient solution may enable an enhancement of product quality, particularly in vegetable crops, such as tomato, melon, and lettuce. The switching over from the soil to hydroponics results in a decreased application of pesticides and other toxic agrochemicals, which are necessary in soil-grown crops to disinfect the soil and to control soil-borne pathogens. Moreover, the recycling of the excess nutrient solution that drains off after each watering application may contribute to a considerable reduction of nitrate and phosphate leaching to surface- and groundwater resources. To restrict costs and increase profitability, hydroponics is increasingly based on automation of nutrient and water supply. Future developments in hydroponics are mainly focused on further automation of the nutrient solution management, particularly in closed systems in which the excess nutrient solution is recycled, as well as on a complete standardization of the substrate analysis in order to obtain more reliable results and to facilitate their interpretation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>80</start>
+          <end>86</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1A80-86hydroponics.pdf</identifier>
+  </mods>
+</modsCollection>

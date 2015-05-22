@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Gender issues in community forestry: Lessons from Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odebode</namePart>
+      <namePart type="given">Stella O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>??</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper examines gender issues in community forestry development in Nigeria. Integrating women into community forestry project is expected to enhance the environment in which the community is located and increase productivity. It also highlights the relationship that exists between men and women and how it contributes to Community Forestry Development in Nigeria. The need for community forestry extension packages for women in Nigeria and the types of non-timber forest products collected by women are also analyzed. Major recommendations among others include the need for gender-sensitization at all levels and the recognition of the potential important roles played by women in resource management; a government-initiated push for forestry development programmers among males and females and identification of gender-specific constraints to women participation and implementation of specific measures aimed at eliminating these. To ensure sustainability of Community Forestry, local communities living within or near reserves should be given some rights to collect and utilize some forest products.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>307</start>
+          <end>312</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/e7.pdf</identifier>
+  </mods>
+</modsCollection>

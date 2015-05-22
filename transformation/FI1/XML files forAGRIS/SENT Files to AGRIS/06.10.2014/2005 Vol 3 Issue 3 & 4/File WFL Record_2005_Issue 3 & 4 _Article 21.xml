@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of grafting on growth, performance and yield of aubergine (Solanum melongena L.) in the field and greenhouse</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khah</namePart>
+      <namePart type="given">E. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Thessaly, School of Agricultural Sciences, Department of Agriculture, Crop Production and Agricultural Environment. Fytoko Street, 38446, N. Ionia, Magnesias, Volos, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seedlings of aubergine (Solanum melongena L.) “Rima” were grafted onto two tomato rootstocks, “Primavera” (Lycopersicon esculentum L.) and “Heman” (Lycopersicon hirsutum). Grafted and non-grafted (control) plants were grown in the field and greenhouse. Plants grafted onto “Heman” (RH) produced 53% and 60% more fruit than the control (R) in the greenhouse and field respectively, whereas the yield of plants grafted onto “Primavera” (RP) was similar to that of the control. Grafted plants (RH and RP) were more vigorous than the non-grafted R, as indicated by their higher plant height, main stem and leaf weight. This led to earlier harvest. The seed content of fruit from grafted plants was lower than that of the control, indicating better fruit quality.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>92</start>
+          <end>94</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/a8.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Preferences of Turkish people for irradiated, GM or organic foods</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mehmetoglu</namePart>
+      <namePart type="given">Arzu Cagri</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Sakarya University, Faculty of Engineering, Department of Food Engineering, Esentepe, Sakarya, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Through commercial application, new technologies may improve health, agriculture, farming practices and the quality of foods. However, along with the array of potential benefits are potential risks and uncertainties surrounding the commercial applications of these technologies. In this study, a survey was prepared to receive opinion of Turkish People living in the most populated area of Turkey about irradiated foods, food additives and organic foods and genetically modified foods. Survey questions were asked to 1226 people (626 women and 600 men) in 4 different age groups (15- 30, 31-45, 46- 60, 61-90 years old). Questions were generally prepared to expose their knowledge and awareness about food additives, organic foods, irradiation, genetically modified foods or hormone residues in foods. Most of them think that consuming food containing some of the food additives can lead to some health problems. The half of the participants did not have knowledge about food irradiation. The results of the current study also indicated that 9% of respondents did not concern for the safety of irradiated foods; however, 69% of them concerned very much. In addition, the present study indicated that only 8% of respondents thought that GM foods were safe, 69% thought that they were little risky, 23% of them thought they were extremely risky for our health. All participants with different age, gender, income level or education level had negative thought about hormone residues in food products. Interestingly, 29 and 18% of them did not have knowledge about organic foods and believed that they can be unhealthy, respectively. In conclusion, the most of the participants, especially 31-45 years old and high income people, were cautious about what they purchase.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>74</start>
+          <end>80</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f14.pdf</identifier>
+  </mods>
+</modsCollection>

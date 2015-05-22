@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Fisheries development issues and their impacts on the livelihoods of fishing communities in West-Africa: An overview</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Béné</namePart>
+      <namePart type="given">Christophe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centre for the Economics and Management of Aquatic Resources (CEMARE), Depart. of Economics, University of Portsmouth, Locksway Road Southsea PO4 8JF, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Neiland</namePart>
+      <namePart type="given">Arthur E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for the Sustainable Development of Aquatic Resources (IDDRA), Portsmouth Technopole, Kingston Crescent Portsmouth PO2 8FA, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Fisheries (in particular small-scale fisheries) provide a vital source of food, employment, and economic well-being for rural people throughout the world. In West Africa several million households along the coast and also inland are critically dependent on fishing for their livelihoods. However, fishing communities are often characterised as being amongst “the poorest of the poor”. The main objective of this paper is to review the major issues relating to the development and management of small-scale fisheries in West Africa and to examine their impacts on the livelihoods of the fisheries-dependent communities of the region. Several major issues are identified, discussed and briefly illustrated using numerical examples or extracts of official documents. Globally, it appears that the fisheries sector, despite its potential role as a powerful lever for poverty reduction, is often neglected by national or supra-national decision-makers. Since 1999, however, a number of international initiatives (sponsored by Donor Agencies) have attempted to overturn this negative perception.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>128</start>
+          <end>134</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1E128-134fisheries.pdf</identifier>
+  </mods>
+</modsCollection>

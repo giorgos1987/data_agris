@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Activities of carbonic anhydrase, catalase and ACC oxidase of mung bean (Vigna radiata) are differentially affected by salinity stress</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Syeed</namePart>
+      <namePart type="given">Shabina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh-202002, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">N.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Aligarh Muslim University, Aligarh-202002, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In arid and semi-arid regions, salinity is a common problem, which results in reduced plant growth and thus productivity. It is estimated that about 20-27% of irrigated area of 10% of the world’s cropland is affected by salinity. It affects photosynthesis, biomass accumulation and plant hormone concentration. Under salinity stress conditions plants activate antioxidative enzymes as a part of protection mechanism. The enzymes of metabolism are affected first before any visual effects of salinity stress are noted. Carbonic anhydrase (CA), catalase (CAT) and ACC oxidase (ACO) enzymes are related with the processes of photosynthesis, detoxification of active oxygen species and ethylene formation, respectively. Our understanding on the behaviour of the enzymes could reflect insight to adopt measures for developing cultivars resistant to salinity stress. An experiment on mung bean (Vigna radiata L. Wilczeck) cultivars T44, TRAM, PDM54 and Pusa Vishal, was conducted to study the effect of salinity stress on activities of CA, CAT and ACO. Increase in NaCl concentration in sand culture from 0 to 100 mM decreased CA and increased CAT and ACO activities in all the cultivars at 30 and 40 d after sowing. Concentration of 100 mM was effective maximally. Cultivars PDM54 and Pusa Vishal showed less decrease in CA and higher increase in CAT in comparison to T44 and TRAM. The variation in such response of PDM54 and Pusa Vishal was due to less number of plasma membrane transporters (in terms of root length and root dry weight), Na and Cl contents and increased primary nutrient elements concentrations in root and shoot. This resulted in higher plant dry mass accumulation at 30 and 40 d after sowing and total seed output at maturity in PDM54 and Pusa Vishal than T44 and TRAM. The study suggests that PDM54 and Pusa Vishal showed greater tolerance to salinity stress by high CAT activity protecting thylakoids and CA activity from oxidative damage and maintaining net photosynthetic rate for high dry mass accumulation and seed yield.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>241</start>
+          <end>249</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a14.pdf</identifier>
+  </mods>
+</modsCollection>

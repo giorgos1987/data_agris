@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The influence of minimum soil tillage systems on weed density, frequency of phytopatogenous agents and crop yields of soybean, wheat, potato, rape and corn</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rusu</namePart>
+      <namePart type="given">Teodor</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine, 3-5, Manastur, 400372, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gus</namePart>
+      <namePart type="given">Petru</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine, 3-5, Manastur, 400372, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bogdan</namePart>
+      <namePart type="given">Ileana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine, 3-5, Manastur, 400372, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The researches carried out in Cluj-Napoca, Romania, between 2000 and 2004, have confirmed the influence of minimum soil tillage systems on weed density, frequency of phytopatogenous agents and crop production of soybean, wheat, potato, rape and corn. In comparison with the classic soil tillage system (tilt furrow ploughing), the tillage systems with chisel, paraplow and rotary harrow lead to an increase in weed numbers and a change in the floral composition. The abundance of annual monocotyledonous weeds was observed to increase by 15-19% for the chisel and paraplow treatments and by 33% for rotary harrow. In the case of annual dicotyledonous species, there was an increase of 5-16% for the chisel treatment, 7- 20% for paraplow and 22-36% for rotary harrow. The maximum increase in weeds was observed for perennial dicotyledonous species (Convolvulus arvensis and Cirsium arvense): 23-25% for chisel, 27-30% for paraplow and 41-44% for rotary harrow. The attack degree produced by the main diseases is minimal in ploughed variants and higher in minimum tillage variants, but in relation to the phytopatogen agent and influence factors. Thus, differences are noted especially in wheat culture, paraplow variant and rotary harrow, both for Puccinia spp. (65.88% at paraplow) and Septoria spp. (3.5% at rotary harrow). In rape culture, mildew (Erysiphe sp.) was identified only in the ploughed variant and Peronospora sp. in the minimum tillage variants. The minimum soil tillage treatments ensured that crop yields were obtained similar to those in the conventional system, except the potato and corn crop. The rotary harrow treatment was found to be useful for the rape and wheat crops.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>225</start>
+          <end>227</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a20.pdf</identifier>
+  </mods>
+</modsCollection>

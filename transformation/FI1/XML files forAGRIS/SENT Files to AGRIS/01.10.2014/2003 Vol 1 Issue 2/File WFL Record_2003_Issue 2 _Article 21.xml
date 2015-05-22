@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Remarks on food-borne viral gastroenteritis outbreaks</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Reguera</namePart>
+      <namePart type="given">Juan I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Microbiology Department, Faculty of Sciences, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Herrera</namePart>
+      <namePart type="given">Ma Inmaculada</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Electron Microscopy Unit, National Center for Microbiology, Carlos III Public Health Institute, Majadahonda, Madrid, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The nature of food-borne illnesses has changed over the years, as a reflection of changes in food supply, lifestyles and mobility. New agents of gastrointestinal illness have been identified while unknown pathogens appear to account for a large number of food-borne illnesses and hospitalisations. To highlight the importance of viral pathogens as a cause of food-borne outbreaks with an impact on public health, a brief review on food-borne viruses and on their diagnostic methods is presented.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>126</start>
+          <end>129</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-117.pdf</identifier>
+  </mods>
+</modsCollection>

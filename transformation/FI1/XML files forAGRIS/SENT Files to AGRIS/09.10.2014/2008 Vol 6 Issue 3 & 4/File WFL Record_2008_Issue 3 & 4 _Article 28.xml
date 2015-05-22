@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Angiotensin I-converting enzyme inhibitory activities of enzymatic hydrolysates from royal jelly imported from China</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nagai</namePart>
+      <namePart type="given">Takeshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Inoue</namePart>
+      <namePart type="given">Reiji</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Inoue Yohojo Bee Farm Inc., Hyogo 6693465, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suzuki</namePart>
+      <namePart type="given">Nobutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ITE Nagoya Research Institute, Toyoake, Aichi 4701131, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nagashima</namePart>
+      <namePart type="given">Toshio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Enzymatic hydrolysates from royal jelly imported from China were prepared by digestion using six kinds of proteases such as pepsin, trypsin, papain, chymotrypsin, thermolysin, and pronase E. The yields of hydrolysates were fairly high and were about 20-40% on the basis of raw sample. Protein contents were about 123-442 µg/mg sample powder and correlated closely with the contents of total phenols (r = 0.944). Moreover, ACE inhibitory activities of these hydrolysates were extremely high and were the same as those of various traditional fermented foods such as miso, natto, vinegar, and so on. The digests procuced by chymotrypsin and thermolysin had the activities with the most potent among the various protease digests. From these reasons, the peptides prepared from royal jelly using proteases can be applied to various fields, for example, functional foods and medicine.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>129</start>
+          <end>132</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f28.pdf</identifier>
+  </mods>
+</modsCollection>

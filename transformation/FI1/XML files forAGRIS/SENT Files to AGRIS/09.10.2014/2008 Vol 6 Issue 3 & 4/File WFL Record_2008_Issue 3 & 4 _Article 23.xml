@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Assessment of some microbiological and chemical properties of Lor whey cheese</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ciftcioglu</namePart>
+      <namePart type="given">Gurhan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Istanbul University, Faculty of Veterinary Medicine, Food Hygiene and Technology Department, Avcilar, 34320, Istanbul, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Erkan</namePart>
+      <namePart type="given">M. Emin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dicle University, Faculty of Veterinary Medicine, Food Hygiene and Technology Department, Diyarbakir, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vural</namePart>
+      <namePart type="given">Aydin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dicle University, Faculty of Veterinary Medicine, Food Hygiene and Technology Department, Diyarbakir, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aksu</namePart>
+      <namePart type="given">Harun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Istanbul University, Faculty of Veterinary Medicine, Food Hygiene and Technology Department, Avcilar, 34320, Istanbul, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>It has been aimed to evaluate some microbiological and chemical properties of Lor, which is a traditional Turkish whey cheese, in order to compare and assess legal limits for final product quality. Mean microbiological and chemical analyze results of 50 unpackaged Lor samples were 8 log cfu/g for total mesophylic aerobic bacteria, 4 log cfu/g for coliform bacteria, 3 log cfu/g for E. coli, 7 log cfu/g for lactic acid bacteria, 6 log cfu/g for enterococci, 5 log cfu/g for coagulase positive staphylococci, 5 log cfu/g for yeast and mould counts and 31.24% for dry substances, 12.69% for protein, 7.35% for fat, 2.21% for salt, 4.28% for ash, 0.59 for titratable acidity and 4.90 for pH value. Samples have been divided four groups against low/high salt concentrations and high/low moisture contents. Microbiological properties of selected samples have been assessed against their salt concentrations and moisture content. As a conclusion, some chemical limits, which were mainly salt and moisture content, have been suggested for whey cheese properties in order to support future legislative studies and safety margins for this product.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>109</start>
+          <end>113</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f23.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Packaged foods, consumption pattern and impact on the environment in Zaria, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odunze</namePart>
+      <namePart type="given">Ivy I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Home and Rural Economics, Samaru College of Agriculture/Division of Agricultural Colleges (DAC), Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohammed</namePart>
+      <namePart type="given">A. Z.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Vocational and Technical Education, Faculty of Education, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ike</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Vocational and Technical Education, Faculty of Education, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Onuigbo</namePart>
+      <namePart type="given">P. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Vocational and Technical Education, Faculty of Education, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shuaibu-Imodagbe</namePart>
+      <namePart type="given">E. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Samaru College of Agriculture/DAC, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Packaged foods, consumption pattern and impact on the environment was studied in Zaria, Nigeria (Long. 7030’-7o50’E and Lat. 11o00’-11o50’N). Convenient (packaged) foods are easier to prepare, save time, easy to store, reduce wastage and makes the task of food preparation by housewives, workers and students easier. For example in urban homes, women simply do not have the time to spend in shop queues or cooking time for breakfast meals in particular. Therefore, the pre-packaged, pre-priced goods available even in supermarket shops are a tremendous time saving device; thus providing convenience to the household. This study therefore aims to determine food materials commonly preferred by consumers in Zaria area as convenience foods, consumers preferred food packaging materials and food packaging material more commonly seen littering the Zaria environment. The study was therefore conducted using survey method, and interviews were employed for the non-literates in the sample areas. Stratified sampling technique was used to sample population of the institutions and business sector in Zaria. Data obtained were analyzed using analysis of variance [ANOVA] procedure for means, standard deviations and tests of significance at P&gt;0.05. Results showed that among reasons adduced by respondents for patronizing packaged food products include convenience, cost, quantity and disposability. Convenience (28.2%) was rated highest as reason for patronizing packaged food products, and consumers’ prefer plastic food packaging materials to metal, glass or paper. Attributes that least influenced consumers’ choice of package food products patronized in Zaria include colour (6.0%) and physical shape of the package (5.7%). This would suggest that food products that are well protected and the package can be re-used/recycled and have acceptable nutritional information clearly written on the package and the ease with which the packaging can be opened are attributes mostly driving packaged food products patronage in Zaria. However, consumers’ food pattern is tilting towards packaged food product in Zaria and calls for further governmental quality control measures to promote consumers good health. Plastic waste food packaging materials do not degrade easily in the environment and constitute risk to health and environmental beauty.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>114</start>
+          <end>117</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f24.pdf</identifier>
+  </mods>
+</modsCollection>

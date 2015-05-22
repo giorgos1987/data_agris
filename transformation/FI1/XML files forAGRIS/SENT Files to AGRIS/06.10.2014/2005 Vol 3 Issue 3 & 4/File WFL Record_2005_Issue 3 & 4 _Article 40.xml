@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Economic viability of rice-fish integration with the on-farm reservoir of rainfed ecosystem in eastern India</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sethi</namePart>
+      <namePart type="given">Laxmi Narayan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Research Scholar, Agricultural and Food Engineering Department, Indian Institute of Technology, Kharagpur-721302, West Bengal, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Panda</namePart>
+      <namePart type="given">Sudhindra N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Professor, Agricultural and Food Engineering Department, Indian Institute of Technology, Kharagpur-721302, West Bengal, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Verma</namePart>
+      <namePart type="given">D. P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ex-postgraduate student, Agricultural and Food Engineering Department, Indian Institute of Technology,  Kharagpur-721302, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The problems of the rainfed agriculture are more complex than the irrigated agriculture. In situ conservation of rainwater in the dyked cropped field and in the on-farm reservoir (OFR), harvesting of excess rainwater from the field in the OFR, use of harvested water for supplemental irrigation (SI) and diversified cropping (fish culture) are some of the options for rainwater storage and recycling processes for increasing the overall agricultural productivity of a region. For the selection of appropriate rainwater management strategies, water balance simulation model followed by field experimental verification were carried out during the monsoon season for sustainable production of rice (Oryza sativa, MW-10 Variety) and fish varieties such as rohu (Labeo rohita), catla (Catla catla) and mrigal (Cirrhinus mrigala) in the polyethylene lined and unlined OFRs with different weir heights (0, 5 and 10 cm) maintained at the inlet point of the excess rainwater from the field into the OFR. The average (1994-2003) volume of runoff generated from the rice field area (720 m2 ) through the weir heights of 0, 5 and 10 cm were 170.51, 127.88 and 92.84 m3, respectively. The average depth of storage required for the lined and unlined OFRs (10% of the rice field area) with 1:1 slope was 2.46 and 1.99m, respectively. Hence, the constructed storage depth of the OFR was kept as 2.4 m for both the lined and unlined systems including the settlement allowance. The benefit cost ratio (BCR) obtained from rice-fish integration with the lined OFRs are 1.54 for 0 cm and 1.65 for 5 cm and 1.80 for 10 cm weir heights. Similarly, for unlined OFR system, the BCR are 2.83 for 0 cm, 2.70 for 5 cm and 2.66 for 10 cm weir heights. The pay back periods obtained for the lined OFR with 0, 5 and 10 cm weir heights are 21, 20 and 19 years, respectively, whereas for the unlined OFR system with 0, 5 and 10 cm weir heights, the pay back periods are 12, 13 and 13 years, respectively. The study revealed that rice-fish integration in the unlined OFRs is more economically viable than the lined system for increasing the agricultural productivity during the monsoon season of rainfed ecosystem.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>194</start>
+          <end>199</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/e11.pdf</identifier>
+  </mods>
+</modsCollection>

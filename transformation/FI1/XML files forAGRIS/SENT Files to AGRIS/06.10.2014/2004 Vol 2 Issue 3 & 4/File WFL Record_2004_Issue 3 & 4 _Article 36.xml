@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Grass silages as feedstuff for horses</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Peiretti</namePart>
+      <namePart type="given">P.G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Istituto di Scienze delle Produzioni Alimentari - CNR, via L. da Vinci 44, 10095 Grugliasco (TO), Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bergero</namePart>
+      <namePart type="given">D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Produzioni Animali, Epidemiologia ed Ecologia, Università di Torino, Via L. da Vinci 44, 10095 Grugliasco (TO), Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The use of a diet based on silages or haylages is becoming increasingly more important in the prevention and control of some diseases that affect the respirator apparatus of horses. The present knowledge concerning conservation quality and the nutritive value of some of the most commonly used grass silages is studied in depth in this work. In order to evaluate the conservation quality of silages, a series of determinations is necessary that ranges from the dry matter to the chemical composition, from the gross energy to the pH and the dosage of the fermentation products (lactic and butyric acid, ammonia, etc). The nutritive value of silages is often better than that of the corresponding hays due to the earlier stage of the grass at harvesting and to the minor loss of leaves, in particular for legumes. The use of silages could therefore be a valid alternative to hay condition that these products are well conserved, have kept a nutritive value that is similar to that of the original grass, are without risks for the health of the horses (listeriosis, botulism and aflatoxin) and are available in different bale sizes according to the requirements of the stables. In conclusion, grass silages have proven to be useful feedstuff for horses, in function of their quality and the working procedures that their use would imply for the stables. An analytical evaluation of the quality of the product is essential for a correct insertion in the rations and to prevent the most important intestinal problems that affect horses.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>182</start>
+          <end>185</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a19.pdf</identifier>
+  </mods>
+</modsCollection>

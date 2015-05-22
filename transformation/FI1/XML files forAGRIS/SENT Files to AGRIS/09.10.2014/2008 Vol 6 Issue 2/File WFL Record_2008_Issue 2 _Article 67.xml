@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Deficit irrigation effects on lettuce (Lactuca sativa var. Olenka) yield in unheated greenhouse condition</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Yazgan</namePart>
+      <namePart type="given">Senih</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Structures and Irrigation, Agricultural Faculty, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ayas</namePart>
+      <namePart type="given">Serhat</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Yenisehir College School, University of Uludag, Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Demirtas</namePart>
+      <namePart type="given">Cigdem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Structures and Irrigation, Agricultural Faculty, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Büyükcangaz</namePart>
+      <namePart type="given">Hakan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Structures and Irrigation, Agricultural Faculty, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Candogan</namePart>
+      <namePart type="given">B. Nazmi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Structures and Irrigation, Agricultural Faculty, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to determine effect of deficit irrigation on yield for lettuce grown under unheated greenhouse condition. The research was carried out at the Agricultural Research Station of YeniÍehir High School of Uludag University in Bursa, Turkey, in 2007. In the study, water was applied to lettuce as 100, 75, 50, 25 and 0% (as control) of evaporation from a Class A Pan corresponding to 2 day irrigation frequency. Irrigation water applied to crops ranged between 51.4 and 484.5 mm, and water consumption ranged between 78 and 511 mm. There were significant differences between treatments in yield, plant height, head diameter, dry matter and mean leaf number. The highest yields were 15.10 and 12.05 t ha-1 for the K1cp and K2cp treatments, respectively. Crop yield response factor (ky) was found as 1.096. The highest values for water use efficiency (WUE) and irrigation water use efficiency (IWUE) were found to be 2.96 and 2.70 kg mm-1 for the K2cp treatment. Under the conditions that water resources are scarce, it can be recommended that K2cp treatment is most suitable as a water application level for lettuce irrigation by drip irrigation under unheated greenhouse condition.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>357</start>
+          <end>361</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a42.pdf</identifier>
+  </mods>
+</modsCollection>

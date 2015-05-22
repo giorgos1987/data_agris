@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Sustainable yam production in Ghana - The non-staking option</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Otoo</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crops Research Institute, P.O. Box 3785, Kumasi, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Anchirinah</namePart>
+      <namePart type="given">V. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crops Research Institute, P.O. Box 3785, Kumasi, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ennin</namePart>
+      <namePart type="given">S. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crops Research Institute, P.O. Box 3785, Kumasi, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asiedu</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute for Tropical Agriculture, PMB 5320, Oyo Road, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A trial was conducted on-station with farmer participation at Fumesua (Forest zone), Wenchi (Forest-Savannah transition zone) and Bodwease (Coastal Savannah zone) from 2000 to 2003 and on-farm during 2002-2003. Two factors, staking and species, with two levels each were assessed using the Augmented RCB design. The objective of this study was to identify genotypes capable of producing high and stable yields under staking and non-staking condition. No significant differences (P&gt;0.05) were observed in disease severity, frequency of hand weeding and yield of D. alata genotypes. Among the D. rotundata genotypes, leaf spot severity was more severe on non-staked genotypes except in TDr95/19177 where no significant differences were observed between the staked and non-staked genotypes. Tuber yield of the genotypes were significantly increased by staking. In Punjo the increase in yield of staked over non-staked plants ranged between 51.3 and 56.5%. Similarly, the yield of non-staked Dorban was increased by staking by 48.1-55.9% and Tela by 44.9-47.6%. Non-staked TDr95/19177 was technically and economically the more efficient system for production followed both staked and non-staked Punjo, Dente and Tela. Generally, cost of yam production was greater in the coastal savannah than the forest and the forest-savannah transition, due to the largest cost of labour and staking.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>391</start>
+          <end>396</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a40.pdf</identifier>
+  </mods>
+</modsCollection>

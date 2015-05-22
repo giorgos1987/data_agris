@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Groundwater quality in Körfez Municipality (Kocaeli), northwest of Turkey</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bozkurt</namePart>
+      <namePart type="given">Ali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ABM Engineering Company, İzmit,Kocaeli, Türkiye.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kurtuluş</namePart>
+      <namePart type="given">Cengiz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Kocaeli University, Engineering Faculty, Department of Geophysics,Umuttepe Campus, 41380 szmit, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Community wells in rural areas of Körfez Municipality of Izmit-Kocaeli, north of Turkey, were tested in 2007 to determine the contamination from iron, sulphate, fluoride, organic matter and coliform bacteria. Other quality parameters such as pH, hardness, dissolved oxygen (DO), conductivity and nitrate were also tested for 22 water supplies. pH values of the water samples ranged between 6.61 and 7.9 indicating that the well waters are acidic and do not pose any health risk. The hardness of the well waters tested soft (11-43) and the amount of sulphate (SO4) was detected very low (20.2-24 mg L-1). Nitrate and ammonia were not detected in the water samples collected from the wells but iron was detected in most of the water samples at levels not exceeding the recommended limit. Total coliforms were tested to measure the microbial quality of the groundwater. The water samples from the wells tested positive for total coliforms. Fluoride was detected in all water samples at concentrations less than recommended health based guideline value. More than 105.000 people reside in the rural areas where testing was conducted and 30% of them depend upon groundwater for their drinking water. The study employed water quality testing and GIS analysis to identify rural communities at greater risk of exposure to contaminants so that treatment strategies can be prioritized and implemented to reduce that risk. However, the water quality results indicated that the quality parameters of the samples collected from 22 wells were below the Turkish government drinking water standard and WHO (2000) permissible limits. </abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>551</start>
+          <end>553</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e28.pdf</identifier>
+  </mods>
+</modsCollection>

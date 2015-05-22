@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Strategies of WECAMAN to promote the adoption of sustainable maize production technologies in West and Central Africa</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Badu-Apraku</namePart>
+      <namePart type="given">Baffour</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, c/o Lambourn (UK) Limited, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fakorede</namePart>
+      <namePart type="given">Dele</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Science, Obafemi Awolowo University, Ile-Ife, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">O.Ajala</namePart>
+      <namePart type="given">Samuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, c/o Lambourn (UK) Limited, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fontem</namePart>
+      <namePart type="given">Lum</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>IITA, c/o Lambourn (UK) Limited, Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The West and Central Africa Collaborative Maize Research Network (WECAMAN or Network) was established in 1987 with the overall objective to increase maize (Zea mays L.) productivity, production and income of farmers of West and Central Africa (WCA). In addition to developing new technologies adapted to the sub-region, the network organized, executed, coordinated and funded several maize production activities. These are national maize workshops and annual planning sessions, regional uniform variety trials, on-farm demonstrations, training courses and workshops, enhancement of exchange of ideas and technical experience among NARS scientists and promotion of community level seed production. The network also used farmer participatory testing of varieties and crop management practices in addition to the Production Test Plot (PTP) program to demonstrate new technology, strengthen research-extension-farmer linkages and train extension agents. Improved technologies adopted by farmers through network efforts have helped in extending maize area in the savanna belt across WCA. Impact studies in most of the member countries showed that maize was rapidly being adopted in many marginal areas because of the availability of early and extra-early maturing varieties with high yield, better taste and high market prices. Generally in the sub-region, maize technology adoption rate, social rate of return and the social gains from maize research and extension have been positive. The result is that during the past two decades, maize production has increased dramatically in the sub-region as a whole and in most of the individual network member countries. We conclude that investment in maize research and technology transfer during this period was well justified.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>107</start>
+          <end>114</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a6.pdf</identifier>
+  </mods>
+</modsCollection>

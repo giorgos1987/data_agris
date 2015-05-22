@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Lignocellulolytic enzymes profile of three Lentinula edodes (Berk.) Pegler strains during cultivation on eucalyptus bark-based medium</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Cavallazzi</namePart>
+      <namePart type="given">José Renato P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Viçosa, Campus Universitário, CEP 36571-000, Viçosa, Minas Gerais, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">de S. Brito</namePart>
+      <namePart type="given">Manuela</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Viçosa, Campus Universitário, CEP 36571-000, Viçosa, Minas Gerais, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">de A. Oliveira</namePart>
+      <namePart type="given">Maria Goreti</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biochemistry and Molecular Biology, Federal University of Viçosa, Campus Universitário, CEP 36571-000, Viçosa, Minas Gerais, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Villas-Bôas</namePart>
+      <namePart type="given">Silas G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Technical University of Denmark, Center for Process, Biotechnology, BioCentrum-DTU, building 223. DK-2800 Kongens Lyngby - Denmark.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kasuya</namePart>
+      <namePart type="given">Maria Catarina M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Viçosa, Campus Universitário, CEP 36571-000, Viçosa, Minas Gerais, Brazil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The Brazilian paper and pulp industry is one of the most important in the world and the eucalyptus tree is the main wood based source for cellulose extraction. The eucalyptus bark is a typical lignocellulosic residue of this process, which is usually burned in the boilers of the factories. The utilization of agro-industrial residues to cultivate edible fungus species is of great environmental importance, however, the use of lignocellulose as carbon source depends on the capacity of the fungus to produce lignocellulolytic enzymes and to excrete them to the extracellular medium. Thus, the profile of lignocellulolytic enzymes produced during the different phases of cultivation on eucalyptus bark-based medium was determined for three different Lentinula edodes strains (UFV52, UFV53 and UFV77). Laccase, manganese peroxidase, cellulase and xylanase activities were observed for all strains. No lignin peroxidase activity was observed using the standard methodology. The three strains presented similar pattern in colonizing the substrate, however principal component analysis (PCA) revealed that their enzymatic profile were considerably different during the spawn-run phase. UFV53 was characterized by high manganese peroxidase activity and low hydrolytic activity. UFV52 presented high hydrolytic and laccase activities, and UFV77 was characterized by high manganese peroxidase and xylanase activities during substrate colonization. According to the PCA, the strains UFV53 and UFV77 were closer related enzymatically than UFV52. The lignin was degraded basically during the spawn-run phase and all strains presented considered low lignin degradation. The results suggested that the strain UFV53 presented the greatest potential to produce edible mushrooms on eucalyptus bark-based medium.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>291</start>
+          <end>297</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a23.pdf</identifier>
+  </mods>
+</modsCollection>

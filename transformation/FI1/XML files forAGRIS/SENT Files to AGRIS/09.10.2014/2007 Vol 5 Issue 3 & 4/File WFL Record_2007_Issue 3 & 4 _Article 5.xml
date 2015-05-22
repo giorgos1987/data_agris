@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reduction in oxalate content during the preparation of a traditional Tongan dessert</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dahlgren</namePart>
+      <namePart type="given">E.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Swedish University of Agricultural Science, Skara, Sweden.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Savage</namePart>
+      <namePart type="given">G.P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Group, Agriculture and Life Sciences, Lincoln University, PO Box 84, Canterbury, New Zealand.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A traditional Tongan dessert is made from two plants which commonly grow in the Tongan group of islands. Taro (Colocasia esculenta var. Schott) leaves and starch prepared from cassava (Manihot esculenta Crantz) tubers are the two main ingredients. In this study, the dessert which is called Faikakai Ngou‘a in Tongan, was prepared from locally grown freshly harvested taro (cv. Maori) leaves using simple domestic kitchen methods. The dark green heart-shaped taro leaves have a bitter taste and contain high levels of oxalate that can be eliminated by cooking and processing. Raw taro leaves contained 6.48±0.06 g total oxalate kg-1 fresh weight (FW), 49% as soluble oxalate. In this study the oxalate content of the cooked product was significantly lower than that of the original taro leaves. Faikakai Ngou‘a contained 2.80±0.06 g total oxalates kg-1 FW, of which 12% were soluble. Soluble oxalate was removed in the cooking water and the total oxalate content of the final product was also reduced by dilution following the addition of cassava starch. The final product retained the essential taste and acceptable brown-black green colour (CIE colour values L* 25.18±0.33, a* -2.87±0.04, b* 5.76±0.09) of taro leaves without the background content and sharp taste of oxalate. The final product had a firm, non-sticky texture that was acceptable to Tongan consumers.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>29</start>
+          <end>31</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f5.pdf</identifier>
+  </mods>
+</modsCollection>

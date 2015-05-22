@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of three substrates on growth, yield and quality of tomato by the use of geothermal water in the south of Tunisia</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Haddad</namePart>
+      <namePart type="given">Mansour</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Aridologie et de Cultures Oasiennes, Institut des Régions Arides 6051, Nahel Gabès, Tunisia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Since 1980, many geothermal artesian wells were drilled for complementary irrigation of some oasis in arid zones of Tunisia where date palm is the most dominant crop. For irrigation use, this water had to be cooled before. Therefore, the idea was to use this water for heating greenhouses and after to reutilize the same water for irrigation. This technique gives the opportunity to produce vegetables earlier during the cold period for export. Geothermal water is saline with total dissolved solids ranging between 2.2 and 4 g l-1. Few years after the beginning of its use in greenhouses, salt accumulation in the soil had decreased considerably the yield. To control soil salinity, a local soilless system utilizing sand substrate with free drainage was adopted. In the present study, this system is compared with the use of two other substrates: perlite and stone pumice. Plants in the greenhouse with the local soilless system grew faster than in perlite and stone pumice. The marketable yield (kg/m2) did not differ significantly between the three substrates, but the local method gave higher total yield. In the three substrates, the very early production was not affected with the blossom-end rot, but in the end of production, the incidence of blossom-end rot was significantly higher in perlite and stone pumice.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>175</start>
+          <end>178</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a14.pdf</identifier>
+  </mods>
+</modsCollection>

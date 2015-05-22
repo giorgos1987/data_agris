@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of spoilage microorganisms on the physicochemical properties of African pear fruits oil</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nwanekezi</namePart>
+      <namePart type="given">E. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Imo State University, Owerri, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Onyeagba</namePart>
+      <namePart type="given">R. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Abia State University, Uturu, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The microbial loads count of African pear fruits (APFs) stored after harvest increased astronomically in number as the time of storage was increased reaching the highest loads count on the 4th day before dropping. This in turn affected the chemical and some physical characteristics of the oils extracted from the pear fruits. The saponification value, iodine number, free fatty acids, peroxide values and unsaponifiable matter of the oils increased as the days of storage of APFs the oils were extracted from increased reaching their highest values on the 6th or more days of storage. Also the colour and impurities in the oils varied significantly (p&lt;0.05) for oils extracted from APFs stored for 4 or more days when compared with the control sample (the oil extracted from freshly harvested pears). However, the storage of the APFs for up to eight days before oil extraction did not affect significantly their refractive index, viscosity and specific gravity when compared with the control oil sample.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>90</start>
+          <end>93</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f17.pdf</identifier>
+  </mods>
+</modsCollection>

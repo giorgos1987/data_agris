@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Performance of newly developed Striga lutea tolerant maize genotypes under artificial Striga infestation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Olakojo</namePart>
+      <namePart type="given">S.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ogunbodede</namePart>
+      <namePart type="given">B.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Makinde</namePart>
+      <namePart type="given">J.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ogundiya</namePart>
+      <namePart type="given">M.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Science, The Polytechnic, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Striga is a parasitic green plant commonly found on maize, sorghum, millet and cowpea especially on nitrogen depleted soils. It reduces grain yield in susceptible host crops by 20-80%. Research efforts is therefore concentrated on development of resistant/tolerant cultivars to control Striga. Seven Striga tolerant open pollinated (OP)maize, one resistant hybrid and one susceptible maize were evaluated under artificial infestation with Striga inoculum in Temidire Eruwa, Nigeria (a Striga lutea endemic area) in year 2001, 2002 and 2003. Results from this trial showed that, year and year x variety interaction were highly significant for many of the Striga and maize agronomic traits under Striga infested and uninfested conditions. Years of evaluation were also significantly different for varietal performance with respect to maize agronomic characters with varieties such as Acr97STR syn-Y, Acr 97TZL comp 1D, STR- EV 1WD, STR.EV 1WF, Advance NCRE-STR, TZB-STR and Hybrid 9022 have been responsible for the significant differences. Advance NCRE-STR, Hybrid 9022 and Acr97STR syn-Y recorded were Striga tolerant with higher grain yields and can therefore be nominated for on-farm trial for possible release and adoption to boost maize production.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>260</start>
+          <end>264</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a18.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The attachment efficiency of cell-walled and L-forms of Listeria monocytogenes to stainless steel</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jassim</namePart>
+      <namePart type="given">S.A.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Zayed Complex for Herbal Research and Traditional Medicine, General Authority for Health Services for the Emirate of Abu Dhabi, UAE. Department of Food Science, University of Guelph, Guelph, Ontario, Canada N1G 2W1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hibma</namePart>
+      <namePart type="given">A.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, University of Guelph, Guelph, Ontario, Canada N1G 2W1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Griffiths</namePart>
+      <namePart type="given">M.W.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, University of Guelph, Guelph, Ontario, Canada N1G 2W1.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>There is limited knowledge regarding the attachment of cell wall-deficient forms of Listeria monocytogenes to abiotic and food contact surfaces. A typical L-form phenotype of Listeria monocytogenes was induced, propagated and recovered in both broth and plate culture by exposure to sub-lethal concentrations of ampicillin. Attachment of both cell-walled and L-forms to stainless steel were compared using viable counts. L-forms possessed no cell wall material and were present as spherical cells or small rods. L-form cells had the capacity to attach sufficiently well to stainless steel (0.3% of cells attached) with a higher efficiency than parental cells (0.002%) after 8 h exposure to culture. After longer exposure times of 18 h, the parental cells attached with slightly higher efficiency (0.8%) than L-forms cells (0.625%). The ability of Listeria monocytogenes L-forms to attach to stainless steel may suggest that a classical rigid cell wall structure is not a prerequisite for cell adhesion in vitro.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>92</start>
+          <end>95</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/f16.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vitro studies on pollen germination and pollen tube growth in maize</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Geetha</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Regional Research Station, Tamil Nadu Agricultural University, Paiyur – 635 112 Tamil Nadu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vijayabaskaran</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Regional Research Station, Tamil Nadu Agricultural University, Paiyur – 635 112 Tamil Nadu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jayaraman</namePart>
+      <namePart type="given">N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Regional Research Station, Tamil Nadu Agricultural University, Paiyur – 635 112 Tamil Nadu, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A study on pollen germination and pollen tube growth in in vitro was made in maize. Different concentrations of sucrose and boric acid was used in the culture medium . For this study five entries of maize were selected and pollen germination was observed after 15 hours and 20 hours. Pollen germination percentage ranged from 22.21 to 64.66. The entry J 1006 recorded the maximum germination percentage compared to other entries in a culture medium containing 100 per cent sucrose and 10 per cent boric acid after 20 hours. Pollen tube growth was observed after 15,18,21 and 24 hours. Length of pollen tube ranged from 47.25 to 239.63 μm and it was maximum in J 1006 (239.63 μm) in a medium containing 100% sucrose and 10% boric acid after 24 hours.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>205</start>
+          <end>207</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a7.pdf</identifier>
+  </mods>
+</modsCollection>

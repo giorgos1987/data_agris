@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparative quality characterization and molecular profiling of Indian, Sri Lankan and Guatemalan cardamoms</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Thomas</namePart>
+      <namePart type="given">Elizabeth</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Crop Improvement and Biotechnology, Indian Institute of Spices Research, Marikunnu PO, Calicut 12, Kerala, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kizhakkayil</namePart>
+      <namePart type="given">Jaleel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Crop Improvement and Biotechnology, Indian Institute of Spices Research, Marikunnu PO, Calicut 12, Kerala, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zachariah</namePart>
+      <namePart type="given">T. John</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Crop Improvement and Biotechnology, Indian Institute of Spices Research, Marikunnu PO, Calicut 12, Kerala, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Syamkumar</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Crop Improvement and Biotechnology, Indian Institute of Spices Research, Marikunnu PO, Calicut 12, Kerala, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sasikumar</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Crop Improvement and Biotechnology, Indian Institute of Spices Research, Marikunnu PO, Calicut 12, Kerala, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Traded (exported) cardamoms from India, Sri Lanka and Guatemala are characterized based on physical and biochemical parameters and molecular techniques. For most of the physical quality parameters and for the biochemical traits, such as starch and crude fiber, Indian cardamom is found superior to the other produces. Further GC profile of the oil of Indian cardamom indicated high quantity of α-terpinyl acetate and 1,8-cineole which imparts aroma and flavour to the cardamom, thus reinforcing the legendary belief of high intrinsic quality of the Indian cardamom. Molecular profiling using RAPD/ISSR primers did not reveal much polymorphism among the three cardamoms. This aspect is discussed in relation to the origin and transnational spread of cardamom.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>129</start>
+          <end>133</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f24.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Application of WST-1 to measurement of cell viability in low temperature-stressed explants of tropical vegetables</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Chucheep</namePart>
+      <namePart type="given">Kamonwan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>United Graduate School of Agricultural Sciences, Course in Science of Bioresource Production, Kagoshima University, Kagoshima 890-0065, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kanlayanarat</namePart>
+      <namePart type="given">Sirichai</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Postharvest Technology, School of Bioresources and Technology, King Mongkut’s University of Technology Thonburi, Bangkok 10140, Thailand.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maneerat</namePart>
+      <namePart type="given">Chamorn</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Nanotechnology Center, 111 Thailand Science Park, Paholyothin rd. Klong luang, Pathumthani 12120, Thailand.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Matsuo</namePart>
+      <namePart type="given">Tomoaki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>United Graduate School of Agricultural Sciences, Course in Science of Bioresource Production, Kagoshima University, Kagoshima 890-0065, Japan. Department of Biochemical Science &amp; Technology, Faculty of Agriculture, Kagoshima University, Kagoshima 890-0065, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Most tropical plants, including vegetables and fruits, are sensitive to chilling, which causes injury under low temperatures in the range of 0 to 12°C. In the present work, a simple and useful colorimetric assay, WST-1 assay (viability assay) was applied to evaluate chilling damage in three kinds of chilling sensitive vegetables seedlings, mung bean, water spinach and cucumber. The results were compared to those of growth rate and ion leakage measurements, which are traditional viability assays. WST-1 (4-[3-4-iodophenyl]-2-(4-nitrophenyl)-2H-5-tetrazolio)-1,3-benzene disulfonate), which produces a highly water-soluble formazan dye of a yellowish color after reduction by metabolically active cells was applied to measure cell viability after low temperature stress. Higher OD values (yellowish color development) were found in younger mung bean seedlings, indicating the younger seedlings had higher cell viability than the older ones. In addition, testing viability in the same age seedlings by WST-1 assay confirmed that the elongation zone had higher cell viability than the non-elongation zone. WST-1 assay, ion leakage and growth rate measurements showed high relation in these three kinds of tropical vegetables seedlings, decreased OD values were associated with higher ion leakage and stunted growth in chilling damaged seedlings. The yellowish color development was remarkably inhibited by the addition of two respiratory inhibitors and two glycolysis inhibitors, suggesting that the respiratory activity of plant is at least partly responsible for WST-1 reduction activity. The present results indicate that this WST-1 procedure can be a useful tool to measure cell viability or cell damage sustained by low temperatures in explants or organs of higher plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>262</start>
+          <end>268</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/a25.pdf</identifier>
+  </mods>
+</modsCollection>

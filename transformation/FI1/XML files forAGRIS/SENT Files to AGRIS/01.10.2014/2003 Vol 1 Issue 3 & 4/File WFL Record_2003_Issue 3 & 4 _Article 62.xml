@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparative analysis of farm labour cost, animal traction and tractor hiring rates on land cultivation in Northern Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oladele</namePart>
+      <namePart type="given">O. I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Extension and Rural Development, University of Ibadan, Nigeria. Present address: Japan International Research Center for Agricultural Sciences, Development Research Division, Tsukuba, Ibaraki, 305 Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper compares the cost of three labour sources namely, farm labour, animal traction and tractor hiring. The comparison is predicated on the policy issue that may affect labour usage in agricultural production. Data were obtained from secondary sources and comparisons were made across the states and the labour sources. The result of the study shows that Adamawa State has the highest cost of farm labour, Katsina for animal traction and Bauchi for tractor hiring. Significant differences were recorded for the cost of farm labour animal traction and tractor hiring. F = 25.2 p &lt; 0.05. Similarly significant differences occur in the cost of farm labour (F = 2.92 P p &lt; 0.05) and animal traction (F = 3.49 p &lt; 0.05) but not tractor hiring (F = 1.99; p &gt; 0.05) among the states. The paper concludes on the policy implications of homogenous technology for heterogeneous clients.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>316</start>
+          <end>320</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-17.pdf</identifier>
+  </mods>
+</modsCollection>

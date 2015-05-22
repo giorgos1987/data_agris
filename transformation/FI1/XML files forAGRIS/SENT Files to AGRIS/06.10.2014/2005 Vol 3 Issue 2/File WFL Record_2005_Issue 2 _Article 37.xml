@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Susceptibility of the locust Schistocerca gregaria to cells and cell-free solutions from  the entomopathogenic bacterium Xenorhabdus nematophila</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mahar</namePart>
+      <namePart type="given">Ali N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, the University of Reading, PO Box 236, Earley Gate, Reading RG6 6AT, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hague</namePart>
+      <namePart type="given">N.G.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, the University of Reading, PO Box 236, Earley Gate, Reading RG6 6AT, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gowen</namePart>
+      <namePart type="given">Simon R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, the University of Reading, PO Box 236, Earley Gate, Reading RG6 6AT, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Applications with cell suspensions and cell-free solutions from entomopathogenic bacterium Xenorhabdus nematophila to wheat plants were lethal to nymphs of Schistocerca gregaria. There was no significant difference in the toxicity of cell suspensions or cell-free solutions indicating that the toxins, present in both the cell suspensions and cell-free solutions, were responsible for the lethal effects observed. Cells of X. nematophila were recovered from dead nymphs feeding on wheat seedlings treated with the cell suspension. Cell suspensions and cell-free solutions were toxic to locust adults when applied orally or on bran. Cells applied orally did not penetrate into the abdominal haemocoele. Cells of X. nematophila and its cell-free toxic solutions were persistent in soil for several months. After five months storage at 25°C mortality of Galleria mellonella larvae used to bioassay the soil was still 40% of the original mortality obtained at the start of the experiment. Xenorhabdus nematophila cells could still be recovered 4 months after they were originally inoculated into soil.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>195</start>
+          <end>198</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/a12.pdf</identifier>
+  </mods>
+</modsCollection>

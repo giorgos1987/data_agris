@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The influence of ethanol and pH on the taste and mouthfeel sensations elicited by red wine</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Demiglio</namePart>
+      <namePart type="given">Palmina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Sciences, Brock University, St. Catharines, Ontario L2S 3A1, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pickering</namePart>
+      <namePart type="given">Gary J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Sciences, Brock University, St. Catharines, ON L2S 3A1, Canada. Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, Ontario L2S 3A1, Canada. Department of Psychology, Brock University, St. Catharines, Ontario L2S 3A1, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The influence of ethanol concentration and pH on a comprehensive range of oral sensations elicited by red wines was investigated in this study. Two commercial dealcoholised red wines were adjusted with tartaric acid and/or ethanol to produce a range of samples with composition values of pH 3.2–3.8 and ethanol concentration &lt;0.5–15% v/v. Seventeen mouthfeel and taste attributes were then determined by a trained descriptive analysis panel. Fifteen descriptors differed in intensity between samples for Wine 1, and 14 for Wine 2. Principal Components Analysis grouped 0% ethanol wines together based on higher scores for pucker, grippy/adhesive and unripe attributes, while 0% ethanol wines with pH 3.2 were further characterized by greater intensity of overall astringency, acidity and mouthcoat. Wines of 15% ethanol were loosely grouped based on positive scores for bitterness and aggressive, and at higher pH values (3.4, 3.6) formed a sub-group based on their similarly high ratings for heat, viscosity and velvet intensities. Some unique relationships between attributes were noted from correlation analysis, including those describing surface smoothness, dynamic and complex sensations. We conclude that ethanol has a much stronger influence than pH on most oral sensations elicited, and that assessing the sub-qualities of mouthfeel yields a more comprehensive and meaningful description of red wine than that obtained when just ‘astringency’ intensity is measured. These results should assist winemakers in optimising taste and mouthfeel sensations and profiles through production decisions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>143</start>
+          <end>150</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f31.pdf</identifier>
+  </mods>
+</modsCollection>

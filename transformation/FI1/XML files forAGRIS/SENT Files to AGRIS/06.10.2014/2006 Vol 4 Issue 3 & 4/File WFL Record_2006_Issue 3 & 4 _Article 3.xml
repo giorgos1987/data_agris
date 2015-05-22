@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vitro antibacterial activity of aqueous garlic (Allium sativum Linn.) extract on isolates from surface wounds</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kudi</namePart>
+      <namePart type="given">Ayuba A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Medical Centre, Gombe, Gombe State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ngbede</namePart>
+      <namePart type="given">Joshua E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Bacteriology Division, P.O.Box 174, National Veterinary Research Institute, Vom-Jos, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In vitro antibacterial activity of aqueous extract of garlic (Allium sativum Linn.), a useful food condiment and herbal medicine in many countries of Africa, was investigated on isolates from surface wounds. Seven different bacterial species were identified from the total 121 bacteria isolated. The in vitro susceptibility test showed that Staphylococcus aureus, Escherichia coli, Proteus sp. and Klebsiella sp. were susceptible to the extract at dilution of 1:8, Streptococcus sp. at 1:4 dilution and Enterobacter and Pseudomonas species at 1:2 dilution. We therefore recommend the use of garlic extract in controlling of susceptible bacteria from wound infection since it has no toxic effect on wounds. It is cheap and readily available in the locality, thus economical in treatment of susceptible bacteria in surface wounds. </abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>15</start>
+          <end>16</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/f3.pdf</identifier>
+  </mods>
+</modsCollection>

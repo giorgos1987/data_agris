@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Bioremediation measure to minimize heavy metals accumulation in soils and crops irrigated with city effluent</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adhikari</namePart>
+      <namePart type="given">Tapan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal-462038, M.P., India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Manna</namePart>
+      <namePart type="given">M. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal-462038, M.P., India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Singh</namePart>
+      <namePart type="given">M. V.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal-462038, M.P., India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wanjari</namePart>
+      <namePart type="given">R. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal-462038, M.P., India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A survey was conducted to monitor the influence of city sewage irrigation on the heavy metal build up in soils around Bhopal. Concentration of the heavy metals in effluent was within safe limits. Diethylene triamine penta acetic acid extractable Pb, Cd, Ni, Co, Cr, Fe, Mn, Zn and Cu in the sewage irrigated surface soil ranged 3.5-6.8, 0.15-0.40, 2.56-5.58, 1.59-3.89, 0.45-0.55, 3.5-15.8, 3.6-8.5, 1.2-3.6, 1.53-6.59 mg/kg respectively. Continuous sewage irrigation resulted in accumulation of Pb, Cd, Ni, Co, Cr, Fe, Mn, Zn and Cu in surface 0-15 cm layer by 5, 6, 0.4, 8, 0.6, 3.16, 5, 2, 3 times more compared to adjoining tube well irrigated soils. Studies revealed that accumulation of heavy metals such as Pb, Cd, Ni, Co, Cr, Fe, Mn, Zn and Cu was higher mostly in the roots of various crops irrigated with city sewage effluent compared to that of tube well water irrigated crops. Amongst the crops, carrot and spinach showed the tendency of higher metal accumulation. Bioremediation measure is now a day adopted to reduce the heavy metal load in agricultural field. Keeping in view, a laboratory experiment was also conducted to know the bio- sorption capacity of heavy metals (cadmium and chromium) by different fungi viz. Pleurotus florida, Fusarium oxysporum, Penicillium sp and Aspergillus awamorii to mitigate the problem of heavy metals accumulation in soils and crops irrigated with sewage water. Growth of those fungi was studied with the graded doses of Cd (2.5, 5, 10, 15 and 20 mg/L) and Cr (2.5, 5, 10, 15 and 20 mg/L). Pleurotus florida which sorbed highest amount of heavy metals and can survive at higher levels of heavy metals, can be used as a bio-filter to remove the heavy metals from sewage water.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>266</start>
+          <end>270</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a18.pdf</identifier>
+  </mods>
+</modsCollection>

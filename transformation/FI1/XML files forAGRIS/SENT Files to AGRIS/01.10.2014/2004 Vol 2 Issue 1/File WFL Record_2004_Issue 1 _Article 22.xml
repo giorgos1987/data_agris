@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Control of lipid oxidarion and fungal spoilage of roasted peanut (Arachis hypogea) using the spice Aframomum danielli</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adegoke</namePart>
+      <namePart type="given">G.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Falade</namePart>
+      <namePart type="given">K.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Babalola</namePart>
+      <namePart type="given">O.C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Aframomum danielli antioxidant extract showed reduction in rancidity, fungal count but better sensory attributes in roasted peanut (Arachis hypogea). Roasted peanut samples treated were with different concentrations (100, 200, 300 and 400 ppm) of A.danielli antioxidant extract. Samples were packed into high density polyethylene (100 ìm) and stored at 30°C. Peroxide and free fatty acid values of control and treated samples were evaluated for 35 days. Antioxidants effectiveness (AE) was calculated from the peroxide value. For both control and treated peanuts, while the peroxide values (PV) and free fatty acid (FFA) levels increased with increased storage time, the PV and FFA decreased with increased A.danielli antioxidant extract concentration in treated samples. After 35 days of storage, the % antioxidant effectiveness of A.danielli antioxidant extract on peanut samples treated with 100, 200, 300 and 400 ppm extract was 71.0, 73.0, 80.3 and 92.1%, respectively. While fungal counts increased in the control peanuts during storage, the counts decreased with increased A.danielli antioxidant concentration in treated peanuts. Roasted peanut treated with 400 ppm A.danielli antioxidant extract received better scoring than the control and other treated samples in all attributes, except colour and flavour.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>128</start>
+          <end>131</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f22.pdf</identifier>
+  </mods>
+</modsCollection>

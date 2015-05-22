@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Bioassay assessment of a complementary diet prepared from vegetable proteins</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ikujenlola</namePart>
+      <namePart type="given">Victor A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science &amp; Technology, Obafemi Awolowo University, Ile-Ife, Nigeria. Present address: Department of Food Science &amp; Technology, Rufus Giwa Polytechnic, Owo, Ondo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fashakin</namePart>
+      <namePart type="given">Joseph B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal University of Technology, PMB 704, Department of Food Science &amp; Technology, Akure, Ondo State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Complementary diets prepared from vegetable proteins have been previously reported. Dietary blends were formulated from germinated cereals and legumes and these were compared with non-germinated blends. The diets were fed to weaning rats weighing between 55 and 65 g, for a period of 28 days. Parameters, including food intake, animal weights, tissue weights and nitrogen contents were assessed. The protein efficiency ratios and net protein retentions were also calculated. The results showed that germination improved considerably the animal utilization of the dietary regimen. Moreover the performance of the animals as measured by the parameters was enhanced due to the action of α-amylase enzyme during germination. It was thus concluded that germination of cereals and legumes offers a useful tool in the total amelioration of protein energy malnutrition.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>20</start>
+          <end>22</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f4(2).pdf</identifier>
+  </mods>
+</modsCollection>

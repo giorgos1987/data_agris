@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Determination of the extent of frying fat deterioration using differential scanning calorimetry</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Abdulkarim</namePart>
+      <namePart type="given">S.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia 43400 UPM Serdang, Selangor DE, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Frage</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia 43400 UPM Serdang, Selangor DE, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tan</namePart>
+      <namePart type="given">C.P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, Faculty of Food Science and Technology, Universiti Putra Malaysia 43400 UPM Serdang, Selangor DE, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ghazali</namePart>
+      <namePart type="given">H. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia 43400 UPM Serdang, Selangor DE, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Differential scanning calorimetry was used to assess oil deterioration compared with known chemical parameters. Five different types of edible oils, namely, corn oil, soybean, sunflower, canola and palm olein, were used in this study and banana was used as the fried product. Batches of banana approximately 5-7 cm in length were cut into uniform wedges and then were fried at 180±5oC. The frying was intermittent and continued for 5 hours a day for six consecutive days (a total of 30 hours). The changes in the thermal properties of all used oils were studied and compared. A simple method was developed for monitoring the oil deterioration by DSC based on the heating thermogram of the used oil samples at scanning rate of 5oC/min from -70 to 70oC. The heating thermogram for the oils showed varying degree of changes especially in the major melting peak position during the course of frying. At the end of frying days changes in the peak temperature of the major melting peaks for all the oil was found to increase significantly (P&lt;0.05) from the initial day to the last day of frying, the values were: corn oil (-23.1 to -5.4oC), soybean (-23.5 to -2.2oC), sunflower (-10 to -1.33oC), canola (-10 to -2.7oC) and palm olein (14.6 to 19.9oC). The deterioration of used oil was also assessed by determination of total polar compound (TPC) percent, iodine value (IV), specific extinction E1% at 233 and 269 nm and changes in viscosity (cP). The extent of oil deterioration was best reflected in the changes in TPC percent for all used oils. The changes from the initial to the final values were: corn oil (3.8 to 37.6%), soybean (4.7 to 35.3%), sunflower (3.5 to 32.7%), canola (2.0 to 24.4%) and palm olein (3.3 to 20.5%). There was a good positive correlation between the major peak temperature values from the DSC heating thermogram and the TPC for all the oils tested.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>54</start>
+          <end>59</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f11.pdf</identifier>
+  </mods>
+</modsCollection>

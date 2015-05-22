@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quality of coconut water ‘in natura’ belonging to Green Dwarf fruit variety in different stages of development, in plantation on the northwest area of Paraná, Brazil.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kwiatkowski</namePart>
+      <namePart type="given">Angela</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade Estadual de Maringá, Laboratório de Bioquímica de Alimentos/DQI – Av. Colombo, 5790, CEP 87020-900, Maringá, PR, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Clemente</namePart>
+      <namePart type="given">Edmar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade Estadual de Maringá, Laboratório de Bioquímica de Alimentos/DQI – Av. Colombo, 5790, CEP 87020-900, Maringá, PR, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Scarcelli</namePart>
+      <namePart type="given">Angela</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade Estadual de Maringá, Laboratório de Bioquímica de Alimentos/DQI – Av. Colombo, 5790, CEP 87020-900, Maringá, PR, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vida</namePart>
+      <namePart type="given">João Batista</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Universidade Estadual de Maringá, Laboratório de Bioquímica de Alimentos/DQI – Av. Colombo, 5790, CEP 87020-900, Maringá, PR, Brazil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Coconut water is a drink with great concentration of mineral salts, presently used in human feeding as nutritional source of minerals, besides having a pleasant flavor. The present study had as main objective to evaluate the quality of the coconut water in the different development stages of the fruit. Green Dwarf, produced in Cidade Gaúcha - PR, Brazil was the variety under investigation. Physicochemical and mineral analyses were carried out in relation to characteristics such as volume, pH, titrated total acidity, total soluble solid, sugar, electric conductivity and potassium, magnesium, calcium, phosphorus, manganese, zinc, sodium, iron and copper concentrations. Color, flavor and general acceptance were appraised in sensorial evaluation. The liquid volume varied from 280 to 350 mL per fruit, whereas the pH varied from 4.73 to 5.74; the acidity from 8.0 to 11.0 g L-1 citric acid; total solids soluble content from 5.23 to 6.13 ºBrix; reducing sugars from 33.5 a 49.3 g L-1; non-reducing sugars from 2.20 to 3.50 g L-1; total sugars from 37.0 to 51.5 g L-1 and the electrical conductivity from 14.58 to 15.00 µS cm-1. Among the analyzed mineral elements, potassium concentration, varying from 2400.96 to 2726.03 mg L-1, was highest, calcium concentration varied from 145.36 to 197.21 mg L-1, whereas other minerals appeared in smaller concentrations. Regarding sensorial analysis, a preference was observed for coconut water coming from fruits with 7 - 9 months of development.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>102</start>
+          <end>105</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a5.pdf</identifier>
+  </mods>
+</modsCollection>

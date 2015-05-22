@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of inoculation of Azospirillum sp. in maize seeds under field conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Santa</namePart>
+      <namePart type="given">Osmar R. Dalla</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Microbiologia, Universidade Estadual do Centro-Oeste, Paraná, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Soccol</namePart>
+      <namePart type="given">Carlos R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Processos Biotecnológicos, Universidade Federal do Paraná,. CEP 81531-970, Curitiba-PR, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ronzelli Junior</namePart>
+      <namePart type="given">Pedro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Fitotecnia, Universidade Federal do Paraná, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hernández</namePart>
+      <namePart type="given">Ramona Fernández</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto Cubano de Investigaciones de los Derivados de la Caña de Azúcar, Cuba.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alvarez</namePart>
+      <namePart type="given">Georgina L. Michelena</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto Cubano de Investigaciones de los Derivados de la Caña de Azúcar, Cuba.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Santa</namePart>
+      <namePart type="given">Herta S. Dalla</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Microbiologia, Universidade Estadual do Centro-Oeste, Paraná, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pandey</namePart>
+      <namePart type="given">Ashok</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Biotechnology Division, Regional Research Laboratory, CSIR, Trivandrum 695019, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In a four-year trial (1998-2001) the effect of the harvest time on production of two different sugar beet variety types (the Z-type variety Elan and the NE-type variety Epos) grown in five variants of nitrogen fertilisation (N 0, 50, 100, 150 and 200 kg ha1) was evaluated. Two variants (N 50 and 150 kg ha-1) were also treated with the fungicide Alert S. Sugar beet was harvested at two different times: at the beginning of the beet processing season and four weeks later. The postponement of the time of harvest (by 27 days) increased root yields in average by 11.35 t ha-1 (19.4%; statistically significant at α=0.01). There were no significant differences in tops yields between the harvest times. The effect of harvest time on sugar content and the content of melassigenic substances in sugar beet roots depended on the particular year. White sugar yields increased with the postponement of the time of harvest by 1.69 t ha1 (or 18.5%; statistically significant at α=0.01). This meant an average increase of 62.6 kg ha-1 of sugar (or 0.69%) for each day of the postponement of the time of harvest. The positive effect of nitrogen fertilisation and fungicide treatment on root yield became apparent only at the later harvest time. The sugar content in both varieties diminished with the increasing dose of nitrogen fertiliser. The highest white sugar yield in our conditions was achieved at the later harvest of the sugar beet fertilised with 50 kg N ha-1 and treated with the fungicide. The fungicide spray allowed for a healthy photosynthetic system and the nitrogen dose of 50 kg ha1 was sufficient for high root yields as well as for high sugar content.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>238</start>
+          <end>242</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a13.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Genetic diversity analysis among rice accessions differing in drought tolerance using molecular markers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Vivek</namePart>
+      <namePart type="given">K. T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gomez</namePart>
+      <namePart type="given">S. Michael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suresh</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kumar</namePart>
+      <namePart type="given">S. Satheesh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yogameenakshi</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chezhian</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Boopathi</namePart>
+      <namePart type="given">N. Manikanda</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shanmugasundaram</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Babu</namePart>
+      <namePart type="given">R. Chandra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Tamil Nadu Agricultural University, Coimbatore-641 003, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The extent of genetic diversity among 46 indica ecotypes was assessed by fingerprinting using 40 random amplified polymorphic DNA (RAPD) markers. Out of the total (401) bands generated, 376 were found to be polymorphic (93.8%) and informative. Cluster analysis based on RAPD data showed that the drought tolerant and susceptible accessions were grouped in two different clusters. The rice accessions were also screened for drought tolerance under field conditions. Considerable variation was observed for drought resistance traits among the rice accessions. Norungan and TKM1 were found to perform better under water stress as compared to other accessions and may be useful in mapping genes associated with drought resistance. Correlation studies indicated that selection based on higher leaf chlorophyll stability index and proline under stress and thicker roots will be useful for improving drought tolerance in rice.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>217</start>
+          <end>222</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a26.pdf</identifier>
+  </mods>
+</modsCollection>

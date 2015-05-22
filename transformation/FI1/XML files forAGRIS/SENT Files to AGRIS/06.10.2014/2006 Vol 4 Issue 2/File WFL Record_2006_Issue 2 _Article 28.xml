@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quantitative analysis of seed genetic model including embryo and endosperm effects in multiple environments</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Achouch</namePart>
+      <namePart type="given">Abderrahmane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agronomy, University Saad Dahleb Blida, Algeria. *Present address: 155,Terrasse Paul Comtoi, Appt. 2, Laval Quebec H7G 2N1Quebec, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Benmoussa</namePart>
+      <namePart type="given">Mebrouk</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agronomy, University Saad Dahleb Blida, Algeria. *Present address: 155,Terrasse Paul Comtoi, Appt. 2, Laval Quebec H7G 2N1Quebec, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Snoussi</namePart>
+      <namePart type="given">Sid Ahmed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agronomy, University Saad Dahleb Blida, Algeria. *Present address: 155,Terrasse Paul Comtoi, Appt. 2, Laval Quebec H7G 2N1Quebec, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>AbstractFull seed model was evaluated by using, in multiple environments, mating design of eight parents diallel crosses with F1’s and reciprocal F1’s, F2’s andreciprocal F2’s. Monte Carlo simulations were conducted to calculate Bias, MSE and power value to estimate variance components of embryo geneticeffect, endosperm genetic effect, cytoplasm effect, maternal genetic effect and genotype x environment interaction effect. Biases of variance components, σ 2Ao, σ 2Do and σ 2Ae, were found to be around 10% of the parameter values. These variances tend to be well estimated for the full seedmodel including GE interaction effect. If embryo or endosperm genetic effects, when they do exist, are not considered in the model, other geneticvariance components could be easily overestimated except σ 2C, σ 2Dm, σ 2CE, σ 2DmE, and σ 2ε. If embryo and embryo x environment interaction wereignored, endosperm, maternal genetic variances and genotype x environment genetic variances were overestimated. When endosperm and endospermx environment interaction were ignored, same phenomena happened to embryo, maternal and GE interaction variances components.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>147</start>
+          <end>149</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a1.pdf</identifier>
+  </mods>
+</modsCollection>

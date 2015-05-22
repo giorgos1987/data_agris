@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Greek oregano (Origanum vulgare ssp. hirtum) as allelopathic plant</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Economou</namePart>
+      <namePart type="given">Garyfalia</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Travlos</namePart>
+      <namePart type="given">Ilias S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Folinas</namePart>
+      <namePart type="given">Athanasios</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Karamanos</namePart>
+      <namePart type="given">Andreas J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agronomy, Department of Crop Production, Agricultural University of Athens, 75, Iera Odos st., 11855 Athens, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Roots, leaves and shoots from Origanum vulgare ssp. hirtum were evaluated for their allelopathic potential on the biosensor plants Avena sativa and Lemna minor through in vivo and in vitro studies. The in vivo study was performed in growth chambers, using 5, 10 and 20 g of oregano tissue mixed with screened perlite as a substrate. The effects of oregano leaves and roots were evaluated by determining the shoot and root fresh and dry weight of oat. The in vitro experiments were performed in Petri dishes and Erlenmeyer flasks where seeds from the two biosensor species were subjected to an increasing concentration of oregano extract. The extracts were obtained from oregano roots and shoots that were diluted with water and either shaked at room temperature or placed in water bath at 40°C for 24 h. The allelopathic potential of the oregano tissues was confirmed with bioassays using oat (Avena sativa) and duckweed (L. minor) and determination of fresh weight and radicle length, respectively. The results strongly suggested the allelopathic potential of the oregano tissue, being more pronounced in the roots and moderate in the leaves and shoots. The inhibition of the L. minor suggested that the water soluble phytotoxic compounds were inhibitors of Photosystem II.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>348</start>
+          <end>351</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e22.pdf</identifier>
+  </mods>
+</modsCollection>

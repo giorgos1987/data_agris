@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Occupational exposure to carbosulfan applied for the management of Aceria guerreronis Keifer in coconut ecosystem</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ramasubramanian</namePart>
+      <namePart type="given">T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Entomology, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu, India – 641 003.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kuttalam</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Entomology, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu, India – 641 003.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chandrasekaran</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Entomology, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu, India – 641 003.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ramaraju</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Entomology, Tamil Nadu Agricultural University, Coimbatore, Tamil Nadu, India – 641 003.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Occupational exposure to carbosulfan applied for the management of Aceria guerreronis Keifer in coconut ecosystem revealed that inhalation exposure of applicator and helper to carbosulfan were below detectable level both at the recommended and twice the recommended dose irrespective of the spraying system studied. Dermal exposure of applicator and helper were below detectable level at recommended dose of carbosulfan. Whereas, at twice the recommended dose, the estimated total hourly dermal exposure (HDE) of applicator was 0.03664 mg. The chest region was the highly exposed part of the applicator (27,015.5 ng h-1) followed by head region (2,346.5 ng h-1) when the rocker sprayer was in operation. However, the residues were below detectable level in all the body parts of the helper. Applicators are misted with the spray while helpers are not misted, as they stay out of the immediate spray area and much of the exposure observed on the chest and head of the applicator was obvious since he looked at the crown while in operation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>285</start>
+          <end>287</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a23.pdf</identifier>
+  </mods>
+</modsCollection>

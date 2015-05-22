@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Evaluation of rice (Oryza sativa L.) genotypes for salt tolerance</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Babu</namePart>
+      <namePart type="given">C. Raja</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Physiology Tamil Nadu Agricultural University, Coimbatore – 641 003. Tamil Nadu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vijayalakshmi</namePart>
+      <namePart type="given">C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Physiology Tamil Nadu Agricultural University, Coimbatore – 641 003. Tamil Nadu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohandass</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Physiology Tamil Nadu Agricultural University, Coimbatore – 641 003. Tamil Nadu, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The present investigation was aimed to determine the physiological basis of salt tolerance with particular reference to sodicity employing twenty rice cultivars. The field experiment was conducted under sodic soil condition prevailing at Anbil Dharmalingam Agricultural College and Research Institute, Tiruchirapalli. The pigment chlorophyll a/b ratio, chlorophyll stability index, soluble protein, proline and nitrate reductase activity recorded higher values in the cultivars CORH 2, IR 68885B, APMS 5B, CO 43 and TRY(R) 2 indicating their tolerance to salt stress. The genotypes CORH 2, IR 68885B, APMS 5B and CO 43 expressed low Na/K ratio and can be grouped as salt tolerant. Among the 20 genotypes tested the hybrid CORH 2 recorded higher yield followed by IR 68885B and APMS 5B. The number of productive tillers, number of filled grains panicle-¹ and spikelet fertility were contributing for higher grain yield in these tolerant cultivars. Days to 50 per cent flowering and 1000-grain weight established negative relationship while significantly positive correlation was noticed between harvest index and grain yield.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>190</start>
+          <end>194</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/a17.pdf</identifier>
+  </mods>
+</modsCollection>

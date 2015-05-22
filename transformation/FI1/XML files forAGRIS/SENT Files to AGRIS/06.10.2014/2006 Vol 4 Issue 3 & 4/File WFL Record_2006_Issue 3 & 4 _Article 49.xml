@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Towards a paradigm shift for agricultural extension: An environmental sociology perspective</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Hayati</namePart>
+      <namePart type="given">Dariush</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agricultural Extension, College of Agriculture, Shiraz University, Shiraz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rezaei-Moghaddam</namePart>
+      <namePart type="given">Kurosh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. of Agricultural Extension, College of Agriculture, Shiraz University, Shiraz, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper provides a conceptual framework for sustainability of extension efforts. A case illustration of extension and agricultural development activities of Iran indicates that these activities are not sustainable. The perceptions and assumptions about the relationship between society and environment based on environmental sociology worldview are presented to reconstruct the theoretical basis of agricultural extension. It has concluded that at the age of environment, the environmental sociology worldview could be used to paradigm shift for agricultural extension.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>244</start>
+          <end>251</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e10.pdf</identifier>
+  </mods>
+</modsCollection>

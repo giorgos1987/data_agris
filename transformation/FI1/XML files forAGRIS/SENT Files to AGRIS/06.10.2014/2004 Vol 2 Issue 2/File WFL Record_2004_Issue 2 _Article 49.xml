@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Rescue of multiple embryos in almond through in vivo micrografts</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Martínez-Gómez</namePart>
+      <namePart type="given">Pedro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Mejora Vegetal. CEBAS-CSIC, P.O. Box 164, E-30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sánchez-Pérez</namePart>
+      <namePart type="given">Raquel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Mejora Vegetal. CEBAS-CSIC, P.O. Box 164, E-30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dicenta</namePart>
+      <namePart type="given">Federico</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Mejora Vegetal. CEBAS-CSIC, P.O. Box 164, E-30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gradziel</namePart>
+      <namePart type="given">Thomas M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Pomology, University of California, Davis, CA, 95616. USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Multiple embryos (two or three embryos within the same seedcoat) occur spontaneously in certain almond [Prunus dulcis (Mill.) D.A. Webb] cultivars including ‘Nonpareil’ and ‘Mission’. Seedlings from the same multiple-seeded ovule are frequently viable, though often, one of the seedlings shows weak growth and develops poorly (aberrant seedlings). These aberrant seedlings have recently been identified as aneuploids, and so are useful for genetic studies of almond. In this work, we examine the success of in vivo micrografting for the early propagation of this weak material. Variables evaluated included genotype (aneuploid or diploid), type of micro-scion and growth stage of the rootstock. Micro-scions tested consisted of small (3 mm) micro-wedges from sprouted apical buds from two-weeks-old seedlings. In addition, both direct and inverse approach micrografts were assayed. Results showed a lower success for micrograft of aberrant seedlings (aneuploids) (5%) relative to normal seedlings (diploids) (42.5%). Inverse approach micrografts onto very young rootstocks showed the best results for aberrant seedlings (aneuploid) with a 15% success rate. Significant differences were observed in the growth of micrografted aberrant seedlings (aneuploid) as compared to seedlings growing on their own roots.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>273</start>
+          <end>275</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a20.pdf</identifier>
+  </mods>
+</modsCollection>

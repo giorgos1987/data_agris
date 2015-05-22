@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Factors influencing the weed seed banks in the Gezira Scheme, Sudan</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Karar</namePart>
+      <namePart type="given">Rehab O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Applied Vegetation Dynamics Laboratory, School of Biological Sciences, University of Liverpool, Liverpool L69 7ZB, UK. Department of Botany, Faculty of Science, University of Khartoum, PO Box 321, Khartoum, Sudan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohamed</namePart>
+      <namePart type="given">B. F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, Faculty of Science, University of Khartoum, PO Box 321, Khartoum, Sudan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marrs</namePart>
+      <namePart type="given">R. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Applied Vegetation Dynamics Laboratory, School of Biological Sciences, University of Liverpool, Liverpool L69 7ZB, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Sudan is the largest country in Africa in which agriculture plays a major role. The most important agricultural area is the Gezira Scheme, irrigated from the Sennar Dam on the Blue Nile, where weed infestation is an important constraint to crop production. This study used germination trials to investigate the weed seed banks under different conditions within the Gezira scheme. Five agricultural units were surveyed where a four-cycle crop rotation system (cotton, groundnuts, sorghum, fallow) is used. Out of 25 weed species detected, eight contributed a large proportion to the seed bank. The lowest seedling densities (413 seed m-2) occurred in cotton, fallow (897) and sorghum (2351) being intermediate, and groundnuts (7567 seeds m-2) the highest. Three species (Commelina kotschy, Brachiaria eruciformis, Phyllanthus nirur) showed significant differences in seedbank density, in the order groundnuts &gt; sorghum &gt; cotton. Differences were also found between the agricultural units suggesting that local variations in management or spatial location may also influence seed bank densities. The current management favoured annual dicotyledons, with more annuals found in the crops than in fallow. Weed control in the Gezira scheme was effective in cotton but still required additional investigation in groundnuts and sorghum.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>161</start>
+          <end>166</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/e5.pdf</identifier>
+  </mods>
+</modsCollection>

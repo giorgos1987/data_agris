@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The quantitative analysis of some quality criteria of Gemlik variety olives</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Uylaşer</namePart>
+      <namePart type="given">Vildan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Faculty of Agriculture, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tamer</namePart>
+      <namePart type="given">Canan Ece</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Faculty of Agriculture, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Incedayi</namePart>
+      <namePart type="given">Bige</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Faculty of Agriculture, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vural</namePart>
+      <namePart type="given">Hasan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture Economy, Faculty of Agriculture, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Çopur</namePart>
+      <namePart type="given">Ömer Utku</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Faculty of Agriculture, University of Uludag, 16059 Bursa, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The overall appearance and size are the most effective factors for quality determination of olives. Moreover, quality classification and pricing of olives are done according to size, namely the number of olive fruits per kilogram. In this study, some quality criteria (number of olive fruit/kg, flesh/stone weight ratio, total dry matter, total acidity as lactic acid, pH, total oil) and differences in fatty acid composition of raw olives commercially placing on the market in different quality range were determined. The relationship between compositional discrepancies and the size of olives were displayed with a quantitative analysis. For this reason, Gemlik variety olives obtained from three different districts and classified into three groups (containing max. 200 olive fruit/kg, max. 300 olive fruit/kg and &gt;300 olive fruit/kg) were used. It was quantitatively determined that compositional attributes of raw olives offered for sale could change for sizes inconsiderably. Considering all analyzed quality criteria, olive obtained from Gemlik district having maximum 300 fruit per kg was determined quantitatively as the best quality sample. The panel data grouped in 9 classes has been evaluated by multivariate statistical methods.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>26</start>
+          <end>30</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f6.pdf</identifier>
+  </mods>
+</modsCollection>

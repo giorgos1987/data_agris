@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Seasonal dynamic of 15N applied as nitrate with different irrigation systems and fertilizer management in citrus plants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Quiñones</namePart>
+      <namePart type="given">Ana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Citricultura y otros Frutales, Instituto Valenciano de Investigaciones Agrarias (I.V.I.A.), 46113 Moncada, Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bañuls</namePart>
+      <namePart type="given">Josefina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Citricultura y otros Frutales, Instituto Valenciano de Investigaciones Agrarias (I.V.I.A.), 46113 Moncada, Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Primo-Millo</namePart>
+      <namePart type="given">Eduardo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Citricultura y otros Frutales, Instituto Valenciano de Investigaciones Agrarias (I.V.I.A.), 46113 Moncada, Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Legaz</namePart>
+      <namePart type="given">Francisco</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Citricultura y otros Frutales, Instituto Valenciano de Investigaciones Agrarias (I.V.I.A.), 46113 Moncada, Valencia, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>An experiment was undertaken with trees of the Navelina variety (Citrus sinensis) grafted on Carrizo citrange (Citrus sinensis x P. trifoliata) that were fertilized with 125 g N as K15NO3 and grown outdoors in individual lysimeters in a loam sandy-clay soil. In two groups of three trees, the N dosage was divided into two or five applications in flood irrigation. Another two groups of three trees received the same N dosage, divided into 66 applications with drip irrigation, although with a different percentage of monthly distribution. The results did not show any significant effect on the final weight of the trees. However, the irrigation system significantly influenced the percentage of distribution between above part (71 and 68% for flood and drip irrigation, respectively) and the root system (29 and 32%). The pattern of seasonal variation of the N total concentration in the different organs was similar in all treatments. However, the N derived from fertilizer (Ndff) contributed to the development of new organs in the first stages of the vegetative cycle with greater percentages as the amount of N applied was increased in all treatments. Towards the end of the vegetative cycle (December), the percentages of Nddf in spring leaves were found to be around 30% in the four treatments. However, continuous additions in drip irrigation contributed to a greater extent to Ndff (8%) in summer and autumn leaves than the applications in flood irrigation. The N recovered in the fallen organs was higher in flood irrigation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>155</start>
+          <end>161</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-9.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Wetting capacity distribution in aggregates from soils with a different management</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ellies</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Ingeniería Agraria Suelos, Universidad Austral de Chile, Casilla 567, Valdivia, Chile.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ramirez</namePart>
+      <namePart type="given">C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Botánica, Universidad Austral de Chile, Casilla 567, Valdivia, Chile.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mac Donald</namePart>
+      <namePart type="given">R. H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Ingeniería Agraria Suelos, Universidad Austral de Chile, Casilla 567, Valdivia, Chile.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The wetting capacity was inferred by the contact angle on a Andisol and a Ultisol from Southern Chile submitted to different managements. On microscope slides aggregates were spread and a drop of water was placed on the surface. The drop was observed with a magnifying glass with a horizontal vision field. Glass slides were buried for four years at different depths, during this period organic substances precipitated as thin films over the glasses. The results suggest that a higher organic carbon content reduces wetting capacity. Organic substances with a temporary permanency in the soil favour this resistance. The organic matter qualitative properties affect wetting capacity. Soils with a smaller wetting capacity show a higher proportion of aromatic and esters substances. Wetting resistance of topsoil aggregates diminishes from the walls to their interior. In the subsoil this tendency disappears with coarser aggregates. The wetting resistance increases to the interior as aggregates become smaller.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>229</start>
+          <end>233</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-agriculture-70.pdf</identifier>
+  </mods>
+</modsCollection>

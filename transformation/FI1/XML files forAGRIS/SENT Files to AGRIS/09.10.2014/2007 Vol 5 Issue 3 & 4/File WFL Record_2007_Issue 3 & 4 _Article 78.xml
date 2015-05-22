@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vitro competitive interactions of Fusarium graminearum with Aspergillus ochraceus and Penicillium verrucosum with regard to mycotoxin production</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Milles</namePart>
+      <namePart type="given">Judith</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Bonn, Institute for Nutrition and Food Sciences, Food Microbiology and Hygiene, Meckenheimer Allee 168, 53115 Bonn, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Krämer</namePart>
+      <namePart type="given">Johannes</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Bonn, Institute for Nutrition and Food Sciences, Food Microbiology and Hygiene, Meckenheimer Allee 168, 53115 Bonn, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Prange</namePart>
+      <namePart type="given">Alexander</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Niederrhein University of Applied Sciences, Microbiology and Food Hygiene, Rheydter Strasse 277, 41065 Mönchengladbach, Germany. Louisiana State University, Center for Advanced Microstructures and Devices (CAMD), 6980 Jefferson Hwy, Baton Rouge, LA 70806, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Competitive interactions of crop contaminating fungi are discussed as one possible trigger for mycotoxin production. In vitro models of Fusarium graminearum in coculture with Penicillium verrucosum and Aspergillus ochraceus were investigated with quantitative demand concerning growth and production of the mycotoxins deoxynivalenol (DON), zearalenone (ZEA) and ochratoxin A (OTA). A strain of F. graminearum which is not able to produce DON was included in the study. All tested fungi showed a reduced growth when growing in coculture. The results reveal an unimportant role of DON in fungal interactions. Concerning ZEA the results do not allow definite conclusions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>384</start>
+          <end>388</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/e8.pdf</identifier>
+  </mods>
+</modsCollection>

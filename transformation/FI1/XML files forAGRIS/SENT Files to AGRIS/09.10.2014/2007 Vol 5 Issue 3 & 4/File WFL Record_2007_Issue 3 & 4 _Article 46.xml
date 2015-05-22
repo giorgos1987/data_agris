@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Association between water-use efficiency components and total chlorophyll content (SPAD) in wheat (Triticum aestivum L.) under well-watered and drought stress conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fotovat</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Valizadeh</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Toorchi</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to determine the effect of total chlorophyll content (SPAD) on water-use efficiency (WUE) and its components in wheat (Triticum aestivum L.) and to explore a new and cheap method of indirect selection for improving WUE in wheat. Seven bread wheat cultivars were grown in pots under different watering levels. The pattern of variation for WUE and its components was different for cultivars in well-watered and drought stress conditions. The cultivars with high transpiration efficiency (TE) had also high chlorophyll content in well- watered and drought stress conditions, and there was a positive correlation (0.56) between SPAD and TE in drought stress. TE being relatively tedious to measure in large populations, the SPAD could be used as less expensive surrogates of measuring TE in the early stages of a breeding program.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>225</start>
+          <end>227</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a11.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Mechanization process in the production of mezcal</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Durán-García</namePart>
+      <namePart type="given">Héctor Martín</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí, Av. Manuel Nava 8, Zona Universitaria, C.P. 78290, San Luis Potosí, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">González-Galván</namePart>
+      <namePart type="given">Emilio Jorge</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí, Av. Manuel Nava 8, Zona Universitaria, C.P. 78290, San Luis Potosí, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Matadamas-Ortíz</namePart>
+      <namePart type="given">Pastor</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ciidir-Oaxaca, México.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Mezcal is an alcoholic drink obtained from the fermentation and distillation of the sugary juices extracted from the mature and cooked heads of magueyes, wild and cultivated, of the arid and semi-arid regions of Mexico. The process for mezcal-making begins with the cooking, causing the hydrolysis of the polysaccharides of the maguey, since the inulin is not very soluble in water and not fermentable in direct form. Next, the heads or pineapples go to the mill process, which is carried out in a flour or Chilean mill with the purpose of extracting the juices. The waste pulp still has a high content of sugars after the mill process. For this reason this waste pulp is re-hydrated in a laundry tub together with the effluviums coming from the ovens. This waste pulp is then placed in a press in order to extract even more juice. The juices obtained in this way are taken to the fermentation tubs where diammonic phosphate is added with the purpose of favoring the development of yeast. Next, the wine mezcal resulting from fermentation is taken to the distiller where, according to the different boiling points, is fractioned in heads (methanol), body or heart (ethanol) and tails (propanol or butanol); before being bottled. The objective of this work was to develop knowledge of the techniques and the technologies used in the production of mezcal. The conclusions obtained from the development of this work were: 1) the process of mechanization of mezcal has been increasingly copying schemes which have already been successfully used by the tequila industry; and 2) the modernization of the process of production of mezcal has been increasing as the product wins price and market.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>32</start>
+          <end>35</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f6.pdf</identifier>
+  </mods>
+</modsCollection>

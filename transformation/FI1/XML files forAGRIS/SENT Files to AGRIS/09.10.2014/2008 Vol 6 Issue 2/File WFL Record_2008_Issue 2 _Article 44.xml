@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effects of seed size on emergence and yield of durum wheat</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akinci</namePart>
+      <namePart type="given">Cuma</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Dicle, Faculty of Agriculture, Field Crops Department, Diyarbakır, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yildirim</namePart>
+      <namePart type="given">Mehmet</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Dicle, Faculty of Agriculture, Field Crops Department, Diyarbakır, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bahar</namePart>
+      <namePart type="given">Bilge</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Cukurova, Faculty of Agriculture, Field Crops Department, Adana, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A two years study was conducted in the 2004/2005 and 2005/2006 growing seasons to determine the effect of seed size on seedling emergence, yield and quality of ‘Ceylan 95’ durum wheat. In the study, seeds were separated with different sieves and 4 different size groups were prepared. Seed sizes were smaller than 2.2 mm, 2.2-2.5 mm, 2.5-2.8 mm and bigger than 2.8 mm. The seed density of each group was 450 seeds m-2. The trial was performed according to the completely randomized block design with three replications. Grain yield was increased with uniform large seeds in both years. The use of largest seeds resulted in a more competitive cropping system, improving grain yields by 15%. Germination and emergence rates were higher in bigger seeds. The 1000 kernel weight and test weight of smaller seeds were higher than those of bigger seeds because of poor emergence rate. The use of uniform large seeds increased seedling emergence and grain yield. Results demonstrate that commercial seeds &gt;2.2 mm wide can be successfully used in wheat production.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>234</start>
+          <end>237</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a19.pdf</identifier>
+  </mods>
+</modsCollection>

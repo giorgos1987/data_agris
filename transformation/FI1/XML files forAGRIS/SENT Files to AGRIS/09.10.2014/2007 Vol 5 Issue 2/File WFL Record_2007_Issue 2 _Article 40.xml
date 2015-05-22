@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effectiveness of zinc, copper and manganese applied in organic forms in diets of high milk yielding cows</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kinal</namePart>
+      <namePart type="given">Stefania</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Wroclaw University of Environmental and Life Sciences, Department of Animal Nutrition and Feed Quality, Chelmonskiego 38C, 51-630 Wroclaw, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Korniewicz</namePart>
+      <namePart type="given">Daniel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>LNB LTD Co. Poland, Rolna 2/4, 62-280 Kiszkowo, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jamroz</namePart>
+      <namePart type="given">Dorota</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Wroclaw University of Environmental and Life Sciences, Department of Animal Nutrition and Feed Quality, Chelmonskiego 38C, 51-630 Wroclaw, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Korniewicz</namePart>
+      <namePart type="given">Adolf</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Wroclaw University of Environmental and Life Sciences, Department of Animal Nutrition and Feed Quality, Chelmonskiego 38C, 51-630 Wroclaw, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sáupczyńska</namePart>
+      <namePart type="given">Maja</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Wroclaw University of Environmental and Life Sciences, Department of Animal Nutrition and Feed Quality, Chelmonskiego 38C, 51-630 Wroclaw, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bodarski</namePart>
+      <namePart type="given">Rafal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Wroclaw University of Environmental and Life Sciences, Department of Animal Nutrition and Feed Quality, Chelmonskiego 38C, 51-630 Wroclaw, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ziemiński</namePart>
+      <namePart type="given">Ryszard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Animal Production, Department of Cattle Breeding and Milk Production, Agricultural University Wroclaw, Ul. Chelmonskiego 38B, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osięgáowski</namePart>
+      <namePart type="given">Stanislaw</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Zootechnical Experimental Station of Department of Zootechnica Krakow, MielĪyĔska 64-122 Pawlowice, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dymarski</namePart>
+      <namePart type="given">Ireneusz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Zootechnical Experimental Station of Department of Zootechnica Krakow, MielĪyĔska 64-122 Pawlowice, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The experiment was carried out on Black-and-White breed cows upgraded with 60-90% of HF which were fed the similar diets during 305 days of lactation. The cows successively divided into three experimental groups by analogue method were fed with diets containing different forms of zinc, copper and manganese applied in mineral mixtures. The control group received these trace elements as sulphates but in experimental groups 20 or 30% of daily requirement was covered by bioplexes1. Cows receiving Zn, Mn and Cu as metallo-organic bioplexes were characterized in first 100 as well as for 305 days of lactation by higher milk production, by about 2.7 kg and 1.45 kg, respectively. The application of bioplexes of Zn, Mn and Cu had no effect on basal milk components, on the other hand somatic cell count (SCC) decreased by about 22 and 34%, respectively.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>189</start>
+          <end>193</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a17.pdf</identifier>
+  </mods>
+</modsCollection>

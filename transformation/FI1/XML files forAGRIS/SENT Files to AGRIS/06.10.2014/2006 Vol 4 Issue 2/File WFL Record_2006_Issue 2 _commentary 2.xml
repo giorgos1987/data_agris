@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Photopedogenesis: Concept and application</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mishra</namePart>
+      <namePart type="given">B. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Alemaya University, P.O. Box 4, Alemaya, Ethiopia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gebrekidan</namePart>
+      <namePart type="given">Heluf</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Alemaya University, P.O. Box 4, Alemaya, Ethiopia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Beyene</namePart>
+      <namePart type="given">Sheleme</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Awassa College of Agriculture, Debub University, P.O.Box 5, Awassa, Ethiopia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>commentary</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soil is a soul of infinite lives, but its science is still at youthful stage. Photopedogenesis is a new emerging chapter in Soil Science that opens wide range of its applicability in order to expose the inherent behaviour of soil system for better crop production. The concept of photopedogenesis has come into existence with the advancement of the Theory of Photopedology and deserves appreciation in terms of both short and long wavelength solar radiations.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>12</start>
+          <end>14</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/commentary2.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth any yield performance of three maize (Zea mays L.) cultivars sown in pure and blend forms</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shah</namePart>
+      <namePart type="given">Shamshad Hussain</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saleem</namePart>
+      <namePart type="given">M. Farrukh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zamir</namePart>
+      <namePart type="given">Shahid Ibni</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hussain</namePart>
+      <namePart type="given">Tanveer</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, University of Agriculture, Faisalabad, Pakistan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Present investigations were conducted to examine growth and yield performance of maize cultivars (Agaiti-85, Golden and Akbar) sown in pure and blend forms. The crop was sown on a sandy clay loam soil. The experiment was laid out in a randomized complete block design with three replications and the net plot size was 3m x 5m. Nitrogen and phosphorus were added at 175 kg and 120 kg ha-1, respectively. The results showed that silking was significantly delayed when cv. Akbar was sown alone or in blend form. Leaf area recorded per plant of cv. Akbar was significantly higher than others. Plant height, however, was significantly lower in all the varieties when sown alone as compared to that sown in combination. The yield and yield contributing parameters of the crop namely, number of cobs plant-1 (1.2), number of grains cob-1 (493.3), grain rows cob-1 (15.2) and 1000-grain weight (223.4 g), were the highest in treatment where Golden and Akbar were grown in blended form (½ + ½). Similarly highest grain yield (4.0 t ha-1) and stalk yield (11.5 t ha-1) were also obtained from the blend sowing of both the varieties.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>203</start>
+          <end>205</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-19.pdf</identifier>
+  </mods>
+</modsCollection>

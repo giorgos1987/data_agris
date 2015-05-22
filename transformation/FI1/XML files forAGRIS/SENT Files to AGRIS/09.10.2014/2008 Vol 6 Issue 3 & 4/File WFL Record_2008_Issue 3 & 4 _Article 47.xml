@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Mineral concentrations in leaves of nine browse species collected from Mvomero, Morogoro, Tanzania</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mtui</namePart>
+      <namePart type="given">Dorah J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan. Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lekule</namePart>
+      <namePart type="given">Faustin P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shem</namePart>
+      <namePart type="given">Martin N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science and Production, Sokoine University of Agriculture, P.O. Box 3004, Morogoro, Tanzania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hayashida</namePart>
+      <namePart type="given">Maki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fujihara</namePart>
+      <namePart type="given">Tsutomu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue, Shimane 690-8504, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Mineral contents in browse leaves and concentrations of nutrients available in soil at the end of rain season were determined in Mvomero District, Morogoro, Tanzania. Nine species, namely Accacia nilotica, Accacia tortilis, Balanites aegyptiaca, Commiphora africana, Ficus sycomorus, Lantana camara, Lawsonia inermis, Senna siamea and Trichilia emetia, and soil samples were randomly collected from five wards. Potential mineral intake was estimated for a cow weighing 450 kg and consuming 2.7% BW, and goat weighing 50 kg and consuming 4% BW. Results indicated that the concentrations of minerals in the browse leaves were affected by the levels of these minerals in soil. Soils had medium to high levels of Ca, Fe, Mg, Mn and Zn while P and Cu were in low levels. The leaves had enough Ca, Mg, S, Zn and Mn to meet the ruminants’ requirements. The Ca:P ratio ranged from 2.39 (L. inermis) to 35.58 (B. aegyptiaca), making leaves with very high levels unlikely to be a well balanced source of these minerals for livestock. All browse leaves had low P and Cu concentration while marginal Mn concentration was recorded for T. emetia, F. sycomorus and S. siamea. With exception of L. camara, all leaves had Se concentration above what is regarded as inadequate (&lt;0.03 mg kg-1 DM) and below maximum tolerable concentration (2.0 mg kg-1 DM). However, marginal Se concentration of C. africana, F. sycomorus and S. siamea could pose risk of Se deficiency if fed solely to ruminants. Based on estimated potential intake of Ca, Mg and S, browse fodders had sufficient contents to meet the requirements of cows and goats. Low to moderate potential intake was estimated for Zn, Mn and Se, while consumption of P and Cu were low. It is concluded that browse leaves are poor source of P and Cu, therefore, for optimal productivity, cows and goats fed these browse must be supplemented with these minerals.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>226</start>
+          <end>230</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a9.pdf</identifier>
+  </mods>
+</modsCollection>

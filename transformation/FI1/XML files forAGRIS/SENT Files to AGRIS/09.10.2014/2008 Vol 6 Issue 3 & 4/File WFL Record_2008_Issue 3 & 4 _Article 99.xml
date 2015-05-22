@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Cation contents in natural mineral waters of Romania determined with the HPIC method</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Heghedűş-Mîndru</namePart>
+      <namePart type="given">Gabriel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine of Banat of Timisoara, Faculty of Food Products Technology, Calea Aradului, No.119, 300645, Timisoara, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Biron</namePart>
+      <namePart type="given">Ramona Cristina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine of Banat of Timisoara, Faculty of Food Products Technology, Calea Aradului, No.119, 300645, Timisoara, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Perju</namePart>
+      <namePart type="given">Delia Maria</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Politehnica University of Timisoara, Romania, Faculty of Industrial Chemistry and Environmental Engineering, P-ta Victoriei, No. 2, 300006, Timisoara, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rusnac</namePart>
+      <namePart type="given">Lucian Mircea</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Politehnica University of Timisoara, Romania, Faculty of Industrial Chemistry and Environmental Engineering, P-ta Victoriei, No. 2, 300006, Timisoara, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Riviş</namePart>
+      <namePart type="given">Adrian</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine of Banat of Timisoara, Faculty of Food Products Technology, Calea Aradului, No.119, 300645, Timisoara, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ştef</namePart>
+      <namePart type="given">Ducu Sandu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine of Banat of Timisoara, Faculty of Food Products Technology, Calea Aradului, No.119, 300645, Timisoara, Romania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The paper deals with determination of cation concentrations in natural mineral water of various areas in Romania. Nine types of mineral water were examined in three different regions of the country: west, centre and north. Cation determination was done with high-performance ion chromatography (HPIC). The device used was a Dionex – ICS 3000 type, particularized for cations. The cations analysed and identified for each of the three regions were lithium, sodium, ammonium, potassium, magnesium and calcium. Concentrations were highest in the north region for Li+ (0.719 mg/L), Na+ (19.639 mg/L), NH4+ (12.108 mg/L) and Ca2+ (376.095 mg/L) and in the central area for Mg2+ (101.723 mg/L) and K+ (43.289 mg/L). The sample with the highest salt concentration was in the north region, while the one with the lowest one was in the west region.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>506</start>
+          <end>509</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e20.pdfhttp://world-food.net/download/journals/2008-issue_3_4/e20.pdf</identifier>
+  </mods>
+</modsCollection>

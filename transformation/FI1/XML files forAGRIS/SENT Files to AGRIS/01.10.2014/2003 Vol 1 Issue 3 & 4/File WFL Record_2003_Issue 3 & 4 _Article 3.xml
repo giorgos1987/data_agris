@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>LabView implementation of an ultrasound system for foreign body detection in food products</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jiang</namePart>
+      <namePart type="given">Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Ontario, Canada, N1G 2W1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zhao</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Systems Design Engineering, University of Waterloo, Ontario, Canada N2L 3G1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Basir</namePart>
+      <namePart type="given">O. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Systems Design Engineering, University of Waterloo, Ontario, Canada N2L 3G1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mittal</namePart>
+      <namePart type="given">G. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Ontario, Canada, N1G 2W1.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The object-oriented graphical programming language, LabView 5.0, was used to control an ultrasonic scanning system composed of an ultrasound transducer, an x-y table and a computer for foreign body (FB) detection inside beverages packed in glass containers. The design and composition of LabView code for running and synchronizing main functional parts of the system are discussed. Primary FB detection experiment was conducted successfully, and demonstrated real-time monitoring and tomograph of FB. FB detection principle by ultrasound and signal processing method are also explained.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>27</start>
+          <end>35</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-3.pdf</identifier>
+  </mods>
+</modsCollection>

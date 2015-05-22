@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Relative susceptiptibility of Najdi, Neimi and Hari lambs indigenous to Saudi Arabia to experimental infection with Haemonchus contortus</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fatani</namePart>
+      <namePart type="given">Ahmed E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biology, College of Science, King Faisal University, P O Box 55017, Al-Ahsa 31982, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Elamin</namePart>
+      <namePart type="given">E. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology and Parasitology, College of Veterinary Medicine and Animal Resources, King Faisal University, P O Box 1757, Al-Ahsa 31982, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Atiya</namePart>
+      <namePart type="given">S. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology and Parasitology, College of Veterinary Medicine and Animal Resources, King Faisal University, P O Box 1757, Al-Ahsa 31982, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Mohammed</namePart>
+      <namePart type="given">Hamdan I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Medical Microbiology, College of Medicine, King Faisal University, P O Box 55017, Al-Ahsa 31982, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Ten lambs of each of Najdi, Neimi and Hari breeds were inoculated with 400, 1600 or 16000 Haemonchus contortus third stage larvae (L3). The lambs developed subclinical forms of Haemonchus infection as they remained alert. The lambs maintained a steady growth rate, PCV values within the normal range, egg voidance tended to increase in all lambs proportional to dose of infective larvae and showed no significant (P&gt;0.5) differences between the three breeds.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>137</start>
+          <end>142</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f26.pdf</identifier>
+  </mods>
+</modsCollection>

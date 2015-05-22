@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Rheological properties of rennet-induced milk gels as affected by high pressure treatment at different temperatures</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shaker</namePart>
+      <namePart type="given">Reyad R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Nutrition and Food Technology, Jordan University of Science and Technology, Irbid, Jordan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osaili</namePart>
+      <namePart type="given">Tareq M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Nutrition and Food Technology, Jordan University of Science and Technology, Irbid, Jordan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Clark</namePart>
+      <namePart type="given">Stephanie</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department Food Science and Human Nutrition, Washington State University, Pullman, WA 99164-6120, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Harte</namePart>
+      <namePart type="given">Federico M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Systems Engineering, Washington State University, Pullman, WA 99164-6120, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Barbos-Canovas</namePart>
+      <namePart type="given">Gustavo V.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Systems Engineering, Washington State University, Pullman, WA 99164-6120, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effects of high pressure treatments (483 MPa and 676 MPa) at different temperatures (10, 30 and 40ºC) on the rheological properties of coagulant-induced milk gels were investigated by dynamic viscoelasticity measurements. Gels prepared from pressurized milk (483 MPa) at 10ºC had higher G´ and gel firmness values, while pressurization at 40ºC resulted in lower values compared to the untreated milk gel. Treatments of 483 MPa at 40ºC and 676 MPa at 30 and 40ºC caused dramatic decreases in the values of G´ and gel strength. The combined effects of pressure treatment and high temperatures caused a progressive increase in milk turbidity without changing pH values. While a pressure-treatment of 483 MPa at 10ºC may promote firm gel formation, pressure-temperature treatments of milk at or exceeding 483 MPa at 40ºC or 676 MPa at 30ºC may impair gel- forming properties of the milk and lead to weak gels.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>86</start>
+          <end>91</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f15.pdf</identifier>
+  </mods>
+</modsCollection>

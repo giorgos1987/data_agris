@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Auxins partially restore the cambial activity in Luffa cylindrica L. (Cucurbitaceace) under mercury stress</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">Aisha S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Punjab University, Botany Department, Lahore, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chaudhry</namePart>
+      <namePart type="given">Najma Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Punjab University, Botany Department, Lahore, Pakistan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Present study elucidates the effects of heavy metal i.e., mercuric chloride (HgCl2) on the internode of Luffa cylindrica L.(Roem) and partial reversal of these effects by applying growth hormones i.e., IAA (indole-3-acetic acid) when applied in combinations. Parameters evaluated were diameter of cortex, sclerenchyma, cambial and pith region. Early maturation of xylem vessels and phloem cells following the treatments was also taken into consideration. Application of HgCl2  reduced the diameter of internode, consequently leading to inhibition in cortical, sclerenchyma, cambial and pith region. Furthermore, large xylem vessels and phloem cells showed narrowing in transections. However, IAA treatment enhanced growth of cortical and cambial region and large xylem vessels as well. When HgCl2 was applied with IAA, they caused inhibition to less extent in all parameters as compared to plants treated with HgCl2 alone, revealing the dominant role of IAA. The arrangement of vascular tissues within the bundle is bicollateral and hence the growth of phloem region on both sides was studied. Xylem vessels and phloem cells showed more inhibition in large inner vascular cylinder (IVC) as compared with cells in smaller outer vascular cylinder (OVC) with HgCl2 application.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>276</start>
+          <end>281</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/e8.pdf</identifier>
+  </mods>
+</modsCollection>

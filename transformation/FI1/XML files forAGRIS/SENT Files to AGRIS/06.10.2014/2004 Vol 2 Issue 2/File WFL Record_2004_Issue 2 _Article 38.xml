@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of Bion, Amistar and Vitavax on anthracnose of chilli</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rahman</namePart>
+      <namePart type="given">Md. Khalilur</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Pathology, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Islam</namePart>
+      <namePart type="given">Md. Rashidul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Pathology, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hossain</namePart>
+      <namePart type="given">Ismail</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Pathology, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seeds of Mymensingh local and Pabna local varieties were used for seed treatment with Bion (as inducer of resistance) @ 0.005, Amistar (as fungicide) @ 0.05% and 0.1% and Vitavax-200 (as fungicide) @ 0.3% of seed weight. The percent germination was highest in Amistar and Vitavax-200-treated seeds and these chemicals most effectively controlled seed borne fungi of chilli. All the tested chemicals reduced the seedling mortality over control. The results revealed that Bion reduced the seedling mortality of chilli variety Mymensingh local and Pabna local by 87.3% and 100% respectively over control. The results showed that plants raised from Bion-treated seeds did not show die-back symptom but this symptom was common in plants raised from Amistar and Vitavax-200-treated seeds. Lesion size, percent leaf infection and percent leaf area damaged were also observed less in plants raised from Bion and Amistar-treated seeds as compared to the other treatments. Fruits of the plants raised from Bion-treated seeds showed moderately resistance reaction against anthracnose whereas fruits of the plants raised from Amistar and Vitavax-treated seeds showed susceptible to highly susceptible reaction against anthracnose of chilli.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>210</start>
+          <end>217</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a9.pdf</identifier>
+  </mods>
+</modsCollection>

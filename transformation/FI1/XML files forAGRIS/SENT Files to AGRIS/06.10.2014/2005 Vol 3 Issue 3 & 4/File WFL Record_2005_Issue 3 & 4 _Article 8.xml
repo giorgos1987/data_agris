@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Performance characteristics of weaned rabbits fed graded levels of dry cassava peel fortified with soycorn residue basal diet</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Omole</namePart>
+      <namePart type="given">A. J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training Moor Plantation P.M.B. 5029 Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Omueti</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training Moor Plantation P.M.B. 5029 Ibadan. Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ogunleke</namePart>
+      <namePart type="given">O. J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal College of Animal Health and Production Technology, I.A.R.&amp;T., Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The experiment was conducted to assess the performance of weaned rabbits fed cassava peel fortified with soybean residue (CSR). The dry cassava peel and dry soycorn residue were mixed in ratio 3:1. Four diets were formulated in which maize fraction of the diet was replaced by CSR at 0, 50, 75 and 100%. Completely randomized design was used for the study. The parameters measured were feed intake and weight gain. Efficiency of feed utilization, cost per weight gain and dressing percentage were calculated. The trial lasted for twelve weeks. The mean weekly weight gain ranged between 78.18 and 78.47 g and showed no significant (P&gt;0.05) differences among the treatment means. The efficiency of feed utilization was relatively similar among the treatments. The lowest cost per weight gain ( 4.10/kg) was recorded in while the highest cost per weight gain ( 103.11/kg) was recorded in the control diet (T1). No significant (P&gt;0.05) differences were observed in the mean dressing percent, liver, heart and kidney weights. Zero mortality was recorded in all the treatments. It could be concluded that maize fraction of the diets of weaned rabbits could be replaced by CSR up to 100% without any deleterious effect.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>36</start>
+          <end>38</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f8.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Farmers’ efficiency under irrigated and rainfed production systems in the derived savannah zone of Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adeoti</namePart>
+      <namePart type="given">A.I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics,University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The gap between food demand and supply has increased concerns over food production in Nigeria. Improving the resource-use efficiencies of farmers is considered a viable solution to this challenge. In addition, irrigated agriculture is being promoted to increase output and provide productive employment for farmers during the dry season. This study determined and compared the technical efficiencies of farms under irrigated and rainfed crop production systems in the derived savannah zone of Nigeria; with a view to identify factors influencing inefficiency in these systems. The farm level data obtained were analyzed by employing the stochastic production frontier model. The results showed that for farms under irrigated and rainfed systems, increase in farm size, family labour and fertilizer application will increase output levels. In addition increase in hired labour and irrigation water will increase output under irrigated system. The mean technical efficiency of farms under irrigated and rainfed systems was 0.84 and 0.67 respectively. This implies that there is potential for improvement in efficiency under both systems; although more for rainfed system. Age, literacy status and years of farming affect the level of efficiency under both systems. Under irrigated system, ownership of water pump and residency status are also contributory factors. It is suggested that size of farms should be increased along with improved access to adult education and institutional credit. Irrigated farming should be encouraged because it can provide employment and improved incomes particularly during off-season.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>90</start>
+          <end>94</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/a1.pdf</identifier>
+  </mods>
+</modsCollection>

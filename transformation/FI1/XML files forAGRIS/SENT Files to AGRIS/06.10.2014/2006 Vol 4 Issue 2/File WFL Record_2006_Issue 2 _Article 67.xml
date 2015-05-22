@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Induction of callus and somatic embryogenesis from cotyledonary explants of Parkia timoriana (DC.) Merr., a multipurpose tree legume</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Thangjam</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Bioresources and Sustainable Development, Takyelpat Institutional Area, Imphal – 795001, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maibam</namePart>
+      <namePart type="given">Rohinikumar Singh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Bioresources and Sustainable Development, Takyelpat Institutional Area, Imphal – 795001, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>To explore the potential for in vitro rapid regeneration of Parkia timoriana, a multipurpose tree legume, cotyledon explants were cultured on MS and B5 basal media supplemented with various concentrations of 2,4-D, NAA and BAP. Successful callus induction was observed in all the treatments. Maximum percentage of callus induction was obtained in the 2,4-D supplemented basal media. However, the overall response of MS medium was found to be superior to that of B5 medium. Explants cultured on MS medium fortified with combinations of 2,4-D and BAP induced rapidly proliferating calli that turned more friable and nodular. These protuberances eventually developed into somatic embryos when transferred in basal MS suspension medium without growth regulators. The protocol described here is the first on P. timoriana and has the potential to produce plantlets through somatic embryogenesis and also offers a highly efficient method for mass clonal propagation and conservation for this multipurpose legume tree.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>335</start>
+          <end>339</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e16.pdf</identifier>
+  </mods>
+</modsCollection>

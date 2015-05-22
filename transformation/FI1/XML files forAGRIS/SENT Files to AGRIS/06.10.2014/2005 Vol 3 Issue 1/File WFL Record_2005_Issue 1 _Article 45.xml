@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Woody species diversity and topsoil conditions in a natural fallow ecosystem in the rainforest belt of Ondo State, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oke</namePart>
+      <namePart type="given">D.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Forestry and Wood Technology, Federal University of Technology, PMB 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The gradual collapse of the traditional bush fallow system and the failure of some exotic improved fallow species in southwestern Nigeria have necessitated a closer examination of the traditional fallow system for possible alternatives. In this study, the ecosystem of a natural fallow in the rainforest belt of Ondo State was examined to understand woody species diversity and topsoil condition with a view to identifying candidate native species for fallow improvement. Sample plots were laid out on selected farmer’s fields (fallow and cultivated) and data were collected on the names and number of woody species in fallow and topsoil chemical properties. A total of 557 woody species were identified, 390 of which were non-leguminous while 167 were leguminous species. The dominant tree species from all the plots examined were Funtunia elastica (Preuss) Stapf, Albizia zygia Macbride, Diospyros albotlavescens F. White, Pterocarpus santalinoides L’Herit ex DC. and Rothmannia hispida K.Schum. Among these dominant tree species wereAlbizia zygia and Pterocarpus santalinoides which are perennial legumes with potential for soil improvement. Soil organic carbon and total N were significantly higher in the 3-year-old fallow. There is a need for further studies on the impact of each of these dominant woody species on the local soils.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>213</start>
+          <end>215</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/e3.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Odor management in swine finishing operations: Cost effectiveness</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Huang</namePart>
+      <namePart type="given">Haixiao</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Pathobiology, University of Illinois, Urbana, IL 61802 USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Miller</namePart>
+      <namePart type="given">Gay Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Pathobiology, University of Illinois, Urbana, IL 61802 USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ellis</namePart>
+      <namePart type="given">Michael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, University of Illinois, Urbana, IL 61801, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Funk</namePart>
+      <namePart type="given">Ted</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural and Biological Engineering, University of Illinois, Urbana, IL 61801, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zhang</namePart>
+      <namePart type="given">Yuanhui</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural and Biological Engineering, University of Illinois, Urbana, IL 61801, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hollis</namePart>
+      <namePart type="given">Gilbert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, University of Illinois, Urbana, IL 61801, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Heber</namePart>
+      <namePart type="given">Albert J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural and Biological Engineering Department, Purdue University, West Lafayette, IN 47907, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper examines the cost effectiveness of some odor control strategies shown to be important in odor reduction from swine finishing buildings. Strategies examined include manure depth reduction, manure storage type (deep pit vs. shallow pit), air treatment and pig density. The efficiency of each management strategy is evaluated for its effect on odor emission rate reduction. The costs of each strategy are annualized and calculated on a per-pig-marketed basis. The cost effectiveness is then the odor emission rate reduction efficiency compared to the cost per pig for implementing that strategy. The study shows that air treatment is the most cost-effective strategy for odor control in swine finishing buildings. The available technologies for improving air quality, according to their cost effectiveness ranking and the associated costs of implementation, are automatic oil sprinkling (rank = 1; cost = $0.51/marketed hog), diffusion-coagulation-separation (DCS) dedusting (rank = 2; cost = $0.66/marketed hog), evaporative misting (rank =3; cost = $0.30/marketed hog), wet scrubbing (rank = 4; cost = $0.54/marketed hog), and manual oil sprinkling (rank = 5; cost = $0.87/marketed hog). The results indicate that draining shallow pit systems once a week (rank = 7, cost = $0.06/marketed hog for draining shallow pit weekly) and increasing floor space allowance per pig (rank = 9, cost = $2.22/marketed hog for a 10% increase in pig floor space allowance) are less cost effective than air treatment technologies. Another interesting result is that when deep pit swine finishing systems and shallow pit buildings with outdoor anaerobic treatment systems are compared, the former are more advantageous than the latter in odor management if manure is removed from the deep pit twice or more frequently a year. The cost-effectiveness of deep pit systems as an odor management strategy (cost = $0.63/marketed hog relative to shallow pit with a lagoon systems) compared with the other strategies examined is ranked the 6th when manure is removed from the pit three times a year and ranked the 8th when manure is removed from the pit twice a year.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>131</start>
+          <end>136</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/a10.pdf</identifier>
+  </mods>
+</modsCollection>

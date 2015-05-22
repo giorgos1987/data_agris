@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>External stimulation of anthocyanin biosynthesis in apple fruit</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ubi</namePart>
+      <namePart type="given">Benjamin Ewa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Science, Faculty of Agriculture, University of Calabar, P.M.B. 1115-Calabar-Nigeria. Present address: Department of Plant, Cell and Environment, National Institute of Fruit Tree Science, 2-1 Fujimoto, Tsukuba, Ibaraki 305-8605, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The attractive red skin color in apple fruits determined mainly by the type and amount of anthocyanins is an important quality attribute for the competitive apple markets and is genetically controlled. Anthocyanin biosynthesis is, however, greatly influenced by external stimuli and efforts at the post-harvest induction of apple fruit color even in non-red cultivars have been successful. Light irradiation, low temperatures, aspects of the plant and soil environment, and the application of chemicals have provided tremendous opportunities for enhancing the red coloration of apple fruits that is important to satisfy domestic and export market standards. This paper provides a review of the current status of knowledge on the external stimulation of anthocyanin biosynthesis in apple fruit skin and insights from studies in other plant species.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>65</start>
+          <end>70</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f11.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Conditional QTL analysis of genetic main effects and genotype × environment interaction effects for yield in rice (Oryza sativa L.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Benmoussa</namePart>
+      <namePart type="given">Mebrouk</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, University Saad Dahleb,Oualed Yaich, Blida, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Achouch</namePart>
+      <namePart type="given">Abderrahmane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, University Saad Dahleb,Oualed Yaich, Blida, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Snoussi</namePart>
+      <namePart type="given">Sid Ahmed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, University Saad Dahleb,Oualed Yaich, Blida, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zhu</namePart>
+      <namePart type="given">Jun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, Zhejiang University, Hangzhou,China.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Quantitative trait loci (QTL) for yield conditional on any of its components were identified based on an RFLP map from a DH population. The results indicated a relatively small number of QTLs have been detected for final yield. Two QTLs were detected for yield when using genetic main effects and three QTLs for GE interaction effects with unconditional QTL mapping. With conditional QTL mapping there was a great variation in gene expression for genetic main effects and GE interaction effects. When yield was conditional on full grains, the genetic effects of full grains contributed about 61% variation for genotype and 60% variation for GE interaction effects. Many genes expressed for conditional GE interaction effects could not be detected for GE interaction effects for final yield. Combination of conditional mapping and unconditional mapping of QTL could improve our understanding in variation of gene expression and QTL x GE interaction effects.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>157</start>
+          <end>162</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a4.pdf</identifier>
+  </mods>
+</modsCollection>

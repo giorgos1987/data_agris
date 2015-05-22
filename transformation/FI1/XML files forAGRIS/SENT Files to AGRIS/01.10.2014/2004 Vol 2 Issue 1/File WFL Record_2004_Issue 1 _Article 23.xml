@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Assessment of the probiotic properties of a strain of Lactobacillus plantarum isolated from fermenting corn slurry (Ogi)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oyetayo</namePart>
+      <namePart type="given">V.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Osho</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Production and Health, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The probiotic potential of a strain of Lactobacillus plantarum isolated from fermenting corn slurry was investigated. The isolate displayed a good inhibitory action against some pathogenic and spoilage bacteria with zones of inhibition between 1-4 mm. The adhesive ability of the strain (3 bacteria/IEC) to ileal epithelial cell (IEC) of rat was also adequate. Beneficial effects such as lower serum aminotransferases and cholesterol was recorded for rats dosed with Lactobacillus plantarum (LS). Moreover, the serum alkaline phosphatase activity was also low but not significant (P&lt;0.05) from control (CS). However there was an increase in the level of these biomarkers in the serum of the rats dosed with Lactobacillus plantarum and simultaneously challenged with E. coli (LC).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>132</start>
+          <end>134</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f23.pdf</identifier>
+  </mods>
+</modsCollection>

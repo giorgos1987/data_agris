@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A simple and rapid method for isolation of DNA from imbibed embryos of Parkia timoriana (DC.) Merr. for PCR analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Thangjam</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Genetics Laboratory, Life Sciences Department, Manipur University, Imphal - 795003, India. Present address: Department of Botany, Modern College, Porompat, Imphal - 795 010, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maibam</namePart>
+      <namePart type="given">Damayanti</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Genetics Laboratory, Life Sciences Department, Manipur University, Imphal - 795003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sharma</namePart>
+      <namePart type="given">Jitendra G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Genetics Laboratory, Life Sciences Department, Manipur University, Imphal - 795003, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The isolation of high quality DNA from plants containing high levels of polysaccharides and polyphenols has been a difficult problem. The use of liquid nitrogen, mortar and pestle, and young leaves does not always favour in handling large sample sizes for analysis. We demonstrate an easy and rapid extraction process by modifying many existing ones. Using this process, we are able to isolate clean and pure DNAs from the embryos of Parkia timoriana. The method involves a modified CTAB extraction by treating imbibed embryos with proteinase K in SDS extraction buffer, grinding in the buffer after incubation, use of PVP and high NaCl concentration to remove polyphenols and polysaccharides and extended chloroform: isoamyl alcohol with 5% phenol treatment. About 50-64 µg/embryo of DNA can be obtained. The consistently reproducible products obtained through PCR amplification with several random primers using 50 ng of DNA per 25 µl reaction mixture demonstrate the purity of the isolated DNAs. Thus, the results indicate that DNAs extracted using this process are practically suited for PCR analysis and the technique is simple, rapid and efficient, and can be used in situations where large number of samples are to be analysed.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>36</start>
+          <end>38</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-4.pdf</identifier>
+  </mods>
+</modsCollection>

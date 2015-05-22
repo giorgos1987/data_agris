@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The use of Isubgol and Sequestrene 138 for the in vitro propagation of the highbush blueberry (Vaccinium corymbosum L.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Clapa</namePart>
+      <namePart type="given">Doina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fruit Research Station Cluj, 5 Horticultorilor street, 400457, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fira</namePart>
+      <namePart type="given">Alexandru</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fruit Research Station Cluj, 5 Horticultorilor street, 400457, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rusu</namePart>
+      <namePart type="given">Teodor</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fruit Research Station Cluj, 5 Horticultorilor street, 400457, Cluj-Napoca, Romania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>At Fruit Research Station Cluj different cultivars of blueberry (Vaccinium corymbosum L.) were cultured in vitro for production purposes, using a classical blueberry micropropagation medium. Powder agar was used as gelling agent and FeNaEDTA as iron source. For cultivar Blue Crop, the classical micropropagation protocol proved to be totally ineffective, the plants becoming chlorotic and their bases becoming necrotic in 3-5 weeks after transfer to fresh medium. The multiplication rate was also very low. By using Isubgol as a gelling agent and Sequestrene 138 as iron source, the vigour of the plants increased spectacularly, as well as the length and number of shoots. Multiplication rate increased significantly and the phenomenon of chlorosis was totally eliminated, the shoots becoming dark green. Having in view these results, the use of Isubgol and Sequestrene 138 is recommended for the in vitro propagation of the blueberry.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>145</start>
+          <end>147</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a14.pdf</identifier>
+  </mods>
+</modsCollection>

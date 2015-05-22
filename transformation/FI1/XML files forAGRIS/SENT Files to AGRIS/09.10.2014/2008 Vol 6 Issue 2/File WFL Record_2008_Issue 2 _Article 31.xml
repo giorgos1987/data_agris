@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Availabilty of energy and agricultural mechanization in Ghana</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Josiah</namePart>
+      <namePart type="given">M.N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Engineering Department, Faculty of Engineering Sciences, University of Ghana, Legon, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bani</namePart>
+      <namePart type="given">R.J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Engineering Department, Faculty of Engineering Sciences, University of Ghana, Legon, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mahama</namePart>
+      <namePart type="given">A.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Engineering Department, Faculty of Engineering Sciences, University of Ghana, Legon, Ghana.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A variety of definitions have been postulated for food security. The bottom line, however, is the availability of food of good quality at an affordable cost to all and at all times. Many approaches have been adopted to achieve an increase in the availability of food. These include among others increased use of mechanization to expand area under cultivation. Many developing countries have adopted agricultural mechanization to modernize and speed up the process of agricultural land expansion. The available land in Ghana that is suitable for mechanization is put at 8 million hectares for which an estimated energy input of 6 x 106 kW is required. Of this amount only 3.1% is available. Analysis have shown that out of the 1.6 million hectares of land currently under mechanized cultivation the required energy input is 12 x 105 kW out of which only 15.6% is available. This shows a wide gap between the energy required and what is available to meet the objectives of agricultural mechanization.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>170</start>
+          <end>172</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a6.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of chemicals on inoculum production by Leptosphaeria maculans on canola (Brassica napus L.) residues</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khangura</namePart>
+      <namePart type="given">Ravjit</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, Western Australia, Locked Bag 4, Bentley Delivery Centre, Bentley 6983, Western Australia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Efficacy of various chemicals including fungicides, herbicides and inorganic compounds to suppress ascospore production of blackleg (Leptosphaeria maculans) on canola residues was tested for two years. Four different chemicals, Benlate® @ 1 and 2 g a.i./L, Impact® @ 1 and 2 g a.i./L, Roundup® @ 10 and 20 g a.i./L, Urea @ 50 and 100 g/L were applied to a group of 20 canola stems in 2001 either as a dip or a spray treatment. The experiment was repeated in 2002 to test some additional chemicals and the best chemical treatments from the 2001 experiment. The treatments in the 2002 experiment included Impact® @ 0.5 and 1g a.i./L, Benlate® @ 1 and 2g a.i./L, Roundup®, @ 20 and 40g a.i./L, Dolomite @ 100 and 200 g/L, Gypsum @ 100 g/L, calcium sulphate @ 20 g/L, calcium hydroxide @ 20 g/L, calcium chloride @ 50 g/L and copper sulphate @ 20 g/L. These chemicals were applied as spray treatment. Impact® @ 0.5 and 1 g a.i./L, Roundup® @ 40 g a.i./L and copper sulphate inhibited the development of pseudothecia on residues and subsequently reduced ascospore production by 99%. Urea and calcium compounds were found to be ineffective in reducing the ascospore production on the residues. The potential of some chemical treatments to inhibit pseudothecia development and ascospore production by L. maculans on canola residues could have important implications in blackleg management.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>188</start>
+          <end>192</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a3.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biotechnology of bioemulsifiers produced by micro-organisms</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Calvo</namePart>
+      <namePart type="given">Concepción</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Microbiology Group, Department of Microbiology, Faculty of Pharmacy and Institute of Water Research, University of Granada, Spain. C/ Ramón y Cajal nº 4, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Toledo</namePart>
+      <namePart type="given">Francisca Lucía</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Microbiology Group, Department of Microbiology, Faculty of Pharmacy and Institute of Water Research,
+University of Granada, Spain. C/ Ramón y Cajal nº 4, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pozo</namePart>
+      <namePart type="given">Clementina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Microbiology Group, Department of Microbiology, Faculty of Pharmacy and Institute of Water Research,
+University of Granada, Spain. C/ Ramón y Cajal nº 4, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Martínez-Toledo</namePart>
+      <namePart type="given">María Victoria</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Microbiology Group, Department of Microbiology, Faculty of Pharmacy and Institute of Water Research,
+University of Granada, Spain. C/ Ramón y Cajal nº 4, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">González-López</namePart>
+      <namePart type="given">Jesús</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Microbiology Group, Department of Microbiology, Faculty of Pharmacy and Institute of Water Research,
+University of Granada, Spain. C/ Ramón y Cajal nº 4, 18071 Granada, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Biosurfactants are surface-active molecules produced by different organisms; they are widely used in pharmaceutical, food and cosmetic industries as well as in bioremediation technologies. Biodegradability and low environmental impact are some of the advantages shown by these substances compared with surfactants and emulsifiers produced by chemical procedure. Bacterial surfactants are produced by a large number of microbial species and are composed of polysaccharides, proteins, lipopolysaccharides or complex mixtures of these polymers. However, the nature of the nutrient composition of the growth media drastically affects the amount and chemical composition of these biopolymers. Industrial and environmental applications of microbial surface-active compounds have been developed and evaluated and the major factor limiting the wide use of biodegradable biosurfactants is their cost of production. In this sense, the use of inexpensive feed-stocks is essential to become competitive materials. This promise may become a reality with further investigation on how to control fermentation process and how to increase its productivity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>238</start>
+          <end>243</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/e5.pdf</identifier>
+  </mods>
+</modsCollection>

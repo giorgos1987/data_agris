@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Laboratory standardization of procedure for the preparation of Zou – a fermented beverage made from rice</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Panmei</namePart>
+      <namePart type="given">Chamgongliu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Life-Sciences Department, Manipur university, Imphal, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gautam</namePart>
+      <namePart type="given">Satyendra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Technology Division, Bhabha Atomic Research Centre, Mumbai-400 085, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Variyar</namePart>
+      <namePart type="given">Prasad S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Technology Division, Bhabha Atomic Research Centre, Mumbai-400 085, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Devi</namePart>
+      <namePart type="given">G. A. Shantibala</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Life-Sciences Department, Manipur university, Imphal, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sharma</namePart>
+      <namePart type="given">Arun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Technology Division, Bhabha Atomic Research Centre, Mumbai-400 085, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Zou or Yu is a distilled product of rice beer prepared using Albizzia bark. Albizzia bark was found to provide an ecological niche to a mold and a few yeast strains. The mold strain was found to be responsible for the alcoholic fermentation of rice. The strain was identified as Mucor indicus Lendner. For the fermentation process a starter culture called hamei (khai) was prepared by inoculating aqueous mixture of gamma sterilized rice and bark powders with M. indicus culture. Hamei was used as inoculum for the fermentation of rice slurry. The fermentation was carried out for 5 days at ambient temperature (26 ± 2°C). After completion of the fermentation, the beer was distilled at 78°C. The ethanol yield was quantified by gas chromatographic and alcohol dehydrogenase assay methods.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>10</start>
+          <end>16</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-1.pdf</identifier>
+  </mods>
+</modsCollection>

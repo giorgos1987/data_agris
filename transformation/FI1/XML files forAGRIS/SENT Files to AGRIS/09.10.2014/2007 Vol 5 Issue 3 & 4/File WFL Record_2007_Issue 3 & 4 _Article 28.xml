@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Tea beverages made from Romanas rose (Rosa rugosa Thunb.) leaves possess strongly antioxidative activity by high contents of total phenols and vitamin C</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nagai</namePart>
+      <namePart type="given">Takeshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kawashima</namePart>
+      <namePart type="given">Taro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Suzuki</namePart>
+      <namePart type="given">Nobutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ITE Nagoya Research Institute, Toyoake, Aichi 4701131, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tanoue</namePart>
+      <namePart type="given">Yasuhiro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Natiional Fisheries University, Yamaguchi 7596595, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kai</namePart>
+      <namePart type="given">Norihisa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Natiional Fisheries University, Yamaguchi 7596595, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nagashima</namePart>
+      <namePart type="given">Toshio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Tokyo University of Agriculture, Hokkaido 0992493, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Three kinds of tea beverages, unfermented, half-fermented and fermented tea beverages, made from Romanas rose (Rosa rugosa Thunb.) leaves were prepared and the functional properties were investigated. These beverages exhibited high total phenols and total vitamin C contents. In particular, unfermented and half-fermented tea beverages possessed strongly antioxidative activities and scavenging activities against superoxide anion radical and DPPH radical. Moreover, these beverages also showed angiotensin I-converting enzyme inhibitory activities. Drinking tea beverage made from Romanas rose leaves may help to prevent in vivo oxidative damage, such as lipid peroxidation, associated with many diseases, including cancer, atherosclerosis, diabetes, aging, arthritis, brain dysfunction and immune deficiency because of the presence of various compounds such as catechin derivatives, phenols and vitamin C with antioxidative activities.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>137</start>
+          <end>141</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f28.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Organochlorine pesticides in sheep milk and fodder in Jordan</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Alawi</namePart>
+      <namePart type="given">Mahmoud A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Jordan, Department of Chemistry, P.O.Box 13003. Amman-11942, Jordan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Hawadi</namePart>
+      <namePart type="given">Jehad S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Jordan, Department of Chemistry, P.O.Box 13003. Amman-11942, Jordan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Levels of fifteen organochlorine pesticides were determined in 60 sheep milk and 20 fodder samples gathered from different towns in Jordan. All samples were extracted, cleaned up and then analyzed using high resolution gas chromatography with electron capture detector (63Ni). Three groups of the organochlorine pesticides in addition to hexachlorobenzene (HCB) namely: DDT, HCH and cyclodiene groups were determined. The results show that almost all milk samples were contaminated with HCB, HCH’s heptachlor and aldrin at relatively high concentrations and almost all studied organochlorine pesticides were found in the fodder samples.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>226</start>
+          <end>228</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/e6.pdf</identifier>
+  </mods>
+</modsCollection>

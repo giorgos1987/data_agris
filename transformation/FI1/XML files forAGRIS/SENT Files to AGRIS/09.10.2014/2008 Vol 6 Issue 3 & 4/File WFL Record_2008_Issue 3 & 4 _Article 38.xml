@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A review on some factors affecting colour of fresh beef cuts</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mohamed</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jamilah</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abbas</namePart>
+      <namePart type="given">K.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rahman</namePart>
+      <namePart type="given">R. Abdul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Technology, Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This research paper aims to cover the latest information about the colour of fresh beef cuts which is one of the quality attributes, and the factors significantly affecting it. The effects of some treatment techniques used to maintain it, such as dietary antioxidants and packaging under high oxygen concentration as well as modified atmosphere packaging (MAP), also reported. The outcome of this review paper revealed that colour of beef cuts is a critical and important visual quality attribute, highly affecting consumer decisions to purchase the cuts. Selection of correct animal diets and presences of some enzymes in the muscles may positively affect the colour. Increasing both lipid and protein oxidation negatively influence the storage life of the colour. To maintain good beef colour, techniques of using natural antioxidants such as dietary vitamin E, ascorbic acid, carnosine and tea catechins (TC) as well as MAP with different methods were found significantly keeping this quality attribute.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>181</start>
+          <end>186</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f38.pdf</identifier>
+  </mods>
+</modsCollection>

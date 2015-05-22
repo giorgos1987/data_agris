@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Polymorphism of microsatellite sequences in morphologically and phenologically different genotypes of Lonicera periclymenum</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Smolik</namePart>
+      <namePart type="given">Miáosz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin,  ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">ZieliĔski</namePart>
+      <namePart type="given">Jarosáaw</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Dendrology, Agricultural University in Szczecin,  ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rzepka-Plevneš</namePart>
+      <namePart type="given">Danuta</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin,  ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adamska</namePart>
+      <namePart type="given">Katarzyna</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticultural Plant Breeding, Agricultural University in Szczecin,  ul. Janosika 8, 71-422 Szczecin, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A research has been undertaken to evaluate the character and range of morphological and genetic variability within forms of the honeysuckle (Lonicera periclymenum L.). The analysed material consisted of four populations of this species occurring in northern Poland, and two varieties: the cultivar Lonicera periclymenum ‘Serotina’ and the botanical variety Lonicera periclymenum typicum. Both the forms were characterized by a high phenotypic variation in shape of a leaf blade and phenology of florescence. The found differences were highly significant. Because of difficulties concerning the determination of affiliation of the given form of honeysuckle to the given botanical or cultivated variety, the genotypes of L. periclymenum forms were ivestigated by ISSR-PCR analysis for the study of the genetic diversity of the genus Lonicera. The analysis involved 30 ISSR primers on various di-, tri-, tetra- and penta- SSR motifs containing additional selective 3’ anchor nucleotides. Out of the 30 primers 21 were chosen for final study. These amplified a total of 984 bands, out of which 900 (91.4%) were polymorphic. Clearly detectable
+amplified ISSR ranged from 32 to 2487 bp in size. The average number of bands generated per primer was 8. Their number depended on the primer’s sequence. For all the mentioned objects of analysis species-specific ISSR fragments were detected for each honeysuckle genotype. The genetic similarity between species of Lonicera was estimated using Jaccard’s coefficient of similarity. The UPGMA cluster analysis was used to construct a dendrogram and to estimate the genetic similarity between the Lonicera species. Their similarity ranged from 82.3 to 86.6%. The analysed genotypes of honeysuckle were divided into three groups. In the first group, there were genotypes growing in Dziwnow and Pobierowo (similarity 84.8%), in the second one - L. periclymenum ‘Serotina’, L. periclymenum typicum, and the genotype from Przytor (similarity 86.6%) and in the third one – the forms of Lonicera from the locality in Karsibor. The results of genetic investigations confirmed the distinct morphology and phenology of honeysuckle, known from the cultivated in Poland varieties occurring in various localities of the north-western part of Poland.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>226</start>
+          <end>233</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a20.pdf</identifier>
+  </mods>
+</modsCollection>

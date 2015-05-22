@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Optimization of the extraction of polyphenols from grape seed meal by aqueous ethanol solution</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shi</namePart>
+      <namePart type="given">John</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario, N1G 5C9 Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yu</namePart>
+      <namePart type="given">Jianmei</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario, N1G 5C9 Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pohorly</namePart>
+      <namePart type="given">Joseph</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Joseph’s Estate Wines, Niagara-on-the-Lake, Ontario L0S 1J0, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Young</namePart>
+      <namePart type="given">J. Christopher</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario, N1G 5C9 Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bryan</namePart>
+      <namePart type="given">Mike </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario, N1G 5C9 Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wu</namePart>
+      <namePart type="given">Ying</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario, N1G 5C9 Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The efficient methods for extracting phenolics from grape seeds have been of great interest to many investigators, due to the special health promoting and disease preventing effects of polyphenols. In this study, extractions were performed by using aqueous ethanol. The effects of single factors such as the concentration of ethanol, the ratio of liquid to solid (L/S), extraction temperature, extraction time, and number of extractions on the extraction efficiency were studied. Total phenol was measured by the Folin-Ciocalteu procedure to monitor the efficiency of the extraction under different experimental conditions. High pressure liquid chromatograph (HPLC) analysis was applied to identify and quantify some specific dimeric and trimeric phenolics in grape seeds. The concentration of ethanol and the extraction temperature showed the most significant impact on the yield of total phenolics. At room temperature, the extract with highest total phenolics was obtained with 50% ethanol. A extraction yield was obtained at higher temperature. When ethanol concentration and temperature were kept constant, 1.5 hr extraction time and liquid to solid ratio of 7.5:1 resulted in the best yield. In all cases, the phenolics extracted by first and second stage consisted of 90-97% of the total phenolics of the sum of the three stages. Therefore, two-stage extraction would be more cost efficient than three-stage extraction.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>42</start>
+          <end>47</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-33.pdf</identifier>
+  </mods>
+</modsCollection>

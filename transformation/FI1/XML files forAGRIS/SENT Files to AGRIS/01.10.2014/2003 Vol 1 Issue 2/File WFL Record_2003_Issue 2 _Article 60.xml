@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Linear alkylbenzene sulfonates (LAS) and soil microbial activity</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pozo</namePart>
+      <namePart type="given">Clementina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Group of Environmental Microbiology, Institute of Water Research, University of Granada, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rodelas</namePart>
+      <namePart type="given">Belén</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Faculty of Pharmacy, University of Granada, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Calvo</namePart>
+      <namePart type="given">Concepción</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Group of Environmental Microbiology, Institute of Water Research and Department of Microbiology, Faculty of Pharmacy, University of Granada, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Toledo</namePart>
+      <namePart type="given">María Victoria Martínez</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Group of Environmental Microbiology, Institute of Water Research and Department of Microbiology, Faculty of Pharmacy, University of Granada, 18071 Granada, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">González-López</namePart>
+      <namePart type="given">Jesús</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Group of Environmental Microbiology, Institute of Water Research, University of Granada, 18071 Granada, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Linear alkylbenzene sulfonates (LAS) are major ingredients of commonly used surfactants and detergents. High concentrations of these anionic surfactants may occur in sewage sludge processed in wastewater treatment plants. A high proportion of the LAS found in sludge are aerobically digested, but a fraction persists after anaerobic digestion. LAS are deposited in agricultural soils by the application of sludge as fertiliser and the use of untreated wastewater for irrigation. The toxicity of LAS in soil depends on the form in which LAS was applied, as well as on the characteristics of each particular soil. LAS could potentially harm soil microbiota by denaturing proteins and depolarising cell membranes. However, no drastic effects have been reported when sewage sludge was used as fertiliser due to its rapid aerobic degradation and lower bio-availability. The fertility of a soil is intimately linked to its particular microbiota. The relationships that exist between microbial groups involved in the cycles of the nutrients such as nitrogen, phosphorus and sulphur are essential for the normal function and evolution of a soil. Hence, the study of the microbial communities involved in these cycles significantly contributes to the understanding of the effects of LAS on the fertility and balance of agricultural soils.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>348</start>
+          <end>350</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-environment-70.pdf</identifier>
+  </mods>
+</modsCollection>

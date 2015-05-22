@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Genetic variability for agronomic and malting quality traits in some sorghum (Sorghum bicolor (L.) Moench) genotypes</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Yeye</namePart>
+      <namePart type="given">M. Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Science, Institute for Agricultural Research, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alhassan</namePart>
+      <namePart type="given">U.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Science, Institute for Agricultural Research, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Twenty genotypes of sorghum (Sorghum bicolor (L.) Moench) obtained from Institute for Agricultural Research (IAR), Zaria, International Crop Research Institute for Semi-Arid Tropics (ICRISAT) and West and Central African Sorghum Research Network (WCASRN) at Bamako, Mali, were evaluated at IAR, Zaria, Nigeria, for genetic variability in agronomic and malting quality traits. NRL-3, SSVL2019 and SSVL2027 combined high yielding and good malting qualities. The presence of genetic variability for both malting and agronomic traits suggests that further improvement of these genotypes for the traits is feasible.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>294</start>
+          <end>298</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a22.pdf</identifier>
+  </mods>
+</modsCollection>

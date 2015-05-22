@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of polyphenolic composition on sensory perception of Croatian red wine Babić</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Budić-Leto</namePart>
+      <namePart type="given">Irena</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Adriatic Crops and Karst Reclamation, Put Duilova 11, P.O. Box 288, 21 000 Split, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zdunić</namePart>
+      <namePart type="given">Goran</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Adriatic Crops and Karst Reclamation, Put Duilova 11, P.O. Box 288, 21 000 Split, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kljusurić</namePart>
+      <namePart type="given">Jasenka Gajdoš</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10 000, Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pezo</namePart>
+      <namePart type="given">Ivan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute for Adriatic Crops and Karst Reclamation, Put Duilova 11, P.O. Box 288, 21 000 Split, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alpeza</namePart>
+      <namePart type="given">Ivana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Croatian Institute of Viticulture and Enology, Jandrićeva 42, 10 000, Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lovrić</namePart>
+      <namePart type="given">Tomislav</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Technology and Biotechnology, University of Zagreb, Pierottijeva 6, 10 000, Zagreb, Croatia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The aim of this study was to establish the relationship between the large groups of polyphenols (total phenols, total anthocyanins, low molecular weight proanthocyanidins as well as high molecular weight proanthocyanidins) and sensory perception of native Croatian red wine Babić.Sensory evaluation of four types of wines produced at different pomace contact times and temperatures was conducted by 11 panellists who rated the intensity of astringency, bitterness and overall sensory impression of each wine. Complex observations of sensory and analytical values (using principal component analysis, PCA) indicate the acceptability of the wine. In order to compare the obtained results, chemometric methods, particularly principal component analysis (PCA), were conducted for sensory evaluation of the data and identification of wine. Analysis of the score plot of the PCA for the monitored values showed that over 85% of the total variance in the data can be described by PC 1 and PC 2. Results of this study demonstrate a strong correlation between the concentration of polyphenols and the sensory attributes. Decreasing macerationtemperature leads to the best perception of astringency and overall impression in younger wines. Prolongation of pomace contact time resulted in the best attributes of astringency, bitterness and overall impression in aged wines.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>138</start>
+          <end>142</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f30.pdf</identifier>
+  </mods>
+</modsCollection>

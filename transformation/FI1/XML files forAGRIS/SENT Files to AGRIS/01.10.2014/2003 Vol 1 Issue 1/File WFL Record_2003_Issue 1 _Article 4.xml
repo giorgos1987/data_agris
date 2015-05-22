@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Consumer attitudes to high pressure food processing</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Butz</namePart>
+      <namePart type="given">Peter </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Research Centre for Nutrition, Haid-und-Neu-Straße 9, D-76131Karlsruhe, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Needs</namePart>
+      <namePart type="given">Eric C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Research, Reading, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Baron</namePart>
+      <namePart type="given">Alain </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>INRA, Le Rheu, France.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bayer</namePart>
+      <namePart type="given">Otto </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Research Centre for Nutrition, Haid-und-Neu-Straße 9, D-76131Karlsruhe, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Geisel</namePart>
+      <namePart type="given">Bärbel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Research Centre for Nutrition, Haid-und-Neu-Straße 9, D-76131Karlsruhe, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gupta</namePart>
+      <namePart type="given">Bharat </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>St Ivel Ltd, Wooton Basset, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oltersdorf</namePart>
+      <namePart type="given">Ulrich </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Research Centre for Nutrition, Haid-und-Neu-Straße 9, D-76131Karlsruhe, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tauscher</namePart>
+      <namePart type="given">Bernhard </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal Research Centre for Nutrition, Haid-und-Neu-Straße 9, D-76131Karlsruhe, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>As part of an EU-funded research project a representative survey of consumer attitudes concerning high pressure processing (HPP) of foods was carried out. 3000 adults aged 14 years and over, in France, Germany and the UK were interviewed in face-toface computer assisted personal interviews (CAPI) and asked to indicate their opinion by evaluating 35 positive and 25 negative statements about the new technique, to compare the new technique with the conventional techniques, and they were asked if they would buy products preserved using High Pressure Pasteurization. The concept used for the data analysis was that of a market segmentation model using sociodemographical, geographical and psychographical attributes. The average acceptability rate is discussed with respect to the MAYA threshold value (Most Advanced Yet Acceptable), a pragmatic market research threshold value.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>30</start>
+          <end>34</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1F30-34attitudes.pdf</identifier>
+  </mods>
+</modsCollection>

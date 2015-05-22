@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Selenium concentration dependence on soil properties</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Antanaitis</namePart>
+      <namePart type="given">Antanas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agrochemical Research Centre of Lithuanian Institute of Agriculture, Savanoriu 287, LT-50127, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lubyte</namePart>
+      <namePart type="given">Jadvyga</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agrochemical Research Centre of Lithuanian Institute of Agriculture, Savanoriu 287, LT-50127, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Antanaitis</namePart>
+      <namePart type="given">Sarunas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agrochemical Research Centre of Lithuanian Institute of Agriculture, Savanoriu 287, LT-50127, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Staugaitis</namePart>
+      <namePart type="given">Gediminas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agrochemical Research Centre of Lithuanian Institute of Agriculture, Savanoriu 287, LT-50127, Kaunas, Lithuania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Viskelis</namePart>
+      <namePart type="given">Pranas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lithuanian Institute of Horticulture, LT-54333, Babtai, Kaunas distr., Lithuania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>More than 600 soil samples were collected from Luvisols and Cambisols in Lithuania, which represent the dominant types of soil in the southeastern part of the Baltic region. The content of nitric acid–soluble selenium in soil samples was within the range of 0.075-0.427 mg kg-1 and water-soluble selenium 0.029-0.053 mg kg-1. The content of nitric acid–soluble selenium in 84.2% of soil samples taken from the 0-20 cm layer of soil was within the range of 0.100-0.300 mg kg-1. Selenium content in the soil depended on soil texture, pH, exchangeable bases and content of plant available potassium. An average content of selenium in sandy loam soil samples taken from the 0-20 cm soil layer was 0.144 mg kg-1, in light loam soils 0.160 mg kg-1 and in medium loam and clay loam soils 0.228 mg kg-1; pH value of all these samples was within the range of 6.1-7.0. The same regularities apply for selenium content in soil samples taken from 20-40 cm soil layer. Peat soils contained larger amounts of selenium. With soil pH approaching 7.0, the content of nitric acid-soluble selenium also increased. The relationship between total absorbed bases in the soil and the selenium content was determined. Soils with larger amounts of plant-available potassium contained larger amounts of nitric acid-soluble selenium. The relationship between plant-available phosphorus and mobile selenium content in soil was not established.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>163</start>
+          <end>167</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/e4.pdf</identifier>
+  </mods>
+</modsCollection>

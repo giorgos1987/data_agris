@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth, nutrient uptake and yield of tomato in response to different plant residue composts</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Togun</namePart>
+      <namePart type="given">Adeniyi Olumuyiwa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Protection and Environmental Biology, University of Ibadan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akanbi</namePart>
+      <namePart type="given">Wasiu Babatunde</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, Ladoke Akintola University of Technology, Ogbomoso.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adediran</namePart>
+      <namePart type="given">James Alabi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Soil and Water Management Programme, IAR&amp;T; Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The potentials of different plant residue composts as organic fertilizer on the growth, nutrient uptake and yield as well as economic performance of tomato (Lycopersicon esculentum) were studied in a two-season experiment. The plant residues used were maize (Ms), guinea grass (Gg) and cowpea stovers (Cs). The treatments studied were 2, 4 and 6 t ha-1 of each of the compost types and the recommended NPK fertilizer (N 60, P2O5 32, K2O 20 kg ha-1) and non-fertilized control plots as check. Compost types had significant effects on number of leaves and branches, dry matter as well as nutrient uptake of the test crop with the application of Ms compost consistently outperforming others. Compost rate had significant effect (P = 0.01) on the growth, nutrient uptake and yield of tomato. In most cases, application of 4 t ha-1 compost produced the best results. The fruit yield of 18.5 t ha-1 produced from the use of 4 t ha-1 compost was significantly higher than 14.1 and 14.4 t ha-1 obtained with application of 6 t ha-1 compost and conventional NPK fertilizer, respectively. Similar trend was observed for N and K uptake. There were significant interactions for compost types and rates. In most cases, Ms compost applied at 4 t ha-1 performed best. However, this was not (for many parameters) significantly different from 6.0 t ha-1 Ms or Gg compost treatments. The three agro-economic indicators (increased yield, increased net returns and benefit: cost ratio), employed in determining suitability of the applied treatments showed that the most profitable practice is the use of 4 t ha-1 Ms compost. This produced a favourable 3.3: 1 benefit: cost ratio and increased net return to the tunes of 39 to 86% per hectare above other treatments. From the results, application of 4 t ha-1 of Ms or Gg compost could be regarded as optimum for tomato production under the prevailing local conditions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>310</start>
+          <end>316</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a27.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>An evaluation of microbial load, heavy metals and cyanide contents of water sources, effluents and peels from three cassava processing locations</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Abiona</namePart>
+      <namePart type="given">O.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Engineering, LAUTECH, Ogbomoso.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sanni</namePart>
+      <namePart type="given">L.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, University of Agriculture, Abeokuta, PMB 2240, Abeokuta, 110001, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bamgbose</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Environmental Management and Toxicology, University of Agriculture, P. M. B. 2240, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Microbial load, heavy metals and cyanide contents of water sources and effluents from three processing locations (Ibadan, Abeokuta and Ilaro) were evaluated. Water samples and effluents were aseptically collected using sterile containers and analysed for microbial load, heavy metals and cyanide contents. The peels were also analysed for cyanide content. Water samples from cassava processing location at Ilaro had the highest microbial load with a value of 1.8×106cfu/ml. The values of fungi (1.1×102-2.0×102 cfu/ml) in water samples from Abeokuta were highest. In terms of coliform counts (0.9 x102-1.0×102cfu/ml), water samples from Ibadan and Ilaro were most contaminated. There were significant differences (P&lt; 0.05) in cyanide contents of peels and in Mn and Fe contents of effluent and water samples. Peels, effluents and water samples from cassava processing location at Ilaro recorded the highest values for cyanide, Mn and Fe respectively. There was no detectable level of Pb in effluents and water samples from Abeokuta and Ilaro.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>207</start>
+          <end>208</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/e1.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A comparison of growth regulators for adventitious shoot regeneration from hypocotyls of flax (Linum usitatissimum L.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Yildiz</namePart>
+      <namePart type="given">Mustafa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Field Crops, Faculty of Agriculture, Ankara University, 06110, Diskapi, Ankara, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Özgen</namePart>
+      <namePart type="given">Murat</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Field Crops, Faculty of Agriculture, Ankara University, 06110, Diskapi, Ankara, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Plant regeneration is a serious limiting factor to obtain transgenic plants in biotechnology. Flax (Linum usitatissimum L.) is one of the important crops for its high quality drying oil and fiber. Flax plants have been regenerated from hypocotyl segments using in vitro techniques. In the present study, the effect of different concentrations and combinations of benzylaminopurine (BAP), naphtalene acetic acid (NAA) and thidiazuron (TDZ) on shoot regeneration from hypocotyl explants of three flax cultivars was studied. The best results were obtained from the MS medium containing 1 mg l-1 BAP and 0.02 mg l-1 NAA as 1054, 944 and 800 mg in explant weight; 100.0, 96.7 and 70.0% in shoot regeneration; 9.8, 9.8 and 15.4 in shoot number per explant; 98.0, 96.0 and 108.0 in total shoot number per Petri dish from the cultivars Madaras, 1886 Sel. and Clarck, respectively. Increasing TDZ concentrations above 1 mg l-1 showed a toxic effect on explant and decreased shoot regeneration frequency significantly. Use of TDZ alone in flax in vitro culture was not recommended.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>171</start>
+          <end>174</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/a17.pdf</identifier>
+  </mods>
+</modsCollection>

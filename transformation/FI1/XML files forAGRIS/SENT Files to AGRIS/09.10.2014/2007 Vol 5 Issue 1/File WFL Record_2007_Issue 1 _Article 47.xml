@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Socio-economic factors influencing the adoption of sawah rice production technology in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fashola</namePart>
+      <namePart type="given">Oluwarotimi O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Watershed Initiative in Nigeria /Hirose Project- IITA, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oladele</namePart>
+      <namePart type="given">Oladimeji I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Extension and Rural Development, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alabi</namePart>
+      <namePart type="given">Martins O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Cereals Research Institute, Badeggi, Niger State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tologbonse</namePart>
+      <namePart type="given">Dele</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Agricultural Extension Research Liaison Services, Badeggi, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wakatsuki</namePart>
+      <namePart type="given">Toshiyuki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Kinki University, Nara, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study examined the socio-economic factors influencing the adoption of sawah rice production technology in Nigeria. The study was carried out in Bida area, Niger state, where the sawah rice production was disseminated by Watershed Initiative in Nigeria/Hirose Project through the support of the Japanese government. Simple random sampling technique was used to select rice growing farmers in the area covered by the project and primary data were collected through the use of a structured questionnaire on the objectives of the study. Descriptive statistics was used to analyze the socio- economic features of the farmers while the probit model was used to capture the socio-economic factors influencing the adoption of sawah rice production technology among rice growing farmers. The result of the probit model shows that four variables were statistically significant at various levels. These were membership of farmers association (t=2.91), educational level (t=1.65), length of residence in the village (t=2.11) and land ownership (t=1.91). All the significant variables were positively related to the probability of adoption except membership of farmers association that was inversely related to the probability of adoption of sawah technology.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>239</start>
+          <end>242</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e3.pdf</identifier>
+  </mods>
+</modsCollection>

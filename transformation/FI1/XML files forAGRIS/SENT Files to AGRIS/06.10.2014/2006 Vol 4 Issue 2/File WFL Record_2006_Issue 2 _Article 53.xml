@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Environmental impact of agricultural production practices in the savannas of northern Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Chianu</namePart>
+      <namePart type="given">Jonas N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>TSBF-CIAT, c/o World Agroforestry Centre (ICRAF), UN Avenue, Gigiri, P.O. Box 30677-00100, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tsujii</namePart>
+      <namePart type="given">Hiroshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Section of Bioresources Management, Department of Bioproduction Science, Faculty of Bioresources, Ishikwa Prefectural University, 1-308 Suematsu, Nonoichicho, Ishikawagun, Ishikawa, 921-8836 Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Awange</namePart>
+      <namePart type="given">Joseph</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Environment and Earth Sciences, Maseno University, P.M.B. Maseno, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study highlights the salient agricultural production practices that impact on the environment in the savannas of northern Nigeria. Due to population pressure on land and the need to maintain household food supplies farmers have increased their land-use intensity and natural resourcesnextraction practices that degrade the environment. Some agricultural production practices were, however, found to be environmental friendly. The study recommends remedial measures that have to be taken to avert agricultural production practices that predispose farmers to practices and extractive activities that undermine the environment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>255</start>
+          <end>260</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e2.pdf</identifier>
+  </mods>
+</modsCollection>

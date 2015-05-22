@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Application of hydrolyzed carrot pomace as a functional food ingredient to beverages</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Stoll</namePart>
+      <namePart type="given">Thomas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Technology, Section Plant Foodstuff Technology, Hohenheim University, Garbenstrasse 25, D-70599 Stuttgart, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schweiggert</namePart>
+      <namePart type="given">Ute</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Technology, Section Plant Foodstuff Technology, Hohenheim University, Garbenstrasse 25, D-70599 Stuttgart, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schieber</namePart>
+      <namePart type="given">Andreas</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Technology, Section Plant Foodstuff Technology, Hohenheim University, Garbenstrasse 25, D-70599 Stuttgart, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Carle</namePart>
+      <namePart type="given">Reinhold</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Food Technology, Section Plant Foodstuff Technology, Hohenheim University, Garbenstrasse 25, D-70599 Stuttgart, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Utilization of a carotene-rich functional food ingredient recovered through mechanical and enzymatic breakdown of the tissue of carrot pomace was evaluated by its application to model beverages based on cloudy apple juice, aiming at sustainable carrot juice production. Contrary to synthetic β-carotene supplements, the stability of the natural α- and β-carotene in the beverages proved to be excellent after 20 and 24 weeks storage under moderate and even intense illumination at 23 and 19 °C, respectively. Neither degradation nor isomerization were observed, thus confirming the extraordinary stability of carotenes in their natural matrix. Furthermore, cloud stabilities as determined by centrifugation and real time sedimentation tests were satisfactory. Although increasing proportions of pectin only slightly delayed sedimentation of coarse cloud particles, the positive effect of pectin was more pronounced with respect to improved serum turbidity of the beverages which might be ascribed to higher serum viscosity.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>88</start>
+          <end>92</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-79.pdf</identifier>
+  </mods>
+</modsCollection>

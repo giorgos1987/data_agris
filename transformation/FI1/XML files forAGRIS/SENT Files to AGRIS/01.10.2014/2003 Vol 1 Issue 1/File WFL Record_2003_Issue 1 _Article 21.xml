@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Estimating visual perception of rural landscapes using GIS: the influence of vegetation. The case of Esla Valley (Spain)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Hernández</namePart>
+      <namePart type="given">Julio </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University Centre of Plasencia, University of Extremadura, Avda, Virgen del puerto 2. 10600 Plasencia Cáceres, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">García</namePart>
+      <namePart type="given">Lorenzo </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University Centre of Plasencia, University of Extremadura, Avda, Virgen del puerto 2. 10600 Plasencia Cáceres, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Morán</namePart>
+      <namePart type="given">Julia </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University Centre of Plasencia, University of Extremadura, Avda, Virgen del puerto 2. 10600 Plasencia Cáceres, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Juan</namePart>
+      <namePart type="given">Andrés</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University Centre of Plasencia, University of Extremadura, Avda, Virgen del puerto 2. 10600 Plasencia Cáceres, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ayuga</namePart>
+      <namePart type="given">Francisco </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University Centre of Plasencia, University of Extremadura, Avda, Virgen del puerto 2. 10600 Plasencia Cáceres, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Vegetation can be considered an important factor in landscape planning and its effect needs to be analysed in the landscape
+model. Some problems, such as vegetation extension and distribution at the plot scale, are detected in the modelling process.
+In order to facilitate the handling of long series of data, we propose the use of computer simulation tools that could help to
+solve some of the problems. The Geographic Information Systems (GIS) are computer programs especially designed to enter,
+stock and represent territorial data. They are provided with user interfaces to facilitate the relationship between professionals
+and computers. The power of the GIS calculation module makes it possible to implement programming routines to run commands
+automatically. Vegetation could be incorporated in Digital Elevation Model (DEM) of the terrain, and therefore the landscape’s
+visual properties could be analysed from a three-dimensional point of view. This modelling process could be a useful tool for
+architects, planners and designers working on landscaping activities.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>139</start>
+          <end>141</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1E139-141estimating.pdf</identifier>
+  </mods>
+</modsCollection>

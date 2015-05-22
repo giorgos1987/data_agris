@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Transient expression of β-glucuronidase reporter gene in date palm (Phoenix dactylifera L.) embryogenic calli and somatic embryos via microprojectile bombardment</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Habashi</namePart>
+      <namePart type="given">Ali A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agriculture Biotechnology Research Institute of Iran (ABRII), Seed and Plant Improvement Institutes Campus, Mahdasht Road, Karaj, P. O. Box 31535-1897, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kaviani</namePart>
+      <namePart type="given">Mina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agriculture Biotechnology Research Institute of Iran (ABRII), Seed and Plant Improvement Institutes Campus, Mahdasht Road, Karaj, P. O. Box 31535-1897, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mousavi</namePart>
+      <namePart type="given">Amir</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Institute of Genetic Engineering and Biotechnology (NIGEB), Pajoohesh Blvd., 17th Km of Tehran -Karaj Highway, Tehran, P.O. Box 14155-6343, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khoshkam</namePart>
+      <namePart type="given">Soghra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agriculture Biotechnology Research Institute of Iran (ABRII), Seed and Plant Improvement Institutes Campus, Mahdasht Road, Karaj, P. O. Box 31535-1897, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The date palm, Phoenix dactylifera L. ‘Khorma’ (Persian), is an example of a tree crop that can benefit immediately from the applications of the modern biotechnology. Despite the importance as an economic plant, there is no report on its genetic transformation. Palm tree is the target for several pests and diseases, so it is necessary to focus on its in vitro propagation and genetic engineering technology (date palm transformation) to overcome some of these problems. The objective of this study was to identify the major parameters controlling DNA delivery by particle bombardment to date palm embryogenic calli and somatic embryos. The main factors studied were osmotic conditioning of explants before and after bombardment (osmotic and non-osmotic), type of explants (embryogenic callus and somatic embryo) and different bombardment parameters like acceleration pressure (900 and 1100 psi), bombardment distance (6 and 9 cm) and gold particle size (1 and 0.6 µm). Efficiency of DNA (gus gene) delivery was assessed by scoring transient GUS expression in bombarded tissues. Statistical analysis of blue spots produced by GUS histochemical assay showed that all parameters significantly affected the transient GUS expression. Results of mean comparison showed that GUS transient expression increased when 1.0 µm gold particle, 1100-psi rupture disk, 6 cm bombardment distance, osmotic medium and mature somatic embryos were used.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>160</start>
+          <end>163</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a4.pdf</identifier>
+  </mods>
+</modsCollection>

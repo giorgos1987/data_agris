@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Strategies to improve and sustain food production capacity in the savanna: The role of leguminous fodder crops in maintaining soil fertility and health</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odion</namePart>
+      <namePart type="given">E. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, Institute for Agricultural Research, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asiribo</namePart>
+      <namePart type="given">O. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Statistics, University of Agriculture, Abeokuta, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ogunlela</namePart>
+      <namePart type="given">V. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, Institute for Agricultural Research, Ahmadu Bello University, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Singh</namePart>
+      <namePart type="given">B. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, Sabo Bakin Zuwo Road, Kano, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tarawali</namePart>
+      <namePart type="given">S. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Livestock Research Institute/International Institute of Tropical Agriculture, Oyo Road, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soils of the African savanna are generally deficient in nutrients, a situation that has negative implications on crop and livestock intensification and hence on food security in Africa. The exclusive use of inorganic fertilizers to bring about increased crop production sometimes has negative impact on the soil. On the other hand, the adoption of fallow systems to rejuvenate the soils is becoming even impossible as a result of high population pressures, urbanization and industrialization. Alternative strategies for improving on and sustaining food production are therefore required. Organic manure availability is low since livestock population is low, and intensification without appropriate interventions could even worsen existing soil problems. The adoption of alley cropping is limited by the fact that its practice is restricted to the wetter regions. Modified forms of green manure, which involve the use of food/cash crops that farmers will accept and protect, if need be, are therefore suggested. Pigeon pea (Cajanus cajan L.) is persistent and, if intercropped with other crops, serves as a cover crop that will protect the soil against adverse weather conditions during the dry season. This legume crop can take up nutrients from the depth of the soil profile and also serve as green manure at the beginning of the next growing season. Clipping of dual-purpose cowpea at 7-8 weeks after planting (WAP) gives over one ton of fodder, which is available for green manuring. Over- seeded legumes can also be thinned down and the fodder so derived incorporated into the soil. Incorporated cowpea (Vigna unguiculata L.) fodder has good liming properties, which can correct soil acidity, improve soil fertility, and thus reduce the need for chemical fertilizer; while also controlling obnoxious weeds. Cowpea fodder can be fed to livestock, to produce rich organic manure for use by the farmer. Also, clipped lablab (Lablab purpureus L.), which has been observed to have good nutritive value as animal feed, could be used. In addition, other legumes such as soyabean (Glycine max L. Merril), which have been found to produce up to 20-89 kg N/ha in 42-63 days, can be grown as companion crops with cereals and can later be incorporated to supply N, among other nutrients. The farmer thus becomes a producer of his own N, instead of entirely relying on imported inorganic fertilizers.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>338</start>
+          <end>344</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/e18.pdf</identifier>
+  </mods>
+</modsCollection>

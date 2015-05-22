@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Molecular characterization of almond cultivars and related wild species using nuclear and chloroplast DNA markers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Zeinalabedini</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, College of Agriculture, University of Tabriz, Tabriz, Iran. Department of Plant Breeding, CEBAS-CSIC, P.O.Box 164, 30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Majourhat</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculté des Sciences Semlalia, University Cadi-Ayyad of Marrakech, Morocco. Department of Plant Breeding, CEBAS-CSIC, P.O.Box 164, 30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khayam-Nekoui</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agriculture Biotechnology Research Institute of Iran (ABRII), Teheran, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Grigorian</namePart>
+      <namePart type="given">V.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, College of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Toorchi</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, College of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dicenta</namePart>
+      <namePart type="given">F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Breeding, CEBAS-CSIC, P.O.Box 164, 30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Martínez-Gomez</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Breeding, CEBAS-CSIC, P.O.Box 164, 30100 Espinardo, Murcia, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The genetic diversity of different accessions of several wild almond species including P. eleagnifolia, P. hausknechtii, P. scoparia and P. lycioides,endemic to Irano-Afghan plate, was investigated using nuclear and chloroplast DNA markers. In addition, five cultivated almond cultivars (Marta from Spain; Nonpareil and Mission from USA; Ferrangnes from France and Tuono from Italy) were included in the study. Diversity was analysed at the DNA level by means of 16 nuclear and 5 chloroplast pairs of primers flanking SSR sequences. In 45 accessions, the number of alleles per locus in nuclear microsatellites ranged from 7 to 16, and expected heterozygosity varied between 0.54 and 0.93 with average PIC value of 0.81. It showed that they represent rather polymorphic species. In the case of chloroplast SSR, the polymorphism observed was much lesser in agreement with higher level of conservation of the chloroplast DNA. Therefore, nuclear microsatellites have been the most abundant markers with a high polymorphism and level of transference across closely related species in comparison with the others. In addition, results indicated the high variability present in the S-locus. Hierarchical analysis using integrated nuclear and chloroplastic microsatellite data yielded best clustering with six logical clusters or groupings corresponding to the different subgenus and sections.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>242</start>
+          <end>247</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a15.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Migration of husbands, remittances and agricultural production: Impacts when wives are left to manage households in rural Kenya</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kiriti-Nganga</namePart>
+      <namePart type="given">Tabitha W.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Nairobi, P.O. Box 30197-00100, Nairobi, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This article investigates the forces leading to migration of husbands from rural Kenya, the economic situation and activities of wives with migrant husbands, receipt and use of remittances by wives and the possible influences of remittances on capital formation in rural Kenya, using the Nyeri district as a case study. Although the residual sample of rural wives whose husbands have migrated to urban areas in Kenya is small, the analysis of this sample highlights several important points worthy of further investigation. It seems that rural husbands who migrate from rural Kenya have limited education and skills and are mostly pushed out of rural areas rather than pulled. The wives seem not to be empowered in relation to economic and family decision-making. The husband and his relatives retain control of important economic and household decisions and this has negative impacts on agricultural productivity. The wives are hampered by their relative lack of access to agricultural extension officers, finance for farm investment and capital resources for use on their farm. Probit analysis suggests that the probability of a wife obtaining remittances from a migrant husband declines with the number of years of his absence and the age of the wife but increases with the number of her dependent children and whether or not she employs hired labour. Duration of migration is important in explaining the amount of remittances but not in explaining the likelihood of wives receiving remittances. Overall indications are that remittances are mostly motivated by altruism or social obligation of the migrant to his family. This study was limited by lack of resources but nonetheless provides useful pointers to further research.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>251</start>
+          <end>260</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/e3.pdf</identifier>
+  </mods>
+</modsCollection>

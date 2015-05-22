@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Does the amount of phenolic compounds depend on olive varieties?</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kharazi</namePart>
+      <namePart type="given">Parvin Ramezani</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Chemistry Department, Guilan University, Rasht, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Olive oil is the only vegetable oil which contains appreciable amounts of polyphenols acting as antioxidant substances and conferring to it a greater stability against oxidation. The purpose of this study was to screen these compounds in three variety of Iranian olive (Shanghe, Roghani and Zard) that are cultivated in north of Iran. In this work HPLC, GC and GC-Mass have been used for characterization of phenolic compounds, triacylglycerols and fatty acids. The qualitative and quantitative analysis of olive oil showed significant amount of phenolic compounds in var. Roghani and Zard. Hydroxytyrosol, caffeic acid and syringic acid were identified only in Zard cultivar, but tyrosol, cinnamic acid and hydroxycinnamic acid have been found in all three cultivars, although their amounts varied in each cultivar. The three varieties differed in fatty acid and triacylglycerol composition. Higher amount of monounsaturated oleic acid (C18:1) and lower one of linoleic acid was obtained for var. Roghani. The difference in magnitude of the phenol content and the kind of phenolic components depended mainly on the cultivar of olive fruits.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>125</start>
+          <end>129</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f22.pdf</identifier>
+  </mods>
+</modsCollection>

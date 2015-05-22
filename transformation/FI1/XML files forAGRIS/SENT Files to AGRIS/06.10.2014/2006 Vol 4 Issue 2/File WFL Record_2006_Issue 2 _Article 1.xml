@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Evidence that sensitivity to 6-n-propylthiouracil (PROP) affects perception of retro-nasal aroma intensity</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pickering</namePart>
+      <namePart type="given">Gary J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Sciences, Brock University, St. Catharines, L2S 3A1, Canada. Cool Climate Oenology and Viticulture Institute, Brock University, St. Catharines, L2S 3A1, Canada. Department of Psychology, Brock University, St. Catharines, L2S 3A1, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Haverstock</namePart>
+      <namePart type="given">Gina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biological Sciences, Brock University, St. Catharines, L2S 3A1, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">DiBattista</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Psychology, Brock University, St. Catharines, L2S 3A1, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>6-n-propylthiouracil (PROP) is widely used for bitterness sensitivity tests, and individuals can be classified as being non-tasters (NT), medium-tasters (MT) or super-tasters (ST), with the last group giving the highest ratings to PROP. These perceptual differences can be very pronounced and extend to other compounds and taste modalities. We investigated whether this differential taste sensitivity between individuals extends to perception of aroma. Using a balanced, replicated design, 46 subjects (NT=15, MT=16, ST=15) used the Labeled Magnitude Scale to rate the intensity of aqueous solutions containing one of 3 odorants (acetaldehyde, diacetyl, and linalool) presented at 3 concentrations under 4 conditions: (C1) ortho-nasally, (C2) retro-nasally, (C3) retro-nasally with the addition of an astringent stimulant (aluminium sulfate) and (C4) retro-nasally with the addition of a bitter stimulant ((-)-epicatechin). Unexpectedly, ST rated odor intensities higher than NT and MT in C2, C3 and C4. Taken overall, the data suggest a ‘global’ advantage for ST with respect to perception of olfactory stimuli.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>15</start>
+          <end>22</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f1.pdf</identifier>
+  </mods>
+</modsCollection>

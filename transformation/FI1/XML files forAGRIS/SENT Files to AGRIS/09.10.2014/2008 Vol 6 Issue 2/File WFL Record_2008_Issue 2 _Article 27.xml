@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>N and K nutrition levels affect growth and essential oil content of costmary (Tanacetum balsamita L.)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Hassanpouraghdam</namePart>
+      <namePart type="given">M. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Tabriz 51666, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tabatabaie</namePart>
+      <namePart type="given">S. J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, University of Tabriz 51666, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nazemiyeh</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Drug Applied Research Center, Faculty of Pharmacy, Tabriz University of Medical Sciences, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aflatuni</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agrifood Research Finland, Horticulture, Toivonlinnantie 518, FI-21500 Piikkiö, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Vegetative growth and essential oil content of costmary (Tanacetum balsamita L.) were evaluated in response to N and K. Experimental treatments included different concentrations of N (100, 200, 300 and 400 mg L-1) and K (100 and 200 mg L-1) based on the modified Hoagland’s nutrient solution. Results showed that fresh and dry weight of plants increased by increasing N concentration up to 200 mg L-1 in the nutrient solution. The highest leaf number was observed in 200 mg L-1 N. Chlorophyll content of leaves increased significantly by adding nitrogen concentration in the nutrient solution up to 400 mg L-1. However, K concentration had no effect on the chlorophyll content. N and K treatment combinations in the solution affected growth characteristics and essential oil content of costmary, so that the highest essential oil content (0.54%) and yield (11 ml m-2) were obtained in N200K200 treatment. Essential oil content in N200K200 treatment was 8% higher than that of N400K100 treatment. Moreover, essential oil yield in N200K200 treatment was 35% higher than that of N100K100 treatment. N and K treatment combinations influenced fresh and dry weight of leaves (medicinal material), and the greatest amount was recorded in N200K200, which had the highest leaf area as well. The total net photosynthesis was affected by treatments, and the highest data was recorded in N200K100 treatment. Different concentrations of N and K influenced height of the plants, the greatest height being observed in N200K200 treatment. It can be concluded that different concentrations of N and K have remarkable effects on the growth and essential oil content of costmary.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>150</start>
+          <end>154</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a2.pdf</identifier>
+  </mods>
+</modsCollection>

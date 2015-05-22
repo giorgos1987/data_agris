@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Screening of potential gibberellin producing Fusarium strains for the hybrid rice production</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Srivastava</namePart>
+      <namePart type="given">Avinash C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Biochemistry and Plant Physiology, Sher-e-Kashmir University of Agricultural Sciences &amp; Technology, RS Pura, Jammu-181102, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ahamad</namePart>
+      <namePart type="given">Shahid</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Plant Pathology, RARS, Sher-e-Kashmir University of Agricultural Sciences &amp; Technology, Rajouri, Jammu, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Agarwal</namePart>
+      <namePart type="given">D. K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Plant Pathology, Indian Agricultural Research Institute, New Delhi-110 012, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sarbhoy</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Division of Plant Pathology, Indian Agricultural Research Institute, New Delhi-110 012, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Nineteen Fusarium strains were screened to select potential strains for the production of gibberellin in the culture media in flasks. Quantitative estimation of gibberellin from different strains of Fusarium was done spectrophotometrically which showed presence of gibberellin in variable amounts. Range of gibberellin production varied between 0.66 to 600 mg g-1 dry weights of the mycelium. However, most of the strains produced 50-180 mg gibberellin on mycelium dry weight basis. Fungal strains were classified as low producer (≥100 mg), moderate producer (100-250 mg) and high producer (&lt;250 mg). Thin layer chromatography and high performance liquid chromatographic separation confirmed the presence of GA3, GA4 and GA7 in the sample. Effect of culture filtrate of the three isolates, one from each category (low, moderate and high) showed significant increase in the second leaf length of rice (Pusa 5A CMS Line) and it could be used to produce droopy leaves in male sterile lines for more hybrid rice production.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>250</start>
+          <end>253</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-agriculture-91.pdf</identifier>
+  </mods>
+</modsCollection>

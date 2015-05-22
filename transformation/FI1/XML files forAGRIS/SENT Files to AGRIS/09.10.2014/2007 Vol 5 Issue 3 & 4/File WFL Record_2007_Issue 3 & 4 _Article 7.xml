@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Seasonal variations in the chemical and functional properties of starches from local and improved cassava varieties in high rainfall region of Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Eke</namePart>
+      <namePart type="given">J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Rivers State University of Science and Technology, Nkpolu, Port Harcourt, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Achinewhu</namePart>
+      <namePart type="given">S. C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Rivers State University of Science and Technology, Nkpolu, Port Harcourt, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sanni</namePart>
+      <namePart type="given">L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, University of Agriculture, Abeokuta, Nigeria. International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Barimalaa</namePart>
+      <namePart type="given">I. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Rivers State University of Science and Technology, Nkpolu, Port Harcourt, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maziya-Dixon</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dixon</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The aim was to investigate the chemical and functional properties of starches produced from 39 different cassava varieties (36 varieties resistant to cassava mosaic disease and three checks TMS 30572, 4(2) 1425 and 82/00058) in two planting seasons at the experimental farm of the International Institute of Tropical Agriculture, Onne, Rivers State, Nigeria. Varieties screened showed significant seasonal and varietal differences (p&lt;0.05) in all the properties over two harvesting seasons. Amylose content ranged from 19.25 to 25.08% in Year 1 and from 16.19 to 20.29% in Year 2; amylopectin ranged from 77.88 to 79.71% in Year 1 and from 80.75 to 83.71% in Year 2. Protein content ranged from 0.7 to 1.06% in Year 1 and from 0.06 to 0.34% in Year 2. Sugar content ranged from 0.39 to 1.45% in Year 1 and from 0.52 to 1.13 % in Year 2. Starch damage ranged from 0.81 to 1.67% in Year 1 and from 0.58 to 0.89% in Year 2. pH ranged from 3.73 to 6.88 in Year 1 and from 5.25 to 9.30 in Year 2. Moisture content ranged from 7.47 to 14.55% in Year 1 and from 7.51 to 15.52% in Year 2. Ash content ranged from 0.05 to 0.36% in Year 1 and from 0.03 to 0.77% in Year 2. Starch content ranged from 61.36 to 91.78% in Year 1 and from 64.67 to 84.21% for Year 2. Dispersibility ranged from 79.50 to 87% in Year 1 and from 79.50 to 85.50% in Year 2. Swelling power ranged from 10.91 to 17.47% in Year 1 and 8.57 to 14.28% in Year 2. Solubility index ranged from 4.68 to 26.36% in Year 1 and from 2.07 to 14.36% in Year 2. Color ranged from 85.05 to 94.49% in Year 1 and from 90.27 to 92.96% in Year 2. The study therefore showed significant genotypic and seasonal variations in the chemical and functional properties of native starches from cassava.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>36</start>
+          <end>42</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f7.pdf</identifier>
+  </mods>
+</modsCollection>

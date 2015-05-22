@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of precooling delay on the quality of stored sweet corn</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Vigneault</namePart>
+      <namePart type="given">??</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gariépy</namePart>
+      <namePart type="given">Yvan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, Canada, J3B 3E6. Now working at: Agricultural and Biosystems Engineering Department, Macdonald Campus of McGill University, 21,111 Lakeshore, Sainte-Anne-de-Bellevue, Québec, Canada, H9X 3V9.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Roussel</namePart>
+      <namePart type="given">Dominique</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Goyette</namePart>
+      <namePart type="given">Bernard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Agri-Food Canada, 430 Gouin, Saint-Jean-sur-Richelieu, Québec, Canada, J3B 3E6.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Sweet corn (cv. Incredible) was precooled by showering with cold water 2, 4, 8, or 12 h after harvest. Groups were stored for 3, 6, 9 or 12 days at 0°C and 95% relative humidity. Quality assessments were made based on subjective indices and total reducing sugars in the kernels were measured using a phenol/sulfuric acid colorimetric method. The data suggested that loss in quality and sugar content during the first 6 days of storage could be attributed to both the precooling delay and the storage time. The quality and sugar content were highest over the first 6 days when the precooling delay was held to 2 h. For longer storage time, the effect of precooling delay on quality or sugar content was not detectable. It is recommended that further studies narrow down the permissible precooling delay in the range 1 to 4 h.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>71</start>
+          <end>73</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f12.pdf</identifier>
+  </mods>
+</modsCollection>

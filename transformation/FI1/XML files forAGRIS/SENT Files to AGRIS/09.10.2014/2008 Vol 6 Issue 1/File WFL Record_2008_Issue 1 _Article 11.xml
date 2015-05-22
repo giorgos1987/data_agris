@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Levels of benzoic and sorbic acid preservatives in commercially produced yoghurt in Lebanon</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mroueh</namePart>
+      <namePart type="given">Mohamad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lebanese American University, School of Pharmacy, Byblos, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Issa</namePart>
+      <namePart type="given">Dina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lebanese American University, School of Pharmacy, Byblos, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khawand</namePart>
+      <namePart type="given">Jesele</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lebanese American University, School of Pharmacy, Byblos, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Haraty</namePart>
+      <namePart type="given">Bassam</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Lebanese American University, School of Pharmacy, Byblos, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Malek</namePart>
+      <namePart type="given">Amal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>American University of Beirut, Department of Nutrition and Food Science, Riad El Solh 1107 2020, Beirut, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Toufeili</namePart>
+      <namePart type="given">Imad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>American University of Beirut, Department of Nutrition and Food Science, Riad El Solh 1107 2020, Beirut, Lebanon.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kassaify</namePart>
+      <namePart type="given">Zeina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>American University of Beirut, Department of Nutrition and Food Science, Riad El Solh 1107 2020, Beirut, Lebanon.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Benzoic and sorbic acids and their salts are extensively used in the preservation of foods. Their levels of use in different food products are regulated by national and international regulatory agencies. Benzoic acid occurs naturally in yoghurt and no reference exists as to its deliberate use in the preservation of this cultured dairy product. Sorbic acid levels up to 1000 mg kg-1 are allowed by country regulations in yoghurt production presumably to ensure a reasonable commercial shelf life. High-performance liquid chromatography (HPLC) is extensively used in the determination of benzoate and sorbate in foods. Thirty samples of commercial yoghurt, produced in Lebanon, were analysed by HPLC for their contents of benzoic and sorbic acids. All samples contained benzoic acid with levels ranging between 12 and 479.1 mg kg-1 and 14 samples contained in addition sorbic acid amounts in the range of 83.9 and 3719.1 mg kg-1. Indigenous benzoic acid levels in laboratory-produced yoghurt, under aseptic conditions, ranged between 5.5 and 14.7 mg kg-1 after storage for 4 weeks. The results indicate that benzoic acid levels higher than those could be attributed to the microbial activity of the starter cultures and sorbic acid amounts higher than those set by regulatory agencies are used in yoghurt production. Application of good manufacturing practices by dairy processors and closer monitoring of preservatives levels by regulatory agencies are warranted to reduce levels of usage of benzoic and sorbic acids in yoghurt production.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>62</start>
+          <end>66</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/f11.pdf</identifier>
+  </mods>
+</modsCollection>

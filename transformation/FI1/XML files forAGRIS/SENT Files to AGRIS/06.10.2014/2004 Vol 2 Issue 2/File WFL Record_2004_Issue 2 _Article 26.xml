@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Fate of Salmonella in baby powder milk</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dhiaf</namePart>
+      <namePart type="given">Amel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Recherche en Microbiologie et Santé, Hôpital de circonscription de Ksour Essef, Rue Salacta, 5180 Mahdia, Tunisia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chnity</namePart>
+      <namePart type="given">Neziha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Recherche en Microbiologie et Santé, Hôpital de circonscription de Ksour Essef, Rue Salacta, 5180 Mahdia, Tunisia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bakhrouf</namePart>
+      <namePart type="given">Amina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Analyse et de Contrôle des Polluants Chimiques et Microbiologiques, Ministère de la Recherche Scientifique et de la Technologie, Faculté de Pharmacie de Monastir, 5000 Monastir, Tunisia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Gastroenteritis infections due to Salmonella species caused significant morbidity and mortality at 3 Tunisian hospitals from February 2000 through July 2000. Infective baby powder milk is the main cause of this epidemiology. The recovery of injured Salmonella was experimentally obtained by long-term incubation in nutrient broth and also, by gastrointestinal tracts passage into mice. The germ appeared in several organs (stomach, intestines, liver and lungs).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>149</start>
+          <end>150</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f26.pdf</identifier>
+  </mods>
+</modsCollection>

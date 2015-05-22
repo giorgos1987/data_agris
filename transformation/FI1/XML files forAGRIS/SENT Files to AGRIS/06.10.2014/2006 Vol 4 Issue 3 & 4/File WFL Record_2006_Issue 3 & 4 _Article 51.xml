@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of community participation on perception of sustainability of rural water projects in Oyun local government area of Kwara State, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akinbile</namePart>
+      <namePart type="given">L.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agric. Extension &amp; Rural Development, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oladoja</namePart>
+      <namePart type="given">M.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agric. Extension &amp; Rural Sociology, Olabisi Onabanjo University, Ago–Iwoye, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Awoniyi</namePart>
+      <namePart type="given">F.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agric. Extension &amp; Rural Development, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adisa</namePart>
+      <namePart type="given">B.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agric. Extension &amp; Rural Sociology, Olabisi Onabanjo University, Ago–Iwoye, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study was carried out to investigate the perceived effect of community participation on the sustainability of rural water projects in Oyun local government area of Kwara State. Six wards were randomly selected out of the eleven wards in the local government and one village was purposively selected from each ward based on the presence of rural water projects. Twenty respondents were interviewed in each village, giving a total sample size of 120 respondents. Results of the study showed that the respondents were not involved in technical aspects of the project planning and implementation, but only in fund and people mobilization. Generally, respondents had a favorable perception towards the sustainability of the water projects, as they are perceived as felt needs. Test of relationship showed that level of community organization and participation in water project were found to be significantly related (r = 0.315; p = 0.00). The water was perceived to be clean and drinkable, assessable, well constructed/treated and available throughout the year. Respondents were willing to contribute to the maintenance of the projects. Also, low level of participation as well as people’s low level of organization as a community did not affect their perception of sustainability of the projects since the projects affected their felt needs. However, their level of organization as a community affected their participation in the planning and implementation of the projects positively. Based on the findings of this study, it is recommended that efforts should be made to discover people’s felt needs through their involvement before planning or implementing projects as it is shown that this enhances their participation. This will ensure sustainability of such projects.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>257</start>
+          <end>261</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e12.pdf</identifier>
+  </mods>
+</modsCollection>

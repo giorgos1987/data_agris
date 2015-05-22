@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Incidence and management of mosaic and leaf curl diseases in cultivars of chilli (Capsicum annuum)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">Sajid M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Molecular Virology Division and National Botanical Research Institute, Rana Pratap Marg, Lucknow-226001, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Raj</namePart>
+      <namePart type="given">Shri Krishna</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Molecular Virology Division and National Botanical Research Institute, Rana Pratap Marg, Lucknow-226001, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bano</namePart>
+      <namePart type="given">Tahseen</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Soil Science Laboratory, National Botanical Research Institute, Rana Pratap Marg, Lucknow-226001, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Garg</namePart>
+      <namePart type="given">Vijay K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Soil Science Laboratory, National Botanical Research Institute, Rana Pratap Marg, Lucknow-226001, India</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Natural incidence of severe mosaic and leaf curl diseases was observed on various cultivars of chilli (Capsicum annuum) grown at Banthra research station of N.B.R.I., Lucknow. The virus isolates causing mosaic and leaf curl diseases in chilli cultivars were transmitted by aphids and whiteflies respectively. Cucumber mosaic virus was detected from the samples showing severe or mild mosaic symptoms by dot blot hybridization tests using cloned probe of a cucumovirus and confirmed by RT-PCR. While a geminivirus was found to be associated with the leaf curl disease as evidenced by dot blot tests and PCR using geminivirus detecting primers. Regular spraying of insecticide at every 21 days interval was found to be effective for management of these diseases. An improvement in growth and yield performance of treated plants was noticed as compared to the non-treated plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>171</start>
+          <end>174</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a7.pdf</identifier>
+  </mods>
+</modsCollection>

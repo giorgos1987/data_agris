@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quality deterioration of Malaysian Patin fish during cold storage</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Abbas</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Engineering, Universiti Putra Malaysia,43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mokhtar</namePart>
+      <namePart type="given">A. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Engineering, Universiti Putra Malaysia,43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sapuan</namePart>
+      <namePart type="given">S. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Engineering, Universiti Putra Malaysia,43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mawlood</namePart>
+      <namePart type="given">M.K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Engineering, Universiti Putra Malaysia,43400 Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The present paper deals with quality deterioration of Malaysin Patin fish during cold storage in the temperature range of 0 to 10°C. A fresh batch of typical samples was stored in four chillers of different temperatures for a period of 28 days. During the course of storage, the samples were subjected to pH and sensory tests periodically performed by trained panelists. A correlation was developed between the sensory tests and the storage time and temperatures via the acidity (pH) test. The correlation was presented graphically to form simple tool to the fish market retailers by which the quality and the shelf life of the displayed fish commodity could be estimated.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>88</start>
+          <end>91</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/f15.pdf</identifier>
+  </mods>
+</modsCollection>

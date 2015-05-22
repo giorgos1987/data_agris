@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of high-pressure treatment on survival of Escherichia coli O157:H7 population in tomato juice</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Bari</namePart>
+      <namePart type="given">Md. Latiful</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Food Research Institute, Kannondai-2-1-12, Tsukuba, Ibaraki 305-8642, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ukuku</namePart>
+      <namePart type="given">Dike O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Safety Intervention Technologies Research Unit, Eastern Regional Research Center, Agricultural Research Service, U.S. Department of Agriculture, 600 East Mermaid Lane, Wyndmoor, Pennsylvania 19038, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mori</namePart>
+      <namePart type="given">Mayuka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ifuji Sangyou Co. Ltd, Sakadocho 4476-17, Mito, Ibaraki 310-0841, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kawamoto</namePart>
+      <namePart type="given">Shinichi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Food Research Institute, Kannondai-2-1-12, Tsukuba, Ibaraki 305-8642, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yamamoto</namePart>
+      <namePart type="given">Kazutaka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Food Research Institute, Kannondai-2-1-12, Tsukuba, Ibaraki 305-8642, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Liquid foods have been implicated in numerous food-borne outbreaks and recalls. Tomato juice and phosphate buffer saline inoculated with Escherichia coli 0157:H7 at 108 cfu/ml was exposed to continuous or repeated cycles of high-pressure (300 to 600 MPa) treatment at 25°C. Treatments using moderate pressure at 300, 350 and 400 MPa for up to 60 min reduced the population of inoculated E. coli O157:H7 by approximately 3.0, 3.0 and 5.0 log cycles, respectively in tomato juice. Population of E. coli O157:H7 in all samples tested was decreased when temperature was increased from 30 to 40°C. However, increase in temperature and a 600 MPa pressure resulted in more sub-lethal injury on cells inoculated in phosphate buffer than tomato juice. It appeared that the acidity of the tomato juice killed and prevented recovery of the injured bacteria. Repeating the pressure 4 times at 300 MPa for a total of 40 min at room temperature was significant (p&lt;0.05) in reducing E. coli population by extra 1.0 log. The results of this study suggest that repeating high-pressure treatment at least 4 times at 300 MPa for a total of 40 min would inactivate more E. coli O157:H7 strains in tomato juice than using continuous pressure for the same amount of time.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>111</start>
+          <end>115</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f23.pdf</identifier>
+  </mods>
+</modsCollection>

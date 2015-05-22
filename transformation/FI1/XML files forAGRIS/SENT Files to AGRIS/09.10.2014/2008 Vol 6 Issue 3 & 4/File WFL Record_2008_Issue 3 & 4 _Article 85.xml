@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Selective nematicidal activity of nicotine</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Yu</namePart>
+      <namePart type="given">Qing</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Invertebrate Biodiversity/Environmental Health Program, Agriculture and Agri-Food Canada, 960 Carling Avenue, Ottawa, ON, K1A 0C6, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Potter</namePart>
+      <namePart type="given">John W.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>??</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The nematicidal activity of nicotine was tested in vitro against soil free-living nematode Caenorhabditis elegans, soybean cyst nematode Heterodera glycines, sugar beet cyst nematode H. schachtii, northern root-knot nematode Meloidogyne hapla, southern root-knot nematode M. incognita and root lesion nematodes Pratylenchus crenatus, P. neglectus and populations of P. penetrans from strawberry and tobacco fields. The toxicities of nicotine against these nematodes were highly variable ranging from toxic to most of the nematodes to non-toxic on P. penetrans population originating from tobacco fields. The LD50 values against these nematodes were 46.1, 4.5, 37.3, 3.3, 51.6, 3.2, 4.9, 12.4 and 1450.7 µg/ml, respectively. Nicotine strongly inhibited hatching of cysts of H. glycines and eggs of M. hapla and M. incognita and strongly stimulated hatching of cysts of H. schachtii. No phytotoxicity of nicotine was found with many common food crops. This paper is the first to report the stimulatory effect of nicotine on hatching of cysts of H. schachtii and the insensitivity of P. penetrans population from tobacco fields towards the chemical.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>428</start>
+          <end>432</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e6.pdf</identifier>
+  </mods>
+</modsCollection>

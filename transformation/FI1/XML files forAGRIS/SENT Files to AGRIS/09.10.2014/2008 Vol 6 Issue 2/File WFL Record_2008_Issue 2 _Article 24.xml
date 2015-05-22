@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Antimicrobial activity of selected Jordanian medicinal plant extracts against pathogenic microorganisms</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Dababneh</namePart>
+      <namePart type="given">Basem F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Nutrition and Food Processing, Faculty of Agricultural Technology, Al-Balqa’a Applied University, P.O.Box 7474, Al-Salt 19117, Jordan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Antimicrobial activity of crude extracts from five commonly used medicinal plants in Jordan, Teucrium polium, Dianthus caryophyllus, Carthamus tinctorium, Ammi visnaga and Artemisia herba–alba were evaluated against four pathogenic microorganisms over a wide range of concentrations (50-5000 ppm). Minimum inhibition concentration (MIC) and the diameter of inhibition zone (DIZ) were determined by in vitro bioassays using hole-plate diffusion method against Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli and Candida albicans. All tested crude plant extracts significantly exhibited antimicrobial activity and inhibited the growth of Gram-positive and Gram-negative bacteria as well as C.albicans. The only exception was T. polium which showed no activity against the tested fungus at all tested concentrations. Antimicrobial activity was directly proportional to the tested concentrations. The most active antimicrobial effect was recorded for D. caryophyllus extract against C.albicans at MIC 800 ppm (DIZ = 25 mm), S. aureus at MIC 2000 ppm (DIZ = 20 mm) and P. aeruginosa at MIC 2000 ppm (DIZ = 10 mm). A. visnaga extract possessed the highest inhibitory effect on E. coli at MIC 800 ppm (DIZ = 9 mm). This study shed the light on the ability of extracts from Jordanian medicinal plants to combat pathogens which will help as natural antimicrobial agents as well as can be used in pharmaceutical and food preservation systems.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>134</start>
+          <end>139</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f24.pdf</identifier>
+  </mods>
+</modsCollection>

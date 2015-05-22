@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Phenolic compounds, ascorbic acid, carotenoids and antioxidant properties of green, red and yellow bell peppers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Zhang</namePart>
+      <namePart type="given">Donglin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Science of Functional Foods, Graduate School of Agriculture, Shinshu University, 8304 Minami-minowa, Kami-ina, Nagano 399-4598 Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hamauzu</namePart>
+      <namePart type="given">Yasunori</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Science of Functional Foods, Graduate School of Agriculture, Shinshu University, 8304 Minami-minowa, Kami-ina, Nagano 399-4598 Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Different colored bell peppers (Capsicum annuum L.), green, red, and yellow were examined for their content of phenolic compounds, ascorbic acid and carotenoids as well as free radical scavenging activity using DPPH assay and antioxidant activity using β-carotene/linoleic acid assay. Phenolic, ascorbic acid and carotenoid contents varied in different colored bell peppers. Green pepper had higher level of phenolics than red and yellow peppers. Red pepper had higher content of ascorbic acid than green and yellow peppers. Red and yellow peppers showed higher in carotenoid content than green peppers. In the methanol extracts red pepper showed a higher level of DPPH radical scavenging activity compared to green and yellow peppers, while green pepper showed the highest in the phenolic extracts. DPPH radical scavenging activity in the phenolic extracts accounted for 4.6-11.7% of that in the methanol extracts. The radical scavenging activity in the methanol extracts was mainly from ascorbic acid and phenolic compounds. In the antioxidant activity assay, green pepper showed the highest activity in the phenolic extracts among three coloured peppers. However, a pro-oxidant effect was observed with the methanol extracts.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>22</start>
+          <end>27</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-13.pdf</identifier>
+  </mods>
+</modsCollection>

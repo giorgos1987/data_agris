@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Survivability and growth response of tree seedlings in the semi-arid Nigeria as influenced by conservative agents and irrigation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ramalan</namePart>
+      <namePart type="given">A.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Engineering Department, Ahmadu Bello University, P.M.B. 1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adeiza</namePart>
+      <namePart type="given">S.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Engineering Department, Ahmadu Bello University, P.M.B. 1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study examined the applicability of conservative agents and supplemental irrigation in minimizing the problem of tree seedling establishment in the semi arid-region of Nigeria. Four tree species (Azadirachta indica, T1; Anacardium occidentale, T2; Citrus limon, T3 and Khaya senegalensis, T4), three conservative agents (bare, C1; PAM, C2; and bark mulch, C3) and two irrigation levels (irrigation, W1 and no irrigation, W2) were arranged as a 4x3x2 factorial experiment and laid out in a randomized complete block design. The Jensen-Haise model for estimating potential evapotranspiration rate was used while irrigation scheduling based on the water budgeting technique was adopted. From observation on tree seedlings, analysis for the number of surviving seedlings, LSId, BId and growth vigour seventeenth weeks after transplant were made. Tree species T3 had the highest survivability, followed by T4 and T1, while T2 had the least. Seedlings on C3 had the best survivability while those on plots with C2 had least survivability. Use of bark mulch C3 enhanced survivability of T2 and T1 while the incorporation of the cross-linked polyacrylamide C2 in the soil resulted in massive mortality of the trees. Irrigation had no effect on survivability. Growth performance analyses indicate that there was a significant difference in the effect of tree species and conservative agents. Even though the growth performance of seedlings that received supplemental irrigation was twice better than those not irrigated, effect of supplemental irrigation was nonetheless not significant. Tree species T4 had overall superior performance, next was T3 and T2 was the least. T4 also recorded the best mean growth vigour while T1 had the least.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>459</start>
+          <end>463</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/e23.pdf</identifier>
+  </mods>
+</modsCollection>

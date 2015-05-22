@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Mechanization for harvesting and processing dryland plants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rössel</namePart>
+      <namePart type="given">Dietmar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Postgraduate College, Campus San Luis Potosí, Iturbide 73, Salinas de Hgo., S.L.P. C.P. 78600, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ortiz-Laurel</namePart>
+      <namePart type="given">Hipolito</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Postgraduate College, Campus San Luis Potosí, Iturbide 73, Salinas de Hgo., S.L.P. C.P. 78600, México.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">García</namePart>
+      <namePart type="given">H.M. Durán</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, Av. Dr. Manuel Nava 8, Zona Universitaria. Universidad Autónoma de San Luis Potosí. 78290 México.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Agricultural mechanization in Mexico still ranges from hand tools, tools for draught animals to mechanized equipment. Agricultural production concentrates on cereals for domestic consumption, where big machines, tillage tools, planters, fertilizing and spraying equipment have reached a high level of development. At present the mechanization index is 0.443 kW/ha of energy applied on farming activities for commercial agriculture. Two thirds of the Mexican territory is semiarid, where successful agriculture depends upon low, seasonal and variable rainfall. Rising and processing of non-traditional plants in these regions is an alternative for poor farmers to raise their income, however, it requires of adequate mechanization tools and techniques according to yield and quality demands. Some of these products are cactus pear fruit (“tunas”), lechuguilla (Agave lechuguilla) to obtain fibers and “maguey” molasses to produce liquors. However, to harvest and process them to a suitable standard quality it is required a lot of labor and hard work, and despite these, profit is marginal. In this work is presented an analysis where research is being undertaken in order to supply to farmers with unsophisticated equipment and improved techniques for harvesting and industrializing these plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>317</start>
+          <end>321</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a28.pdf</identifier>
+  </mods>
+</modsCollection>

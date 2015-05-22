@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Sensory and mechanical characterization of mealy apples and woolly peaches and nectarines</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Arana</namePart>
+      <namePart type="given">Ignacio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dpt. of Rural Engineering and Projects, Public University of Navarre, Campus Arrosadía, 31006 Navarra, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jarén</namePart>
+      <namePart type="given">Carmen</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dpt. of Rural Engineering and Projects, Public University of Navarre, Campus Arrosadía, 31006 Navarra, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Arazuri</namePart>
+      <namePart type="given">Silvia</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dpt. of Rural Engineering and Projects, Public University of Navarre, Campus Arrosadía, 31006 Navarra, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Samples of apples (Malus x domestica, Borkh) were stored at 4ºC to develop mealiness and samples of peaches (Prunus persica, Sieb.) and nectarines (Prunus persica, Zucc.) were stored at 6ºC to develop woolliness. After different storage times, sensory analyses and mechanical tests were performed. Except for the Granny Smith apple variety, all apple varieties developed mealiness and all peach and nectarine varieties developed woolliness. Peaches developed a moderate woolliness rate and nectarines a high one. A correlation was established between mealiness and woolliness and other factors such as storage time and cultivar. Mealiness and woolliness were also related to the mechanical test variables. This relation on apples was higher in those varieties that were more susceptible to develop mealiness, such as ‘Top Red´ and ‘Starking´, and lower in the ‘Golden Delicious´ variety. There was a negative correlation between mealiness and mechanical variables from the different tests, indicators of firmness mainly maximum resistance opposed by the fruits on the different mechanical tests. The variables that correlated best with mealiness were the maximum resistances opposed by the apples during the different tests. The best mechanical test to characterize apple mealiness individually was the shear stress rupture test. The correlation coefficient between mealiness and maximum resistance to shear stress rupture test (N) was higher than 0.8 with a significance level lower than 0.01. On peaches and nectarines the relation was higher in those varieties with a higher tendency to develop woolliness, such as ‘Red Haven´ peaches and ‘Festina´ and ‘Fairlane´ nectarines. There was a negative correlation between woolliness and the variables that indicate firmness (maximum resistance, slope of the force/distance curve and area force distance on the different tests). The variables that correlated best with woolliness were the various maximum resistance variables registered in the different tests. The best mechanical tests to characterize peach and nectarine woolliness individually were the penetration test, the puncture test and the shear stress rupture test, but the correlations between peach and nectarine woolliness and mechanical variables were lower than in the case of apple mealiness. A classification of the fruits (unsuitable or not) according to their degree of sensory mealiness and woolliness was performed. Parallel classification was done by discriminate analysis using mechanical test variables. The accuracy of this classification and the consistency between mechanical and sensory classifications were studied. It is possible to conclude that sensory analysis classification (subjective, time consuming and costly) can be substituted by an objective mechanical classification of apples, peaches and nectarines.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>101</start>
+          <end>106</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f22.pdf</identifier>
+  </mods>
+</modsCollection>

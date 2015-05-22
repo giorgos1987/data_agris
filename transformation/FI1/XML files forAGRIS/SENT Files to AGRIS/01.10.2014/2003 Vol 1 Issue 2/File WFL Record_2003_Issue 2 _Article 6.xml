@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Analytical evaluation of ‘Cornicabra’ virgin olive oil from Castilla-La Mancha, Spain</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Alvarruiz</namePart>
+      <namePart type="given">Andrés</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Escuela Técnica Superior de Ingenieros Agrónomos, Universidad de Castilla-La Mancha, Campus Universitario, E-02071 Albacete, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family"> Fernández</namePart>
+      <namePart type="given">Enrique</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cooperativas Agrícolas Albacetenses, Albacete, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Montero</namePart>
+      <namePart type="given">Francisco</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Escuela Técnica Superior de Ingenieros Agrónomos, Universidad de Castilla-La Mancha, Campus Universitario, E-02071 Albacete, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Granell</namePart>
+      <namePart type="given">José </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratorio Agrario, Junta de Comunidades de Castilla-La Mancha, Albacete, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pardo</namePart>
+      <namePart type="given">José E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Escuela Técnica Superior de Ingenieros Agrónomos, Universidad de Castilla-La Mancha, Campus Universitario, E-02071
+Albacete, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Using the Abencor system, over one hundred virgin olive oil samples were obtained from twenty-four olive groves representative of the ‘Cornicabra’ growing zone in Castilla-La Mancha (Spain). Regulated quality parameters, namely acidity, peroxides and ultraviolet absorbance (K232 and K270) were determined, as well as detailed chemical composition included in the commercial norm applicable to virgin olive oil (mainly sterol and fatty acid composition). Analyses were done for two stages of ripening, three areas of production and two successive crop seasons. Peculiarities in composition which could aid in authenticating this variety were discussed. The peculiarities of ‘Cornicabra’ virgin olive oil were shown to be its low linoleic acid concentration, high oleic acid concentration and MUFA/PUFA ratio, high campesterol and high D-5-avenasterol concentration. The main changes during ripening were the increase in linoleic acid, D-5-avenasterol and D-5,24- stigmastadienol concentration. The fatty acid composition and sitostanol concentration could serve to differentiate the areas of production.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>48</start>
+          <end>52</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-36.pdf</identifier>
+  </mods>
+</modsCollection>

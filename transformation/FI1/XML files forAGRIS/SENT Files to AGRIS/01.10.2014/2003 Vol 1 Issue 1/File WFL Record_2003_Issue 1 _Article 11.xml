@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>New crops: an alternative for the development of horticulture</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Prohens</namePart>
+      <namePart type="given">Jaume </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rodríguez-Burruezo </namePart>
+      <namePart type="given">Adrián </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nuez</namePart>
+      <namePart type="given">Fernando </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>New crops have historically played an important role in the progress of mankind; on studying any region of the world, it can be found that many of its most important crops did not originate there, but were new crops at the time of their introduction. Nonetheless, there are still many underexploited or neglected crops and non domesticated species that could develop as new crops in many regions world-wide. The diversification of horticulture to introduce these new crops is growing in interest as they can result in an increase of income for farmers, contribute to a more environmentally friendly horticulture, reduce the risk of crop failure, and increase ethnobotanical knowledge. In order to be successfully established, a new crop must adapt to the new agroecological and production conditions, as well as to the demands of the markets and consumers. Despite the interest in introducing new crops, the lengthy process involved, usually taking many years or decades, may discourage introduction attempts, especially by private companies. However, many examples show that research on the introduction of new crops has been very profitable on a country scale, therefore reinforcing the importance of public research on such projects, particularly in the early stages.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>75</start>
+          <end>79</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1A75-79newcrops.pdf</identifier>
+  </mods>
+</modsCollection>

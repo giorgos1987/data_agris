@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The challenge of rural poverty alleviation in Nigeria: The role of the national agricultural research system</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ogunlela</namePart>
+      <namePart type="given">V. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy, Institute for Agricultural Research, Ahmadu Bello University, P M Bag 1044, Zaria, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ogunlela</namePart>
+      <namePart type="given">Yemisi I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Public Administration, Ahmadu Bello University, P M Bag 1013, Zaria, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Rural poverty remains a challenge and serious threat to food and nutrition security in sub-Saharan Africa (SSA), Nigeria inclusive. Associated with rural poverty in Nigeria is land degradation, which is largely caused by human-induced soil erosion, deforestation, over-grazing and other human activities. Apart from low external inputs, land degradation brings about low productivity in subsistence farming, while also fostering land conversion to marginal agricultural lands with their fragile soils. Rural households respond to declining land productivity in diverse ways. Prospects for economic growth and future human welfare are also threatened by land degradation, whose environmental damage leads to losses in farmers’ income and greater risks for poor households. An urgent reversal of this trend is necessary in order to rescue from the cycle of poverty the rural populace, whose economic livelihood is directly dependent on land exploitation. Unfortunately, over half of Africa’s rural poor are found on “low potential” and “fragile” lands. Other contributors to rural poverty in Nigeria are inappropriate agricultural and economic policies, with their negative consequences on farming communities. Of the many technology-related constraints of farmers, only a fraction has been effectively addressed by agricultural research. Compounding this scenario is the fact that resource-poor farmers are unable to properly articulate their technology needs. Besides, farmers’ constraints are not always researchable problems, leading to farmers’ despondency and difficulty in research priority setting. The national agricultural research system (NARS), which is expected to contribute to agricultural development and rural poverty alleviation in Nigeria, is bedeviled by a variety of constraints. Since the public sector research cannot do the task alone, private sector research needs to be encouraged. Universities, with their comparative advantage, should play a more active role in agricultural research and development.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>493</start>
+          <end>499</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e18.pdf</identifier>
+  </mods>
+</modsCollection>

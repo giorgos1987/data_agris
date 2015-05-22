@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Quality changes during storage of fresh-cut or intact Swiss chard leafy vegetables</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ferrante</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. Produzione Vegetale, University of Milan, Via Celoria, 2 CAP 20133 , Milan, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Incrocci</namePart>
+      <namePart type="given">L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept. Biologia delle Piante Agrarie, University of Pisa, Pisa, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Serra</namePart>
+      <namePart type="given">G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Scuola Superiore S. Anna – Pisa, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Fresh-cut leafy vegetables have been gaining importance in the human diet both for their nutraceutical properties and low calories content. The preparation procedures for fresh-cut production and the storage system may lead to severe leaf damages that may affect leaf colour and induce shortened shelf life. The aim of this work was to study the leaf pigment changes in cut and whole Swiss chard leaves under dark or light storage conditions. The effect of treatments was evaluated by chlorophyll, carotenoid and anthocyanin determinations. The leaf membrane integrity was estimated by electrolyte leakage. All measurements were performed until 12 days of storage. The chlorophyll reduction was statistically significant in cut Swiss chard leaves stored in darkness. Total carotenoids did not significantly decline. Anthocyanin content strongly declined in cut leaves in both dark and light storage conditions. Leaf electrolyte leakage increased after 8 days of storage and higher leakage was observed in Swiss chard stored in light conditions without any difference between cut or whole leaves. Results suggest that Swiss chard can be stored until 8 days without any visible changes. Dark storage seemed to preserve quality losses and reduce membrane permeability.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>60</start>
+          <end>62</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f12.pdf</identifier>
+  </mods>
+</modsCollection>

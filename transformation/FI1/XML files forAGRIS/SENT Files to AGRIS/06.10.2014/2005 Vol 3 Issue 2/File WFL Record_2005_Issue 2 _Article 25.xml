@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Chemical composition, amino acids and functional properties of selected seafoods</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ogunlade</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ado-Ekiti, P. M. B. 5363, Ado-Ekiti, Ekiti State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Olaofe</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ado-Ekiti, P. M. B. 5363, Ado-Ekiti, Ekiti State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fadare</namePart>
+      <namePart type="given">T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ado-Ekiti, P. M. B. 5363, Ado-Ekiti, Ekiti State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Proximate, mineral composition and functional properties of selected seafoods (Parapenaeopsis atlanta, Panulirus regius, Penaeus duorarum, Parapenaeopsis sp. and Penaeus kerathurus) were investigated using standard analytical techniques. Also the amino acid composition of P. kerathurus was analyzed. The moisture content, fat and carbohydrate were generally low for all samples. No crude fibre was found except in P. regius. The samples had high protein content varying from 42.1 to 81.3%. The samples were found to be good sources of essential minerals such as P, Fe, Mg, K, Na and Ca but Cu, Zn and Mn contents were low. The results of functional properties showed that oil absorption capacity was 130-307%, water absorption capacity 280-404% and gelation capacity 6-10%. The emulsion capacity, foaming capacity and stability were relatively good. The amino acid composition of P. kerathurus revealed essential amino acids comparable with that of egg protein.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>130</start>
+          <end>133</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/f25.pdf</identifier>
+  </mods>
+</modsCollection>

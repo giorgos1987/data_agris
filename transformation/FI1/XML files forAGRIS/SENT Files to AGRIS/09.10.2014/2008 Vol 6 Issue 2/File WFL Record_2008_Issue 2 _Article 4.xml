@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth inhibitory activity of maize “ogi” liquor on common diarrheal bacteria in Southwest Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adebolu</namePart>
+      <namePart type="given">T.T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effect of raw “ogi” liquor from maize (Zea mays) on the growth of some common diarrheal bacteria, viz. Staphylococcus aureus, Shigella dysenteriae, Escherichia coli and Salmonella typhimurium, was investigated in this study using agar gel diffusion assay. The liquor inhibited the growth of all the test organisms with zones of inhibition ranging from 13.0-18.0 mm. The inhibition was superior to that mediated by the slurry of the “ogi” and most of the antibiotics used. Moreover, the inhibition mediated by the liquor was not affected by heat treatment at 100°C for 5 min prior use. Since the liquor had growth inhibitory effect on these organisms, it is suggested that the liquor should be exploited in the treatment of bacterial diarrhea caused by these organisms especially in rural areas with no access to conventional medication.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>22</start>
+          <end>24</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f4.pdf</identifier>
+  </mods>
+</modsCollection>

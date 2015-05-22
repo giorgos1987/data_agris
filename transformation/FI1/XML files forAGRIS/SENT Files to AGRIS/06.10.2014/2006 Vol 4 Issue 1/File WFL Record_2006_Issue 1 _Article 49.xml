@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Missing linkage in rainfall-runoff-soil water relationship for sustainable watershed development: A case study around Hirna, Eastern Ethiopia</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Gebrekidan</namePart>
+      <namePart type="given">Heluf</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Sciences, Alemaya University, Alemaya, Ethiopia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mishra</namePart>
+      <namePart type="given">B. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>P.O.Box 246, Alemaya University, Alemaya, Ethiopia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kibret</namePart>
+      <namePart type="given">Kibebew</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Sciences, Alemaya University, Alemaya, Ethiopia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Ethiopia is a land with array of watersheds arranged in the ideal conditions and they require systematic evaluation for land suitability to specific use on sustainable basis. Amensis sub-catchment of Hirna watershed in the western Hararghe region of Ethiopia is developed on basalt at the top followed by sandstone and partly limestone at the base. The soil types and basaltic soil materials are remarkably very permeable. There is ample scope for water seepage from the hills and mountains of basalt. Identifying the factors related to water infiltration, means of seepage, ground water recharge, rise in water table, river water storage, zeolite and zeolitic structures in soils, lateral and vertical soil water movement, soil friability, structural arrangement, cracking tendency following oblique slickensides, krotovinas, soil-water retention, hydrologic cycle, cyclic changes in soil water content, weathering of basalt in reduced environment and clay-organic matter interactions is some of important prerequisite in inventorying the resource for soil water management as well as assured irrigation to crops on site-specific basis. Construction of dam in the existing drainage channel would not only harvest the surrounding water, but also act as a buffer in order to promote the soil water status for crop utilization. Necessary technology generation will also include fish culture in order to provide additional economic benefits.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>239</start>
+          <end>245</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/e1.pdf</identifier>
+  </mods>
+</modsCollection>

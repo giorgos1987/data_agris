@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A note on the response by smallholder farmers to soil nutrient depletion in the East African highlands</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shisanya</namePart>
+      <namePart type="given">Chris A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Kenyatta University, Department of Geography, P. O. Box 43844, Nairobi, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Agriculture provides a major share of national income and export earnings in many developing countries while ensuring food security, income and employment to a large proportion of the population. Many people in developing countries rely on the land to sustain their livelihoods. Land may also inspire cultural and spiritual values, and more generally strengthen a sense of belonging. Fertile, good quality soils are an essential component for farming. Soil is a living system of organisms reacting with organic and inorganic matter. The soil quality comprises a range of chemical, physical and biological factors, which together affect the productive potential of the land. For our purposes, soil degradation can be defined as a permanent decline in the rate at which land yields products that are useful for sustaining livelihoods. Examples of soil degradation processes include erosion, declining soil organic matter, soil nutrient depletion, compaction, acidification, salinisation and soil pollution. In this research note, I examine the response by smallholder farmers in Eastern Africa to soil nutrient depletion using locally available resources.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>247</start>
+          <end>250</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-3.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of container type nursery techniques on growth and chlorophyll content of Acer platanoides L. and Liquidambar styraciflua L. plants</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ferrini</namePart>
+      <namePart type="given">Francesco</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Ortoflorofrutticoltura, University of Florence, Viale delle Idee, 30 – 50019, Sesto Fiorentino (Florence), Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nicese</namePart>
+      <namePart type="given">Francesco P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Ortoflorofrutticoltura, University of Florence, Viale delle Idee, 30 – 50019, Sesto Fiorentino (Florence), Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The nursery industry has experienced dramatic growth from its earliest years oriented toward bare-root fruit tree production to today’s system, characterized by different product sizes, types and forms. Many woody plants are now successfully grown in containers and, in the future, this trend may continue. The aim of this research was to investigate the effect of a recently developed container production system (Airplant®) compared with standard pot and of the different container placement (above-ground or on-ground) on canopy and root growth and on chlorophyll content of young sweetgum (Liquidambar styraciflua L.) and Norway maple (Acer platanoides L.) trees. Airplant® container did not show to provide better results on plant growth while placing container raised from the ground had some positive effects on shoot and root development and biomass production of Norway maple probably connected with the air-pruning. Sweetgum was less influenced by this technique, total dry mass was lower compared to standard container. The different results obtained within the two species led us to hypothesize a species-specific influence on tree performance.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>209</start>
+          <end>213</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e3.pdf</identifier>
+  </mods>
+</modsCollection>

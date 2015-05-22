@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Strawberry fruit quality responses to the production environment</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Hoppula</namePart>
+      <namePart type="given">Kati B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>MTT Agrifood Research Finland, Horticulture, Toivonlinnantie 518, FI-21500 Piikkiö, Finland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Karhu</namePart>
+      <namePart type="given">Saila T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>MTT Agrifood Research Finland, Horticulture, Toivonlinnantie 518, FI-21500 Piikkiö, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The strawberry (Fragaria × ananassa Duch.) short-day cultivars Bounty, Honeoye and Korona were grown either for early-season production with polyethylene cover until ripening (CR) or for late-season production with no cover (NC), and fruit quality attributes were determined at one-week intervals. The fruit soluble solids concentration (SSC, %) was higher in the late-season NC production than in the earlier CR production. Fruits produced in the late NC production were also firmer and their dry matter content was higher than in the earlier CR production. Fruits in the early CR production were more red in colour than the more orange-tinted NC fruits. SSC was negatively correlated with the temperature during the two weeks prior to harvest but positively related with daily global radiation and progression of the harvest season. The pH value of fruit was inversely related to the daily global radiation and fruit firmness and percentage dry mass were negatively correlated with the mean temperature in the preceding two weeks. Higher daily temperatures were related to decreased colour hue values, i.e. more red fruit. This relation was strongest in the cultivar Bounty. Differences between cultivars were notable for all the assessed quality attributes. The results showed that when protected culture techniques are utilised, high temperatures and excess shading should be avoided to ensure the good quality of strawberry fruit.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>166</start>
+          <end>170</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a6.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A review on lipid oxidation of meat in active and modified atmosphere packaging and usage of some stabilizers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mohamed</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science &amp; Technology, Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jamilah</namePart>
+      <namePart type="given">B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science &amp; Technology, Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abbas</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science &amp; Technology, Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rahman</namePart>
+      <namePart type="given">R. Abdul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science &amp; Technology, Universiti Putra Malaysia (UPM), Serdang 43400, Selangor, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This review paper has been done with the objective of summarizing the process of lipid oxidation and its effect on meat trait. The paper also reflected the recent findings in the effect of active and modified atmosphere-packaging methods on investigated lipid oxidation values. Moreover, the effects of some lipid antioxidants such as enzymes, dietary vitamin E and grape seeds extract were also covered. The output showed that the chemical process named autoxidation was the main process of lipid oxidation in muscle food which develops through three steps: initiation, propagation and termination. From lipid oxidation viewpoint, both active and modified atmosphere as well as the presence of antioxidants were involved in retarding the progress in this phenomenon and positively affect the shelf life of the meat.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>76</start>
+          <end>81</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f16.pdf</identifier>
+  </mods>
+</modsCollection>

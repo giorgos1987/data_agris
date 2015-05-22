@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Joint action of Beauveria bassiana (Balsamo) Vuillemin and synthetic pyrethroids against Helicoverpa armigera (Hubner) (Noctuidae: Lepidoptera)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Duraimurugan</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Entomology, Tamil Nadu Agricultural University, Coimbatore - 641 003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Regupathy</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Entomology, Tamil Nadu Agricultural University, Coimbatore - 641 003, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The joint action between Beauveria bassiana (Balsamo) Vuillemin and synthetic pyrethroids was tested against third instar larvae of Helicoverpa armigera (Hubner) on different hosts. Combined application of B. bassiana + pyrethroids at LC25 + LC25 on different hosts proved effective as the mortality was 2.67-16.99 and 7.17-26.00 per cent more than the expected mortality at LC50 of B. bassiana alone and LC50 of pyrethroids alone respectively.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>65</start>
+          <end>67</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/a2.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Food security in Nigeria: Institutional support through micro-credit for soyabean production</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ayoola</namePart>
+      <namePart type="given">G. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Economics Department, University of Agriculture, Makurdi, Benue State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ayoola</namePart>
+      <namePart type="given">J. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Economics Department, University of Agriculture, Makurdi, Benue State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The profile of soyabean production and processing enterprises in Nigeria was analyzed against the backdrop of the significance of the so-called miracle crop in the interface between food sufficiency and food security policies of the country. The institutional framework for micro-credit provision in the country was examined against the need for improved financing of the enterprises. Then the credit worthiness of the enterprises was empirically assessed in relation to similar crops by way of an investment profile that provides estimates of their gross margin, net revenue, rates of return and, payback period. It was found that the performance of soyabean enterprises lagged behind other crops in the legume/oilseed category. Further, results indicate that soyabean production in the country is not a high profit earner, so it is not creditworthy or attractive to investors at the present time; also that it is not a high return yielder, so it does not use the nation’s capital efficiently; and, that it is unable to repay the loan finance after one season as stipulated by prevailing concessional credit programme. Also the soyabean processing enterprises are presently loss makers, so they cannot bring about positive returns to labour and capital let alone to repay the loans granted. Thus the interface from food self-sufficiency to food security requires that policy intervention be focused on soyabean production and processing in a way that generates greater profitability and increase the creditworthiness of the enterprises.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>40</start>
+          <end>43</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f5.pdf</identifier>
+  </mods>
+</modsCollection>

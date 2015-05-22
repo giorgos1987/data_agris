@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Mineral status of forages and grazing goats in West Sumatra, Indonesia: 1. Macro minerals</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Warly</namePart>
+      <namePart type="given">Lili</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Animal Science, Andalas University, Padang, Indonesia. Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi-690-8504, Japan.
+</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fariani</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Sriwijaya University, Palembang, Indonesia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family"></namePart>
+      <namePart type="given">Evitayani</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Animal Science, Andalas University, Padang, Indonesia. Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi-690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hayashida</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi-690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fujihara</namePart>
+      <namePart type="given">T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi-690-8504, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This experiment was conducted to study macro mineral status of forages and grazing goats in West Sumatra, Indonesia. The forages evaluated consisting 13 species of grass and 7 species of legume were harvested from 5 different locations during dry and rainy seasons. Blood samples of goats were collected at the same locations through jugular puncture to determine macro mineral status of the animals. Results of the study indicated that mineral concentrations of forages varied widely among species and seasons. Calcium concentration of forages both in dry and rainy seasons was above the critical value for deficiency. However, percentage deficiency of forage phosphorus was found either in dry season (85.7% for legume and 30.8% for grass) or rainy season (71.4% for legume and 30.8% for grass). Average concentration of forage magnesium in dry season was above the critical level, while in rainy season percentage of Mg deficiency was 28.6% for legume and 23.1% for grass. Percentage of sulfur deficiency in dry season was 42.9% for legume and 46.2% for grass, and these values were higher compared to those of rainy season (14.3% for legume and 30.8% for grass). Data on mineral status of grazing goats showed that in overall the incidence of Ca, P and Mg deficiencies were 4.6, 7.7 and 5.7%, respectively. This experiment is a part of a series of experiments on the study of mineral status of forages and grazing goats in West Sumatra, Indonesia.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>234</start>
+          <end>236</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a21.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparison of component yields and sensory properties of traditional Nigerian foods (Ogi and Eko) derived from eleven maize varieties</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Omueti</namePart>
+      <namePart type="given">Olusola</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University,P. M. B. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Iken</namePart>
+      <namePart type="given">Jacob E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Agricultural Research and Training, Obafemi Awolowo University,P. M. B. 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kling</namePart>
+      <namePart type="given">Jennifer G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture,P. M. B. 5320, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Okoruwa</namePart>
+      <namePart type="given">Augustine E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture,P. M. B. 5320, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Eleven maize varieties were evaluated for their component yields, protein and ash contents and organoleptic properties when processed into two traditional Nigerian foods, ogi and eko. Significant differences were observed among varieties for component yields and total percent recovery. Yields of ogi, bran and total solids from liquor ranged from 42 to 62, 18 to 30 and 3 to 8 percent (db) respectively. Total recovery of these three components ranged between 72 and 87 percent. Protein in maize, ogi and bran ranged from 9.89 to 12.91, from 4.21 to 8.02 and from 11.82 to 17.50 percent respectively. The ash content of ogi ranged from 0.23 to 0.88% while that of the bran ranged from 0.30 to 0.57%. Losses in protein content during ogi manufacture ranged between 18 and 64 percent. A hybrid 8705-4 (F2) and an open-pollinated variety EV 8744-SR gave the highest ogi yields followed closely by DMRL-SR-W, ACR 8363-SR, TZB-SR-SE and TZB-SR-SGY (IITA). All the varieties were rated good in organoleptic properties for eko and ogi. Differences observed among varieties for ogi yield and quality highlight the need to consider end-product suitability in maize breeding programmes.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>115</start>
+          <end>118</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f22.pdf</identifier>
+  </mods>
+</modsCollection>

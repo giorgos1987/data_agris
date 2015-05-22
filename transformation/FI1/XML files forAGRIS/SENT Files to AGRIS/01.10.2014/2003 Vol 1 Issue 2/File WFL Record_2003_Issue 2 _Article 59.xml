@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Bypass- and matrix flow produce interflow and contribute to groundwater protection</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Seiler</namePart>
+      <namePart type="given">Klaus-Peter</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>GSF-National Research Centre, D-85758 Neuherberg, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In the unsaturated zone of Tertiary and Quaternary sediments of Bavaria bypass-flow may get significant as compared to matrix-flow. Tracer experiments with Deuterium prove that bypass-flow exceeds flow velocities of 0.5 m/d and matrix-flow ranges between 0.7 m/year (Loess), 1.2 m/year (Tertiary gravels and sands) and 2 m/year (quaternary gravels). In areas with a deep groundwater table and unconsolidated rocks bypass-flow penetrates to depths of less than 1m (fine sands) and more than 3m (gravels) below ground before it either incorporates into matrix-flow or generates interflow in hilly areas. – Bypass-flow depends upon geologic, biologic, pedologic and in arable lands also from anthropogenic factors. In hilly terrains, bypass- and interflow enhance the export of agrochemicals from the effective root zone; contrary, in flat lands bypass-flow accelerates the input of agrochemicals to groundwater. – Bypass-flow seems to be strongest under wet and dry soil moisture conditions at the surface and more dominant in fluvial than in lake and marine sediments.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>345</start>
+          <end>347</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-environment-67.pdf</identifier>
+  </mods>
+</modsCollection>

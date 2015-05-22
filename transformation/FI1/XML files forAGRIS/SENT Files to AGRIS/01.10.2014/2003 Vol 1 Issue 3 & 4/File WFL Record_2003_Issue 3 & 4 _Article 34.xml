@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reproductive physiology of two wheat cultivars differing in salinity tolerance under dense saline-sodic soil.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khan</namePart>
+      <namePart type="given">Mushtaq Ahmad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Stress Physiology Laboratory, National Agricultural Research Centre, Park Road, PO, NIH, Islamabad, Pakistan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abdullah</namePart>
+      <namePart type="given">Zaibunnisa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Stress Physiology Laboratory, National Agricultural Research Centre, Park Road, PO, NIH, Islamabad, Pakistan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>We examined the agro-physiological parameters in two wheat cultivars namely, Faisalabad-85 (sensitive to salinity alone) and LU-26-S (tolerant to salinity alone) at reproductive phase grown under dense saline-sodic soil. Our results showed that there was non-significant effect of salinity-sodicity on chlorophyll a and b concentration and leaf area of both the cultivars. CO2 assimilation was reduced significantly (P&lt;0.001) in LU-26-S, showing non-significant effect in Faisalabad-85. Highly significant (P&lt;0.001) increase in Na+ and significant ( P&lt;0.01 and P&lt;0.05) reduction in K+ concentration was found in flag leaves of both the cultivars. Pollen viability was reduced 37 % in Faisalabad-85 and 24 % reduction was observed in LU-26-S. Carbohydrate mobilization at the time of anthesis showed significant increase (P&lt;0.01) in spikelets of LU-26-S, whereas it was reduced significantly (P&lt;0.001) at grain filling stage. In Faisalabad-85 no change was observed in carbohydrate concentration of spikelets, ear stalk at anthesis stage but showed significant increase in spikelets and ear stalk (lower) at grainfill stage .Starch synthase activity (α-1-4 glucan-glucosyle transferases, EC 2.4.1.21) was reduced significantly (P&lt;0.001) in developing grains of LU-26-S showing non-significant effect in Faisalabad-85. More seed numbers/plant and less 1000 seed weight was observed in LU-26-S compared to Faisalabad-85 ,where as grain yield was more in later than the former. In present study Faisalabad-85 proved better than LU-26-S under saline sodic soils in terms of mobilization of soluble carbohydrates in different floral parts (especially in spikelets), non-significant effect of salinity-sodicity on starch synthase activity in developing grains and 1000 seed weight, thus resulting in higher grain yield.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>185</start>
+          <end>189</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-14.pdf</identifier>
+  </mods>
+</modsCollection>

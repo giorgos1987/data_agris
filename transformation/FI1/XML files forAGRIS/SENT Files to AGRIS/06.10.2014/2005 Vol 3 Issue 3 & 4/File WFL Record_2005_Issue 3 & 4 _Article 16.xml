@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The response of okra to varying levels of poultry manure and plant population density under sole cropping</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Odeleye</namePart>
+      <namePart type="given">F. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Protection and Environmental Biology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Odeleye</namePart>
+      <namePart type="given">O.M.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>National Horticultural Research Institute Idi-Ishin Ibadan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dada</namePart>
+      <namePart type="given">O. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop Protection and Environmental Biology, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Olaleye</namePart>
+      <namePart type="given">A.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Science and Agric. Mechanization, Olabisi, Onabanjo University, Ago – Iwoye.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Two field experiments were conducted during the early growing season of 2002 and late season of 2003 in Ibadan, Nigeria to evaluate the optimum plant population density for okra (Abelmoschus esculentus (L.) Moench) grown in monoculture and in combination with different rates of poultry manure. For each experiment, twelve treatments derived from a factorial combination of three levels of population density (1, 2 and 3 plants/stand) and four levels of poultry manure rates - (0, 4, 8 and 12 t/ha) were studied. The experiments were each laid out in a split-plot design with three replications. In the two trials, increasing okra plant population together with application of poultry manure enhanced plant growth and marketable fruit yield. The plant height and leaf area per plant were not significantly affected by raising the number of plants/stand from one up to three; while application of different rates of poultry manure had significant effect on plant height, number of leaves and branches, leaf area and dry matter distribution per plant. Yield components of marketable fruit increased with increase in rates of poultry manure up to an optimum before it declined. Okra grown at 3 plants/stand gave the maximum fruit yield as it showed 81 and 41% higher yield than okra sown at 1 plant/stand and 2 plants/ stand, respectively, in the 2002 trial and 80.6 and 40.6% higher than okra sown at 1 plant/stand and 2 plants/stand, respectively, in the 2003 trial. Application of 8 t ha-1 of poultry manure seems optimum as yield increased by 49 and 41% above 0 and 4 tha-1 respectively, in 2002 and 40 and 36% above 0 and 4 tha-1 respectively, in 2003. The application of 12 t ha-1 contributed only marginally in the two trials. It would appear that the best combination of plant/stand and rates of poultry manure for optimum performance of okra grown as monocrop is 3 plants/stand with application of 8 t ha-1 of poultry manure.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>68</start>
+          <end>74</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/a3.pdf</identifier>
+  </mods>
+</modsCollection>

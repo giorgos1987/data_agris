@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Inhibition of lipid metabolic enzymes using Mangifera indica extracts</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Moreno</namePart>
+      <namePart type="given">Diego A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rutgers – The State University of New Jersey, Biotech Center, Cook College, 228 Foran Hall, 59 Dudley Road, New Brunswick, New Jersey 08901-8520, U.S.A.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ripoll</namePart>
+      <namePart type="given">Christophe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rutgers – The State University of New Jersey, Biotech Center, Cook College, 228 Foran Hall, 59 Dudley Road, New Brunswick, New Jersey 08901-8520, U.S.A.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ilic</namePart>
+      <namePart type="given">Nebojsa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Phytomedics Inc., 65 Stults Road, Dayton, NJ 08810-1523, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Poulev</namePart>
+      <namePart type="given">Alexander</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rutgers – The State University of New Jersey, Biotech Center, Cook College, 228 Foran Hall, 59 Dudley Road, New Brunswick, New Jersey 08901-8520, U.S.A.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Aubin</namePart>
+      <namePart type="given">Cristin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Children’s Hospital Boston, Division of Endocrinology, 300 Longwood Ave., Boston, MA 02115, U.S.A.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Raskin</namePart>
+      <namePart type="given">Ilya</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rutgers – The State University of New Jersey, Biotech Center, Cook College, 228 Foran Hall, 59 Dudley Road, New Brunswick, New Jersey 08901-8520, U.S.A.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study assesses the effects of mango tree (Mangifera indica L.) extracts (stem bark – MSB and leaves – ML) on lipases (pancreatic lipase, lipoprotein lipase and hormone-sensitive lipase). The MSB and ML samples were extracted in 95% ethanol and the extracts assayed for the inhibition of pancreatic lipase (PL) and lipoprotein lipase (LPL) as well as for the inhibition of lipolysis of 3T3-L1 adipocytes. We have also examined the anti-obesity action of MSB and ML by testing whether the extracts prevented weight gain induced by feeding a high-fat diet to male Wistar rats for 12 weeks. Both MSB and ML inhibited PL and LPL, suggesting that they may affect both fat absorption and the uptake of fatty acids, if enough of the active components can be absorbed and entered into the circulation. The inhibition of stimulated lipolysis by MSB and ML suggested that the cells took up the active components of the extracts. In addition, MSB and ML increased fecal fat excretion and reduced serum glucose and insulin levels and down-regulated some obesity-related genes (LPL, hormone-sensitive lipase, fatty acid synthase, resistin) in liver and epididymal fat. The precise molecular mechanisms by which MSB and ML inhibit lipases and lipolysis still requires further investigation.However, the relative biochemical complexity of these extracts may produce a pleiotropic action on several lipid and carbohydrate metabolism targets simultaneously, making MSB and ML multifunctional botanical therapeutics useful in weight control. MSB and ML or some of their components may also provide effective biochemical tools for studying the complex relationships between energy balance, adiposity and endocrine function.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>21</start>
+          <end>26</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f3.pdf</identifier>
+  </mods>
+</modsCollection>

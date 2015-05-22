@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biomass production potential in the Batini barley landrace from Oman</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jaradat</namePart>
+      <namePart type="given">A. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>USDA-Agricultural Research Service, 803 Iowa Avenue, Morris, MN, 56267, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shahid</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Genetic Resources Program, International Center for Biosaline Agriculture (ICBA), P.O. Box 14660, Dubai, United Arab Emirates.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Maskri</namePart>
+      <namePart type="given">A. Y.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Agriculture and Marine Sciences, Sultan Qaboos University, P.O. Box 34 Al-Khod, Postal Code 123, Muscat, Oman.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Diversity available in seven subpopulations of the Batini barley landrace was quantified for pre- and post-anthesis thermal time, filling period, biological and grain yield, number of tillers and plant height. We identified grain, forage and dual-purpose types and selected elite germplasm for breeding purposes. Patterns of phenotypic variation and co-variation in the phenological and agronomic traits, measured on 2,040 landrace accessions, subdivided the collection into 14 phenological classes in three (grain, dual-purpose and forage) end-use types, each with distinct phenological trait combinations. The dual-purpose type was more polymorphic and had significantly higher total diversity and differentiation than the grain and forage types. Directional selection, especially in the phenological traits, resulted in large, idiosyncratic changes in plant phenotypes. Targeting traits that have a disproportionately large influence on differences in the mean covariance will help identify sources of variation for breeding purposes.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>249</start>
+          <end>253</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/a23.pdf</identifier>
+  </mods>
+</modsCollection>

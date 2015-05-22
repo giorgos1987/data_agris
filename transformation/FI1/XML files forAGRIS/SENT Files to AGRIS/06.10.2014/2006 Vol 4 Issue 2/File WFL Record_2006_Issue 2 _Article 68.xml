@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The hydrology of the Mafrag estuary (Algeria): Transport of inorganic nitrogen and phosphorus to the adjacent coast</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Khélifi-Touhami</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ounissi</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saker</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Haridi</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Djorfi</namePart>
+      <namePart type="given">S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abdenour</namePart>
+      <namePart type="given">C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Sciences, University of Annaba, PO Box 12, Annaba 23000, Algeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The Mafrag hydrographic complex represents a rare Mediterranean estuary located in a northeastern wetland of Algeria. The main hydrological characteristics of this estuary have been analyzed from five cruises at a fixed estuarine station. In each cruise, physicochemical parameters (temperature, salinity, tide regime, flood water inputs and nutrient salts) have been measured hourly from 7 to 18 h. At the end of autumn and in winter the estuary is mostly renewed by high river flow. In spring and summer, tidal semi-diurnal regime reappears and allows an increase of salinity. When estuarine water level and wind stress decrease in autumn, a new offshore bar appears and may close the estuary’s mouth. All hydrological parameters show large fluctuations between tidal phases and seasons. The hydrologic cycle functioning of the Mafrag was found as an original state, comprising three phases (river, estuarine and lagoonal), with about four months interval for each one. Surface salinity varies from 2 in river phase to 33 for the rest of the studied period. Values of deep water salinity ranges between 33 and 35 in estuarine and lagoonal phases, during which the estuary is very stratified. Tidal regime was found semidiurnal. In ebb tide, the water flood advected into the adjacent coast with up to 36-60 m3 .s-1. In winter, spring and autumn, nutrient salts were abundant compared to summer values. Ammonium and phosphate depleted in surface water at summer but were discharged in high amounts in autumn and the rest of the year: up to 2,200 kg.d-1 inorganic nitrogen and 400 kg.d-1 P-PO4. The absolute continental flux in terms of inorganic nitrogen and phosphate has been computed and compared to that of marine coastal intrusion.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>340</start>
+          <end>346</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e17.pdf</identifier>
+  </mods>
+</modsCollection>

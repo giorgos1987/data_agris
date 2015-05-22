@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Determination of acrylamide levels in selected traditional foodstuffs and drinks in Jordan</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Dmoor</namePart>
+      <namePart type="given">Hani M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Science, Al-Balqa Applied University, Faculty of Agriculture, Department of Nutrition and Food Technology, Al-Salt, Jordan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Acrylamide is formed in food because of excessive dry heating during preparation and/or processing of foods at varying levels because of the differences in formulation and preparation or processing conditions. Acrylamide content of yeast fermented whole flour bread (black kmaj type) and boiled products (maftool and bulgur) were below the detectable level (180 μg/kg) of acrylamide. Whereas the fried bread which leavened by sodium bicarbonate was found to contain 2300 μg/kg of acrylamide. In comparison to the rapidly baked whole flour bread (black kmaj type) and taboon bread that is a long baking time type showed 2300 μg/kg of acrylamide. Traditional foods, their pH values ranging between 6.5 and 8.0, showed relatively high concentrations of acrylamide (500-4200 μg/kg). Kobeht potatoes that represent starchy food, thoroughly browned, showed the highest level (4200 μg/kg) of acrylamide among the food samples compared with shawarmah (600 μg/kg) which is rich in protein. Arabic coffee, black type had 1600 μg/kg of acrylamide compared with Arabic coffee, brown type 1200 μg/kg, whereas cacao powder contained 1100 μg/kg.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>77</start>
+          <end>80</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/f12.pdf</identifier>
+  </mods>
+</modsCollection>

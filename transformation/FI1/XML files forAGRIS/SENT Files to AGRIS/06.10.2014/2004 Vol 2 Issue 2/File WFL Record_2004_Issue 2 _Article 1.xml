@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Pathogenesis-related proteins – an important group of plant-derived allergens</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Niskanen</namePart>
+      <namePart type="given">Raina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>World-Food RD Ltd, Meri-Rastilantie 3C, FI-00980 Helsinki, Finland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dris</namePart>
+      <namePart type="given">Ramdane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>World-Food RD Ltd, Meri-Rastilantie 3C, FI-00980 Helsinki, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Several protein families that contribute to the defence mechanisms of food plants have members which are allergens or putative allergens. Cross-reactivity between pollens, fruit and vegetables relies upon pan-allergens: pathogenesis-related (PR) proteins, profilins and enzymes with the same functional activity. A number of plant-derived allergens and PR-like proteins found in various species all over the plant kingdom are homologous proteins responsible for cross reactivities between different allergen sources. A considerable percentage of identified plant allergens can be grouped to the families 2, 3, 4, 5, 8, 10 and 14 of pathogenesis-related proteins. Characteristics of these PR groups are reviewed in this paper.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>14</start>
+          <end>24</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f1.pdf</identifier>
+  </mods>
+</modsCollection>

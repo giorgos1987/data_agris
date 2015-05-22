@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Water-pipe (shisha) smoking influences total antioxidant capacity and oxidative stress of healthy Saudi males</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Numair</namePart>
+      <namePart type="given">Khalid</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Sciences and Nutrition, College of Food and Agricultural Sciences, King Saud University, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Barber-Heidal</namePart>
+      <namePart type="given">Kimberly</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Nutrition and Dietetics, College of Human Ecology, East Carolina University, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Assaf</namePart>
+      <namePart type="given">Abdullah</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Sciences and Nutrition, College of Food and Agricultural Sciences, King Saud University, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">El-Desoky</namePart>
+      <namePart type="given">Gaber</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Sciences and Nutrition, College of Food and Agricultural Sciences, King Saud University, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Water-pipe smoking has been practiced extensively for about 400 years. Water-pipe smoking is common in the Arabian Peninsula, Turkey, India, Pakistan and other countries. Previous studies have confirmed water-pipe smoking has negative health effects similar to those of cigarette smoking. The aim of the present research was to study the effect of water-pipe smoking on the risk factors for cardiovascular diseases as well as oxidative stress and total antioxidant capacity of healthy Saudi males. Two hundred healthy Saudi males (100 non-smokers and 100 smokers) ranging in age 19-50 years old from Riyadh, the capital of Saudi Arabia were selected for this study. Subjects in the smoker group smoked tobacco (Ma’ssel) using a water- pipe (shisha) at least two times per day (two heads of Ma’ssel per day). Each subject was interviewed and asked to provide demographic information and their typical smoking habits. Blood pressure and anthropometric measurements (weight and height) were measured by well-trained staff. Fasting blood samples were collected, and serum samples were analyzed for low density lipoprotein cholesterol (LDL-cholesterol), high density lipoprotein cholesterol (HDL-cholesterol), triglycerides (TG), apolipoprotein A-1 and B (apo A-1 and apo B), malondialdehyde, vitamin C and total antioxidant capacity. The statistical method of t-test was used to compare the mean values obtained between the smoker and non-smoker groups. The chi-square statistical test was used to compare marital and education status of study subjects by groups. Serum concentrations of HDL-cholesterol and apo A- 1 were significantly (p&lt;0.05) lower in smokers than in non-smokers. However, LDL-cholesterol, apo B, triglycerides and malondialdehyde were significantly (p&lt;0.05) higher in smokers than in non-smokers. Total antioxidant capacity and vitamin C were significantly (p&lt;0.05) lower in smokers than in non-smokers. This study provided limited data to suggest that water-pipe smoke is at least as toxic as cigarette smoke.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>17</start>
+          <end>22</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f3.pdf</identifier>
+  </mods>
+</modsCollection>

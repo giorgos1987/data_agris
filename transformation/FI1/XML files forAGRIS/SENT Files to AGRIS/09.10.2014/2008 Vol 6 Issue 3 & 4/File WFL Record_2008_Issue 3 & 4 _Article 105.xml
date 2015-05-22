@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Methods for the preservation of genetic material of Pancratium maritimum (Amaryllidaceae)</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nikopoulos</namePart>
+      <namePart type="given">Dimitrios</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Technological Education Institute of Kalamata, Department of Crop Production, Antikalamos, 24100 Kalamata, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nikopoulou</namePart>
+      <namePart type="given">Despina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Technological Education Institute of Kalamata, Department of Greenhouse Crops and Floriculture, Antikalamos, 24100 Kalamata, Greece.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Alexopoulos</namePart>
+      <namePart type="given">Alexios A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural University of Athens, Laboratory of Vegetable Production, 75, Iera Odos, 11855 Athens, Greece.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pancratium maritimum (Amaryllidaceae) is a plant species of the sandy coastline soil and its presence in many Mediterranean regions shows a notable reduction. The importance of preserving this plant is great because of its significant medicinal and ornamental interest. In this study, four alternative methods of preserving the genetic material of P. maritimum were studied: (a) the preservation of botanical seed in containers under air vacuum conditions at -20ºC or in airtight containers supplemented with silica gel at 5ºC, (b) the in vitro preservation of microplants derived from in vitro germination of the botanical seed, (c) the establishment (by using as starting material bulbous spontaneous plants, little bulbs or botanical seeds), and the preservation of plants ex situ (in plant growth chamber) and (d) the protection of the plant in situ (in natural ecosystems). The germination capacity of the seeds ranged at high levels (approximately 80%) after 20 months preservation at -20ºC or 5ºC. P. maritimum microplants were preserved in vitro for at least 14 months without the need of recultivations or successfully transplanted in little pots for ex vitrum preservation. The survival percentages of plants preserved ex situ ranged 98-100% for at least 30 months. The presence of P. maritimum in natural ecosystems in Greece was observed to be connected with the presence of 12 plant species. The protection of the P. maritimum patches, mainly by the limitation of distinction of some human activities, is considered to be very important for the preservation of this plant species.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>538</start>
+          <end>546</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e26.pdf</identifier>
+  </mods>
+</modsCollection>

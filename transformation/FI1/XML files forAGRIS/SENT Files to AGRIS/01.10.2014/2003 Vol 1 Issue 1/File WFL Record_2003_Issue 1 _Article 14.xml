@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Managing Armillaria root rot</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fox</namePart>
+      <namePart type="given">Roland T. V.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Plant Sciences, The University of Reading, 2 Earley Gate, Reading RG6 6AU, UK.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Controlling Armillaria infections by physical and chemical methods alone is at present inadequate, ineffective, or impractical. Effective biological control either alone or in integration with another control strategy appears necessary. Biological control agents of Armillaria function by the antagonists inhibiting or preventing its rhizomorphic and mycelial development, by limiting it to substrate already occupied, by actively pre-empting the substrate, or by eliminating the pathogen from substrate it has already occupied. Among the most thoroughly investigated antagonists of Armillaria are Trichoderma species. Depending on the particular isolate of a Trichoderma species, control may be achieved by competition, production of antibiotics, or by mycoparasitism. The level of control is also influenced by the growth and carrier substrate of the antagonist, time of application in relation to the occurrence of the disease, and several environmental conditions. Among a range of the other antagonists are several cord-forming fungi and an isolate of Dactylium dendroides. Integrating biological methods with an appropriate method of chemical could control the disease more effectively. However it is essential to determine whether the antagonist or the fungicide should be applied first, and the time interval between. </abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>95</start>
+          <end>100</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1A95-100armillaria.pdf</identifier>
+  </mods>
+</modsCollection>

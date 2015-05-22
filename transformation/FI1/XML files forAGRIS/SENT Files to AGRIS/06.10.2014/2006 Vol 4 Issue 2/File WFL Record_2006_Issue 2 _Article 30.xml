@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Macro mineral distribution of forages in South Sumatra during rainy and dry seasons</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family"></namePart>
+      <namePart type="given">Evitayani</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The United Graduate School of Agriculture Sciences, Tottori University, Tottori-shi 680-8533, Japan. Faculty of Animal Science, Andalas University, Padang, 25163, Indonesia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Warly</namePart>
+      <namePart type="given">Lili</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Animal Science, Andalas University, Padang, 25163, Indonesia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fariani</namePart>
+      <namePart type="given">Armina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, Sriwijaya University, Palembang, 30139, Indonesia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ichinohe</namePart>
+      <namePart type="given">Toshiyoshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi 690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hayashida</namePart>
+      <namePart type="given">Maki</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi 690-8504, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Razak</namePart>
+      <namePart type="given">Saukat A. Abdul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Devision of Research and Extension, Egerton University, P.O. Box 536, Njoro, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Fujihara</namePart>
+      <namePart type="given">Tsutomu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Animal Science, Faculty of Life and Environmental Science, Shimane University, Matsue-shi 690-8504, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study was conducted to evaluate nutrient content, in vitro dry matter digestibility (IVDMD) and distribution of macro mineral in neutral detergent fiber (NDF) and acid detergent fiber (ADF). Three species of grass (Axonopus compressus, Panicum maximum and Pennisetum purpuphoides) and four species of legumes (Leucaena leucocephala, Centrocema pubescens, Calopogonium mucunoides and Acacia mangium) were collected at native pasture in South Sumatra, Indonesia, during rainy and dry seasons. The results showed that crude protein (CP) content was significantly (P&lt;0.05) different between forage species in both rainy and dry seasons except for C. mucunoides and A. mangium. The CP content of grass in rainy season ranged from 81 (A. compressus) to 130 g kg -1 DM (P. purpuphoides) while in dry season from 79 (A. compressus) to 152 g kg -1 DM (P. maximum). The CP content of legume was significantly higher (P&lt;0.05) compared to grass; ranged from 177 (C. pubescens) to 252 g kg -1 DM (L. leucocephala) in rainy season and from 146 (C. pubescens) to 223 g kg -1 DM (A. mangium) in dry season. In general, NDF, ADF and acid detergent lignin (ADL) contents were lower in rainy season compared to dry season. Concentration of Ca, P, Mg and S either in intact forages or in NDF and ADF were significantly (P&lt;0.01) different between species and seasons. In general, P. purpuphoides and L. leucocephala had better nutritive value in rainy and dry seasons and distribution of macro mineral concentration could be due to most of elements were found in the cell content than in cell wall and should be more available to ruminants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>155</start>
+          <end>160</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a3.pdf</identifier>
+  </mods>
+</modsCollection>

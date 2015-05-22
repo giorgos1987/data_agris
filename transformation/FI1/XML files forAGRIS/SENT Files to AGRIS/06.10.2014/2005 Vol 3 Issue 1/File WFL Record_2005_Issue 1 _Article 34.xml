@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Response to exogenous application of phytohormone at seedling and cellular levels in disomic chromosome substitution lines of wheat</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kashyap</namePart>
+      <namePart type="given">S.C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Breeding, CCS Haryana Agricultural University, Hisar-125004, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Punia</namePart>
+      <namePart type="given">M.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Breeding, CCS Haryana Agricultural University, Hisar-125004, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Behl</namePart>
+      <namePart type="given">R.K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Plant Breeding, CCS Haryana Agricultural University, Hisar-125004, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Substitution line 2B showed almost no response to both phytohormone sprays i.e. GA3 and GA3+ kinetin (5 ppm each) while lines 1D, 3D, 5B, 5D and 6D showed good response to GA3 + kinetin spray and lines 1D, 4A, 5D, 6D and 3D responded well in GA3 spray. Lines 1D, 3A, 3D and 5A scored good in callus induction too while line 2B showed poor response to plant regeneration which showed that the line may not posses the appropriate genes responsible for regeneration.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>165</start>
+          <end>167</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/a12.pdf</identifier>
+  </mods>
+</modsCollection>

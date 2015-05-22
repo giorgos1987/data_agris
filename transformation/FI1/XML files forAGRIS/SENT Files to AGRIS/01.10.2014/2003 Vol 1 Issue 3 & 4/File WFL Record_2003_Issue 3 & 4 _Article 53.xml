@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Human capital as determinant of technical inefficiency of cocoa based agroforestry system</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Alabi</namePart>
+      <namePart type="given">R. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dept of Agric Economics &amp; Extension, Ambrose Alli University, PMB 14, Ekpoma Edo State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The study sets to investigate the effects of human capital (education and experience) on technical inefficiency in cocoa based agroforestry system in Oyo state, Nigeria. In order to achieve the objective, data were collected from randomly selected 109 farmers from two Local Government Areas of the state. Data were analyzed using descriptive statistics and stochastic frontier production methods. The study shows that farm size, family, hired labour, cost of chemical and fertilizer are the significant determinants of the output of cocoa based agroforestry system in the study area. The study also shows that farm size has the highest elasticity, which means that on the average more can be produced by increasing farm size than by increasing any other factors specified in the study. Inefficiency estimate shows that age of the farmers, experience and educational level reduce the inefficiency of the farmers, while age of the farm and family size increase the inefficiency of the farmers. Technical efficiency estimate shows that the technical efficiency of the farmers varies from 10% to 99% in Lagelu LGA, with mean of 85%, while the technical efficiency of the farmers in Ona Ara varies from 81% to 97%, with mean of 94% .The difference in technical efficiency of the farmers in the two LGAS is predicated on human capital, especially farming experience. The study recommends the need to increase educational level of the farmers through mass literacy in order to refine their experiences. Liberalization of land market was also suggested so that enterprising farmers can increase their farm size.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>277</start>
+          <end>281</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-8.pdf</identifier>
+  </mods>
+</modsCollection>

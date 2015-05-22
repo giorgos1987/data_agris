@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Cassava leaves as a source of protein</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nassar</namePart>
+      <namePart type="given">Nagib M. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Geneica e Morfologia and Departamento de Nutricao, Universidade de Brasília, Brasília (CEP 70919-000), Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marques</namePart>
+      <namePart type="given">Antonio O. Marques</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Geneica e Morfologia and Departamento de Nutricao, Universidade de Brasília, Brasília (CEP 70919-000), Brazil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Analysis of cassava cultivars and interspecific hybrids leaves revealed a protein percentage ranges from 21 to 32%. Polyploid types did not show significant increase. Varieties with low HCN content can be selected to enrich flour of cassava and other grain crops. Interspecific hybrids with very vigorous vegetative growth are good sources of protein. They can be used for raising animals in Brazilian semi-arid region.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>187</start>
+          <end>188</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a11.pdf</identifier>
+  </mods>
+</modsCollection>

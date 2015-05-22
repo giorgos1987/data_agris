@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Changes in soil quality as influenced by cropping in the forest ecology of Southwestern Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oluwatosin</namePart>
+      <namePart type="given">G. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Land and Water Management Division, Institute of Agriculture Research and Training, PMB 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adeyolanu</namePart>
+      <namePart type="given">D. O. </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Land and Water Management Division, Institute of Agriculture Research and Training, PMB 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Idowu</namePart>
+      <namePart type="given">O. J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop and Soil Sciences, Cornell University, Ithaca, NY 14853 USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Taiwo</namePart>
+      <namePart type="given">L. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Land and Water Management Division, Institute of Agriculture Research and Training, PMB 5029, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soil quality (SQ) assessments and interpretations are proving beneficial for the understanding of how soils interact with the hydrosphere and atmosphere. Based on soil quality information, management options can be developed with a view to improving the capacity of the soil to function within various ecosystem boundaries. We studied soil properties in a 12 year chronosequence of a native cropping system in Ilupeju-Ijan, located in Southwestern Nigeria. The cropping system was set up such that a freshly cleared farm land was planted into new tree seedlings of teak (Tectonia grandis), and farming continues until the canopies of the new trees prevented effective crop growth. Our objective was to assess soil quality changes during the transitional years from the freshly cleared land till the end of farming cycle which often last for about 12 years. Soil samples were collected from a grid of 10 m x 10 m at 1 m intervals at 0-0.2 m depths and 0.2-0.4 m depths. A total of 20 samples each were collected, bulked and analyzed for various physical, chemical and biological properties. We performed an integrated soil quality assessment by using standard scoring functions (SSF) approach, which was based on the critical values of each indicator measured. This method of assessment defines the overall soil quality score in percentage. The results show that the percentage soil quality ratings ranged 73-86% for 0-0.2 m and 50-80% for 0.2-0.4 m soil depths. The percentage soil quality change was negative in all the years except between the second and the third year at 0-0.2 m depth. At 0.2-0.4 m depths, it was positive between years 0 and 2, 1 and 2, 4 and 12 and negative in others. Important soil quality indicators such as organic carbon and microbial biomass decreased with arable cultivation of the land. However, the planted trees which grew alongside the crops seemed to have benefited the soil quality by raising the values of these sensitive indicators by the 12th year of cropping. </abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>529</start>
+          <end>533</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/e24.pdf</identifier>
+  </mods>
+</modsCollection>

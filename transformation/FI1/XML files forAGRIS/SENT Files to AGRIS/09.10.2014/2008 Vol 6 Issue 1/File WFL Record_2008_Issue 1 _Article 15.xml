@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Potential of local varieties and their hybrids for the improvement of eggplant production in the open field and greenhouse cultivation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Muñoz-Falcón</namePart>
+      <namePart type="given">J.E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Prohens</namePart>
+      <namePart type="given">J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rodríguez-Burruezo</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto Valenciano de Investigaciones Agrarias, Carretera Moncada a Náquera km 4.5, 46113 Moncada, Valencia, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nuez</namePart>
+      <namePart type="given">F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Instituto de Conservación y Mejora de la Agrodiversidad Valenciana, Universidad Politécnica de Valencia, Camino de Vera 14, 46022 Valencia, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Eggplant (Solanum melongena L.) is cultivated both in the open field and greenhouse. F1 hybrids, which have been mainly developed for greenhouse cultivation, are being increasingly used for open field cultivation. Given that these two growing environments present many differences, we hypothesize that local varieties, adapted to open field cultivation, can be used for developing hybrids that are competitive under these conditions with present commercial hybrids. We have grown 12 local varieties (LV), 12 experimental hybrids (EH) obtained by crossing local varieties, and three commercial hybrids (CH) under open field and greenhouse conditions and evaluated them for yield, fruit weight, earliness and fruit shape. Resultsshow that local varieties and experimental hybrids are as uniform as commercial hybrids. Yield was higher in open field than in greenhouse, although significant differences were found among the materials in the performance. In open field conditions, commercial and experimental hybrids gave higher yield than local varieties (more than two-fold higher as a mean). No significant differences were found among the best accessions of commercial and experimental hybrids. In greenhouse conditions, commercial hybrids outperformed local varieties and experimental hybrids, and none of the latter materials gave yields similar to those of the best commercial hybrid. Commercial hybrids entered into production earlier than local varieties and experimental hybrids, especially under greenhouse conditions. Yield and harvest of the first fruit were negatively correlated in both environments. For all traits there is an important genotype x cultivation conditions interaction, suggesting that breeding programmes specific to each cultivation environment should be established. Also, hybrids between local varieties could be competitive with commercial hybrids in the open air cultivation, but not for greenhouse cultivation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>83</start>
+          <end>88</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a1.pdf</identifier>
+  </mods>
+</modsCollection>

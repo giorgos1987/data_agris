@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Detection of genetic diversity in Parkia timoriana (DC.) Merr. using randomly amplified polymorphic DNA analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Thangjam</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Genetics Laboratory, Life Sciences Department, Manipur University, Imphal - 795003, India. Present address: Department of Botany, Modern College, Porompat, Imphal - 795 010, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Maibam</namePart>
+      <namePart type="given">Damayanti</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Life Sciences, Manipur University, Imphal – 795003, India. Presend address: Department of Botany, Modern College, Porompat Imphal – 795010, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sharma</namePart>
+      <namePart type="given">Jitendra G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Life Sciences, Manipur University, Imphal – 795003, India. Presend address: Department of Botany, Modern College, Porompat Imphal – 795010, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Genetic variation of eight genotypes of tree beans grown in Manipur, India was investigated at the DNA level using randomly amplified polymorphic DNA (RAPD) analysis. Of the 12 random primers used 8 were analysed and a total of 95 bands scored. The percentage of polymorphism ranged from 0 to 57.14 with an average of 42.10 per primer. Pair-wise comparisons were made for the RAPD profiles obtained. Similarity measurement using UPGMA followed by cluster analysis resulted in 3 major groups. The results of the dendrogram and principal co-ordinate analysis were in considerable agreement with the overall representation of relationships among the genotypes studied. It was also observed that the similarities between genotypes from the different geographical locations revealed considerable discrimination. The results indicated that RAPD could be effectively used for genetic diversity analysis in the closely related accessions of a species as it is reliable, rapid and superior to those based on pedigree information.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>46</start>
+          <end>49</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-6.pdf</identifier>
+  </mods>
+</modsCollection>

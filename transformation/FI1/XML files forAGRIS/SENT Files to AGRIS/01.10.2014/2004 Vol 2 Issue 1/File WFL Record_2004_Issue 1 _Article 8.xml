@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Phytate from edible beans: chemistry, processing and health benefits</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shi</namePart>
+      <namePart type="given">John</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Guelph Food Research Center, Agriculture and Agri-Food Canada, 93 Stone Road West, Guelph, Ontario N1G 5C9, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Arunasalam</namePart>
+      <namePart type="given">Konesh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Ontario, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yeung</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Global Nutrition Services, H. J. Heinz Company of Canada Ltd. Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kakuda</namePart>
+      <namePart type="given">Yukio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, University of Guelph, Ontario, Canada.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mittal</namePart>
+      <namePart type="given">Gauri</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Ontario, Canada.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Demand for bean products is growing because of the presence of several health-promoting components in edible bean products such as phytates. Phytates are a naturally occurring compound, which is distributed widely in all cells of legume plants. Clinical studies have suggested that these health-promoting components, phytates, affect the immune system to protect the human body against cancers, and to reduce cholesterol level. Phytates decrease blood lipids, lowers cancer risks and lower blood glucose response. A high phytate diet is used in the inhibition of dental caries and platelet aggregation, in the treatment of hypercalciuria in humans, and in the antidote activity against acute lead poisoning. In epidemiological studies, phytates have shown an inverse relationship with the incidence of renal stones. Thermal processing such as canning is the typical method to process beans. The study is to review the effect of thermal processing on the characteristics and stability of phytates in canned bean products. Phytates are less thermal sensitive. During soaking and blanching, portions of phytates were dissolved in water and lost in soaking, washing and blanching liquors. An optimum thermal process can increase the stability and maintain the phytates in canned bean products, which is useful for food industry to improve thermal processing technology and enhance bean product quality.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>49</start>
+          <end>58</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f8.pdf</identifier>
+  </mods>
+</modsCollection>

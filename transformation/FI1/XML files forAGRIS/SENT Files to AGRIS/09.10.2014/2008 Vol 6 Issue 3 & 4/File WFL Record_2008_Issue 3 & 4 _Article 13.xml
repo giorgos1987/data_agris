@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>UV-C treatments on fresh-cut green onions enhanced antioxidant activity, maintained green color and controlled ‘telescoping’</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kasim</namePart>
+      <namePart type="given">M. Ufuk</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of Arslanbey, Arslanbey, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kasim</namePart>
+      <namePart type="given">Rezzan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of Arslanbey, Arslanbey, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Erkal</namePart>
+      <namePart type="given">Süleyman</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of Arslanbey, Arslanbey, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>To maintain high quality and to extend the shelf life of minimally processed green onions (Allium cepa L.), the potential benefit of UV-C treatment for different doses was evaluated. Fresh-cut green onions treated with UV-C for 0 (K, non-treated), 3 (UV-C3), 5 (UV-C5), 10 (UV-C10) and 15 (UV- C15) min were stored at 5°C for 15 days. Antioxidant activity, electrolyte leakage, color, weight loss, visual quality and inner leaf extension ‘telescoping’ were measured at 1, 5, 10 and 15 d of storage. DPPH free radical scavenging activity of fresh-cut green onions was increased by UV- C treatments, especially higher doses. The highest antioxidant activity was measured in onions treated with UV-C15 (87.75%) while it was lowest in onions of K (82.14%) and UV-C10 (81.95%). In contrast to antioxidant activity, electrolyte leakage was lowest in control group and it was getting high with the higher doses of UV-C. UV-C treatments for high doses increased antioxidant activity but these doses caused tissue deterioration. L* values of white leaf sheath of fresh-cut green onions were maintained higher in onions treated with UV-C5 and UV-C10 than in the other UV-C treatments and K. Color values a* and b* of the hollow green tissues of onions in K, UV-C3 and UV-C5 treatments increased during the storage. Decay percentage and inner leaf extension ‘telescoping’ of onions were effectively controlled by UV-C15 treatment.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>63</start>
+          <end>67</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f13.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vitro regeneration and mass multiplication of Capsicum annuum L</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sanatombi</namePart>
+      <namePart type="given">Keithellakpam</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Life Sciences, Manipur University, Imphal-795003, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sharma</namePart>
+      <namePart type="given">Gurumayum Jitendra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Life Sciences, Manipur University, Imphal-795003, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Shoot-tip and axillary shoot explants were used for in vitro regeneration and mass multiplication of two Capsicum annuum L. cultivars, Meiteimorok and Haomorok. Shoot-tip explants excised from in vitro-raised seedlings were used for multiple shoot bud induction in MS medium supplemented with BAP alone or in combination with IAA. Maximum number of shoot buds were obtained on MS medium containing 22.2 µM BAP or 44.4 µM BAP in the cultivar Meiteimorok and in medium containing 22.2 µM BAP in the cultivar Haomorok after four weeks of culture. Rooting and elongation of the regenerated shoot buds were achieved in medium containing 2.46 µM IBA or 4.90 µM IBA in ´Meiteimorok‘ and in 2.85 µM IAA or 5.71 µM IAA and 2.46 µM IBA or 4.90 µM IBA in ´Haomorok‘. Axillary shoots were induced in the rooted plantlets by decapitating the plantlets. About 4-6 axillary shoots developed in both cultivars within two weeks of decapitation. The axillary shoots with a few leaf primordia were subsequently cultured in medium containing 22.2 µM BAP or 44.4 µM BAP for shoot multiplication and the regenerated shoots were rooted in medium supplemented with IAA or IBA. The rooted plantlets were further decapitated for mass multiplication.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>205</start>
+          <end>208</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a16.pdf</identifier>
+  </mods>
+</modsCollection>

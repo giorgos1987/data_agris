@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A proposal of quality classification of food products based on K-means analysis</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Siejka</namePart>
+      <namePart type="given">Katarzyna</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Opole University of Technology, Department of Agricultural and Forest Engineering, ul. Miko¶ajczyka 5, 45-271 Opole, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tukiendorf</namePart>
+      <namePart type="given">Andrzej</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cardiff Research Consortium, Ltd, The MediCentre, Heath Park, Cardiff, CF14 4UJ, United Kingdom.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A quality classification of food products based on K-means analysis has been performed. A carrot quality production in terms of heavy metals’ contamination was analyzed in the study. Two clusters have been established. The first one roughly comprises of 21 samples with the lower Cd and Pb concentrations in carrots (below the average levels), whereas the second cluster represents the remaining 17 samples with the elevated heavy metals concentrations (i.e. above the averages). Following the Student-t test estimates for the distinguished clusters we observed significant differences between the clusters for both the analyzed elements. Moreover, concentrations of Cd were almost twice higher in the second cluster, whereas over three times higher for Pb concentrations in comparison to the first one. The usefulness and simplicity of the applied statistical methodology to classify food products have been shown. An additional conclusion has been reached that carrot quality does not depend on the type of areas which the carrot samples originated from, i.e. either elevated Cd or Pb concentrations of carrots were observed in urban or rural areas.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>23</start>
+          <end>25</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/f5.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A conceptual framework for modeling soil quality dynamics on Loess plateau of China</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">He</namePart>
+      <namePart type="given">Xiubin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Mountain Hazard and Environment, CAS &amp; MWR, Chengdu, Sichuan 610041, China.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tian</namePart>
+      <namePart type="given">Junliang</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Soil and Water Conservation, CAS, Yangling, Shaanxi 712100, China.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soil quality is defined as “The capacity of a specific kind of soil to function within natural or managed ecosystem boundaries, to sustain biological productivity, maintain environmental quality, and promote plant and animal health”. It is increasingly proposed as an integrative indicator of environmental quality, food security and economic viability. However, there are a number of constraints to adoption so that indices of soil quality can provide decision tools for policy-makers and help identify the most sustainable management practices for farmers and other land managers. The present research intends to develop a strategy for selecting minimum data set for soil quality indicators in the case area: the Loess Plateau of China, and to develop a conceptual framework for monitoring and modeling the dynamics of soil quality, and finally setup a Web-GIS-based information system to collect the data of soil quality change and predict its in response to potential disturbances.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>304</start>
+          <end>307</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-14.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of heat treatments on the quality of miniature golden apples (Spondias cytherea Sonn) during low temperature storage</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Graham</namePart>
+      <namePart type="given">Owen S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohammed</namePart>
+      <namePart type="given">Majeed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wickham</namePart>
+      <namePart type="given">Lynda  D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Heat treatments of mature-green miniature golden apples produced differential effects in fruit quality of increased skin yellowing but decreased flesh softening and sweetening during storage. However chilling injury (CI) symptoms were not alleviated. Immersion of fruit for 6 or 10 minutes in water at 46°C controlled decay and prevented the development of anthracnose infection compared to control fruit. Fruit treated for 6 minutes developed a pronounced yellow skin colour when stored at 22°C. This intense colour development, indicative of ripening was correlated with firmer and less sweet fruit compared to the control. Treatments at 46°C for 15 or 20 minutes or at 49°C for 10, 15 or 20 minutes prevented anthracnose infection and controlled decay organisms but heat injury was considerable. Neither heat treatments at 46°C for 6 or 10 minutes alleviated chilling injury in fruit stored at 5°C, with symptoms manifested by extensive pitting and brown discolourations, supported by high electrolyte leakage and low bioelectrical resistance measurements indicative of membrane damage due to CI which occurred as early as day 4. Fruit treated at 46°C for 10 minutes and stored at 10°C for 10 days plus 2 days at 22°C had moderate CI while control fruit had slight CI.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>48</start>
+          <end>53</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f7.pdf</identifier>
+  </mods>
+</modsCollection>

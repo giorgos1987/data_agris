@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biodiversity profile in selected cyanobacterial genera</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family"></namePart>
+      <namePart type="given">Shalini</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centre for Conservation and Utilisation of Blue Green Algae, Indian Agriculture Research Institute, New Delhi-110012, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gupta</namePart>
+      <namePart type="given">Rajinder K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Guru Gobind Singh Indraprastha University, Delhi-110006, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dhar</namePart>
+      <namePart type="given">Dolly Wattal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centre for Conservation and Utilisation of Blue Green Algae, Indian Agriculture Research Institute, New Delhi-110012, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>There was a marked difference observed with respect to N assimilatory enzymes (nitrogenase, glutamine synthetase and nitrate reductase) amongst the cyanobacterial isolates from Anabaena, Nostoc and Calothrix. RAPD-PCR was used to generate unique and identifying DNA profiles for these isolates. The method used was based on the optimization of PCR programme and the selection of 10-mer oligonucleotide primers. The RAPD profiles provided sufficient information to prepare a dendrogram of genetic relatedness. The data was used in similarity matrix analysis and similarity coefficient ranged from 0.53 to 0.91. Isolates of Calothrix, namely Ca4 and Ca5, exhibited highest similarity coefficient of 0.914 and also depicted similar levels of N-assimilatory enzyme activities.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>369</start>
+          <end>374</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e26.pdf</identifier>
+  </mods>
+</modsCollection>

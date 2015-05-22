@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Stability studies of hybrid yam (Dioscorea rotundata Poir.) genotypes in Ghana</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Otoo</namePart>
+      <namePart type="given">Emmanuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crops Research Institute, P.O. Box 3785, Kumasi, Ghana.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Okonkwo</namePart>
+      <namePart type="given">Christian C.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, PMB 5320, Oyo Road, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Asiedu</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture, PMB 5320, Oyo Road, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seven white yam (Dioscorea rotundata Poir.) genotypes (1 local and 6 hybrids from IITA) were evaluated in 13 environments using randomised complete block design (RCBD) with 3 replications. The environments were Fumesua (forest) from 2000 to 2004 and Wenchi (forest Guinea savannah transition) from 2000 to 2003 and Bodwease (forest-coastal savannah transition) from 2000-2004. The yield data were analysed using the Mixed Model version of the additive main effects multiplicative interaction (AMMI) with one multiplicative term (AMMI1) statistical model in SAS version 8. Highly significant (P&lt;0.001) genotype (G), environments (E) and G x E effects were observed on yield of the tested genotypes. Genotype accounted for 8.9, environment 30.8 and G x E 43.7% of the total sum of squares. The Akaike’s Information Criterion (AIC) value was -817.6 indicating a high degree of statistical fit of the yield data. Using the Additive Main Effects and Multiplicative Interaction (AMMI) model with one multiplicative term (AMMI1), four groupings were identified: low yielding and highly unstable (Dorban and TDr 95/18944); low yielding but very stable (TDr 95/19158); high and stable yielding (TDr 89/02665 and TDr 95/19177) and high but unstable yielding genotypes, (TDr 95/18949 and TDr 89/18894). TDr 89/02665 has therefore been formally released as a new variety (Mankrong Pona) in Ghana in 2005. Bodwease, Wenchi and Fumesua were identified as most favourable and stable environments for yam improvement studies in that order of importance. Bodwease generally had lower leaf spot disease pressure compared with locations that exhibited unstable yields such as Fumesua with higher temperature and relative humidity. Yam improvement therefore should be focused on multiple disease and pest resistance, which would guarantee stability of crop performance.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>234</start>
+          <end>238</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a22.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Antimicrobial activities of Ipomoea batatas (L.) leaf</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Islam</namePart>
+      <namePart type="given">Shahidul</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agriculture, University of Arkansas at Pine Bluff, 1200 North University Drive, Mail Slot 4913, Pine Bluff, AR 71601, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The antimicrobial activity of artificially grown sweetpotato [Ipomoea batatas (L.) Lam.] leaves was investigated against both Gram positive and Gram negative bacteria: Escherichia coli O157:H7, Bacillus cereus and Staphylococcus aureus. Three different cultivars, ‘Simon 1’, ‘Kyushu 117’ and ‘Elegant Summer’, were used. The sweetpotato leaves were grown under different temperatures (20, 25 and 30°C) and artificial shading (O, 40 and 80%) conditions. There were some cultivar differences however, the lyophilized leaf powder (100 mg) from all the cultivars in the Trypto Soya Broth cultivation medium (10 ml) strongly suppressed the growth of all the bacteria studied. However, the antibacterial extract of the leaves had no effect on the growth of 5 types of bifidobacteria useful for human health. The main components of the antibacterial extract were polysaccharides (30%) and protein (70%). In the polysaccharide fraction, the relative quantities of natural sugars were xylose &gt; galactose &gt; arabinose &gt; glucose &gt; rhamnose &gt; mannose &gt; fucose. These results suggest that the antibacterial component may be a pectin-like material. Thus, the practical use of sweetpotato leaves to prevent the growth of food-poisoning bacteria is very promising.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>14</start>
+          <end>17</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/f2.pdf</identifier>
+  </mods>
+</modsCollection>

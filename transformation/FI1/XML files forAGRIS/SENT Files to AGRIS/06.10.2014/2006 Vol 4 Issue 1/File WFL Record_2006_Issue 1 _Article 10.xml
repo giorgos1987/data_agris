@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of bruising and storage temperature on vitamin C content of tomato fruit</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sablani</namePart>
+      <namePart type="given">S.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Nutrition, College of Agricultural and Marine Sciences, Sultan Qaboos University, P.O. Box 34, Al-Khod 123, Muscat, Sultanate of Oman.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Opara</namePart>
+      <namePart type="given">L.U.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Soils, Water and Agricultural Engineering, College of Agricultural and Marine Sciences, Sultan Qaboos University, P.O. Box 34, Al-Khod 123, Muscat, Sultanate of Oman.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Al-Balushi</namePart>
+      <namePart type="given">K.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Nutrition, College of Agricultural and Marine Sciences, Sultan Qaboos University, P.O. Box 34, Al-Khod 123, Muscat, Sultanate of Oman.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Bruising is a common problem that downgrades the quality of fresh tomato during postharvest handling and marketing. In this study, samples of bruised and undamaged tomato fruit were stored at two different temperatures for about two weeks. The temperatures selected were refrigeration temperature (4°C) and room temperature (25°C). A titration method was used to measure the content of vitamin C in fruit at different storage times. Vitamin C content in fruit decreased with increasing duration of storage time at both temperatures, but no significant differences were found in vitamin C content of damaged and undamaged fruit tissue. The rate of vitamin C loss was higher when fruit were stored at higher temperature.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>54</start>
+          <end>56</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f10.pdf</identifier>
+  </mods>
+</modsCollection>

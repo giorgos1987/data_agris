@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of the essential oils of Cymbopogon citratus, C. nardus and Cinnamomum zeylanicum on pest incidence and grain quality of rough rice (paddy) stored in an enclosed seed box</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Paranagama</namePart>
+      <namePart type="given">Priyani</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abeysekera</namePart>
+      <namePart type="given">Thushara</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>AbeysekeraDepartment of Chemistry, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nugaliyadde</namePart>
+      <namePart type="given">Lionel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Entomology Division, Rice Research and Development Institute, Bathalagoda, Ibbagamuwa, Sri Lanka.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abeywickrama</namePart>
+      <namePart type="given">Krishanthi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Botany, University of Kelaniya, Kelaniya, Sri Lanka.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The protective effect of the essential oils of Cymbopogon citratus, C. nardus and Cinnamomum zeylanicum leaf on paddy stored in wooden boxes lined with aluminium foil were evaluated. After 168 days of storage in oil treated boxes Sitotroga cerealella population was significantly lower in oil treated paddy than the control. The 1000-grain weight was higher in all three treatments (21.1 – 22.9 g) compared to the control (19.8 g). Percentage grain damage was lower in C. citratus and C. nardus treated paddy than the control. The percentage seed germination was not significantly different from that of the control in oil treated paddy though, in C. citratus treatment the seed germination was reduced. The milling quality of paddy was not affected by the essential oil treatment however; the flavour and stickiness of cooked rice was enhanced when treated with C. zeylanicum and C. citratus oils.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>134</start>
+          <end>136</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-125.pdf</identifier>
+  </mods>
+</modsCollection>

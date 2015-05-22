@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effects of weaning programs on serum metabolites and hepatic IGF-1 mRNA of first-calf heifers or mature cows</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Whitney</namePart>
+      <namePart type="given">Travis</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Duff</namePart>
+      <namePart type="given">Glenn</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cuneo</namePart>
+      <namePart type="given">Peder</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Henderson</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schafer</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hallford</namePart>
+      <namePart type="given">Dennis</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal and Range Sciences, New Mexico State University, Las Cruces. * TX Agricultural Experiment Station, 7887 U.S. Hwy 87 N., San Angelo, TX 76901.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Collier</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gentry</namePart>
+      <namePart type="given">Paula</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Sciences, The University of Arizona, Tucson, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Effects of early weaning calves on serum metabolites and hepatic insulin-like growth factor-1 messenger RNA (IGF-1 mRNA) of first-calf heifers or mature cows was investigated. Treatments were arranged in a 2 x 2 factorial and included 14 crossbred first-calf heifers and 14 crossbred mature cows assigned randomly to one of two treatment regimens: early-weaned (EW, calves weaned at an average age of 114 d) or normal-weaned (NW, calves weaned at an average age of 197 d). Blood samples were collected from dams on d 114, 141, 197 and 205 postpartum via coccygeal venipuncture. Heifers with calves EW experienced a greater increase (parity x weaning; P = 0.02) in BW over heifers with calves NW, but no change in BW due to weaning was observed for mature cows (P&gt;0.71). Early weaning (vs. NW) increased (P&lt;0.05) body condition (BC) and change in BC of heifers and cows. Effects of weaning regimen or parity were not observed for ADG. There were no parity x weaning or parity x weaning x d interactions (P&gt;0.16) observed for serum IGF-1, serum non-esterified fatty acids (NEFA), or serum urea nitrogen (SUN). A parity x d interaction (P&lt;0.05) for hepatic IGF-1 mRNA, serum IGF-1 and SUN, and a trend for parity x d for NEFA (P&lt;0.10) were observed, but no differences were detected between first-calf heifers and mature cows within sampling d. Early weaning tended to decrease (P = 0.06) SUN compared with NW status. These results suggest that EW can increase BW and BC in first-calf heifers, and decrease SUN in both first-calf heifers and mature cows. However, no other differences in performance or serum chemistry were detected between first-calf heifers and mature cows with either weaning regimen applied, in open rangeland conditions of the arid southwest United States during drought.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>49</start>
+          <end>53</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f7.pdf</identifier>
+  </mods>
+</modsCollection>

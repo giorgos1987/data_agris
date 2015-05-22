@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Technology transfer for humanitarian use: Economic issue and market segmentation approaches</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Lybbert</namePart>
+      <namePart type="given">Travis J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Applied Economics &amp; Management, Cornell University, 3 Warren Hall, Ithaca, NY 14853, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This article discusses a pragmatic approach to providing poor countries with access to patented technologies that consists of devising novel contractual strategies for segmenting markets such as licensing technologies for humanitarian use. There are, however, several complexities to technology transfer for humanitarian use. Many technologies involve multiple patent holders. Effectively targeting the poor can be challenging, and implementing a targeting program can be costly. Novel approaches to humanitarian use technology transfer should be evaluated according to principles of efficiency, optimality and feasibility. Ongoing research in this area is motivated by the observation that in a world of persistent economic inequality any technology with relevance to the poor and vested private interests might be distributed more socially optimally and transferred more efficiently as a result of a more systematic understanding of humanitarian use technology transfer.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>95</start>
+          <end>99</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/food-18.pdf</identifier>
+  </mods>
+</modsCollection>

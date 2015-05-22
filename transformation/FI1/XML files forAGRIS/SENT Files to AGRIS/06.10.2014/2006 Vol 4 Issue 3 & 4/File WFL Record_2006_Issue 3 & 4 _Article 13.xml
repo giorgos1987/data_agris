@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Inter-relationship of physical and physicochemical parameters to cooking time of African breadfruit (Treculia africana) seeds</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nwabueze</namePart>
+      <namePart type="given">Titus U.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Michael Okpara University of Agriculture, Umudike, P. M. B. 7267, Umuahia, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Nwokenna</namePart>
+      <namePart type="given">Chinwe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Michael Okpara University of Agriculture, Umudike, P. M. B. 7267, Umuahia, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seeds from two varieties of African breadfruit (Treculia africana) were blanched at 100°C/15 min and manually dehulled to produce wholesome seeds. Physical dimensions (weight, volume and density) were taken on 50 seeds of each variety. Hydration and swelling capacities and indices of the seeds were determined. One kilogram of undehulled seeds were allowed to stand at ambient temperature (28±2°C) for 5 days to simulate holding time practice of African breadfruit seed entrepreneurs in the area. Varietal influences on composition, cooking time and physical and physicochemical parameters were investigated. Effects of holding time and inter-relationship of physical and physicochemical parameters to cooking time were also investigated. Findings were thought to be useful in increasing throughput through seed breeding and selection into cooking time types. Cooking time ranged from 11.5 min in var. africana to 22.0 min in var. inversa. Var. inversa had higher crude protein, carbohydrate and amylose (18.80, 63.90 and 19.28 g/100 g, respectively) than var. africana (15.05, 62.75 and 14.85 g/100 g). Seed size whether measured as weight or volume was more highly correlated with cooking time than with swelling and hydration capacities. Swelling capacity had a low negative correlation with cooking time for var. inversa but low positive correlation for var. africana. Correlation coefficients between 0.83 and 0.99 were found for var. africana while coefficients between 0.80 and 0.91 for var. inversa were obtained in the research. A high amylose value in var. inversa partly accounted for its higher water absorption and lower hydration capacities which influenced its longer cooking time than that of var. africana. Cooking time in both varieties increased in equal proportion by 14%. Thus holding time effect neutralized varietal and compositional differences influencing cooking time in dehulled African breadfruit seeds. The most important factor affecting holding time and hence cooking time was the loss of moisture causing shrinkage of seeds. </abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>56</start>
+          <end>60</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/f13.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Precipitation fluctuations in the transitional zone between arid and semiarid regions of northwest China from the 1950s to the 1990s.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Li</namePart>
+      <namePart type="given">Xiao-Yan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, 260 Donggang West Road, Lanzhou 730000, Gansu Province, P. R. China. Present address: Estacion Experimental de Zonas Aridas, Consejo Superior de Investigaciones Cientificas (CSIC), General Segura 1, 04001-Almeria, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wang</namePart>
+      <namePart type="given">Xue-Quan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, 260 Donggang West Road, Lanzhou 730000, Gansu Province, P. R. China. Present address: Estacion Experimental de Zonas Aridas, Consejo Superior de Investigaciones Cientificas (CSIC), General Segura 1, 04001-Almeria, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gao</namePart>
+      <namePart type="given">Qian-Zhao</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences, 260 Donggang West Road, Lanzhou 730000, Gansu Province, P. R. China. Present address: Estacion Experimental de Zonas Aridas, Consejo Superior de Investigaciones Cientificas (CSIC), General Segura 1, 04001-Almeria, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The transitional zone between arid and semiarid regions of northwest China is the most sensitive ecotone to the global climate change and also a severe land degradation area in China. Precipitation is the major water source for agricultural production and environmental improvement in this transitional area, and it has a great effect on the functions of the ecosystem. Studies of precipitation variability from the 1950s to the 1990s indicated that precipitation tended to decrease during the last 40 years. Furthermore, the year-to-year precipitation fluctuation was quite noticeable during this period. Precipitation was higher than normal from the late 1950s to the early 1960s. Frequent alternate wet and dry years were characteristics of the 1960s. The dry year anomalies are more significant than the wet year anomalies between the 1970s and the 1990s. Particularly there was a marked decrease in precipitation after 1980. The 250 mm isohyet is used as the climatic boundary line between arid and semiarid region and it shifts in the space with the occurrence of wet years and dry years. Compared with the position of the mean 250 mm isohyet during the last 40 years, the 250 mm isohyet in the wet year 1964 shifted northward about 55 km in the east part, 30 km in the middle part and 130 km in the east part of the transitional zone. In contrast, in dry year 1980, the 250 mm isohyet shifted southward about 110 km in the whole transitional zone. This means that the 250 mm isohyet has been displaced about 140 to 240 km between the wet year 1964 and the dry year 1980.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3%4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>229</start>
+          <end>238</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/environment-1.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Accumulation of RNA in the senescing root nodular cells of soybean (Glycine max (L.) Merrill) – Histochemical evidence</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shivananda</namePart>
+      <namePart type="given">T. N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Indian Institute of Horticultural Research, Hessaraghatta Lake post, Bangalore 560 089, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Joshi</namePart>
+      <namePart type="given">Chandrika Syamasundara</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences, GKVK, Bangalore 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rudraswamy</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences, GKVK, Bangalore 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gowda</namePart>
+      <namePart type="given">T. K. S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences, GKVK, Bangalore 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Viswanath</namePart>
+      <namePart type="given">D. P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences, GKVK, Bangalore 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Siddaramappa</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences, GKVK, Bangalore 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dris</namePart>
+      <namePart type="given">R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>World Food Ltd. Meri-Rastilantie 3C-FIN-00980 Helsinki, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Accumulation of RNA in the senescing soybean nodules formed by Bradyrhizobium as evidenced by histochemical studies is reported in this paper. Using RNA/DNA specific stain and digesting the RNA with RNase enzyme confirmed the accumulation of RNA. Such accumulation of RNA was not found in the young cells of the nodule. Accumulation of RNA was found to have a negative relationship with haemoglobin content, ARA activity and total soluble protein content of the cell. Positive relationship between the age and RNA accumulation was noticed. It appears that the RNA was more likely from the plant cell but not from bacteroids. The accumulation of RNA was found very close to the nucleus of the cell. The volume of accumulated RNA was as large as that of nucleus itself. We report the possible involvement of translation inhibition in the senescing nodular cells in the older nodule tissues. We believe, this is the first report of unusual accumulation of RNA in the symbiotic association.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>322</start>
+          <end>327</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/a29(2).pdf</identifier>
+  </mods>
+</modsCollection>

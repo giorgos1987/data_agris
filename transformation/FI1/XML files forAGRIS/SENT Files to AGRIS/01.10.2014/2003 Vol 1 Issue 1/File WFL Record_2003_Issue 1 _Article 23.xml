@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Agriculture and the environment in free trade agreements</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Colyer</namePart>
+      <namePart type="given">Dale</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural and Resource Economics, West Virginia University, P.O. Box 6108 Morgantown WV, 26506-6108, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The inclusion of environmental issues in trade liberalization agreements has become a major issue since they were included in NAFTA and recognized by the Uruguay Round GATT agreement. However, the exact role and nature of these remains contentious with many WTO members opposed to an extensive role for environmental issues in multilateral trade agreements. Nonetheless, the declaration that established the Doha Round recognizes a role, albeit a limited one, for the environment in negotiating the next trade liberalization agreement. The exact nature of environmental issues in the Doha Round will be the result of extensive negotiations and compromises.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>145</start>
+          <end>147</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1E145-147agricult&amp;envronm.pdf</identifier>
+  </mods>
+</modsCollection>

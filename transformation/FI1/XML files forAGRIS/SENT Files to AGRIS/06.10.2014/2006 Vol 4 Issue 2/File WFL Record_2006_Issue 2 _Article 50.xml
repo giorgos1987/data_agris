@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>A review of government policies on agricultural research coordination in Nigeria from 1960–2003</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Idio</namePart>
+      <namePart type="given">A.D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, Cross River University of Technology, Obubra, Nigeria. Department of Agricultural Extension and Rural Development, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akinsorotan</namePart>
+      <namePart type="given">A.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agricultural Economics and Extension, Cross River University of Technology, Obubra, Nigeria. Department of Agricultural Extension and Rural Development, University of Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A retrospective survey of government policies on agricultural research coordination in Nigeria from 1960-2003 was carried out. The National Agricultural Research Project (NARP), Ibadan and six research institutes purposively selected to cover all the sectors of agriculture and to represent three of the five major farming system zones in the country were used for the study. Data were collected using structured questionnaires. Four critical inadequacies of government policies were identified. The study further revealed that while the process for the development of research coordination has been very slow and painful to research institutes, no one seemed to be questioning the need for policy or economic reforms to salvage the ailing coordinating agency. It suggested a need for stabilization of agricultural research coordination through the creation of a favourable macro-national policy environment, arguing that this act will involve agricultural technocrats mostly in all matters, which would enhance decisions on research priorities, funding of projects and minimizing research activities duplication. In addition, the study disclosed a need to solve tenural instability of coordinating agencies experienced over the years and suggested the creation of autonomous Directorate of Agricultural Research and Development under the Federal Ministry of Agriculture with the responsibility of coordinating agricultural research in Nigeria.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>241</start>
+          <end>245</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/a23.pdf</identifier>
+  </mods>
+</modsCollection>

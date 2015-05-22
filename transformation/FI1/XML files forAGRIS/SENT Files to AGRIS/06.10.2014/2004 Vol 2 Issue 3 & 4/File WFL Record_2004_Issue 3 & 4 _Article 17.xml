@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Inhibition of chilling injury and quality changes in pineapple fruit with prestorage heat treatment</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">L. Acedo Jr</namePart>
+      <namePart type="given">Antonio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Postharvest Technology Laboratory, Department of Horticulture, College of Agriculture, Leyte State University, Visca, Baybay, Leyte, Philippines.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akinaga</namePart>
+      <namePart type="given">Takayoshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agricultural Process Engineering, Department of Bioproduction, College of Agriculture, University of the Ryukyus, Okinawa, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tanabe</namePart>
+      <namePart type="given">Tetsuya</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Agricultural Process Engineering, Department of Bioproduction, College of Agriculture, University of the Ryukyus, Okinawa, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Chilling injury limits refrigeration of tropical fruits. The development of injury symptoms during and after slight to extreme chilling treatment and the effects of 24-hour exposure to 38°C prior to chilling were determined in this study. Mature-green pineapple (Ananas comosus) fruits cv. Smooth Cayenne with crowns intact were chilled at 0, 5 or 10°C for 15 days and transferred to 25°C for 6 days. Relative humidity during heat treatment and storage was maintained at 85%. During the chilling period, shell discoloration was minimal. After transfer to 25°C, it increased dramatically and was more severe at lower chilling temperatures. Flesh browning similarly developed after transfer to 25°C only in fruits chilled at 0-5°C, affecting more than 75% of the core and fruitlets. Fruit cracks were unexpectedly observed at 0-5°C and did not increase during subsequent storage at 25°C. Heat treatment remarkably reduced shell and flesh discoloration and totally prevented fruit cracking. However, it did not affect chill damage in the crown. Colorimetric attributes L* (lightness), b* and C* (chroma) provided good quantitative measures of shell color while only L* was consistent with flesh color. Respiration rate and weight loss increased after heat treatment but during chilling, these decreased to levels lower than that of unheated fruits. Shell yellowing was inhibited at 0-10°C and later induced at 25°C. Fruits continuously held at 25°C turned full yellow after 9 days. Sugar content, juiciness and juice pH were not markedly affected by the treatments while fruit firmness, titratable acidity and ascorbic acid content decreased as a consequence of chilling. Heat treatment improved shell color quality and maintained firmer texture of fruits chilled at 5°C and higher ascorbic acid content of fruits chilled at 10°C.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>81</start>
+          <end>86</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/f17.pdf</identifier>
+  </mods>
+</modsCollection>

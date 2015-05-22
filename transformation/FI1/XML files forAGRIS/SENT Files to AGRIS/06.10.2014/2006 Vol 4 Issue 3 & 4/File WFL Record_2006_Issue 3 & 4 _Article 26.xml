@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>In vivo and in vitro comparative studies of Origanum species</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">El-Gengaihi</namePart>
+      <namePart type="given">Souad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Medicinal and Aromatic Plants Department, National Research Centre, Dokki, Cairo, Egypt.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Taha</namePart>
+      <namePart type="given">H.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Biotechnology Department, National Research Centre, Dokki, Cairo, Egypt.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kamel</namePart>
+      <namePart type="given">A.M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Medicinal and Aromatic Plants Department, National Research Centre, Dokki, Cairo, Egypt.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Calli cultures were induced from leaf explants of the different species of Origanum. Influence of different types of nutrient media i.e., MS or LS or B5 on calli production as well as the effect of various growth regulators, i.e., 2,4-D, Kin, NAA and BAP at different concentrations on different morphological responses were studied. MS-medium showed to be the best type of nutrient medium on both calli production and/or calli differentiation from leaf explants of Origanum spp. Furthermore, the maximum value of calli production was recorded with O. vulgare L. as compared with the other Origanum species. On the other hand, GC and GC/MS analyses showed that the three oils in vivo varied quantitatively and qualitatively. Carvacrol was detected in the three species with variable concentration. Thymol was detected only in O. vulgare L. Carene-δ- 2 was found only in O. syriacum and O. vulgare. However, α-pinene was found in the three species under study without great variation. Different molecular markers i.e., SDS-PAGE protein profile and RAPD-based DNA fingerprints were carried out in the obtained calli cultures as compared with intact leaf plants and suggest different variation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>127</start>
+          <end>134</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/a8.pdf</identifier>
+  </mods>
+</modsCollection>

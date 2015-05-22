@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of processing conditions and storage on retention of volatile components of durian leather</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Jaswir</namePart>
+      <namePart type="given">Irwandi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Biotechnology, Faculti of Science, International Islamic University Malaysia, Jalan Gombak, 53100 Kuala Lumpur, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Che Man</namePart>
+      <namePart type="given">Yaakob B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor De, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Selamat</namePart>
+      <namePart type="given">Jinap</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor De, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ahmad</namePart>
+      <namePart type="given">Faujan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, Faculty of Sains and Environment, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor De, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sugisawa</namePart>
+      <namePart type="given">Hiroshi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Food Science and Technology, Universiti Putra Malaysia, 43400 UPM Serdang, Selangor De, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A study has been conducted to identify the volatile constituents of durian D24 and to determine the effect of processing and storage on retention of volatile components of durian fruit leather. Results showed that some 38 volatile compounds were identified in fresh durian aril, whereby 11 compounds were esters, 10 alcohols, 6 carboxylic acids, 6 sulphurous and nitrogenous compounds and 5 hydrocarbons. Results also showed that processing of durian leather retained most of aroma components of fresh durian fruit. During storage, the relative proportion of acids in the product increased, esters, alcohols and aldehydes decreased, while hydrocarbons and phenolic and S and N compounds fluctuated.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>66</start>
+          <end>72</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_1/f11.pdf</identifier>
+  </mods>
+</modsCollection>

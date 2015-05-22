@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Electrospray ionization mass spectroscopy shows speciation of phytate to be pH dependent</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Heighton</namePart>
+      <namePart type="given">Lynne</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Chemistry and Biochemistry Department, University of Maryland, College Park, MD 20742, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schmidt</namePart>
+      <namePart type="given">Walter F.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Management and Byproduct Utilization Laboratory, USDA/ARS/ANRI Barc-West, 10300 Baltimore Avenue, Beltsville, MD 20705, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rice</namePart>
+      <namePart type="given">Clifford P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Environmental Management and Byproduct Utilization Laboratory, USDA/ARS/ANRI Barc-West, 10300 Baltimore Avenue, Beltsville, MD 20705, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Siefert</namePart>
+      <namePart type="given">Ronald L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Maryland, Chesapeake Biological Laboratory, One Williams St., Solomons, MD 20688, USA. Current address: Chemistry Department (Mail Stop 9B), United States Naval Academy, 572 M Holloway Rd., Annapolis, MD 21402-5026, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Phosphorus (P) fate and transport is an emergent problem impacting environmental resources. Long time land application of P enriched manure has been implicated in the saturation of available P binding sites in many terrestrial, wetland and sediment systems. Transport of soluble or particle associated P by overland flow and possibly by subsurface leaching has increased eutrophication in waterways. Myo-inositol hexkis phosphate or more commonly phytic acid (PA) is an organic phosphate molecule with twelve acidic protons. The acid dissociation constants (pKa) are 1.9(3), 2.4(2), 3.2(1), 5.2(1), 6.3(1), 8.0(1), 9.2(1) and 9.5(2). The charged species fractions were calculated as a function of pH using the acid dissociation constants. Results predict three different charged species of phytic acid will simultaneously be present at most any environmentally relevant pH. Analysis of the electro-spray ionization mass spectrometry (ESI-MS) solution spectra of iron and copper complexes of PA at pH 2.8, 6 and 13 confirmed multiple charged species of PA occur simultaneously even in the presence of metal cations. Results showed minimal fragmentation of the parent phytate anions. Changes in the z of PA anions, not changes in the stability or fragmentation of the parent compound with pH, explain the observed fragmentation pattern. Assigning the correct z is a pre-requisite to identifying the (m/z) composition of PA fragments.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>402</start>
+          <end>407</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/e8.pdf</identifier>
+  </mods>
+</modsCollection>

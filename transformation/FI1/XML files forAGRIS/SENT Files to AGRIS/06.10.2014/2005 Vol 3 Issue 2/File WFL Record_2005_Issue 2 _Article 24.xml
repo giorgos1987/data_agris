@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Starch modified with hydroxy acids as a potential source of energy and matter for Lactobacillus bacteria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">KapuĞniak</namePart>
+      <namePart type="given">Janusz</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Chemistry and Environmental Protection, Jan Dlugosz University of Czestochowa,  Armii Krajowej Ave. 13/15, 42-200 Czestochowa, Poland.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marczak</namePart>
+      <namePart type="given">Magdalena</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Chemistry and Environmental Protection, Jan Dlugosz University of Czestochowa,  Armii Krajowej Ave. 13/15, 42-200 Czestochowa, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The aim of this work was to carry out tests of new British gums – obtained by convectional and microwave heating of potato starch with selected hydroxy acids – for resistance to enzymatic digestion with α-amylase and choice of compounds that might be used as substrates fermented by probiotic bacteria of genus Lactobacillus. The chosen gums underwent amylolysis in order to test their resistance to digestion with α-amylase. At this stage of the research it was ascertained that the gums most resistant to α-amylase digestion were: starch modified with citric acid in equimolar ratio heated by microwaves, as well by convection and starch modified with tartaric acid in equimolar ratio heated by convection. The initially selected gums were used as components of nutrient for L. rhamnosus cultures. The influence of the selected gums, introduced in concentrations 0.1, 0.5, 1.0 and 2.5%, on growth of L. rhamnosus strain was checked. The highest stimulation of the bacterial cells growth was observed – in comparison with the control – for 0.1 and 0.5% gum concentrations in the base during the first 12 hours of growth. Parallely with observations of changes in numbers of L. rhamnosus cells, grown on the glucose base (0.1-2.5%) and gum base (0.1-2.5%), pH measurements at 0, 6, 12, 24 h were carried out. It was ascertained that there was a relation between base acidification and incubation time for all of the examined samples: the longer the incubation time, the larger the decrease in pH value of the culture. In order to confirm the usage of the selected gums by the examined Lactobacillus rhamnosus strain, measurements of cell protein concentration during 24-hour incubation with these gums were carried out. It was ascertained that all selected gums clearly influenced the growth of L. rhamnosusstrain, causing increase in cell protein level, evident particularly in comparison with the control system containing glucose after 12 hours of incubation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>125</start>
+          <end>129</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_2/f24.pdf</identifier>
+  </mods>
+</modsCollection>

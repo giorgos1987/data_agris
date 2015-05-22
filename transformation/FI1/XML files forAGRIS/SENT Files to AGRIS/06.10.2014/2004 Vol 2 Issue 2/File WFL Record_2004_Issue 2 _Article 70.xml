@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Treatment of delignification effluent with Aspergillus 2BNL1 and optimization of biomass production</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Souza</namePart>
+      <namePart type="given">João V. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">da Silva</namePart>
+      <namePart type="given">Érica S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Silva</namePart>
+      <namePart type="given">João P. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rodrigues</namePart>
+      <namePart type="given">Márcio B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">T. da Silva</namePart>
+      <namePart type="given">Flávio</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Paiva</namePart>
+      <namePart type="given">Teresa C. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculdade de Engenharia Química de Lorena - Departamento de Biotecnologia. Rodovia Itajubá Lorena, Km 74,5, Bairro Campinho, CEP 12600-970, Caixa Postal 116, Lorena – SP- Brasil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Delignification effluent from a nitrocellulose industry was treated with Aspergillus 2BNL. An experimental design was used to optimize the production of fungus biomass evaluating the influence of time and the contents of sucrose, sodium nitrate and effluent on fungal growth. Aspergillus 2BNL1 was able to decolorize between 70-80% of the effluent without co-substrate in 24 h. In addition to color reduction, TOC (total organic carbon) was also reduced by 55% (72 h). For biomass production the best initial contents of sucrose, sodium nitrate and effluent were 45 g L-1, 3 g L-1 and 35 % (v/v), respectively. The highest biomass concentration in the model was 5.35 g L-1. Under the experimental conditions studied the effluent provided an increase in the production of Aspergillus 2BNL1 biomass.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>391</start>
+          <end>394</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/e9.pdf</identifier>
+  </mods>
+</modsCollection>

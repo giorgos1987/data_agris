@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of various rootstocks on triploid watermelon yield and quality</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Huitrón</namePart>
+      <namePart type="given">Maria Victoria</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Yield in Mediterranean Crop Systems” Research Group. University of Almeria, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Diaz</namePart>
+      <namePart type="given">Manuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Yield in Mediterranean Crop Systems” Research Group. University of Almeria, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Diánez</namePart>
+      <namePart type="given">Fernando</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Yield in Mediterranean Crop Systems” Research Group. University of Almeria, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Camacho</namePart>
+      <namePart type="given">Francisco</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Yield in Mediterranean Crop Systems” Research Group. University of Almeria, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>One of the problems related to intensive watermelon (Citrullus lanatus var lanatus, Thunb) yield is the increase of soil-borne diseases. The grafting technique is an alternative for reducing losses from these pathogens, making watermelon crops possible in areas where soil-borne diseases are a limiting factor. Two experiments were established for two years in “Almeria-type” plastic greenhouses in Almeria, Spain, to evaluate the influence of four rootstocks on cv. Reina de Corazones triploid watermelon yield and quality. These experiments did not use pollinating varieties. Ovary development was achieved with N-(2-chloro-4-pyridyl)-N-phenylurea (CPPU) plant growth regulator at a concentration of 200 mg.L-1. Experiments were conducted under plastic greenhouses in the spring of 2003 and 2004. RS-841 and Shintoza (both Cucurbita maxima x Cucurbita moschata) were the rootstocks with the highest percentage of plants affected by nematode, Meloidogyne incognita. Reina de Corazones obtained its highest yield when grafted on PI-296341-FR Citrullus lanatus var citroides, with very low levels of parasitic nematodes (Meloidogyne incognita). None of these rootstocks significativelly affected the quantity of total soluble solids, presenting values above 11.17º Brix.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>344</start>
+          <end>348</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/a35.pdf</identifier>
+  </mods>
+</modsCollection>

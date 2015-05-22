@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Characterisation of different substrates for possible use as casing in mushroom cultivation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Pardo</namePart>
+      <namePart type="given">Arturo </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centro de Investigación, Experimentación y Servicios del Champiñón (CIES), C/ Peñicas, s/n, Apartado 8, 16220 Quintanar del Rey, Cuenca, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">de Juan</namePart>
+      <namePart type="given">J. Arturo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Escuela Técnica Superior de Ingenieros Agrónomos, Universidad de Castilla-La Mancha, Campus Universitario s/n, 02071 Albacete, Spain.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Pardo</namePart>
+      <namePart type="given">J. Emilio </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Escuela Técnica Superior de Ingenieros Agrónomos, Universidad de Castilla-La Mancha, Campus Universitario s/n, 02071 Albacete, Spain.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In this study we describe the principal physical, chemical and biological characteristics of different materials and mixtures for possible use as casing in mushroom cultivation. Besides the base of mineral soil used for the preparation of the mixtures, we have analysed different substrates for use as structural correctors and as water holding agents. The suitability of alternative materials to the traditionally used peat is confirmed, coconut coir being the best because of its high porosity and water holding capacity. As regards the mixtures, their characteristics are in accordance with the components included and conditioned by the characteristics of the soil used. Subsequent evaluation of these mixtures for mushroom cultivation would be of great interest.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>107</start>
+          <end>114</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1A107-114mushroom.pdf</identifier>
+  </mods>
+</modsCollection>

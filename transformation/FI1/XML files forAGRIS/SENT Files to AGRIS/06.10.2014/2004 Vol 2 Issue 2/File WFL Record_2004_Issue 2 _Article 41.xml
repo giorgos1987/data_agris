@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>SWOT analysis of extension systems in Asian and West African countries</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Oladele</namePart>
+      <namePart type="given">O.I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Japan International Research Center for Agricultural Sciences, Development Research Division, Tsukuba, Ibaraki, 305-8686 Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sakagami</namePart>
+      <namePart type="given">J.-I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Japan International Research Center for Agricultural Sciences, Development Research Division, Tsukuba, Ibaraki, 305-8686 Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper presents an analysis of the strengths, weaknesses, opportunities, and threats to extension organizations in Japan, China, Thailand, Nigeria, Cote d’Ivoire and Ghana. This is based on the fact that there are new emerging roles of extension services, need for improved performance, as well as the need to re-position the organizations for future challenges. Some of the strengths are strong linkage among research, extension and farmers, complete organization from national to township level, extensive coverage of farming population, and high feasibility of plans while weaknesses include limited use of alternative extension methods, insufficient cooperation, and coordination with other agencies, high bureaucratic setting, and poor financial decentralization. On the other hand the opportunities that can be explored are potential for improved effectiveness and efficiency through transformations, emergence of private extension services providers and potential for effective programme implementation. The threats to these organizations include too rigid structure, limited use of alternative extension methods, multiplicity of extension advisors roles and inadequate budget. The paper recommends that the extension managers and policy makers should focus on the identified strengths, weakness, opportunities, and threats with a view of evolving an effective and sustainable extension system.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>232</start>
+          <end>236</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a12.pdf</identifier>
+  </mods>
+</modsCollection>

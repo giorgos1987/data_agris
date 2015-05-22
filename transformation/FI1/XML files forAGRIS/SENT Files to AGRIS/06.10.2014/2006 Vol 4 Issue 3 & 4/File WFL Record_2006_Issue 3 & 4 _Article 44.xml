@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparison of corn and elephant grass in the phytoremediation of a petroleum-hydrocarbon-contaminated agricultural soil in Port Harcourt, Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ayotamuno</namePart>
+      <namePart type="given">Josiah M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kogbara</namePart>
+      <namePart type="given">Reginald B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Egwuenum</namePart>
+      <namePart type="given">Paul N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural &amp; Environmental Engineering Department, Rivers State University of Science &amp; Technology, Port Harcourt, P.M.B. 5080, Rivers State, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Two types of plants, Zea mays (corn) and Pennisetum purpureum (elephant grass) were compared in field studies to evaluate their potential in degrading petroleum hydrocarbons in contaminated agricultural soils. Previous studies have shown that certain plants together with their associated microorganisms could increase the removal of petroleum hydrocarbons from contaminated soils. Consequently, field plots comprising a control and five treatment plots, whose treatment options entailed the use of corn, elephant grass and corn plus elephant grass, were utilized in the research design. The experimental methodology involved the simulation of conditions of a major spill through the sprinkling of crude oil on the plots, after which the plants were introduced to the plots. The Z. mays seeds were first grown in nurseries before they were transferred to the plots, while mature already grown P. purpureum stands were transplanted on the experimental plots. Fertilizer application followed thereafter. Relevant soil physicochemical parameters and bacterial counts were analyzed and monitored during the study period. The results of the analyses revealed average hydrocarbon losses of 77.5% (Z. mays) and 83% (P. purpureum) within the first two weeks, these values decreased to 67.5% and 55% after the six-week remediation period for corn and elephant grass respectively. On the other hand, the corn plus elephant grass treatment showed hydrocarbon losses of 62% and 74% for the two and six-week period respectively. These values differed greatly from those obtained in the control plot. It is evident from the percentage hydrocarbon losses recorded in this study that over a wide range of field conditions, corn degrades the contaminant better than elephant grass and the combination of both plants yields the best alternative in the phytoremediation of a petroleum-hydrocarbon-contaminated agricultural soil. The findings of this research further highlighted the position that with ample time at the disposal of stakeholders, remediation of petroleumhydrocarbon- polluted agricultural soil using corn and elephant grass treatments yields a cost-effective and successful approach. What is necessary for a remarkable remediation to be achieved is the creation of favorable conditions within the soil environment, like adequate nutrient supplementation and oxygen availability, for the proper development of soil microbes and plant utilization of the contaminant for their metabolism.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>218</start>
+          <end>222</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e5.pdf</identifier>
+  </mods>
+</modsCollection>

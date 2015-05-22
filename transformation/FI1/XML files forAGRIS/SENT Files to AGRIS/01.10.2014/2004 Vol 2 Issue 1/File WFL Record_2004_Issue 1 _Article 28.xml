@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth performance and nutrient utilization of African giant land snail (Archachatina marginata) hatchlings fed different protein diets</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ejidike</namePart>
+      <namePart type="given">B. N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Fisheries &amp; Wildlife Department, Federal University of Technology, P.M.B 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Animal growth depends greatly on the level of protein intake and utilization of other food nutrients. Growth performance and nutrient utilization of Archachatina marginata hatchlings fed three iso-caloric formulated diets containing varying levels of protein were assessed. The diet protein levels ranged from 15% to 25% crude protein at 5% increments, and were designated treatments I – III respectively. Archachatina marginata hatchlings (5.3±1.0) numbering thirty were randomly grouped and assigned to the diet treatments, each treatment duplicated and the hatchlings fed at 2% body weight/day in wooden cages filled with loamy soil up to 15 cm thickness for 70 days. Growth indices: daily weight gain, body weight gain, shell length, shell width, shell aperture increased with increase in the diet protein level. The mean body weight gain of the hatchlings fed 20% or 25% crude protein diets were similar (p&gt;0.05); both being significantly (p&lt;0.05) higher than those fed on 15% crude protein diet. Morphological parameters (shell length, shell width, shell aperture) of the hatchlings followed similar trend. Weight gain, protein efficiency ratio and feed conversion efficiency increased with increasing diet protein level significantly (p&lt;0.05). Archachatina marginata hatchlings fed lower diet protein level (15%) performed significantly lower in growth at the end of the feeding trial.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>160</start>
+          <end>162</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f28.pdf</identifier>
+  </mods>
+</modsCollection>

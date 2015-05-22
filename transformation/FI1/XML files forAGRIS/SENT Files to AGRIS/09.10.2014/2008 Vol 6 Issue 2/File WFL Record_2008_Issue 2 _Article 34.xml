@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparison of RAPD and ISSR marker profiles of cultivated peanut genotypes susceptible or resistant to foliar diseases</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Mondal</namePart>
+      <namePart type="given">Suvendu</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400085, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sutar</namePart>
+      <namePart type="given">S. R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crop Improvement Division, Central Institute of Cotton Research, Nagpur 440010, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Badigannavar</namePart>
+      <namePart type="given">A. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Nuclear Agriculture and Biotechnology Division, Bhabha Atomic Research Centre, Trombay, Mumbai 400085, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Comparison of molecular profile among nineteen peanut cultivars and breeding lines with differential disease reaction against rust (Puccinia arachidis Speg.) and late leaf spot (Phaeoisariopsis personata Berk. &amp; Curtis.) was carried out using random amplified polymorphic DNA (RAPD) and inter- simple sequence repeat (ISSR) markers. A total of 17 selected RAPD and 21 ISSR primers produced 119 and 153 amplicons respectively, of which 56 and 114 were polymorphic correspondingly. Among 21 ISSR primers, poly (GA) &amp; poly (AG) based primers accounted 65% of total polymorphic bands. Of the two markers, ISSR revealed higher polymorphism (74.5%) than RAPD (47.1%) with the average number of polymorphic bands per assay unit being 5.4 in ISSR and 3.3 in RAPD. Besides, average effective number of patterns per assay unit, expected heterozygosity, effective multiplex ratio (EMR), resolving power (Rp) and marker index (MI) were significantly higher in ISSR than RAPD. In this study, the RAPD and ISSR matrices showed low correlation (r = -0.125) among them but RAPD+ISSR matrix showed significant correlation with both RAPD (r = 0.71) and ISSR (r = 0.75). Though clustering of genotypes was not similar between RAPD, ISSR and RAPD+ISSR dendrogram, clustering of genotypes based on RAPD dendrogram agrees better with the foliar disease reaction against rust and late leaf spot of each genotype.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>181</start>
+          <end>187</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a9.pdf</identifier>
+  </mods>
+</modsCollection>

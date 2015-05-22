@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>FSH and LH cells in the laying hens and cocks, fed with a diet containing red hot pepper</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Erdost</namePart>
+      <namePart type="given">Hatice</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Histology–Embryology, Faculty of Veterinary Medicine, University of Uluda, 16059 Gorukle, Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Özer</namePart>
+      <namePart type="given">Aytekin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Histology–Embryology, Faculty of Veterinary Medicine, University of Uluda, 16059 Gorukle, Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yakıúık</namePart>
+      <namePart type="given">Mine</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Histology–Embryology, Faculty of Veterinary Medicine, University of Uluda, 16059 Gorukle, Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Özfiliz</namePart>
+      <namePart type="given">Nesrin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Histology–Embryology, Faculty of Veterinary Medicine, University of Uluda, 16059 Gorukle, Bursa, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zık</namePart>
+      <namePart type="given">Berrin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Histology–Embryology, Faculty of Veterinary Medicine, University of Uluda, 16059 Gorukle, Bursa, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In this study, follicle-stimulating hormone (FSH) and luteinizing hormone (LH) secreting cells in the pituitary gland of laying hens and cocks, which were fed with a diet containing red hot pepper at low doses in a five months’ development period after hatching, were studied immunohistochemically. At the end of each month, five chicks were chosen randomly, and then they were sacrificed by cervical dislocation to obtain their pituitary glands for  processing routinely through paraffin. FSH-ir and LH-ir cells were identified in the pars distalis by the modified labeled avidin-biotin method. The  number of FSH immunoreactive (FSH-ir) cells was more than that of LH immunoreactive (LH-ir) cells, and males contained more FSH-ir and LH-ir cells. Total number of FSH-ir cells in the pituitary gland of five months old cocks from experimental group were significantly increased (p &lt; 0.05) and the number of LH-ir positive cells were found to be significantly increased (p &lt; 0.05) in the three months old female experimental group. The reaction densities of FSH-ir and LH-ir cells increased in the third month and in the fourth month in both of the experimental groups, respectively. In conclusion, our data suggest that activity of FSH and LH cells could be affected positively by the diet containing red hot pepper in the five months’ development period of the laying hens and cocks.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>119</start>
+          <end>123</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f23.pdf</identifier>
+  </mods>
+</modsCollection>

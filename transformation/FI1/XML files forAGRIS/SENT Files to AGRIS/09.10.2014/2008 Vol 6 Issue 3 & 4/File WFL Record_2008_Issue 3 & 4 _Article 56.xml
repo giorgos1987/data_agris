@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Performance of high protein maize variety and soil nutrient changes with fortified organic fertilizer</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ayoola</namePart>
+      <namePart type="given">O.T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Farming Systems Research &amp; Extension Programme, Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029. Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Makinde</namePart>
+      <namePart type="given">E.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Federal College of Agriculture, I.A.R &amp;T, P.M.B 5029.Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ande</namePart>
+      <namePart type="given">O.T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Land and Water Resources Management Programme Institute of Agricultural Research and Training, Obafemi Awolowo University, P.M.B 5029. Moor Plantation, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Enriching manure with nutrients from limited quantity of inorganic fertilizer could combat the deficiency of late and low supply of nutrients. The growth and yield of high protein green maize (ART-98-SW1) was assessed using organic fertilizer made from municipal waste and cow dung at 5 t/ ha as well as organic fertilizer + urea (i.e. 2.5 t ha-1 municipal waste and cow dung + 100 kg ha-1 urea). These were compared with performance with inorganic NPK fertilizer and no fertilizer control. Maize growth significantly (P = 0.05) increased with application of the N-enriched organic fertilizer. The plants were comparable in height and leaf area with fertilizer application. Fertilization of maize gave significantly (P = 0.05) higher grain yields. Organic fertilizer alone gave yields of 2.68 t ha-1. The unfertilized control plants had an average yield of 1.47 t ha-1.Yield (3.78 t ha-1) obtained from the organic fertilizer + urea was statistically the same with yield (3.70 t ha-1) got from inorganic fertilization. Organic fertilizer + urea increased soil N, P and K contents by 25, 1 and 62%, respectively. It also increased soil Ca and Mg contents by 2 and 8%, respectively. Organic fertilizer at 2.5 t ha-1 with 100 kg/ha urea can be applied to maize. It gives a comparable yield as inorganic fertilizer and increases the soil N, P, K, Ca and Mg contents.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>278</start>
+          <end>281</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_3_4/a18.pdf</identifier>
+  </mods>
+</modsCollection>

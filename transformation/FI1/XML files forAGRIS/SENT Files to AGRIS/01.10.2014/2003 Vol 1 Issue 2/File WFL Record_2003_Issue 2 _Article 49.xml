@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Total and potentially phytotoxic trace metals in Southeastern Italian soils</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ferrara</namePart>
+      <namePart type="given">Giuseppe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Biologia e Chimica Agroforestale ed Ambientale, University of Bari, Via Amendola 165/A, 70126 Bari, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Brunetti</namePart>
+      <namePart type="given">Gennaro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Biologia e Chimica Agroforestale ed Ambientale, University of Bari, Via Amendola 165/A, 70126 Bari, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Senesi</namePart>
+      <namePart type="given">Nicola</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Biologia e Chimica Agroforestale ed Ambientale, University of Bari, Via Amendola 165/A, 70126 Bari, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mondelli</namePart>
+      <namePart type="given">Donato</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Biologia e Chimica Agroforestale ed Ambientale, University of Bari, Via Amendola 165/A, 70126 Bari, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">La Ghezza</namePart>
+      <namePart type="given">Vito</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Dipartimento di Biologia e Chimica Agroforestale ed Ambientale, University of Bari, Via Amendola 165/A, 70126 Bari, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A number of soils from Southeastern Italy have been characterized for their principal physico-chemical properties and total and available contents of trace metals in order to evaluate their possible phytotoxic effects on locally-grown crops. Trace metal toxicity was evaluated by measuring their content in the shoots of different crops (olive, orchards, vineyards and vegetables) grown on these soils, and by using phytotoxicity tests based on seed germination and seedling growth. The total contents measured for trace metals are generally within the usual range found in Italian soils. Only total Pb and Cd contents were close to the upper limits of environmental hazardous concentration. Trace metal contents in plant shoots and results of phytotoxicity tests confirmed the presence in these soils of metal concentrations not harmful to plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>279</start>
+          <end>286</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-environment-1.pdf</identifier>
+  </mods>
+</modsCollection>

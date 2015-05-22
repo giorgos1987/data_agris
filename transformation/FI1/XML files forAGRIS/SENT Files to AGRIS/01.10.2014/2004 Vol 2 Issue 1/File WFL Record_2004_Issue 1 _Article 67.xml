@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Molecular characterization of some turfgrass cultivars using randomly amplified polymorphic DNA (RAPD) markers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Humaid</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Production and Protection Dept., College of Agriculture and Veterinary Medicine, King Saud University, Al-Qassim 1482, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Motawei</namePart>
+      <namePart type="given">M.I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plant Production and Protection Dept., College of Agriculture and Veterinary Medicine, King Saud University, Al-Qassim 1482, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Seven turfgrass cultivars (hybrid bermudagrass “Tifdwarf, Tifway, and Tifgreen”, local bermudagrass, common bermudagrass, Paspalum, and Saint-Augustinegrass) were investigated using RAPD fingerprints as genetic marker to establish genetic identities and assess genetic diversity. From 30 primers tested, only 16 were selected as reproducible, giving 172 bands. The RAPD profiles obtained were successfully used to differentiate the genotypes. The bermudagrass hybrid (Tifdwarf) was distinguished by a 1500-bp amplification fragment produced by primer OPA-16. The 1000-bp amplification fragment produced by primer OPA-15 was absent in all cultivars except the Tifgreen. Based on the pair- wise comparison of amplification products, the genetic similarity was estimated. The seven tested turfgrass cultivars showed variation at the DNA level. Common bermudagrass was more related to other bermudagrass hybrids than local bermudagrass. Saint-Augustinegrass was quite distinct from other turfgrasses. The UPGMA cluster analysis separated seven turfgrasses into five distinct groups comprising: (i) the bermudagrass hybrids (Tifdwarf, Tifway, and Tifgreen), (ii) common bermudagrass, (iii) paspalum grass, (iv) Saint-Augustinegrass, and (v) local bermudagrass. The consensus fingerprint profile using the genetically defined RAPD markers is a useful and reliable method for establishing the genetic identities of the turfgrass cultivars. Also, the polymorphism detected and its reproducibility suggest that RAPD markers can be used successfully in turfgrass for studying the genetic diversity of cultivars.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>376</start>
+          <end>380</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/en8.pdf</identifier>
+  </mods>
+</modsCollection>

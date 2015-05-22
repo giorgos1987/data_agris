@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Validation of analytical method for determination of ochratoxin A in cereals by C18 solid phase extraction and high-performance liquid chromatography with fluorescence detection</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Attallah</namePart>
+      <namePart type="given">Emad R.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Laboratory of Residue Analysis of Pesticides and Heavy Metals in Foods, Agricultural Research Center, Ministry of Agriculture and Land Reclamation, P.O. Box 12311, 7, Nadi El-said st., Dokki, Giza, Egypt.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gomaa</namePart>
+      <namePart type="given">Ahmed M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Laboratory of Residue Analysis of Pesticides and Heavy Metals in Foods, Agricultural Research Center, Ministry of Agriculture and Land Reclamation, P.O. Box 12311, 7, Nadi El-said st., Dokki, Giza, Egypt.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Amer</namePart>
+      <namePart type="given">Mohamed E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Laboratory of Residue Analysis of Pesticides and Heavy Metals in Foods, Agricultural Research Center, Ministry of Agriculture and Land Reclamation, P.O. Box 12311, 7, Nadi El-said st., Dokki, Giza, Egypt.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gad</namePart>
+      <namePart type="given">Sohair A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Central Laboratory of Residue Analysis of Pesticides and Heavy Metals in Foods, Agricultural Research Center, Ministry of Agriculture and Land Reclamation, P.O. Box 12311, 7, Nadi El-said st., Dokki, Giza, Egypt.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A HPLC method was validated for determination of ochratoxin A (OTA) in cereals. Samples were extracted with chloroform in presence of phosphoric acid solution, OTA was isolated by liquid–liquid partitioning into aqueous bicarbonate solution. The sample solution is cleaned-up on a C18 column and OTA is eluted with ethyl acetate–methanol – acetic acid mixture. OTA is identified by reversed phase liquid chromatography and quantified by fluorescence detector. The limit of quantification (1 µg/kg) was found to be significantly lower than current regulatory EU limits. The average recovery of OTA from several different levels varied between 70 and 120%. The reproducibility expressed as relative standard deviation was 10.3%. The method showed to be linear from the limit of quantification up to 40 µg/kg level. The method accuracy was confirmed by participating in 7 proficiency testing (PT) programs organized by FAPAS, CSL, UK during the last 3 years (2004-2007). Two approaches were used for estimating measurement uncertainty; using validation data and PT results. The measurement uncertainty in terms of expanded uncertainty expressed as relative standard deviation (at 95% confidence level and coverage factor K= 2) was less than ±29%. The proposed method was applied to 78 samples of cereals and grains collected from the local Egyptian markets; OTA was detected in 3 samples.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>130</start>
+          <end>133</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/f23.pdf</identifier>
+  </mods>
+</modsCollection>

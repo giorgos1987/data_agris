@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Content of β-carotene in organic milk</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Toledo</namePart>
+      <namePart type="given">Patricia</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Swedish University of Agricultural Sciences, P.O.Box 7051, S750 07 Uppsala, Sweden.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Andrén</namePart>
+      <namePart type="given">Anders</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science, Swedish University of Agricultural Sciences, P.O.Box 7051, S750 07 Uppsala, Sweden.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Milk produced at organic farms was studied to determine the β-carotene content and if an extended grazing period and organic fodder had any influence on the concentration of this antioxidant. Milk samples from 31 organic farms collected during April, June, August, November (1999) and February (2000) were analysed for the content of β-carotene by HPLC after lipid extraction and fat saponification. The β-carotene content had the lowest values in April, which is the last month of the indoor period. Higher amounts were found in June, November and February, but not as expected in August. The reduced content of β-carotene in milk from August may be explained by the high temperatures and low rainfalls registered during the summer 1999 resulting in impaired pastures. The mean concentration of β-carotene was 7.6 µg g-1 fat in June and 3.8 µg g-1 fat in April. These are similar to values reported by others and any significant difference to conventional produced milk could not be found. Since off-flavour remarks is an increasing problem with organic milk, the correlation between β-carotene content and the incidences of oxidative off-flavour reported was also studied. Despite the highest values of β-carotene in the summer, most incidences of oxidative off-flavour were reported in this period. However, all those cases were of the mild type. On the other hand, the oxidative off-flavour found in the milk during March and April, coincided with low β-carotene content and was all of the severe type.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>122</start>
+          <end>125</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-113.pdf</identifier>
+  </mods>
+</modsCollection>

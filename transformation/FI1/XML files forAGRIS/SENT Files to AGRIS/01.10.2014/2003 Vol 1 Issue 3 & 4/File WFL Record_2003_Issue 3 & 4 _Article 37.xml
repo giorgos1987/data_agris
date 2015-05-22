@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Some external and internal quality characteristics of partridge (A. graeca) eggs</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Günlü</namePart>
+      <namePart type="given">Aytekin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kirikçi</namePart>
+      <namePart type="given">Kemal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Çetin</namePart>
+      <namePart type="given">Orhan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Garip</namePart>
+      <namePart type="given">Mustafa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In this study, some quality characteristics of rock partridge eggs were investigated and correlation coefficients between egg weights and quality characteristics were calculated. In the research material, of 100 eggs following values were found for quality characteristics: egg weight 22.43 g, specific gravity 0.933, shape index 77.04, yolk index 47.88, albumen index 1.56, yolk weight 8.41 g, albumen weight 11.68, shell thickness 0.22 mm, shell weight 2.34 g, membrane weight 0.47 g, membrane thickness 0.004 mm and Haugh Unit 96.94. Egg weight correlated significantly with membrane weight (r=0.22*), shell weight (r=0.56***), Haugh Unit (r=0.73***), yolk weight (r=0.43***) and and albumen weight (r=0.79***).</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>197</start>
+          <end>199</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_3&amp;4/agriculture-17.pdf</identifier>
+  </mods>
+</modsCollection>

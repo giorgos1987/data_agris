@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Response of tomato plants to organic nutrition in soilless culture</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kaya</namePart>
+      <namePart type="given">Seçkin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ege University, Faculty of Agriculture, Department of Horticulture, Bornova/Izmir, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Caturano</namePart>
+      <namePart type="given">Ester</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Catania University, Faculty of Agriculture, Department of Horticulture and Food Technologies, Catania, Italy.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tuzel</namePart>
+      <namePart type="given">Yüksel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ege University, Faculty of Agriculture, Department of Horticulture, Bornova/Izmir, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Okur</namePart>
+      <namePart type="given">Nur</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Ege University, Faculty of Agriculture Dept. of Soil Science, Bornova/Izmir, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Leonardi</namePart>
+      <namePart type="given">Cherubino</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Catania University, Faculty of Agriculture, Department of Horticulture and Food Technologies, Catania, Italy.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Organic nutrition could reduce the environmental impact of soilless culture in particular in open systems. The objective of this study was to understand better the response of tomato plant fed with organic nutrient solution in substrate culture in relation to the possible role of the substrate and to provide more sustainable and efficient production by environmentally friendly nutrition method. For this purpose tomato plants were grown in the pots in a semi closed growing system. Plant response was studied in relation to: i) the nutrient solution (i.e., organic vs mineral); ii) the substrate (i.e., sand vs coconut fiber); iii) the amount of amendment (i.e., 40 vs 80 g/pot). Plant response was highly affected by organic nutrition, in part because of the uptake of nutrients and their content in plant tissues. Also, plants grown with the organic substrate showed a higher microbial activity and as a consequence organic matter mineralization. On the other hand, the amount of amendment added to the substrate did not influence significantly plant growth and fruit characteristics. It was concluded that to develop organic fertilization regimens for soilless cultivated tomato the aspects should be better deepen in future research concerns the right choice of organic fertilizers, the timing of nutrient solution preparation and the substrate which all could affect nutrient availability for the plants.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>303</start>
+          <end>305</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_2/a34.pdf</identifier>
+  </mods>
+</modsCollection>

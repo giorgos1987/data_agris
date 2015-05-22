@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of temperature on storage properties, dormancy, soluble sugar content and ααα-galactosidase activity of seven new potato (Solanum tuberosum L.) cultivars</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Shahba</namePart>
+      <namePart type="given">Mohamed A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture and Landscape Architecture, Colorado State University, Fort Collins, Colorado, 80523, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Stushnoff</namePart>
+      <namePart type="given">Cecil</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture and Landscape Architecture, Colorado State University, Fort Collins, Colorado, 80523, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">McSay</namePart>
+      <namePart type="given">Ann E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture and Landscape Architecture, Colorado State University, Fort Collins, Colorado, 80523, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Holm</namePart>
+      <namePart type="given">David</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>San Luis Valley Research Center, Center, CO, 81144, USA.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Davidson</namePart>
+      <namePart type="given">Robert</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>San Luis Valley Research Center, Center, CO, 81144, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cultivar response to storage temperature is a major determinant of potato (Solanum tuberosum L.) tuber dormancy, storage life and soluble sugar content. Considerable genetic variability for storage traits is extant among cultivars, thus to optimize economic returns the release of new potato introductions for grower production should ideally be concurrent with cultural and storage recommendations. This study profiled storage characteristics of several new potato cultivars that were not chemically sprout-inhibited by examining tuber dormancy, soluble sugar accumulation and α-galactosidase glycosidic activity. The two lower temperatures tested (1.1 and 2.2°C) most effectively delayed dormancy release and increased storage life. Russet Norkotah-selection 8 (RNK8), Cherry Red, Chipeta, Russet Norkotah-selection 3 (RNK3), Russet Nugget and Durango Red retained bud dormancy  longest with &lt;10% bud break. Keystone Russet stored only 30-57 days even at 1.1°C. Storage temperatures strongly influenced soluble sugar  accumulation and the length of storage life. The highest soluble sugar accumulation level coincided with the lowest storage temperature (1.1°C).  Averaged over 7 months storage, at the lowest storage temperatures cultivars ranked as follows for reducing sugar content: Keystone Russet &gt; Russet  Nugget &gt; Durango Red &gt; RNK8 &gt; RNK3 &gt; Cherry Red &gt; Chipeta. An α-galactosidase assay, tested as a possible rapid spectrophotometric method to predict the end of dormancy, was not reliable. These data provide guidelines to optimize storage without use of sprout inhibitors for seven new cultivars.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>116</start>
+          <end>121</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/f24.pdf</identifier>
+  </mods>
+</modsCollection>

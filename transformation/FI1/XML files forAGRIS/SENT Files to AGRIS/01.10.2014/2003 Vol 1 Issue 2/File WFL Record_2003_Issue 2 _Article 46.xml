@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Investigating of the possibility of second production in a year from rock partridges (Alectoris graeca) under intensive breeding.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kirikçi</namePart>
+      <namePart type="given">Kemal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Çetin</namePart>
+      <namePart type="given">Orhan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Günlü</namePart>
+      <namePart type="given">Aytekin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Tepeli</namePart>
+      <namePart type="given">Cafer</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yilmaz</namePart>
+      <namePart type="given">Alper</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Veterinary Faculty of Selçuk University, 42031 Konya, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The aim of the study was to investigate of the possibility of second production in a year from Rock partridges. In the study, 12 male and 48 female partridges at 32 weeks of age were used. The partridges were mated in cages at the ratio of 1 male:4 female. Appropriate lighting regime (16 light:8 dark) was applied to partridges at 58 weeks of age to obtain second production in a year. Egg production, fertility, hatchability, hatchability of fertile eggs in the first and second periods of partridges were determined to be 51.55 and 42.80 egg/hen, 83.34 and 75.73 %, 66.89 and 59.80 %, 80.18 and 80.22 % respectively. It was determined that there were significantly differences among egg production (P&lt;0.001) for the first and the second period. But differences between the others characters were not significant. As a result of this study, It was concluded that production characteristics of partridges could be increased via forced molting; however a suitable programme should be developed respecting animal welfare. In this way, more economically partridge breeding can be done.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>267</start>
+          <end>269</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-agriculture-108.pdf</identifier>
+  </mods>
+</modsCollection>

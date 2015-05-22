@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Complexes of anionic polysaccharides with metal salts. Part III. i-Carrageenan</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ciesielski</namePart>
+      <namePart type="given">Wojciech</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Chemistry, University of Education, Armii Krajowej 13/15, 42 201 Czêstochowa, Poland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>i-Carrageenan coordinated to Co(II), Cu(II), Fe(III), Mn(II), and Ni(II) cations forming the Werner-type complexes. The effect of counterions (Cl-, NO3- and C3COO-) is of lesser importance. Only randomly chelation of the central metal by the hydroxyl groups of the β-D-galactose units of the polysaccharide could be postulated. Majority of the Werner type complexes had higher ability to trap water in the macrostructure as compared to carrageenan although this water was more readily liberated on heating. In a majority of the carrageenan- metal complexes the coordinating carrageenan was more thermally stable than original carrageenan.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>26</start>
+          <end>32</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f4(2).pdf</identifier>
+  </mods>
+</modsCollection>

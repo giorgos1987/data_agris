@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Trace elements solubilization in waste-amended saline-sodic conditions</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Irshad</namePart>
+      <namePart type="given">Muhammad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Soil Science, Faculty of Agriculture, Tottori University Koyama-cho, Tottori city 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Yamamoto</namePart>
+      <namePart type="given">Sadahiro</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Soil Science, Faculty of Agriculture, Tottori University Koyama-cho, Tottori city 680-8553, Japan.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Honna</namePart>
+      <namePart type="given">Toshimasa</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Soil Science, Faculty of Agriculture, Tottori University Koyama-cho, Tottori city 680-8553, Japan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The use of waste for soil amendment is receiving greater research attention but the extent to which saline-sodic waters affect the solubility of trace elements (TE) in waste amended soils is not well documented. In this laboratory study we determined the extent of TE [iron (Fe), manganese (Mn), copper (Cu) and zinc (Zn)] solubility in saline-sodic conditions after waste amendments. Wastes from the following four sources were used for the study: blast furnace slag (BFS), fly ash (FA), livestock manure compost (LC), plant residual compost (PC) and a control (no amendment). A sandy soil was saturated with either deionized water (S0) or 100 mmol cL-1 CaCl2, MgSO4 and NaHCO3 solution prepared at 15 and 45 SAR levels denoted as S1 and S2 respectively. The saturated soil was extracted after 1, 5 and 10 days and the extracts were analyzed for pH, ECe, SAR and water-soluble plus exchangeable Fe, Mn, Cu and Zn. The levels of TE were higher in LC and PC than BFS and FA amendments regardless of the salt ratios. The magnitude of SAR-induced solubility of TE decreased. Averaged exchangeable TE remained statistically similar in most of the amendments. Waste materials enhanced soil ECe and pH whereas the SAR was reduced in LC- and PC-treated soils. This is because of the higher amount of soluble Ca and Mg in LC and PC. The TE solubility was positively related to incubation period but the simple regression models showed that TE solubility was inversely related to the soil SAR. We suggest that the availability of TE could potentially be improved by waste amendments under saline-sodic or sodic conditions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>255</start>
+          <end>259</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/e8.pdf</identifier>
+  </mods>
+</modsCollection>

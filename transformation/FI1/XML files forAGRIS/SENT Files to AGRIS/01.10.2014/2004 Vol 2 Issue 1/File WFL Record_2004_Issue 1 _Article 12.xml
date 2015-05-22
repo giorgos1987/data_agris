@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Antioxidant capacity of human plasma and serum as affected by a single dose of a beverage rich in antioxidants – use of three different assay systems</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Böhm</namePart>
+      <namePart type="given">Volker</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Nutrition, Friedrich-Schiller-University Jena, Dornburger Str. 25-29, 07743 Jena, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Netzel</namePart>
+      <namePart type="given">Michael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Nutrition, Friedrich-Schiller-University Jena, Dornburger Str. 25-29, 07743 Jena, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kler</namePart>
+      <namePart type="given">Adolf</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Plantextrakt GmbH, Vestenbergsgreuth, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marx</namePart>
+      <namePart type="given">Stefan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Döhler Group, Darmstadt, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Weiß</namePart>
+      <namePart type="given">Michael</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Sports Medicine, University Paderborn, Paderborn, Germany.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Geiß</namePart>
+      <namePart type="given">Kurt-Reiner</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute ISME, Mörfelden-Walldorf, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A single dose of polyphenols comprised in a beverage based on fruit juices did not significantly increase the content of total phenolics neither in plasma nor in serum. How-ever, the ingestion of 500 mL beverage significantly enhanced the antioxidant capacity in plasma (FRAP) as well as in serum (FRAP, TRAP), reaching the peak after different times (30-60 min). In addition, the photochemiluminescence test system, being a very sensitive assay in recent investigations, did not show any alteration in antioxidant capacity neither in plasma nor in serum. Thus, the kind of physiological liquid a well as the kind of test system seem to be factors affecting the analysis of antioxidant capacity within human intervention studies. The use of at least two assays is strongly recommended.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>74</start>
+          <end>78</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f12.pdf</identifier>
+  </mods>
+</modsCollection>

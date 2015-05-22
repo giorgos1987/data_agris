@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparing forced air cooling and water cooling for apples</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Silva</namePart>
+      <namePart type="given">Felipe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Ari-Food Canada, 430 Gouin Blvd., Saint-Jean-sur-Richelieu, Quebec, Canada J3B 3E6. College of Agricultural Engineering, State University of Campinas (UNICAMP), Cidade Universitária Zeferino Vaz, s/n, Campinas, SP, Brazil, CP 6011, 13083-970.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Goyette</namePart>
+      <namePart type="given">Bernard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Ari-Food Canada, 430 Gouin Blvd., Saint-Jean-sur-Richelieu, Quebec, Canada J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bourgeois</namePart>
+      <namePart type="given">Gaétan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Ari-Food Canada, 430 Gouin Blvd., Saint-Jean-sur-Richelieu, Quebec, Canada J3B 3E6.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vigneault</namePart>
+      <namePart type="given">Clément</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Horticultural Research and Development Centre, Agriculture and Ari-Food Canada, 430 Gouin Blvd., Saint-Jean-sur-Richelieu, Quebec, Canada J3B 3E6. College of Agricultural Engineering, State University of Campinas (UNICAMP), Cidade Universitária Zeferino Vaz, s/n, Campinas, SP, Brazil, CP 6011, 13083-970.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The duration of precooling is an important factor in the design of any precooling system. Water and air precooling systems are recommended for apples; however, the literature does not present any specific data to help designers choosing between these two systems. Two lab-scale precooling systems were built to allow a comparison of the respective performances of water and air used as heat sink fluids in apple cooling. The water system was shown to perform twice as fast as the air system under comparable conditions. It was also discovered that the half cooling time of apples precooled with water or with air could be predicted as a function of their diameter using regression equations developed during the present study.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>33</start>
+          <end>36</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/f8.pdf</identifier>
+  </mods>
+</modsCollection>

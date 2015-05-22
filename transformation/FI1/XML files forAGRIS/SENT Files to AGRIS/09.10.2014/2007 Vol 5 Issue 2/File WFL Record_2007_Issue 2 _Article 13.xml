@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Spice paprika oleoresin extraction under different conditions involving acetone and ethanol</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Rafajlovska</namePart>
+      <namePart type="given">Vesna</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Technology and Metallurgy, University of Ss. Cyril and Methodius, Rudjer Boskovic 16, 1000 Skopje, Republic of Macedonia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Slaveska-Raicki</namePart>
+      <namePart type="given">Renata</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Pharmacy, University of Ss. Cyril and Methodius, Vodnjanska 17, 1000 Skopje, Republic of Macedonia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Koleva-Gudeva</namePart>
+      <namePart type="given">Liljana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Southern Crops, University of Ss. Cyril and Methodius, Goce Delcev bb., 2400 Strumica, Republic of Macedonia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Klopceska</namePart>
+      <namePart type="given">Jana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Technology and Metallurgy, University of Ss. Cyril and Methodius, Rudjer Boskovic 16, 1000 Skopje, Republic of Macedonia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This paper describes the oleoresin extraction from the spice paprika under different extraction conditions that involves acetone and ethanol as an extracting solvent in percolatory system. Moreover, the influence of paprika particle size, solvent flow rate and the temperature on the extraction procedure was also studied. It was revealed that better extraction efficiency was achieved with 2 ml/min solvent flow rate. The particle size is more important when acetone for paprika oleoresin extraction is used. The increase of temperature up to 40°C positively influences on the mass transfer processes. The functional dependence of the colour yield (P) in the paprika oleoresin from the extraction time (t) is expressed by the function P = a tb. The relation between colour yield and the extraction time is presented with the exponential function type. The suitable extraction conditions established for proposed system, intended for paprika oleoresin extraction, were found to be 2 ml/min acetone flow rate, 40°C extraction temperature and particle size from 0.5 to 1 mm.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>65</start>
+          <end>69</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f13.pdf</identifier>
+  </mods>
+</modsCollection>

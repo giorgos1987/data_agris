@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Feeding patterns and practices among households with children aged 6-59 months in Mbita Division, Suba District, Kenya</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ohiokpehai</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Tropical Soils Biology and fertility Institute of CIAT (TSBF-CIAT), UN Avenue, Gigiri, P.O Box 30677-00100, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kimiywe</namePart>
+      <namePart type="given">J.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Kenyatta University, Department of Foods, Nutrition and Dietetics, P.O. Box 43844, Nairobi.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Naidoo</namePart>
+      <namePart type="given">P.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rockefeller Foundation, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Adesina</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Rockefeller Foundation, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sanginga</namePart>
+      <namePart type="given">N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Tropical Soils Biology and fertility Institute of CIAT (TSBF-CIAT), UN Avenue, Gigiri, P.O Box 30677-00100, Nairobi, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The growth patterns of children are reflective of community nutritional status and food security, which is measured in terms of food consumption patterns and practices, availability and accessibility. Vital statistics from Suba District indicate high mortality rates of 146.9/1000 and 247/1000 for infants and under fives respectively. The expected HIV cases are also estimated at 41% of the reproductive population. The purpose of this study therefore was to conduct a baseline survey on the nutrition and health situation in Mbita Division, Suba District, with the aim of developing a comprehensive programme for intervention using soybean-enriched diets in the management of HIV/AIDS. To achieve this, the following objectives were formulated; to establish the food consumption and utilization practices in the households; determine food production patterns and practices; determine food accessibility and availability, and to investigate the morbidity patterns of households and children. The survey was conducted in three locations, namely Gembe West, Gembe East and Rusinga West, and 265 households, 162 from township, 50 from Kayanja and 53 from Kaswanga were interviewed. Food frequency and 24-hour recall were used to collect data on household and children’s food consumption patterns and practices. A structured questionnaire was used to collect data on feeding and childcare practices and household morbidity patterns. To access food availability and accessibility, respondents were asked questions on methods of food acquisition and production patterns. The study findings were verified by information from key informant focus group discussions and from observational checklist. Results indicated that the diets were inadequate for the majority of the households. Most households depended on fishing and very few practiced subsistence farming, most of the foods consumed were therefore purchased. Some families resorted to food for work and donations because of insufficient incomes. There was also a high prevalence of diseases among the children and in the households in general. The common illnesses reported were malaria, upper respiratory tract infections, stomachache and diarrhea/typhoid among others. An in-depth study should be conducted in Suba District in order to determine the magnitude of malnutrition and rate of morbidity and its relationship to the prevalence of HIV/AIDS, and the causes and consequences of these on the socio- economic status of the individuals in the community. This will facilitate in the planning of viable intervention programmes, which should involve all the relevant stakeholders.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>17</start>
+          <end>23</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/f3.pdf</identifier>
+  </mods>
+</modsCollection>

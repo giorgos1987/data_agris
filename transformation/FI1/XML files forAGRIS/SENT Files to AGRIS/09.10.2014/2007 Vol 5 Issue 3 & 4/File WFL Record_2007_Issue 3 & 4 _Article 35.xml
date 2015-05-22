@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Biological evaluation of synbiotic fermented milk against lead acetate contamination in rats</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Al-Wabel</namePart>
+      <namePart type="given">N.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Veterinary Medicine Department, College of Agriculture and Veterinary Medicine, Qassim University, P.O. Box. 1482, Buraydah, Al-Qassim 81999, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mousa</namePart>
+      <namePart type="given">H. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Science and Human Nutrition Department, College of Agriculture and Veterinary Medicine, Qassim University, P.O. Box. 1482, Buraydah, Al-Qassim 81999, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Omer</namePart>
+      <namePart type="given">O.H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Veterinary Medicine Department, College of Agriculture and Veterinary Medicine, Qassim University, P.O. Box. 1482, Buraydah, Al-Qassim 81999, Saudi Arabia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Abdel-Salam</namePart>
+      <namePart type="given">A. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food Science and Human Nutrition Department, College of Agriculture and Veterinary Medicine, Qassim University, P.O. Box. 1482, Buraydah, Al-Qassim 81999, Saudi Arabia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The present study investigated some biological effects of synbiotic fermented milk in rats receiving lead acetate in drinking water. Synbiotic fermented milk was prepared by mixing probiotic fermented milk with honey, garlic, ginseng, cod liver oil and chicory inulin. Glutathione-S-transferase (GST), alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities were estimated in rats receiving lead acetate alone and in rats receiving lead acetate and synbiotic milk, in addition to the negative control group. The obtained results showed a significant increase in the activities of ALT and AST in sera of rats receiving lead acetate compared with the negative control. The activities of ALT and AST increased from an average of 23.0 to 37.3 and from 160 to 220 IU/L, respectively. The activities of these enzymes in rats receiving lead together with the synbiotic milk were almost similar to the activities of the enzymes of rats fed basal diet (negative control). The mean values of ALT and AST in lead-treated group fed synbiotic fermented milk were 25±3.6 and 156±21.36 IU/L compared with the positive control 37.33±2.51 and 220.66±28.88 IU/L respectively. The obtained results showed that GST activity in sera of rat fed on synbiotic fermented milk was increased with mean value of 23.438 M/min compared with negative and positive controls with mean values of 12.01 and 13.95 M/min respectively. Data imply that synbiotic fermented milk containing honey, garlic, ginseng, cod liver oil and chicory inulin may play a role in protection against lead acetate contamination in rats by increasing the activity of the enzyme GST that requires the antioxidant glutathione as substrate, thus protecting the liver against the oxidative damage.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>169</start>
+          <end>172</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_3_4/f35.pdf</identifier>
+  </mods>
+</modsCollection>

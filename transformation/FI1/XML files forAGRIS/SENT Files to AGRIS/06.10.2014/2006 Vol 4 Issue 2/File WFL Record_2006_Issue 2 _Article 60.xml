@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Farm productivity and poverty in Kenya: The effect of soil conservation</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kabubo-Mariara</namePart>
+      <namePart type="given">Jane</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Economics, University of Nairobi, P.O Box 30197, Nairobi, 00100 Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mwabu</namePart>
+      <namePart type="given">Germano</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Economics, University of Nairobi, P.O Box 30197, Nairobi, 00100 Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kimuyu</namePart>
+      <namePart type="given">Peter</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Economics, University of Nairobi, P.O Box 30197, Nairobi, 00100 Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Soil erosion and land degradation have become major environmental concerns and present a formidable threat to food security and sustainability of agricultural production in Kenya. The biggest challenge currently facing the Kenyan government is how to achieve the triple developmental goals of food sufficiency, better nutrition and poverty reduction without increasing the land devoted to food crops. This paper responds to a paucity of empirical information on the impact of land degradation on farm productivity and poverty in Kenya. The paper builds on the few existing studies in this area and explores the impact of conventional inputs and adoption of soil conservation practices on farm yields per acre controlling for the effects of institutional factors. Panel data collected from farming households is utilized to achieve the study objectives. The paper tests and rejects the hypothesis that adoption of soil conservation practices has no effect on farm productivity or on poverty reduction. We test this
+hypothesis controlling for impacts of conventional farm inputs and institutional factors notably the property rights regimes. Due to the joint determination of soil conservation practices and productivity, we use the fixed effects – instrumental variables (FE-IV) method to isolate the productivity effects of soil conservation. We further simulate the impact of key policy changes on productivity on one hand and on poverty (head count ratio) on the other. The key finding of the paper (from the FE-IV) is that controlling for unobserved heterogeneity, soil conservation has a large measurable impact on farm productivity and on poverty reduction in the long-run. We also find that well specified property rights are associated with higher farm productivity, a debate that is widely contested in the literature. Policy simulations indicate that privatization of common land and adoption of particular soil conservation practices can play a decisive role in increasing agricultural yields and in reducing poverty in semi-arid areas.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>291</start>
+          <end>297</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/e9.pdf</identifier>
+  </mods>
+</modsCollection>

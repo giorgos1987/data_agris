@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Preparation of cellooligosaccharides: Comparative study</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akpinar</namePart>
+      <namePart type="given">Ozlem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Engineering, Gaziosmanpasa University, Tasliciftlik 60250, Tokat, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Penner</namePart>
+      <namePart type="given">Michael H.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Oregon State University, Corvallis, OR 97331-660, USA.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Cellooligosaccharides having a specific degree of polymerization are commonly used in mechanistic studies of cellulolytic enzymes and since they are not hydrolyzed or absorbed by the human gastrointestinal tract, (non-digestible oligosaccharides) they may have potential as non-caloric bulking agents in food products. Considering the heavy demand for cellooligosaccharides in many cellulase/cellulose laboratories, many methods were developed for the separation of cellooligosaccharides. They are typically produced by the controlled hydrolysis of cellulose, which produces a mixture of cellooligosaccharides differing with respect to their degree of polymerization, followed by chromatographic fractionation to obtain preparations homogeneous with respect to degree of polymerization. This research summarizes a comparative study of suggested fractionationmethods. Charcoal-celite adsorption, molecular exclusion and ion-mediated silica and cellulose affinity/partition chromatography were evaluated. Adsorption chromatography with charcoal-celite stationary phases was the most generally applicable method for the preparation of near gram quantities of pure cellooligosaccharides in the DP range of three to seven. Cellulose affinity/partition chromatography was found to be the least time consuming and most economical method for the preparation of cellotetraose and cellopentaose. Ion-mediated chromatography was the most readily applicable for analytical applications.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>55</start>
+          <end>61</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/f10.pdf</identifier>
+  </mods>
+</modsCollection>

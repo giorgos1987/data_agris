@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of organic farming on yield and quality of potato tubers in Ardabil</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Barmaki</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khoei</namePart>
+      <namePart type="given">F. Rahimzadeh</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Salmasi</namePart>
+      <namePart type="given">S. Zehtab</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moghaddam</namePart>
+      <namePart type="given">M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Agronomy and Plant Breeding, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ganbalani</namePart>
+      <namePart type="given">G. Nouri</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Agriculture, University of Mohagheghe Ardabili, Ardabil, Iran.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In order to study the possibility of replacing current potato cropping system in Ardabil province of Iran, which seriously depends on chemical inputs, with organic farming methods, an experiment was conducted in the years 2004 and 2005. The experimental design in each year was split plot based on randomized complete blocks with three replications. Main plots were three fertilizer types as 40 Mg ha-¹ well–composted dairy manure (A1), 250 kg ha-¹ nitrogen plus 180 kg ha-¹ P2O5 as chemical fertilizers (A2), and 20 Mg ha-¹ dairy manure plus 125 kg ha-¹ nitrogen and 90 kg ha-¹ P2O5 as the chemical fertilizers (A3). Sub-plots were four types of pesticide against Colorado potato beetle (Leptinotarsa decemlineata Say.): lemon skin extract as an organic pesticide (B1), hot pepper extract as an organic pesticide (B2), endosulfan (Tiodan 35 EC) as a chemical pesticide (B3) and control (without any pesticide application) (B4). Several characteristics, such as potato yield, percent of dry matter of tuber, tuber weight and tuber nitrate content, were measured. Results showed that the yields of plots in which manure was used (A1 and A3) were about 0.4 kg m-² higher than in the plots that received only chemical fertilizers, however, no significant difference was observed between A1 and A3. The percent of dry matter of tuber of A1 was also higher than in the other treatments. Although endosulfan-treated (B3) had highest tuber yield and dry matter among pesticide treatments, it was not significantly different from the lemon skin extract-treated (B1). Different fertilizers and pesticides did not affect the tuber nitrate content.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>106</start>
+          <end>109</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a6.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Haematological and biochemical responses of Balami sheep to experimental Fasciola gigantica infection</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ahmed</namePart>
+      <namePart type="given">M.I.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Microbiology and Parasitology, Faculty of Veterinary Medicine, University of Maiduguri, PMB 1069, Maiduguri, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ambali</namePart>
+      <namePart type="given">A.G.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Medicine, Faculty of Veterinary Medicine, University of Maiduguri, PMB 1069, Maiduguri, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Baba</namePart>
+      <namePart type="given">S.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Veterinary Microbiology and Parasitology,  Faculty of Veterinary Medicine, University of Maiduguri, PMB 1069, Maiduguri, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Haematological and biochemical responses of Balami sheep to experimental Fasciola gigantica infection were evaluated, using twelve Balami rams aged 7-11 months. The animals were treated against internal and external parasites and other infections prior to pre-conditioning. They were then allowed to acclimatize for 4 weeks during which baseline haematological and biochemical parameters were established. The rams were later divided into two groups of 8 rams as treatment and 4 rams as controls. Each ram in the treatment group was infected with 40 metacercariae per os and monitored accordingly. A progressive loss in body weight was noticed as from the 5th week PI (P&lt;0.0001). Mean packed cell volume, haemoglobin concentration and total plasma protein of the infected sheep were significantly lower than controls (P&lt;0.0001). Eosinophilia and basophilia featured significantly in the infected sheep. Mean calcium and potassium levels of the infected group were elevated while the bicarbonate was lower than controls. Total serum protein was elevated (P&lt;0.0001), while albumin (P=0.1783), urea (P=0.7367) and creatinine (P=0.2033) levels of the infected sheep were not significantly different from those of the controls. Mean values of aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase were significantly elevated in the infected sheep. The findings of this study revealed the potentials of increased aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase in association with eosinophilia, as surrogate markers of hepatocellular damage in ovine Fasciola gigantica infection.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>71</start>
+          <end>74</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f11.pdf</identifier>
+  </mods>
+</modsCollection>

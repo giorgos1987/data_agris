@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of environmental strains of Salmonella typhimurium on transfer of water and electrolytes in rat’s intestine</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Marzougui</namePart>
+      <namePart type="given">Nidhal</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Analyse et de Contrôle des Polluants Chimiques et Microbiologiques de l’Environnement, Faculté de Pharmacie, Rue Avicenne 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Khemiss</namePart>
+      <namePart type="given">Fhethia</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Analyse et de Contrôle des Polluants Chimiques et Microbiologiques de l’Environnement, Faculté de Pharmacie,Rue Avicenne 5000 Monastir, Tunisie. Laboratoire de Physiologie Humaine, Faculté de Médecine Dentaire, Rue Avicenne 5000 Monastir.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Moshtaghie</namePart>
+      <namePart type="given">Ali Asghar</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratory of Clinical Biochemistry, School of Pharmacy, Isfahan University of Medical Sciences, Isfahan Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saidane</namePart>
+      <namePart type="given">Dalila</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire d’Analyse et de Contrôle des Polluants Chimiques et Microbiologiques de l’Environnement, Faculté de Pharmacie, Rue Avicenne 5000 Monastir, Tunisie. Laboratoire d’Ecophysiologie et de Biologie Animale. Faculté de Pharmacie, Rue Avicenne 5000 Monastir,Tunisie.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Use of treated waste water in agriculture can increase the risk of enteric infection by direct contact or by consumption of products like fruits and vegetables which are irrigated by treated waste water. The major aim of this study was to investigate the effect of environmental strains of Salmonella enterica serovar typhimurium (a strain which was isolated from treated waste water and a strain which was starved in sea water during half and six months) on transfer of water and electrolytes (sodium, chloride, calcium and potassium) in different parts of rat’s intestine. We haveused Everted Gut Sac according of the technique of Wilson and Wiseman. Water flux was evaluated by weighing. Electrolytes were dosed by ISE COBAS INTEGRA 400 plus analyzer. We obtained variations of water and electrolytes secretions according to intestine’s part variations. The highest secretion of water was noticed in ileum in the group which was infected with the reference strain S1 (-0.681 mg/g/h) (P&lt;0.05). Variations of electrolyte secretions between jejunum, ileum and colon were significant (P&lt;0.05) for sodium, chloride and calcium but not for potassium. The highest secretions of sodium (90 mmol/l/h), chloride (37.4 mmol/l/h) and potassium (1.48 mmol/l/h) and the highest absorption of calcium (0.38 mmol/l/h) were registered in colon and in group which was infected with the reference strain S1. The S2 and S3 strains were in a viable but non-culturable state inside intestine and caused less water and electrolyte secretions than strain S1.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>17</start>
+          <end>20</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f2.pdf</identifier>
+  </mods>
+</modsCollection>

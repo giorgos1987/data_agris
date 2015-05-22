@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Tagging QTLs for maximum root length in rainfed lowland rice by combined selective genotyping and STMs markers</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Toorchi</namePart>
+      <namePart type="given">Mahmoud</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Molecular Breeding Lab, Faculty of Agriculture, University of Tabriz, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Shashidhar</namePart>
+      <namePart type="given">H. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Marker–Assisted Selection Lab, Department of Genetics and Plant Breeding, College of Agriculture, University of Agricultural Sciences, GKVK, Bangalore, 560 065, India.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Hittalmani</namePart>
+      <namePart type="given">Shailaja</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Marker–Assisted Selection Lab, Department of Genetics and Plant Breeding, College of Agriculture, University of Agricultural Sciences, GKVK, Bangalore, 560 065, India.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A dynamic root system is fine-tuned to soil moisture status and is known to regulate the amount of water available to the plant depending on its distribution in the soil. Recent advances in genome research, particularly in the field of molecular marker technology, have generated opportunity to dissect the variation in quantitative traits in a more meaningful way. We adapted selective genotyping strategy and STMs markers for mapping QTLs for maximum root length in rainfed lowland rice. Total of 69 extreme plants were selected from P124 x IR64 mapping population for selective genotyping because of good combination of genetic factors conferring drought tolerance and yielding ability. Forty-two pairs of STMS primer pairs that were earlier found to be polymorphic between the IR64 and Azucena were selected and used in the present study. DNA extraction was done as per modified CTAB method and PCR products were separated on polyacrylamide gel and stained with silver staining procedure. A total of 4 QTLs were found for maximum root length under well-watered and low moisture stress and mean conditions.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>209</start>
+          <end>210</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a21.pdf</identifier>
+  </mods>
+</modsCollection>

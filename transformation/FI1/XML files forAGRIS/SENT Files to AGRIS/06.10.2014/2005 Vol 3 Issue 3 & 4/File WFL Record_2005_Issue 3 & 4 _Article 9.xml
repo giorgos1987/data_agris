@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of consumption of whole bread baked from wheat cultivated with micronutrient fertilizers on blood indices of iron</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Fallahi</namePart>
+      <namePart type="given">Ebrahim</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Assistant Professor in Nutrition Sciences, Nutrition Department, Faculty of Medicine, Lorestan Universtiy of Medical Sciences, Khoramabad, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohtadinia</namePart>
+      <namePart type="given">Javad</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Associate Professor in Nutrition, Food Sciences Department, Faculty of Health and Nutrition, Tabriz University of Medical Sciences, Tabriz, Iran.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mahboob</namePart>
+      <namePart type="given">Soltan Ali</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Full Professor in Biochemistry, Secretariat of Food and Nutrition Security of East Azerbaijan.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A 4-month-long, double-blind field study involving one village control community (n=160) receiving regular whole bread and other community (n=152) receiving whole bread baked from wheat cultivated with microfertilizers was conducted to test the effect of this approach on blood iron indices. Hemoglobin, serum iron and total iron binding capasity and serum ferritin were determined by cyanmethemoglobin, colorimetric and radioimmunoassay methods, respectively. Transferrin saturation was calculated. Hemoglobin concentration was increased only in 5-12 age groups of both experimental and control groups. Transferrin saturation was increased in all age groups of experimental village (P&lt;0.05). Serum ferritin in both villages was decreased. Consumption of whole bread baked from cultivated wheat with microfertilizers increased transferrin saturation percentage in all age and gender groups and hemoglobin only in 5-12 age group. Agronomic methods may be useful in preventing iron deficiency anemia.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3%4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>39</start>
+          <end>42</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f9.pdf</identifier>
+  </mods>
+</modsCollection>

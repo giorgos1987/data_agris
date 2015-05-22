@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Production of a recombinant vp1 protein of the chicken anaemia virus for the development of an enzyme-linked immunosorbent assay</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Soliman</namePart>
+      <namePart type="given">I. O. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Virology Laboratory, Faculty of Veterinary Medicine, University Putra Malaysia, 43400, UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lila</namePart>
+      <namePart type="given">M. A. M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Virology Laboratory, Faculty of Veterinary Medicine, University Putra Malaysia, 43400, UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Saad</namePart>
+      <namePart type="given">M. Z.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Virology Laboratory, Faculty of Veterinary Medicine, University Putra Malaysia, 43400, UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rahim</namePart>
+      <namePart type="given">R. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Faculty of Biotechnology and Biomolecules, Universiti Putra Malaysia, 43400, UPM, Serdang, Selangor, Malaysia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>In this report, we describe the development of ELISA assay for CAV in Malaysia using recombinant VP1 capsid protein of the CAV that reduce the vast cost and reliable method for diagnosis. The VP1 gene was cloned and expressed in prokaryotic expression vector pRSET–B. The VP1 protein expression in E. coli was achieved as a recombinant protein containing immunogenic epitope. The protein expressed was detected by anti- VP1 monoclonal antibody with an apparent molecular weight of 50 kDa. Batch fermentation was used to scale up production of the protein in E. coli, the final VP1 protein yield produced was 64 µg/ml. The protein expressed has been tested as an antigen for detection of antibody to CAV in infected chicken. An enzyme-linked immunosorbent assay (ELISA) was evaluated for the detection of serum antibody to CAV and compares its performance with that of the commercial ELISA using serum samples from commercial and SPF flocks. When serum samples from infected chicken were tested, the sensitivity of the assay was found to be 93.3% compared to 100% for commercial ELISA. On the other hand, the specifity of the indirect ELISA (100%) had a greater value over the specifity of commercial ELISA (95%). Furthermore, the ELISA test requires serum samples to be diluted at 1:100 compared to 1:50 for commercial ELISA.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>50</start>
+          <end>55</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/f12.pdf</identifier>
+  </mods>
+</modsCollection>

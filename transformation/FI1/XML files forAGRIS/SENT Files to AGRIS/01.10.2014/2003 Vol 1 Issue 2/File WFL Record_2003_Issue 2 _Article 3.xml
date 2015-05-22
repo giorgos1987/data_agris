@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Inactivation of microorganisms in apple cider using spice powders, extracts and oils as antimicrobials with and without low-energy pulsed electric field</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Liang</namePart>
+      <namePart type="given">Ziwei </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Guelph, Ontario, Canada, N1G 2W1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cheng</namePart>
+      <namePart type="given">Zhihui</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering, University of Guelph, Guelph, Ontario, Canada, N1G 2W1.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mitta</namePart>
+      <namePart type="given">Gauri S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Engineering,University of Guelph, Guelph, Ontario, Canada, N1G 2W1.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The effect of different concentrations of spices or their extracts and essential oils on the survival of spoilage microorganisms in apple cider was studied. The effect of two spices (clove oil and mint extract) combined with pulsed electric field (PEF) treatment in inactivating microorganisms was also investigated. Nearly 2-3 log reduction was observed at 45°C when 2% w/w cinnamon, turmeric, nutmeg, cardamom and red chili powders were used. There was 6 log reduction when cider samples were treated at 45°C and in the presence of 1.8% of mint extract. Clove oil was found to be very strong antimicrobial agent relative to other spices evaluated. Even with the concentration of clove oil as low as 0.2%, microbial reduction of 5.3 log was obtained at room temperature. The microbial inactivation was influenced by the treatment temperature and the concentration of spices. Greater microbial inactivation was observed when clove oil or mint extract was used with PEF at 40 pulses of 90 kV/cm electric field. Clover extract was more powerful in inactivating microbes than other 6 extracts evaluated. With the increase of temperature, the antimicrobial activity of the extracts also increased.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>28</start>
+          <end>33</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_2/j2-food-19.pdf</identifier>
+  </mods>
+</modsCollection>

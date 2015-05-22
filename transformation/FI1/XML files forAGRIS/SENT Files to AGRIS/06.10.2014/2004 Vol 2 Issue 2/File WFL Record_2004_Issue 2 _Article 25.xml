@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Selection of a sweetener and the pectin metoxylation degree for the formulation of a cupuaçu (Theobroma grandiflorum) diet jelly</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Sobrinho</namePart>
+      <namePart type="given">Agostinho S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Medicamentos e Alimentos, Universidade do Amazonas, Manaus AM, Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Borras</namePart>
+      <namePart type="given">Maria R. L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Medicamentos e Alimentos, Universidade do Amazonas, Manaus AM, Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Souza</namePart>
+      <namePart type="given">João  V. B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Biotecnologia, Faculdade de Engenharia Química de Lorena, Caixa postal 116, CEP 12600-970, Lorena SP, Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Silva</namePart>
+      <namePart type="given">Érica S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Biotecnologia, Faculdade de Engenharia Química de Lorena, Caixa postal 116, CEP 12600-970, Lorena SP, Brasil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chaar</namePart>
+      <namePart type="given">José M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Departamento de Medicamentos e Alimentos, Universidade do Amazonas, Manaus AM, Brasil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The aim was to define the most adequate sweetener and the pectin metoxylation degree for formulating a cupuaçu diet jelly. This study is the first one to describe a diet jelly formulation of cupuaçu. Fructose demonstrated to be a better sweetener than cyclamate/saccharin mixture in the experimental conditions. In addition to sucrose substitution, the formulation with fructose, in comparison with the conventional jelly, had 50% fewer soluble sugar. In the attributes of color, acidity, sweeteness, aroma and overall quality the sensorial analysis revealed no statistical difference between the formulations of pectin with different metoxylation degrees (31, 34 and 36%). It was considered unpleasant the texture of the formulation of pectin with 36% metoxylation degree, this formulation presented a jelly strength of 187±5 g mm-1.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>146</start>
+          <end>148</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/f25.pdf</identifier>
+  </mods>
+</modsCollection>

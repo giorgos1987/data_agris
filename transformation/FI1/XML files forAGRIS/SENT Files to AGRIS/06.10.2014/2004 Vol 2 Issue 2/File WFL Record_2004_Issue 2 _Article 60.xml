@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Survey and evaluation of grain crop fertilization in Shandong province of China</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ma</namePart>
+      <namePart type="given">Wenqi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>College of Resource and Environmental Science, Agricultural University of Hebei, Baoding, 071001, P. R. China. The Key Laboratory of Plant Nutrition, Agricultural of Ministry of China; Department of Plant Nutrition, China Agricultural University, Beijing, 100094, P. R. China</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mao</namePart>
+      <namePart type="given">??</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Key Laboratory of Plant Nutrition, Agricultural of Ministry of China; Department of Plant Nutrition, China Agricultural University, Beijing, 100094, P. R. China.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zhang</namePart>
+      <namePart type="given">Fusuo</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>The Key Laboratory of Plant Nutrition, Agricultural of Ministry of China; Department of Plant Nutrition, China Agricultural University, Beijing, 100094, P. R. China.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zhang</namePart>
+      <namePart type="given">Xunzhong</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Crop and Soil Environmental Sciences, Virginia Polytechnic Institute and State University, Blacksburg, Virginia, 24061, U.S.A.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Chemical fertilization is a major practice for increasing grain crop yield in Shandong province of China, but nitrogen use efficiency is not clear. This study was conducted to investigate current fertilization practice and N use efficiency in this region. The data were collected through a survey and from field experiment results, and evaluated based on results from the survey, local statistical data and field experiment results. The results showed that the fertilization program for grain crop in Shandong was relatively high input, medium output, low fertilization use efficiency and low benefit. On average, N rate applied in wheat-corn rotation was 520 kg ha-1, and total grain yield of wheat and corn was 10,700 kg ha-1. This N input was greater than the recommended level for total grain yield &gt;15,000 kg ha-1 of wheat and corn. Nitrogen use efficiency of wheat and corn were 3.4 kg kg-1 and 6.3 kg kg-1, respectively, and N recovery by wheat was about 10%. Imbalance fertilization among various grain crops or regions, excess N fertilization in wheat and corn, under-fertilization in sweet potato and coarse cereals are major problems in grain fertilization, reducing N use efficiency in this region.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>320</start>
+          <end>326</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a31.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Functional properties of extruded soybean with plantain flour blends</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Osundahunsi</namePart>
+      <namePart type="given">Oluwatooyin Faramade</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Federal University of Technology, P.M.B. 704, Akure,Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The proximate composition and functional properties of extruded/fermented soybeans with plantain flour blends were determined. Plantain flours were prepared from mature unripe and ripe plantain (Musa aab) after oven drying at 80°C for 12 hours. Cleaned soybean seeds were manually dehulled after soaking in water at room temperature for 3 hours. The sample was then oven-dried and another batch was fermented. Dehulled soybean and fermented soybean were extruded and blended with each of the unripe and ripe plantain flours at ratios 0, 25, 50, 75 and 100. Proximate composition showed that fermented extruded soybean had the highest protein content (41.1%). The value recorded for non-fermented extruded soybean was 31.5% while the values for the formulated blends ranged from 7.0 to 29.8%. The lowest content (4.4%) was recorded for plantain flour. When compared with both fermented and non-fermented soybean samples, the protein content of the formulated blends increased as the percentage of protein inclusion increased. Extrusion cooking reduced the moisture content of the products hence prolonging the shelf-life. Water absorption capacity ranged from 120 to 270%. The highest value was recorded for fermented extruded soybean, the values for raw soybean and non-fermented extruded soybean were 220 and 25 respectively. Fermentation decreased oil absorption capacity and emulsion capacity of the formulated blends. Least gelation concentrations of fermented extruded, non-fermented extruded and raw soybean were 24, 22 and 18% respectively. Loose and packed bulk densities showed advantage of economy withpackaging. These results indicate potential food uses of fermented and non-fermented extruded soybeans with plantain flour blend as breakfast food, soup bases and ingredient in formulated foods.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>57</start>
+          <end>60</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/f11.pdf</identifier>
+  </mods>
+</modsCollection>

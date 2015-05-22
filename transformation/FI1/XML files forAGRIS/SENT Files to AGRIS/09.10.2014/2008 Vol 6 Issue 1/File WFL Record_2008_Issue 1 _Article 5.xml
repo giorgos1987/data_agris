@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of basal leaf removal on the chemical composition of Sauvignon Blanc and Riesling wines</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kozina</namePart>
+      <namePart type="given">Bernard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Viticulture and Enology, Faculty of Agriculture, University of Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Karoglan</namePart>
+      <namePart type="given">Marko</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Viticulture and Enology, Faculty of Agriculture, University of Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Herjavec</namePart>
+      <namePart type="given">Stanka</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Viticulture and Enology, Faculty of Agriculture, University of Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jeromel</namePart>
+      <namePart type="given">Ana</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Viticulture and Enology, Faculty of Agriculture, University of Zagreb, Croatia.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Orlic</namePart>
+      <namePart type="given">Sandi</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Faculty of Agriculture, University of Zagreb, Croatia.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The influence of partial leaf removal of grapevines on sugar, acids and pH must content was evaluated and changes in wine volatile composition and overall quality were defined. The experiment was carried out in 2002 with Sauvignon Blanc and Riesling varieties. Treatments were a) control, or no leaf removal, b) removal of 4 leaves per shoot and c) removal of 8 leaves per shoot. At the end of fermentation analysis of standard chemical compounds, organic acids and aroma compounds were determined by means of HPLC and GC-MS. Basal leaf removal increased soluble solids and reduced titratable acidity and pH. In some cases increase in free volatile and potential volatile terpene levels was noticed. Results of study indicate that basal leaf removal had different influence on the wine chemical composition and quality that depends upon the variety tested. In Sauvignon Blanc wines basal leaves removal significantly reduced tartaric and malic acid content and increased the content of free and bound monoterpenes. In Riesling wines basal leaves removal had significant influence only on tartaric acid content while there was no marked difference in the sum of free and bound monoterpenes. Sensory evaluation showed that the quality of Sauvignon Blanc wines could be much improved while the quality of Riesling wines remained more or less the same.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>28</start>
+          <end>33</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/f5.pdf</identifier>
+  </mods>
+</modsCollection>

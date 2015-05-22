@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Chemical composition, antibacterial and antimutagenic activities of four populations of Rosmarinus officinalis L. oils from Tunisia</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Marzouk</namePart>
+      <namePart type="given">Zohra</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biologie Végétale, Faculté de Pharmacie, Monastir, Rue Avicenne 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mansour</namePart>
+      <namePart type="given">Hédi Ben</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Faculté de Pharmacie, Monastir, Rue Avicenne 5000 Monastir, Tunisie. Equipe de Recherche en Physico-chimie et en Biotechnologie EA 3914, Université de Caen -Basse Normandie, France.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Chraief</namePart>
+      <namePart type="given">Imed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Faculté de Médecine, Monastir, Rue Avicenne 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mosrati</namePart>
+      <namePart type="given">Ridha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Equipe de Recherche en Physico-chimie et en Biotechnologie EA 3914, Université de Caen -Basse Normandie, France.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cheriaa</namePart>
+      <namePart type="given">Jihene</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Supérieur de Biotechnologie, Monastir, Rue Tahar Haddad 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Neffati</namePart>
+      <namePart type="given">Aicha</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de Biochimie, Faculté de Pharmacie, Monastir, Rue Avicenne 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Marzouk</namePart>
+      <namePart type="given">Belsem</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Supérieur de Biotechnologie, Monastir, Rue Tahar Haddad 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sfari</namePart>
+      <namePart type="given">Mounira</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institut Supérieur de Biotechnologie, Monastir, Rue Tahar Haddad 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Boukef</namePart>
+      <namePart type="given">Kamel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Centre National de Transfusion Sanguine, Bab-Sadoun, Tunis, Tunisie.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Barillies</namePart>
+      <namePart type="given">Daniel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Equipe de Recherche en Physico-chimie et en Biotechnologie EA 3914, Université de Caen -Basse Normandie, France.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ghedira</namePart>
+      <namePart type="given">Leila Chekir</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratoire de  Biochimie, Faculté de Pharmacie, Monastir, Rue Avicenne 5000 Monastir, Tunisie. Laboratoire de  Biologie Cellulaire et Moléculaire, Faculté de Médecine Dentaire, Monastir, Rue Avicenne 5000 Monastir, Tunisie.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The first aim of this study was to describe in detail the chemical composition of four Tunisian samples of Rosmarinus officinalis L. essential oils (EOs) from Matmata (S1), Mahdia (S2), Monastir (S3) and Elkram (S4). The second aim was to test their antibacterial and their antimutagenic activities. The isolation of leaves EOs was done by hydrodistillation using a Clevenger-type apparatus. The chemical analysis was carried by using gas chromatography and mass spectrometry (GC-MS). The antimicrobial activity was evaluated against five pathogenic bacteria: Gram-negative strains Escherichia coli and Pseudomonas aeruginosa and Gram-positive strains Staphylococcus aureus, Staphylococcus epidermidis and Micrococcus luteus. All the EOs were dissolved in Tween 80. The minimum inhibitory concentrations (MIC) and the minimum bactericidal concentrations (MBC) were determinated by sub-culture at TSA agar plates which were incubated at 37°C during 18-24 h. Forty compounds were identified. The S1 oils were characterised by a higher content of α-pinene and camphene (11.3 and 10.7% respectively). The compound 1,8-cineole was most represented in S2 (46.1%) and in S3 (46.6%) while rosemary oils of S1and S4 had approximately the same content (25.1% and 24.1% respectively). S4 sample had the highest level of camphor (36.9%). S4 and S3 samples had the highest antimicrobial activity against all bacteria tested; E. coli was the most sensitive to S3 EOs. They can be suggested as the best antimutagenic agents. The quantitative composition of EOs differs between geographical sources. The antibacterial and antimutagenic activities are not related only to the major compounds but also to the minor components of rosemary EOs. These oils can be used as an antimicrobial agent in hospitals by pulverisation or in soaps and in foods such as fish, meat, milk and its derives. Why not use regularly honey of bees which visit always rosemary, to treat chronic bacterial infections or cancer?</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>88</start>
+          <end>94</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f15.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Potentiality of cassava cultivars as a source of carotenoids</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Nassar</namePart>
+      <namePart type="given">Nagib</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de morfologia e morfogênese, Departamento de Genética, Instituto de Ciências Biológicas, Universidade de Brasília, Brasília, DF, 70910-900, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Vizzotto</namePart>
+      <namePart type="given">Carla Simone</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Toxinologia, Departamento de Ciências Fisiológicas, Instituto de Ciências Biológicas, Universidade de Brasília, Brasília, DF, 70910-900, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">da Silva</namePart>
+      <namePart type="given">Humberto Lima</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Toxinologia, Departamento de Ciências Fisiológicas, Instituto de Ciências Biológicas, Universidade de Brasília, Brasília, DF, 70910-900, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Schwartz</namePart>
+      <namePart type="given">Carlos Alberto</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Toxinologia, Departamento de Ciências Fisiológicas, Instituto de Ciências Biológicas, Universidade de Brasília, Brasília, DF, 70910-900, Brazil.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Júnior</namePart>
+      <namePart type="given">Osmindo Rodrigues Pires</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Laboratório de Toxinologia, Departamento de Ciências Fisiológicas, Instituto de Ciências Biológicas, Universidade de Brasília, Brasília, DF, 70910-900, Brazil.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Vitamin A deficiency results in progressive eye damage. It is a serious problem in the northern and northern east Brazil. Screening some cassava clones and interspecific hybrids for its precursors revealed high level of lutein and trans-β-carotene in a clone namely UnB-400, it has its roots content reaching 236 and 1.24 mg/kg respectively combined to an excellent palatibility. An interspecific hybrid of cassava with M. olignatha showed its leaves to have 9108 mg/kg compared to 780 mg/kg in common cultivars.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>33</start>
+          <end>35</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/f7.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Determining the best sprouting conditions for germination of radish (Raphanus sativus) seeds consumed as vegetables</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Gül</namePart>
+      <namePart type="given">Ebru Orhun</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, Trakya University, Tekirdag, Turkey.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Levent</namePart>
+      <namePart type="given">Arin</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Horticulture, Faculty of Agriculture, Trakya University, Tekirdag, Turkey.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>This study has been done in the laboratory of Department of Horticulture, Trakya University, Tekirdag, with the aim of determining the most suitable germination conditions for the radish sprouts which are consumed as vegetables by many people. The chestnut kind of white radish (Raphanus sativus) seeds were germinated in a pot experiment conducted according to a factorial design in randomized blocks with 3 factors (pot, pad and light) and 3 repetitions. Four types of pots (circular or rectangular plastic pots, flat or short glass jars), four types of pads (drying paper, paper towel, cloth or perlite) and two different light conditions (complete light and semi-complete light) were used. The duration of the trial was three days. Germination and sprouting were completed best on perlite placed in short glass jar or rectangular plastic pot which were kept in semicomplete light. Vitamin C and nitrate contents in extracts of seeds were highest during 2nd and 3rd day after germination and thereafter decreased.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>123</start>
+          <end>127</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/a10.pdf</identifier>
+  </mods>
+</modsCollection>

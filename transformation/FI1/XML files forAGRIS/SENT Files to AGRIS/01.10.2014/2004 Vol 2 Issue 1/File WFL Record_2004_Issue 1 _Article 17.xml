@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Growth, development and quality attributes of miniature golden apple fruit (Spondias cytherea Sonn). Part II: Physicochemical and organoleptic attributes associated with ripening</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Graham</namePart>
+      <namePart type="given">Owen S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Wickham</namePart>
+      <namePart type="given">Lynda D.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mohammed</namePart>
+      <namePart type="given">Majeed</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Production, Faculty of Science and Agriculture, The University of the West Indies, St. Augustine, Trinidad &amp; Tobago, West Indies.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Miniature golden apple (Spondias cytherea) fruit were stored at 21°C and 31°C for 10 days and evaluated for changes in respiration, ethylene production rates and physicochemical and organoleptic quality attributes. The number of days fruit took to attain full skin colour development associated with ripening varied with storage temperature and stage of development. Accordingly, at 21°C and 31°C respectively, immature fruit took 8 and 6 days, mature-green fruit 10 and 8 days and breaker fruit 7 and 6 days. Mature-green fruit had less decay and marketable quality attributes were maintained over a longer period of time. At both temperatures increased skin colour was associated with a climacteric pattern of respiration and higher soluble solids concentration and total sugar content. Generally, at the climacteric simultaneous peaks in CO2 and C2H4 production were attained for each of the three developmental stages used in this investigation. Peaks in CO2 and C2H4 production for both immature and breaker fruit were attained after 6 days but after 7 days for mature-green fruit at 31°C. However at 21°C peaks in CO2 and C2H4 production were attained for breaker fruit after 7 days but after 8 days for both immature and mature-green fruit. Storage at 21°C delayed the initiation of climacteric CO2 production by immature fruit and the initiation of climacteric C2H4 production by both mature-green and breaker fruit.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>101</start>
+          <end>106</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_1/f17.pdf</identifier>
+  </mods>
+</modsCollection>

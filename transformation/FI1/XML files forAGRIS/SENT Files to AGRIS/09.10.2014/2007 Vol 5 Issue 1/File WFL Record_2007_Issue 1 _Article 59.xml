@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Influence of sewage sludge on maize yield and quality and soil chemical characteristics</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ailincai</namePart>
+      <namePart type="given">Costica</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Research and Development Station Podu-Iloaiei, Iaúi , 86 Nationala Alee, 707365, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Jitareanu</namePart>
+      <namePart type="given">Gerard</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine Iaúi , 3 M. Sadoveanu Alee, Iaúi , 700490, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bucur</namePart>
+      <namePart type="given">Daniel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Agricultural Sciences and Veterinary Medicine Iaúi , 3 M. Sadoveanu Alee, Iaúi , 700490, Romania.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ailincai</namePart>
+      <namePart type="given">Despina</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agricultural Research and Development Station Podu-Iloaiei, Iaúi , 86 Nationala Alee, 707365, Romania.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Experiments were conducted during 2003-2005 under a 5-year crop rotation, soybean-wheat-maize-sunflower-wheat, with sewage sludge being applied at rates of 20, 40, and 60 t/ha, combined with different mineral fertilizer rates. Analyzing data on heavy metal contents from soils treated with different rates of applied sewage sludge, it was found that sewage sludge from Iaúi Water Treatment Station complied with the maximum allowable limits established by European Community countries and Romanian law. The results obtained showed that when raw sewage sludge was applied at a rate of 30 t/ha (18.5 t/ha dry matter), the allowable maximum limits stipulated by Norm 86/278/EEC were not exceeded. When raw sewage sludge was applied at a rate of 60 t/ha (37.0 t/ha dry matter), the limits were exceeded only for zinc content. Sewage sludge application at a rate of 40 t/ha resulted in increased amounts of minerals (especially nitrogen and phosphorus) supplied to the crops. It also resulted in a mean annual supply of 3.76 t/ha highly humificated organic matter; this explains the increase in soil humus content from 2.79 to 3.92%. In maize fertilized with sewage sludge, concentrations of Cu and Ni were within normal limits. Analyses showed the absence of Cr, Co, Cd, Pb, As and Hg in maize plants and grain. These results proved that sewage sludge applied to maize did not affect the quality of the cultivated crops. When sewage sludge was applied at a rate of 24.6 t/ha dry matter, mobile phosphates accumulated in soil at a concentration of 42 ppm and contents of microelements (mobile forms in soil) were 12.1 ppm for copper, 0.35-0.48 ppm for boron, 155 ppm for zinc and 406 ppm for manganese.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>310</start>
+          <end>313</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_1/e15.pdf</identifier>
+  </mods>
+</modsCollection>

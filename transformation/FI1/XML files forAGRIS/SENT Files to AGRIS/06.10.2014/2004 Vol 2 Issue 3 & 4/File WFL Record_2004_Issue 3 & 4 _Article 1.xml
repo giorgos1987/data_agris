@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Comparative study on intestinal parasites amongst secondary school pupils in Ikare Akoko, Ondo State, South-Western Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Adebolu</namePart>
+      <namePart type="given">T. T.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P. M. B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Badmus</namePart>
+      <namePart type="given">N. A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Microbiology, Federal University of Technology, P. M. B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A total of 200 stool samples were collected from apparently healthy secondary school pupils in Ikare-Akoko, Ondo State, South-Western Nigeria to know the types and distribution of intestinal parasites that are prevalent amongst them. Out of the 200 pupils examined (100 pupils attending public schools and 100 pupils attending private schools), 95 (47.5%) were positive with the presence of one type of intestinal parasite or the other irrespective of the type of school. The following intestinal parasites were isolated and identified: hookworm (40%), Ascaris lumbricoides (45.5%), Trichuris trichuria (5.5%) and Taenia saginata (12.5%). In all the age groups sampled (10-20 years), infection was found to be higher in pupils attending public secondary schools than in those attending private secondary schools.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>10</start>
+          <end>13</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_3_4/f1.pdf</identifier>
+  </mods>
+</modsCollection>

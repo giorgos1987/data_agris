@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Nutritional evaluation of the horse eye bean (Mucuna urens): Effect of processing on the chemical composition</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Umoren</namePart>
+      <namePart type="given">U. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Faculty of Agriculture, University of Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Effiong</namePart>
+      <namePart type="given">O. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Faculty of Agriculture, University of Calabar, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akpan</namePart>
+      <namePart type="given">I. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Animal Science, Faculty of Agriculture, University of Calabar, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Nutritional evaluation of the horse eye bean (Mucuna urens) was carried out to study the effect of different processing methods (autoclaving, cooking, roasting and germination) on its chemical composition. Results indicated that processing methods significantly (p&lt;0.05) increased the chemical composition of M. urens. Crude protein ranged from 24.25% in the raw to 27.00% in autoclaved sample. Crude fibre was least (3.50%) in germinated but highest (4.48%) in cooked Mucuna urens. Ether extract varied from 6.17% in cooked to 11.20% in autoclaved sample; ash ranged from 1.37% in roasted to 1.97% in germinated horse eye bean. Nitrogen-free extract varied from 55.32% in autoclaved to 62.92% in cooked sample. Autoclaving, roasting and cooking (thermal methods) resulted in significantly (p&lt;0.05) lower levels of methionine, cystine, lysine and anti-nutritional factors (HCN, oxalate, phytate and tannins), but led to an increase in the levels of copper and zinc, essential microelements. It was concluded from the study that processing of Mucuna urens by cooking, autoclaving and roasting, though desirable, will lead to reduction in the levels of some essential amino acids.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>5</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>128</start>
+          <end>131</end>
+        </extent>
+        <date>2007</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2007-issue_2/a5.pdf</identifier>
+  </mods>
+</modsCollection>

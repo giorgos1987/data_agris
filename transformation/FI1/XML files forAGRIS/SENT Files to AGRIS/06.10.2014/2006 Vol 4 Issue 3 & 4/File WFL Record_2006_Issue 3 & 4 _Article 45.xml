@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Reaction of cotton and soybean cultivars to populations of Meloidogyne javanica and M. incognita in Zimbabwe</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kutywayo</namePart>
+      <namePart type="given">Vhukile</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>CABI-Africa Regional Centre, P. O. Box 633-00621, Nairobi, Kenya.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kutywayo</namePart>
+      <namePart type="given">Dumisani</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Coffee Research Station, P.O.Box 61, Chipinge, Zimbabwe.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gwata</namePart>
+      <namePart type="given">Eastonce</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>ICRISAT, P.O. Box 39063, Nairobi 00623, Kenya.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>The response of common cotton (Gossypium hirsutum L.) and soybean [Glycine max L. (Merr.)] cultivars in Zimbabwe to infestation by Meloidogyne javanica (Treub) Chitwood and Meloidogyne incognita (Kofoid &amp; White) Chitwwod races 1 and 3 was evaluated. This was done under greenhouse conditions in two separate experiments at Kutsaga Research Station, Zimbabwe, in a program aimed at identifying alternative rotation crops for root-knot nematode management in tobacco (Nicotiana tabacum L.). Seedlings of each cultivar were raised in sterilised soil in 15 cm diameter pots. The inoculum which was applied three weeks after sowing was a mixture of eggs and second stage juveniles (J2s). The dosage was 4000 mixed eggs and J2s per plant for the soybean trial while it was 5000 for cotton. Nine weeks after infestation, root gall indices, numbers of nematode egg masses and eggs per root system were recorded. The numbers of J2s per pot were also recorded. Reproduction factor (RF) was computed as final population (eggs + J2s) ÷ initial population inoculated. All the cotton cultivars were susceptible (RF&gt;1 and abundant galling)  to M. incognita Race 3 while they were all resistant (RF&lt;1) to M. javanica. The cultivars, TE-94-4, FQ 92-19, CY889, AG4869 and DF885 were resistant to M. incognita Race 1. The other three cultivars which were susceptible to M. incognita Race 1 did not show any damage symptoms suggesting that assessing for resistance using this criterion alone may be inadequate. The soybean cultivars were all susceptible to the three species except SNK60 which was resistant to M. incognita race 1 (RF=0). The cultivar, however, produced galls further indicating the inadequacy of using damage functions of Meloidogyne species for host status evaluation.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>223</start>
+          <end>227</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_3_4/e6.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Compositional evaluation of cowpea (Vigna unguiculata) and scarlet runner bean (Phaseolus coccineus) varieties grown in Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Olaleke</namePart>
+      <namePart type="given">Aremu M.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, Nasarawa State University, P. M. B. 1022, Keffi, Nigeri.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Olorunfemi</namePart>
+      <namePart type="given">Olaofe</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ado-Ekiti P.M.B 5363, Ado-Ekiti, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Akintayo</namePart>
+      <namePart type="given">T. Emmanuel</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Chemistry, University of Ado-Ekiti P.M.B 5363, Ado-Ekiti, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Dehulled samples of two cowpea (Vigna unguiculata) and two scarlet runner bean (Phaseolus coccineus) varieties were studied for nutritional evaluation with respect to proximate, mineral and amino acid composition. The samples contained crude protein in the range of 75.3– 526.1 g kg–1 DM with cream coat scarlet runner beans having the highest and cream coat moderate cowpea the lowest value. The crude fat varied with values ranging from 21.3±0.0 g kg-1 in white coat small cowpea to 75.3±0.1 g kg-1 in white coat scarlet runner bean. Proximate composition ranges were: moisture content 4.0–18.0, crude fibre 24.0–440, ash 36.1– 46.1 and carbohydrate (by difference) 301.1–828.3 g kg-1 DM. The most abundant minerals were Ca (594.2–664.3 g kg-1), Mg (546.1–677.1 g kg-1) and K (357.5–404.8 g kg-1 ). Generally the two legume varieties were found to be good sources of essential minerals while Co, Pb, Cd and Cr were not detected. The levels of Na/K and Ca/P ratios were desirable compared with the recommended values. The amino acid analysis revealed that all the samples contained nutritionally useful quantities of most of the essential amino acids with total essential amino acid (TEAA) (with His) ranging from 43.79 to 48.31%. The first limiting amino acid was Lys (0.51–0.59) and calculated isoeletric point (ρl) ranged between 5.49 and 5.58.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>39</start>
+          <end>43</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f5.pdf</identifier>
+  </mods>
+</modsCollection>

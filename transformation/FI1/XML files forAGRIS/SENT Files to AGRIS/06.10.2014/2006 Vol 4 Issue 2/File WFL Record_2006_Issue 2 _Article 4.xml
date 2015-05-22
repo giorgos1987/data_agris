@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Supplementation of ogi, a maize-based infant weaning food, with African oil bean (Pentaclethra macrophylla Benth) seed</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Enujiugha</namePart>
+      <namePart type="given">Victor N.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Food Science and Technology, Federal University of Technology, P.M.B. 704, Akure, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Maize ogi is a popular starchy porridge in the west coasts of Africa. Although consumed by adults as a breakfast cereal, its main use is as a weaning food for infants. In this study the quality of ogi from a composite mixture of maize (Zea mays L.) and oil bean seed (Pentaclethra macrophylla Benth) flours was evaluated. Maize was substituted with oil bean seed at ratios of 90:10, 80:20, 70:30 and 60:40 maize/oil bean, with 100% maize ogi flour as control. The results show that protein content increased with increased oil bean seed substitution, reaching 33.25% dry wt. at 60:40 ratio. The mineral composition also showed marked improvement with increased substitution. On the other hand, tannins and oxalates increased with higher content of oil bean seed. However, the level of phytic acid was lowered with higher oil bean substitution. Pasting characteristics showed that higher oil bean seed substitution meant marked depreciation in ease of cooking, and the peak viscosity was lowered. Results of sensory evaluation show that colour and flavour were significantly (p&lt;0.05) affected by increased substitution of oil bean seed beyond 20% substitution level, while the resultant ogi gels were still acceptable in terms of mouthfeel and overall acceptability at ≤20% substitution level. The present study indicates that at ≤20% oil bean seed substitution of the ogi mass, the quality attributes of ogi can be maintained, with higher nutrient content, and lower content of anti-nutritional factors.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>34</start>
+          <end>38</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_2/f4.pdf</identifier>
+  </mods>
+</modsCollection>

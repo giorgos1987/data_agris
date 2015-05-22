@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>The effect of ultraviolet irradiation (UV-C) on chilling injury of cucumbers during cold storage</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Kasim</namePart>
+      <namePart type="given">Rezzan</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of Arslanbey, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Kasim</namePart>
+      <namePart type="given">M.Ufuk</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>University of Kocaeli, Vocational School of Arslanbey, Kocaeli, Türkiye.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Pre-storage exposure of cucumbers (Cucumis sativus L. cv. Silor) with ultraviolet irradiation (UV-C) for 3, 5, 10 or 15 min reduced chilling injury until 10 days of storage at 5oC. Electrolyte leakage (EL) of samples treated for 15 min with UV-C was lower than those of the other UV-C treatments and control samples at the 10th day of storage at 5oC. The green colour of UV-C-treated cucumbers was maintained better during storage than that of the control samples, but differences among the treatments were not significant. Weight loss of cucumbers in all UV-C treatments was higher than in control at 5oC, and also weight loss of cucumber at 5oC was higher than at 10oC due to chilling injury. Fruit firmness decreased in all treatments at 5oC, but it remained high in samples at 10oC. The results suggest that UV-C treatments could be a useful non-chemical method to delay chilling injury and deterioration of other quality characteristics of cucumber at 5oC.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>6</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>50</start>
+          <end>54</end>
+        </extent>
+        <date>2008</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2008-issue_1/f9.pdf</identifier>
+  </mods>
+</modsCollection>

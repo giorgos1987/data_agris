@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of pretreatments on germination of seeds of the medicinal plant Enantia chlorantha Oliv.</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Gbadamosi</namePart>
+      <namePart type="given">A. E.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Forest Resources Management, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oni</namePart>
+      <namePart type="given">O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Forest Resources Management, University of Ibadan, Ibadan, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Effects of pretreatments on germination of seeds of Enantia chlorantha were studied. Nine hundred and ten matured fruits of the species were obtained from ten naturally occurring trees. The fruits were thoroughly mixed and divided into thirteen equal portions of seventy seeds each. One portion was left undepulped while the remaining twelve portions were depulped. Five pretreatment methods with five variants of two of these methods were investigated. These were undepulped before sowing (control); depulped without treatment before sowing; soaking in hot water (90ºC) and allowed to cool down overnight; soaking in concentrated sulphuric acid for 5, 10,15, 20 and 30 minutes and soaking in concentrated nitric acid for 5,10, 15, 20 and 30 minutes. Seeds were sown inside trays containing washed and sterilized river sand under high humidity propagator. Germination counts were taken daily for fifty days. Germination percentage was computed for each treatment and the data were arc sine transformed before subjecting it to analysis of variance. Pretreatments and their duration affected commencement of germination in E. chlorantha. Germination was first observed among the seeds treated with concentrated sulphuric acid for 10 minutes at 23 days after sowing (DAS) while those treated with the same acid for 20 minutes and 30 minutes both commenced germination at 30DAS. Seeds treated for 5 minutes with concentrated sulphuric acid had the highest percentage germination of 66% followed by depulped but untreated seeds, which had 57% while the lowest value of 10% was recorded in seeds soaked for 30 minutes in sulphuric acid. On the other hand, all the seeds treated with concentrated nitric acid and hot water failed to germinate. The effect of pretreatment was highly significant (P≤0.01) on the germination of seeds of Enantia chlorantha.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>2</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>2</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>288</start>
+          <end>290</end>
+        </extent>
+        <date>2004</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2004-issue_2/a24.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Effect of planting pattern, crop variety and insecticide on the productivity of cowpea-cereal systems in Northern Guinea Savanna of Nigeria</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Ajeigbe</namePart>
+      <namePart type="given">H.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA), Kano Station P.M.B.3112, Sabo Bakin Zuwo Road Kano, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Oseni</namePart>
+      <namePart type="given">T.O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Crop Production Programme, School of Agriculture, Abubakar Tafawa Balewa University, Bauchi, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Singh</namePart>
+      <namePart type="given">B.B.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>International Institute of Tropical Agriculture (IITA), Kano Station P.M.B.3112, Sabo Bakin Zuwo Road Kano, Nigeria.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>A cropping system trial involving two spray regimes, two cowpea varieties and ten cowpea–cereals planting patterns involving two cereals was conducted in the wet season in the northern Guinea Savanna of Nigeria in 1999 and 2000 to identify suitable row to row planting arrangement for cowpea-cereal systems. The systems involved different row-to-row combinations of cowpea with maize or sorghum and with or without insecticide spray. Spraying of cowpea increased cowpea grain yield, returns on grain and total produce significantly under all planting patterns and varieties. Sole cowpea produced significantly higher monetary returns compared to other treatments. The improved cowpea variety produced higher grain yields than the local variety and required less insecticide spray. The maize-cowpea systems were more productive than the sorghum-cowpea systems. Systems with higher cowpea proportions produced relatively higher monetary returns on total grains. Returns on total produce from sole crop cowpea with insecticide spray almost doubled returns compared to the total produce from sole cereals due to high price of cowpea grain and fodder. The systems, 2maize:4cowpea and 1maize:4cowpea with spraying were most productive and gave high monetary returns and therefore were recommended for the area.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>4</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>145</start>
+          <end>150</end>
+        </extent>
+        <date>2006</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2006-issue_1/a1.pdf</identifier>
+  </mods>
+</modsCollection>

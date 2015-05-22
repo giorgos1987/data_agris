@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Added benefits of combined organic and mineral phosphate fertilizers applied to maize and melon</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Akinrinde</namePart>
+      <namePart type="given">E.A.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, University of Ibadan, Ibadan Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bello</namePart>
+      <namePart type="given">O.S.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Department of Soil Science, Ambrose Alli University, Ekpoma, Edo State, Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ayegboyin</namePart>
+      <namePart type="given">K. O.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Agronomy Department, University of Ibadan, Ibadan Nigeria.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Iroh</namePart>
+      <namePart type="given">L.</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Institute of Plant Nutrition, University of Hohenheim, Stuttgart, Germany.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Acid infertility factors limiting plant growth and soil productivity in highly weathered soils of humid West Africa may be reversed through the use of low cost techniques of organic manuring and/or rock phosphate application. Investigation was conducted to evaluate the relative agronomic efficiency (RAE), phosphorus recovery (PR) and added benefits (AB) of combining organo-mineral (OM) fertilizer with Ogun rock phosphate, ORP (31.0% P2O5), Sokoto rock phosphate, SRP (36.0% P2O5) or single super phosphate, SSP (18% P2O5) using maize (Zea mays) and melon (Citrullus lanatus) as test crops on a medium acid Oxic Paleustalf and a weakly acid Typic Paleudalf. The soils were cropped two times after mixing with OM and/or ORP, SRP and SSP to supply P 0, 50 and 100 mg kg-1 with the treatment combinations replicated three times in a completely randomized design (CRD). Results showed that combined application of OM with SRP led to the highest biomass production of 2.24 g pot-1 of maize and 0.79 g pot-1 of melon, with tangible (positive) AB values (0.02 and 0.07, respectively) on the Oxic Paleustalf. The RAE of OM with respect to maize shoot biomass was higher (184.21%) on the Oxic Paleustalf compared with Typic Paleudalf (82.12%). For melon, SRP and OM + SRP produced the highest RAE of 115.5% and 127.27% on medium acid Oxic Paleustalf and weakly acid Typic Paleudalf, respectively. The magnitude of fertilizer P recoverable through the harvest of the crops was generally low (2.2–12.4%) but significantly (P&lt;0.05) higher (about 10.0%) through maize production than through melon production (about 2.0%). The work further confirms that any of the fertilizers tested could be used as substitute for SSP while significant benefit could accrue from the application of combined OM and phosphate fertilizers to maize and melon when grown on either of the two soil types.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>3</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>3&amp;4</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>75</start>
+          <end>80</end>
+        </extent>
+        <date>2005</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2005-issue_3_4/a4.pdf</identifier>
+  </mods>
+</modsCollection>

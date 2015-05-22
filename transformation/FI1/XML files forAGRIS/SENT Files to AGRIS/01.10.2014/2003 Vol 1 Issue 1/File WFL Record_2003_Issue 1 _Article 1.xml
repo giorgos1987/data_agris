@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Consumer confidence and UK food retailing: Why does local food matter?</title>
+      <subTitle />
+    </titleInfo>
+    <name type="personal">
+      <namePart type="family">Lyon</namePart>
+      <namePart type="given">Phil </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>School of Nursing &amp; Midwifery, University of Dundee, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Colquhoun</namePart>
+      <namePart type="given"> Anne </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Food &amp; Consumer Sciences, University of Abertay Dundee, UK.</affiliation>
+    </name>
+    <name type="personal">
+      <namePart type="family">Janhonen-Abruquah</namePart>
+      <namePart type="given">Hille </namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">author</roleTerm>
+      </role>
+      <affiliation>Kotitalous, Pirkanmaan Ammattikorkeakoulu, Tampere, Finland.</affiliation>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre>article</genre>
+    <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes"></dateIssued>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">electronic</form>
+    </physicalDescription>
+    <abstract>Over the last 50 years, the UK fresh food market has been increasingly challenged by the growth and domination of large grocery chains. Supermarkets now source supplies on a national and international basis. They have purchasing power to undercut smal-scale local production and distribution systems that minimise many of the past advantages of short distances between the producer and the consumer. This alters producer perspectives. Larger-scale production and sales contracts for national distribution are favoured. Smaller producers focusing on supply to local markets have tended to struggle as retail opportunities for their fresh produce diminished. Street markets for fresh food, once the main source for the UK urban population, are now a minor contributor to overall sales. In part this results from a larger population and the limited number of markets operating within traditional constraints of time and location. In part, also, consumer perceptions of quality in street markets declined with the ascent of prewashed bimbo fruit and vegetables along with the disembodied, pre-packed meat favoured by many. Excessive pesticide use, BSE, foot &amp; mouth disease and E.coli problems have all recently taken their toll of consumer confidence and have disturbed taken-for-granted urban assumptions about food safety. Furthermore, media attention on factory farming techniques have focussed public disquiet on issues that, until a few years ago, many consumers were happy to ignore. Vegetarianism, organic production methods and attempts to reconnect food producers and local consumers are arguably related strategies emerging from these problematic issues of consumer confidence. By reference to UK experiences over the last 10 years, the paper explores food shopping trend convergence, reduced consumer trust, and attempts to restore confidence.</abstract>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Journal of Food, Agriculture and Environment</title>
+      </titleInfo>
+      <originInfo>
+        <publisher>WFL Publisher</publisher>
+      </originInfo>
+      <identifier type="issn">1459-0263</identifier>
+      <part>
+        <detail type="volume">
+          <number>1</number>
+          <caption>v.</caption>
+        </detail>
+        <detail type="issue">
+          <number>1</number>
+          <caption>no.</caption>
+        </detail>
+        <extent unit="pages">
+          <start>12</start>
+          <end>21</end>
+        </extent>
+        <date>2003</date>
+      </part>
+    </relatedItem>
+    <identifier type="uri">http://world-food.net/download/journals/2003-issue_1/V1N1F12-21consumer.pdf</identifier>
+  </mods>
+</modsCollection>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:ags="http://purl.org/agmes/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dct="http://purl.org/dc/terms/">
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00000">
+	<dct:identifier>AR2015B00000</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[DOS NUEVOS REGISTROS DE HELECHOS PARA EL NOROESTE ARGENTINO]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Cacharani, Daniel]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Ramos, Mario]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Martínez, Olga]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[En este trabajo se registra por primera vez para Argentina la presencia de Adiantum peruvianum (Pteridaceae) y Serpocaulon polystichum (Polypodiaceae). Estos nuevos registros fueron coleccionados durante exploraciones botánicas realizadas en los departamentos de La Caldera y Chicoana, en la provincia de Salta. Se describen e ilustran los caracteres diagnósticos, se proporcionan claves para la identificación de las especies y mapa de su distribución.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.277-283]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Cacharani, Daniel]]></rdf:li>
+		<rdf:li><![CDATA[Ramos, Mario]]></rdf:li>
+		<rdf:li><![CDATA[Martínez, Olga]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00001">
+	<dct:identifier>AR2015B00001</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[OBITUARIO Encarnación Rosa Guaglianone (1932-2014)]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Múlgura, María]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Ponce, M.]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Kiesling, Roberto]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<dct:extent><![CDATA[p.284-289]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Múlgura, María]]></rdf:li>
+		<rdf:li><![CDATA[Ponce, M.]]></rdf:li>
+		<rdf:li><![CDATA[Kiesling, Roberto]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00002">
+	<dct:identifier>AR2015B00002</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[PRUNELLA LACINIATA (LAMIACEAE), NUEVA CITA PARA LA FLORA ARGENTINA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Torres, Cristian]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Puntieri, Javier]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[Prunella es un género de especies herbáceas perennes, originarias de Eurasia y el norte de África. Este género incluye ocho especies, entre las cuales P. vulgaris es la de más amplia distribución, ya que se presenta como maleza en casi todo el mundo, incluyendo la mayor parte de América y la Argentina. El presente trabajo informa, por primera vez, la presencia en Argentina de una especie menos común, P. laciniata. El ejemplar determinado se encontró en el Parque Nacional Lanín en la provincia de Neuquén. Se describe morfológicamente el material de P. laciniata encontrado, destacando sus diferencias con P. vulgaris, y se aporta una ilustración y el mapa de distribución en Argentina.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.243-247]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Torres, Cristian]]></rdf:li>
+		<rdf:li><![CDATA[Puntieri, Javier]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00003">
+	<dct:identifier>AR2015B00003</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[NUEVOS REGISTROS DE GEASTRACEAE (BASIDIOMYCOTA, PHALLOMYCETIDAE) EN REMANENTES Y RELICTOS DE MATA ATLÁNTICA DEL NORDESTE DE BRASIL]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Sousa, Julieth]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Silva, Bianca]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Alfredo, Dônis]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Baseia, Iuri]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[En este trabajo se presentan registros de Geastraceae en el noreste brasileño, recolectados en los remanentes de las formaciones vegetales de la Mata Atlántica y los relictos de Mata Atlántica “Brejo de Altitude”. Las especies se han identificado sobre la base de la macro y micro morfología con ayuda de la literatura específica. Once especies se distribuyen en dos géneros: Geastrum fimbriatum, G. javanicum, G. lageniforme, G. lloydianum, G. minimum, G. pectinatum, G. rusticum, G. schweinitzii, G. setiferum y G. triplex y Myriostoma coliforme. Nueve de estos registros son nuevos para Rio Grande do Norte, cinco para Paraíba y cinco para Ceará. Geastrum minimum es el primer registro para el nordeste de Brasil, G. rusticum es la primera cita para la región semiárida, mientras que G. pectinatum y M. coliforme son los primeros registros para el nordeste de la Mata Atlántica y los relictos de Mata Atlántica “ Brejo de Altitude”. También se incluyen observaciones taxonómicas del hábitat y la distribución de las especies en Brasil.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.207-221]]></dct:extent>
+	<dct:language><![CDATA[eng]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Sousa, Julieth]]></rdf:li>
+		<rdf:li><![CDATA[Silva, Bianca]]></rdf:li>
+		<rdf:li><![CDATA[Alfredo, Dônis]]></rdf:li>
+		<rdf:li><![CDATA[Baseia, Iuri]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00004">
+	<dct:identifier>AR2015B00004</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[ESTUDIOS EN EL GÉNERO CORTADERIA (POACEAE). I. SISTEMÁTICA Y NOMENCLATURA DE LA SECT. CORTADERIA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Testoni, Daniel]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Villamil, Carlos]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[El género Cortaderia (Poaceae) incluye 19 especies sudamericanas separadas en cuatro secciones. En este trabajo se estudian las especies incluidas en la sect. Cortaderia. Cortaderia rudiuscula y C. jubata son dos nombres utilizados con diferentes criterios según diferentes autores, lo que ha generado confusión y explica los numerosos ejemplares de herbario determinados sucesivamente como diferentes especies de la sección. La descripción original de C. rudiuscula fue realizada sobre la base de cuatro sintipos que corresponden a más de una especie. En esta contribución se analizaron los ejemplares tipo y otros materiales de herbario identificados como C. rudiuscula, además de plantas coleccionadas en muestreos poblacionales para este trabajo, y ejemplares de las restantes especies de la sección. Se realizó un análisis de componentes principales (ACP) sobre la base de caracteres tradicionalmente utilizados para delimitar las especies de la sección. El análisis mostró tres grupos morfológicos discretos que corresponden a C. araucana, C. selloana y C. speciosa. El lectotipo de C. rudiuscula se ubicó entre los ejemplares de C. speciosa, y, por lo tanto, se propone la sinonimia de ambas. Un análisis similar permitió establecer que C. jubata representa sólo una porción de la variabilidad morfológica de C. selloana y se propone la nueva combinación Cortaderia selloana subsp. jubata. Los nombres C. quila y C. quila var. pygmaeum pasan a la sinonimia de C. speciosa. Las especies Cortaderia araucana y C. selloana fueron descritas originalmente como dioicas y posteriormente como ginodioicas. En este trabajo se hallaron, además, poblaciones con plantas únicamente pistiladas (apomícticas) y, consecuentemente, se enmiendan ambas descripciones para incluir en ellas sus poblaciones apomícticas. Se presenta una clave para la determinación de los cuatro taxones que se reconocen para la sect. Cortaderia, descripciones, sinonimias y mapas de distribución.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.260-276]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Testoni, Daniel]]></rdf:li>
+		<rdf:li><![CDATA[Villamil, Carlos]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00005">
+	<dct:identifier>AR2015B00005</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[PRIMER REGISTRO DE ASPLENIUM HARPEODES (ASPLENIACEAE) PARA LA FLORA ARGENTINA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Ganem, M.]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Arana, Marcelo]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Luna, M.]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Ahumada, Osvaldo]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Giudice, Gabriela]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[Se da a conocer el primer hallazgo de Asplenium harpeodes para la Argentina. Esta especie crece en las provincias de Jujuy y Salta, en las Yungas. Se presenta la descripción e ilustración del taxón y se brindan datos de su distribución y hábitat. Se brinda una clave para diferenciar esta especie de las más afines con lámina pinnada.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.237-242]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Ganem, M.]]></rdf:li>
+		<rdf:li><![CDATA[Arana, Marcelo]]></rdf:li>
+		<rdf:li><![CDATA[Luna, M.]]></rdf:li>
+		<rdf:li><![CDATA[Ahumada, Osvaldo]]></rdf:li>
+		<rdf:li><![CDATA[Giudice, Gabriela]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00006">
+	<dct:identifier>AR2015B00006</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[NUEVA CIRCUNSCRIPCION DE LA TRIBU LEUCOCORYNEAE (AMARYLLIDACEAE, ALLIOIDEAE)]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Sassone, Agostina]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Arroyo-Leuenberger, Silvia]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Giussani, Liliana]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[Sobre la base de estudios morfológicos, anatómicos y filogenéticos en la subfamilia Allioideae, se presenta una nueva circunscripción de la tribu Leucocoryneae que comprende seis géneros americanos: Beauverdia, Ipheion, Leucocoryne, Nothoscordum, Tristagma y Zoellnerallium. Se incluye una sinopsis de la tribu Leucocoryneae con su descripción (enmendada), una clave para diferenciar las tribus y una clave de los géneros de Leucocoryneae, sus descripciones y distribución geográfica.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.197-206]]></dct:extent>
+	<dct:language><![CDATA[eng]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Sassone, Agostina]]></rdf:li>
+		<rdf:li><![CDATA[Arroyo-Leuenberger, Silvia]]></rdf:li>
+		<rdf:li><![CDATA[Giussani, Liliana]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00007">
+	<dct:identifier>AR2015B00007</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[DELIMITACIÓN DE LAS ESPECIES ARGENTINAS DEL GENERO INGA (MIMOSOIDEAE) MEDIANTE TÉCNICAS NUMÉRICAS]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Zapater, Maria]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Hoc, Patricia]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Lozano, Evangelina]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Sühring, Silvia]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[En Argentina, el género Inga está representado por seis especies y una variedad. Sin embargo surgen dudas acerca de la validez de estos taxones. Se estudiaron las relaciones fenéticas entre 75 ejemplares de los siete taxones reconocidos para evaluar su validez. Se analizó una matriz de 46 caracteres morfológicos por métodos de agrupamiento y ordenamiento. Tanto el dendrograma como la distribución de los ejemplares en el análisis de componentes principales (ACP) muestran seis grupos, lo cual evidencia la existencia de seis especies: Inga saltensis, I. marginata, I. laurina, I. virescens, I. affinis e I. uraguensis. Se presenta una clave para la identificación de las especies y mapas de distribución en Argentina.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.248-259]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Zapater, Maria]]></rdf:li>
+		<rdf:li><![CDATA[Hoc, Patricia]]></rdf:li>
+		<rdf:li><![CDATA[Lozano, Evangelina]]></rdf:li>
+		<rdf:li><![CDATA[Sühring, Silvia]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/AR2015B00008">
+	<dct:identifier>AR2015B00008</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19650"/>
+	<dct:title><![CDATA[ESTUDIO TAXONÓMICO DEL GÉNERO DYSCHORISTE (ACANTHACEAE) EN LA ARGENTINA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Ezcurra, Cecilia]]></foaf:name></foaf:Person></dct:creator>
+	<dct:publisher><foaf:Organization><foaf:name><![CDATA[Instituto de Botánica Darwinion y Museo Botánico de Córdoba]]></foaf:name></foaf:Organization></dct:publisher>
+	<dct:issued><![CDATA[2014]]></dct:issued>
+	<bibo:abstract><![CDATA[Dyschoriste es un género de distribución mundial en regiones cálidas, con dos centros de diversidad importantes, en América, uno en el sur de América del Norte y otro en Sudamérica subtropical. Este trabajo tiene como objetivo analizar la taxonomía de las seis especies de Dyschoriste presentes en Argentina. Las especies se delimitan, se resuelve su nomenclatura y su sinonimia sobre la base de material tipo, se describen e ilustran, y se presenta una clave para diferenciarlas. El trabajo incluye observaciones sobre su morfología, nomenclatura, tipificación, distribución, fenología y hábitat, y citas de ejemplares representativos. Se designa un lectotipo para Dyschoriste humilis y un neotipo para D. niederleinii.]]></bibo:abstract>
+	<dct:extent><![CDATA[p.222-236]]></dct:extent>
+	<dct:language><![CDATA[esp]]></dct:language>
+	<bibo:volume><![CDATA[2]]></bibo:volume>
+	<bibo:issue><![CDATA[2]]></bibo:issue>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Ezcurra, Cecilia]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[Darwiniana, nueva serie]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+</rdf:RDF>

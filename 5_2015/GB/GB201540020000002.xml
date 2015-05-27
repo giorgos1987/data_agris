@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015400200">
+	<dc:title><![CDATA[A Case Study of China’s Commercial Pork Value Chain, August 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ferran. Brunet]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11345981]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11345981.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400201">
+	<dc:title><![CDATA[Lithuania’s Food Demand During Economic Transition, January 2000]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Cathal Buckley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Thomas M. van Rensburg]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2000]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346031.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346031]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400202">
+	<dc:title><![CDATA[Multilateral Trade and Agricultural Policy Reforms in Sugar Markets, September 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Trevor Donnellan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kevin. Hanrahan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346039]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346039.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400203">
+	<dc:title><![CDATA[Radio Frequency Identification Tagging as a Mechanism of Creating a Viable Producer’s Brand in the Cattle Industry, May 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G. Xu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. F. Harrison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. M. Grimshaw]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11345977]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11345977.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400204">
+	<dc:title><![CDATA[Desarrollo y evaluación de formulados de B. Thuringiensis contra Diatraea saccharalis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Erick de Luna Santillana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hiram Medrano Roldán]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Luis Jesús Galán Wong]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Katiushka Arévalo Niño]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lilia H. Morales Ramos]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346030.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346030]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400205">
+	<dc:title><![CDATA[Final Report for the Iowa Livestock Industry Waste Characterization and Methane Recovery Information Dissemination Project, 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Wilson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346771]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346771.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400206">
+	<dc:title><![CDATA[Dairy Markets in Asia: An Overview of Recent Findings and Implications, September 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. Ragab]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346043.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346043]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400207">
+	<dc:title><![CDATA[Cooperatives and Contracting in Agriculture: The Case of West Liberty Foods, October 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P.A. Stevens]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346177]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346177.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400208">
+	<dc:title><![CDATA[Collective Marketing Arrangements for Geographically Differentiated Agricultural Products: Welfare Impacts and Policy Implications, May 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.O. Ibeun]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346859.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346859]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400209">
+	<dc:title><![CDATA[Integrated Farm/Livestock Management Demonstration Program, 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. N. R. Jeffers]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346857.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346857]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400210">
+	<dc:title><![CDATA[Soil and Water Conservation; Conservation Program Summary, 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. McC Bridge]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.J. Brown]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.J. Hooker]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346854.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346854]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400211">
+	<dc:title><![CDATA[Concepts and Rationale for Regional Nitrogen Rate Guidelines for Corn, April 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nick Evans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter Gaskell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Winter]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11346954]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11346954.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400212">
+	<dc:title><![CDATA[Economies of Feedlot Scale, Biosecurity, Investment, and Endemic Livestock Disease, September 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kari Austnes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Christopher D. Evans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Caroline Eliot-Laize]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pamela S. Naden]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gareth H. Old]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347202.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347202]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400213">
+	<dc:title><![CDATA[Global Prospects for Dairy in Argentina and Chile: Evidence from Field Visits and Model Simulations, August 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Phillip Kostov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Lingard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347199]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347199.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400214">
+	<dc:title><![CDATA[Little Dairy on the Prairie: from butter makin' to high-tech agriculture, 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John Alej]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ro Álvarez Restrepo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347230.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347230]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400215">
+	<dc:title><![CDATA[International Update, November/December 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Cathal Buckley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Patricia Carney]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November/December 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347419.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347419]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400216">
+	<dc:title><![CDATA[An Analysis of the Link between Ethanol, Energy, and Crop Markets, November 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P K Joshi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R L Shiyani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M C S Bantilan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Pathak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G D N Rao]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347418.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347418]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400217">
+	<dc:title><![CDATA[Changing Diets in China’s Cities: Empirical Fact or Urban Legend, November 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Besien]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347494.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347494]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400218">
+	<dc:title><![CDATA[Fresh News; The Farmers' Market Newsletter, Summer 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. G. H. Bunce]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Summer 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347585.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347585]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400219">
+	<dc:title><![CDATA[Discounting Spotted Apples: Investigating Consumers’ Willingness to Accept Cosmetic Damage in an Organic Product, November 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.C. Kumoro]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.C. Ngoh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Hasan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Ong]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.C. Teoh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347489.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347489]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400220">
+	<dc:title><![CDATA[Fresh News; The Farmers' Market Newsletter, Fall 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eugene Ejike Ezebilo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Fall 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347586.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347586]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400221">
+	<dc:title><![CDATA[Fresh News; The Farmers' Market Newsletter, Summer 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. Báldi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Batáry]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Kleijn]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Summer 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347588]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347588.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400222">
+	<dc:title><![CDATA[Fresh News; The Farmers' Market Newsletter, Spring 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Helen Hesketh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rosemary Hails]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Spring 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347589.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347589]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400223">
+	<dc:title><![CDATA[Fresh News; The Farmers' Market Newsletter, Winter 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Howard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Winter 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347590]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347590.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400224">
+	<dc:title><![CDATA[Watershed Improvement Review Board Calendar Year 2006 Annual Report, January 31, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F Simtowe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E Muange]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11347683]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11347683.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400225">
+	<dc:title><![CDATA[Welfare Impacts of Cross-Country Spillovers in Agricultural Research, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G. J. Lawson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11348305]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11348305.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400226">
+	<dc:title><![CDATA[Organic Newsletter, November 13, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S.E. Morley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.J. Ferguson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11349396]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11349396.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400227">
+	<dc:title><![CDATA[Strawberry News, June 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kathryn Reardon-Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrew F. Le Brocque]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alan House]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11349397.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11349397]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400228">
+	<dc:title><![CDATA[Iowa CREP News, February 1, 2007, Issue 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Christilla. Roederer-Rynning]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11349400]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11349400.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400229">
+	<dc:title><![CDATA[Intellectual Property Rights and Crop-Improving R&D under Adaptive Destruction, June 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N. A. Beresford]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. D. Wood]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Bescoby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. C. Caborn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. L. Barnett]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11348191.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11348191]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400230">
+	<dc:title><![CDATA[Fresh News, Spring 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P.D. Carey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.C.M. Dring]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.O. Hill]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.D. Preston]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.M. Wright]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Spring 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11349398]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11349398.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400231">
+	<dc:title><![CDATA[Iowa Climate Change Advisory Council Final Report 2008.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bernard Dudley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lindsay Defew]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Linda May]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11349757]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11349757.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400232">
+	<dc:title><![CDATA[Iowa Conservation Reserve Enhancement Program, Helping Landowners Protect Iowa’s Natural Resources,January 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. L. Hall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. J. Allen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. T. W. Rosier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. G. Hodnett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. M. Roberts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Hopkins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. N. Davies]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Kinniburgh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. C. Gooddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350037]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350037.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400233">
+	<dc:title><![CDATA[Call for Proposals Iowa Department of Agriculture and Land Stewardship Division of Soil Conservation, August 31, 2012]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[U. Dragosits]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. R. Chadwick]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. del Prado]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Scholefield]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. A. N. Mills]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. A. Crompton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. J. Newbold]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350039.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350039]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400234">
+	<dc:title><![CDATA[An Apple Approach, 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Awang Hamat Abdul Hadi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2009]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350458.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350458]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400235">
+	<dc:title><![CDATA[Iowa Agri-News, August 6, 2012, Vol. 12, no. 15]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bent T. Christensen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350460]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350460.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400236">
+	<dc:title><![CDATA[Evaluation of Soybean Varieties Resistant to Soybean Cyst Nematode in Iowa, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B.A. Emmett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Reynolds]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350040.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350040]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400237">
+	<dc:title><![CDATA[Animal Industry News, 2009, Vol. 10, no. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Subramanian Arjunan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kerry Kirwan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Pink]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Matin Qaim]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350457]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350457.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400238">
+	<dc:title><![CDATA[Organic News, April 1, 2009, Vol. 10]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350465]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350465.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400239">
+	<dc:title><![CDATA[Organic News, June 20, 2008, Vol. 7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350472.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350472]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400240">
+	<dc:title><![CDATA[Iowa Growers' News, November 13, 2007, Issue 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yulia Fitriastuty]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350473.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350473]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400241">
+	<dc:title><![CDATA[Organic News, January 6, 2009, Vol. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard E. Baldwin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350469]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350469.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400242">
+	<dc:title><![CDATA[Iowa Growers' News, November 17, 2008, Issue 3]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ratih Tri Lestari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350474.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350474]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400243">
+	<dc:title><![CDATA[Organic News, January 3, 2007, Vol. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Peter. Nedergaard]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350470.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350470]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400244">
+	<dc:title><![CDATA[Iowa CREP News, October 29, 2007, Issue. 2]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V K Mehan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D H Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D McDonald]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350486.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350486]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400245">
+	<dc:title><![CDATA[2006 Winery Survey Summary, 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. O. Mountford]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Sheail]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350491.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350491]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400246">
+	<dc:title><![CDATA[Annual Report of the Iowa Grape and Wine Development Commission for Fiscal Year, 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Colin R. Lloyd]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lisa-Maria Rebelo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Max Finlayson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350487]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350487.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400247">
+	<dc:title><![CDATA[Annual Report of the Iowa Grape and Wine Development Commission for Fiscal Year, 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maitreesh Ghatak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ip Mitra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dilip Mookherjee]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anusha Nath]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350488]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350488.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400248">
+	<dc:title><![CDATA[Living Near A Vineyard]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sudirman Sudirman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ristianto Utomo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zainal Bachruddin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Budi Prasetyo Widyobroto]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suhubdy Suhubdy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350489.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350489]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400249">
+	<dc:title><![CDATA[Animal Industry News, February 2000, Vol. 1, No. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. M. K. Gardner]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350475.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350475]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400250">
+	<dc:title><![CDATA[2006 Vineyard Survey Summary, 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tellie-Nelson Wajja-Musukwe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Julia Wilson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Janet I. Sprent]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chin K. Ong]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Douglas Deans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Okorio]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350490]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350490.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400251">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2001]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.E.J. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Howson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Sleep]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.D. Roberts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Maderia]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Hellinga]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Herraez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.F. Th Schoute]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2001]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350525]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350525.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400252">
+	<dc:title><![CDATA[Animal Industry News, March 2007, Vol. 8, No. 1]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Wegscheidl]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. Layden]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350511.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350511]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400253">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2001]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Martha Dwi Nur'aini]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2001]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350526.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350526]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400254">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Borner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M S Roder]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Chebotar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Varshney]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Weinder]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350528.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350528]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400255">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2001]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Ashmore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Van den Berg]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Terry]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Tipping]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. Lawlor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Lofts]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. A. Thacker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. D. Vincent]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Hall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. O'Hanlon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Shotbolt]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Harmens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Lloyd]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Norris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Nemitz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Jarvis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Jordan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2001]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350527]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350527.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400256">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, May 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Robin Hertz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dirk Leuffen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350534]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350534.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400257">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Makeen M. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Normah M. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dussert S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Clyde M. M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350529]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350529.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400258">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Helen Higgins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Laura E. Green]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Martin (Martin J.) Green]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jasmeet Kaler]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350541]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350541.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400259">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TULUS ARY ATMAJA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350536]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350536.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400260">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[O Rachmawan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350540]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350540.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400261">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2002]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alastair Smith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2002]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350542.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350542]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400262">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, March 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jonathan Fanis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shasta Vercauteren]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael O'Hare]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350548]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350548.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400263">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, September 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. C. Frankl]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350555]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350555.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400264">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, August 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard Pywell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marek Nowakowski]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350554]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350554.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400265">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, May 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Mahfudz Lutfi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y Ratnawati]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ejeng Suprijatna]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Warsono Sarengat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[May 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350550.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350550]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400266">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Roshaflma Rasit Ali]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wan Allan Wan Abdul Rahman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350558.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350558]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400267">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Martina Brockmeier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marianne Kurzweil]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Janine Pelikan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petra. Salamon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350560]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350560.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400268">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, March 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andreas J. Scheib]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dee M.A. Flight]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350561]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350561.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400269">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Charles R. Riches]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alastair Orr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.E. Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.M. Mortimer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V.P. Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.K.P. Sinha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.S. Yadav]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350556.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350556]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400270">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. G. H. Bunce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. B. Tranter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. M. M. Thompson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. P. Mitchell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. J. Barr]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350564]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350564.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400271">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2003]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Am]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a Thomson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2003]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350557]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350557.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400272">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andy. Smith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350559.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350559]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400273">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, July 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nicholas C. Baltas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[July 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350565.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350565]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400274">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, September 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lisa Norton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paul Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrew Joys]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rick Stuart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dan Chamberlain]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ruth Feber]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Les Firbank]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Will Manley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Martin Wolfe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Barbara Hart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fiona Mathews]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Macdonald]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Robert J. Fuller]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350567]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350567.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400275">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, August 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MUHAMMAD HAFIZ ABDINA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350566.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350566]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400276">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[1945- Eric J. Evans]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350568.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350568]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400277">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2004]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Janet Dwyer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Baldock]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hervé Guyomard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jerezy Wilkin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dorota. Klepacka]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2004]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350569]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350569.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400278">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Brenda J. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nicholas A. Beresford]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sergey Fesenko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Catherine L. Barnett]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350571]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350571.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400279">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, April 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L. D. Mahfudz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F.L Maulana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Umiyati Atmomarsono]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Teysar Adi Sarjana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350574]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350574.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400280">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, March 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stuart Green]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cathal O'Donoghue]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350573]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350573.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400281">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, September 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard Pywell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marek Nowakowski]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350578]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350578.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400282">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, August 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Derek A. Russell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ian Denholm]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Greg Devine]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Grahame Moores]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Naghmy Javed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Keshav R. Kranthi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Regupathy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Joginder Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yidong Wu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mushtaq Amad]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350577.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350577]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400283">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, June 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Isaïe Dougnon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Siaka Sanogo]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bakary Coulibaly]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abdoul Karim Diamoutene]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John F. Morton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[June 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350576.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350576]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400284">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MUHAMMAD HAFIZ ABDINA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350580]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350580.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400285">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2005]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[GunarsoTri Atmoko]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2005]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350581.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350581]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400286">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alastair Smith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350582]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350582.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400287">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. (Clive) Rahn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. D. (Gary D.) Bending]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Robert Lillywhite]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mary K. Turner]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350583.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350583]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400288">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, March 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Galeriu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Melintescu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N.A. Beresford]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350584]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350584.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400289">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, July 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. F. Ball]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[July 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350588.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350588]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400290">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, April 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Boyson Henry Zondiwe Moyo]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350585]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350585.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400291">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, August 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Ouwerkerk]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.F. Turner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.V. Klieve]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[August 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350589.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350589]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400292">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, November 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G V Ranga Rao]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350593.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350593]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400293">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, October 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Joel Krupa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[October 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350591.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350591]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400294">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, December 2006]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H.I.J. Black]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Ritz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.D. Campbell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.A. Harris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Wood]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.M. Chamberlain]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Parekh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W. Towers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Scott]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[December 2006]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350594.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350594]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400295">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, February  2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P.A.M. Bach]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W.R. Horwath]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.B. Roy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Choperena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Cameron]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[February  2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350596]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350596.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400296">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, January 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Olaf Schmidt]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aidan Keith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[January 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350595]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350595.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400297">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, March 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ornella Kumrić]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ramona Franić]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[March 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350597]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350597.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400298">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, April 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lisana Widi Susanti]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350598]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350598.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015400299">
+	<dc:title><![CDATA[Iowa Monthly Weather Summary, September 2007]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Helen Davies]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Colin Neal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[September 2007]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/11350603.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:11350603]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

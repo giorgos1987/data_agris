@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="UA2015200100">
+	<dc:title><![CDATA[Duration of calf-embryotransplants Holstein breed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shurko, T.; Ivanov, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[duration of embryogenesis]]></dc:subject>
+	<dc:subject><![CDATA[transplantation of embryos]]></dc:subject>
+	<dc:subject><![CDATA[living mass]]></dc:subject>
+	<dc:subject><![CDATA[calves]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It is set that ET calves Holstein’s breeds after the indexes of mean time of period of embryonic development and living mass at birth for certain renounce to the analogues got as a result of artificial insemination of milk cattle. Thus the coefficient of changeability of living mass of new-born calves is higher and makes Cv=16,5 %.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4-7]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200101">
+	<dc:title><![CDATA[Therapeutic and prophylactic measures at mallofagosis pigeons]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sidorenko, Irina V]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Soroka, Natalia M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Ivermectin]]></dc:subject>
+	<dc:subject><![CDATA[Rock pigeon]]></dc:subject>
+	<dc:subject><![CDATA[Chewing lice]]></dc:subject>
+	<dc:subject><![CDATA[insecticide]]></dc:subject>
+	<dc:subject><![CDATA[Mallophagosis]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article provides information about the medicinal and profilactic effectiveness of use of Deltamethrin- and Ivermectin- based products on Mallophaga infections of pigeons. Evaluation of both spread and degree of effectiveness of each of the examined products was made]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 24-26]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200102">
+	<dc:title><![CDATA[Grow meat pigs to soy products]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SKAREDNOV, YU.; TSYBENKO, V.; HOLUB, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[tehnology indicesbody strycture]]></dc:subject>
+	<dc:subject><![CDATA[soybean meal]]></dc:subject>
+	<dc:subject><![CDATA[diet]]></dc:subject>
+	<dc:subject><![CDATA[soybeans]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Researches are conducted on the use in feeding of pigs of soy-bean forage. Determined that the data feed positively influence the formation of greasy meat-type pigs (index blockiness - 87,9-92,3%), promote energy growth, more economic use of feed, improving the meat quality, thick bacon]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 42-45]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200103">
+	<dc:title><![CDATA[Соlour and suckling productivity of cows of ukrainian redder pock-marked suckling breed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SLUSAR, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pigmentation]]></dc:subject>
+	<dc:subject><![CDATA[cattle]]></dc:subject>
+	<dc:subject><![CDATA[morphological and functional properties of the udd]]></dc:subject>
+	<dc:subject><![CDATA[Color]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Investigated the relationship between hair color cows and their milk productivity and reproductive capacity. It was well-proven that they have the expressly expressed curvilinear character. A cross-correlation rejection in 2–3 times prevails the coefficient of correlation and at most cases is reliable. A cow is a competi- tive medium body hair pigmentation classes II and III.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 28-31]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200104">
+	<dc:title><![CDATA[The evaluation of cows on the complex body indexes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[STOLYAR Z.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[exterior-constitutional type]]></dc:subject>
+	<dc:subject><![CDATA[body indexes]]></dc:subject>
+	<dc:subject><![CDATA[the cows with first lactation]]></dc:subject>
+	<dc:subject><![CDATA[correlation]]></dc:subject>
+	<dc:subject><![CDATA[traits]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The improvement of cows evaluation on the complex body indexes and the search for optimal exterior con- stitutional parameters of highly productive cows in different breeding conditions are remaining relevant. Using of the complex of udder mass metric and body udder volume indexes provides selection of animals of a desired exterior con- stitutional type, increasing of the capacity of udder and milk productivity increase on 4,7-15,5%.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 14-17]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200105">
+	<dc:title><![CDATA[The correlation between within-litter birth weights and reproductive performance in pigs of Pietrain breed «ADN» French selection]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SUSOL, R.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[types of classification]]></dc:subject>
+	<dc:subject><![CDATA[within-litter birth weight]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[Pietrain]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[By the conducted complex researches depending on the proper within-litter birth weight of pigs Pietrain breed ADN French selection it was proved the effectiveness of improvement reproductive perfor- mance of replacement gilts in the process of their raising and future sows reproductive performance on the base of replacement gilts selection by the within-litter birth weight feature.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 26-29]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200106">
+	<dc:title><![CDATA[Definition seroprevalence of wild boars population in Ukraine to circovirus type two]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SYTIUK, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[antibody]]></dc:subject>
+	<dc:subject><![CDATA[wild boars]]></dc:subject>
+	<dc:subject><![CDATA[circovirus type two]]></dc:subject>
+	<dc:subject><![CDATA[seroprevalence]]></dc:subject>
+	<dc:subject><![CDATA[immunoperoxidase test]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In article presented the results of serological monitoring of wild boar population in Ukraine is relatively circovirus infection. According to the research immunoperoxidase test in blood serum identified indicators seroprevalenсe wild boars populations bagged during 2001-2013 years to circovirus type two. Cartographically presents the number of investigated blood sera of wild boars in terms of areas of regions in Ukraine and years, and calculated percentages number of positive sera investigated]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 30-34]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200107">
+	<dc:title><![CDATA[Safety of poultry products]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[TARASENKO, L.; SELINA, V.; LYZOGUB, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[t.Research has established the background levels of cadmium, cop- per, of lead, mercury and zinc in feed for laying hens. Experimentally proven properties of these elements accumulate in organs and tissues, egg productive poultry]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 3-5]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[v.1-44()]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200108">
+	<dc:title><![CDATA[How to provide increasing resistance and extend the productive use of cows on industrial complex]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tiypina, Nadia]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[installation]]></dc:subject>
+	<dc:subject><![CDATA[heel horn cow]]></dc:subject>
+	<dc:subject><![CDATA[maintenance solutions]]></dc:subject>
+	<dc:subject><![CDATA[active exercise]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Present structure and mechanism of the installation shown patents for utility model for active exercise and ensure natural erasure hoofed horn of the sole of trimming cattle under conditions of long-term maintenance of its stall]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 16-18]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200109">
+	<dc:title><![CDATA[Changing of rates of differential white blood cell count in rabbits by intramuscular injection of inactivat- ed polyvalent vaccine against leptospirosis in cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[UKHOVSKIY, V.; ROZUMNYUK, A.; NEDOSEKOV, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[leptospira]]></dc:subject>
+	<dc:subject><![CDATA[rabbits]]></dc:subject>
+	<dc:subject><![CDATA[leukocytes]]></dc:subject>
+	<dc:subject><![CDATA[cattle]]></dc:subject>
+	<dc:subject><![CDATA[leptospirosis]]></dc:subject>
+	<dc:subject><![CDATA[vaccine]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Рresents the results of the study of the leucocycopoesis of the peripheral blood in rabbits (total quan- tity of leukocytes and the percentage of their separate forms (lymphocytes, monocytes, neutrophils, eosinophils, basophils), which were immunized with inactivated polyvalent vaccine against leptospirosis in cattle «variant bovis». The research results indicate that neutrophilic leukocytosis is developing on the 7th day after the immu- nization with this vaccine in the peripheral blood in rabbits, but on the 28th – there is eosinophilia, which is a natural reaction in animals to the injection of the inactivated pathogen of leptospirosis]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 23-27]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200110">
+	<dc:title><![CDATA[Detection of antibodies to L. interrogans serovar hardjo in cattle in Ukraine]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[UKHOVSKIY, V.; UKHOVSKIY, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[serovar hardjo.]]></dc:subject>
+	<dc:subject><![CDATA[monitoring]]></dc:subject>
+	<dc:subject><![CDATA[microscopic agglutination test]]></dc:subject>
+	<dc:subject><![CDATA[Leptospirosis]]></dc:subject>
+	<dc:subject><![CDATA[antibodies]]></dc:subject>
+	<dc:subject><![CDATA[abortion]]></dc:subject>
+	<dc:subject><![CDATA[Leptospira]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article are presented the results of research of cattle blood sera samples for the presence of specific antibodies against 8 serological groups of leptospires, that are recommended for diagnostic at state laboratories of Ukraine and for presence an exotic for Ukrainian territory serovar L. hardjo using the microscopic agglutination test. It is identified the circulation L. Interrogans hardjo (serogroup Sejroe) at titers 1:50 and 1:100 among cattle in Ukraine.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 22-25]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200111">
+	<dc:title><![CDATA[Distribution and development of express indication test kit]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[USHKALOV, V.; DERYABIN, O., MACHUS’KYY, A.; KOVTUN, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[sensitivity]]></dc:subject>
+	<dc:subject><![CDATA[food]]></dc:subject>
+	<dc:subject><![CDATA[specificity]]></dc:subject>
+	<dc:subject><![CDATA[dependence]]></dc:subject>
+	<dc:subject><![CDATA[polymerase chain reaction]]></dc:subject>
+	<dc:subject><![CDATA[kit]]></dc:subject>
+	<dc:subject><![CDATA[Listeria]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The authors have analyzed the distribution of Listeria spp. in the chain “from farm to fork”. It was found that there is no relationship between the incidence of listeriosis in animals and humans (coefficient of determination 0.04). At the same time the share of the impact of contaminated food on the incidence of listeriosis in humans is 45 % (coefficient of determination of 0.45). The authors have developed a kit for identification of the bacteria of the genus Listeria DNA by polymerase chain reaction, which is both sensi- tive and specific.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 51-54]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200112">
+	<dc:title><![CDATA[The results of production tests of the polyvalent inactivated vaccine against leptospirosis in horses]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[VOLINETS, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[horses]]></dc:subject>
+	<dc:subject><![CDATA[prevention]]></dc:subject>
+	<dc:subject><![CDATA[antibody titers]]></dc:subject>
+	<dc:subject><![CDATA[vac- cine]]></dc:subject>
+	<dc:subject><![CDATA[leptospirosis]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[According to the results of industri- al tests immunogenic effectiveness of experimen- tal sample of polyvalent inactivated vaccine against leptospirosis in horses was studied which is com- posed of antigens included four strains of lep- tospira serogroups: Grippotyphosa, Canicola, I cterohaemorrhagiae, Australis. It is established the expressed antige nic activity of an experimen- tal vacci ne preparation that ensures the forma- tion of a high level of antibodies in the blood of animals with the highest titer on day 14-21]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 43-46]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200113">
+	<dc:title><![CDATA[Hygienic evaluation of food waste biofermentatsiyi agricultural enterprises in anaerobic conditions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yaremchuk, O]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[waste]]></dc:subject>
+	<dc:subject><![CDATA[hygiene]]></dc:subject>
+	<dc:subject><![CDATA[conditions of detention]]></dc:subject>
+	<dc:subject><![CDATA[performance]]></dc:subject>
+	<dc:subject><![CDATA[score]]></dc:subject>
+	<dc:subject><![CDATA[enterprise]]></dc:subject>
+	<dc:subject><![CDATA[biofermentatsiya]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Established that the mode of mesophilic anaerobic conditions and lengthy process biofermentatsiyi diluted manure laying hens do not provide reception processed products, safe in the sanitary and hygienic attitude, providing them preliminary treatment by aerobic-thermophilic stabilization of biomass]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-13]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200114">
+	<dc:title><![CDATA[Aerobic-thermophilic stabilization of biomass for processing manure runoff]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[YAREMCHUK, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[sewage]]></dc:subject>
+	<dc:subject><![CDATA[manure]]></dc:subject>
+	<dc:subject><![CDATA[biomass]]></dc:subject>
+	<dc:subject><![CDATA[pork]]></dc:subject>
+	<dc:subject><![CDATA[milk hygiene performance]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[established that liquid manure businesses for technology intensive milk production and pig manure removal by hydraulic systems with humidity 92–96% of it is advisable to expose aerobic biofermentatsiyi in autothermal mode, which allows you to get the products in a safe sanitary and hygienic attitude and reduce the loss of nutrients that determine the quality of organic fertilizers]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4-8]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200115">
+	<dc:title><![CDATA[Dynamics of content of lipids and protein in blood of calves in the postnatal period for the injection of cholecalciferol to cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[YUSKIV, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[cholecalciferol]]></dc:subject>
+	<dc:subject><![CDATA[phospholipids]]></dc:subject>
+	<dc:subject><![CDATA[lipids]]></dc:subject>
+	<dc:subject><![CDATA[protein]]></dc:subject>
+	<dc:subject><![CDATA[blood]]></dc:subject>
+	<dc:subject><![CDATA[cholesterol]]></dc:subject>
+	<dc:subject><![CDATA[triacylglycerols]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:subject><![CDATA[calves]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The data about the changes of the blood content of lipids and proteins in the in dairy calves dur- ing the growing that were born frоm cows after intramuscular injection of different doses of cholecalciferol before and after calving. It is found that the blood of calves research groups, along with increased levels of the active metabolite of vitamin D3 - 25 OND3, marked changes in the content of total lipids, phospholipids, tryacylglycerols, cholesterol and total protein in the period from birth to 2 months old age]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 36-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200116">
+	<dc:title><![CDATA[Management information system selection and breeding work in the poultry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zhukorskiy, O M]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Katerinich, O O]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kostenko, O I]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[monitoring]]></dc:subject>
+	<dc:subject><![CDATA[poultry]]></dc:subject>
+	<dc:subject><![CDATA[performance]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The system of monitoring and information support breeding of poultry involving tribal enterprise data at various levels. The analytical information allows you to identify the most valuable genetic resources for poultry production and to develop proposals for their effective use and improvement.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-4]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200117">
+	<dc:title><![CDATA[The reproductive qualities of sows of different groups of distribution stress]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zhukorskiy, O.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tserenyuk, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[reproductive qualities]]></dc:subject>
+	<dc:subject><![CDATA[pigs]]></dc:subject>
+	<dc:subject><![CDATA[stress]]></dc:subject>
+	<dc:subject><![CDATA[SIRQS]]></dc:subject>
+	<dc:subject><![CDATA[groups of distribution]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The materials evaluation reproductive qualities of sows of different groups on stress distribution under the criterion of SST. Based on absolute indicator selection index reproductive qualities of sows (SIRQS) are calculated. The levels of variation of the main signs of reproductive qualities of sows of different groups under stress distribution are found]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 44-46]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200118">
+	<dc:title><![CDATA[Multi-information-analytical system - technological component of livestock production]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zhukorskyy, O.; Borisenko, V.; Ionov, I.; Shapovalov, C.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Information resources livestock]]></dc:subject>
+	<dc:subject><![CDATA[database]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Improved governance in the field of animal-based development and use of new information technologies is possible with the use of workstation zootechnician through client-server technology. It allows: to justify the technological characteristics of livestock production at the enterprise level, in collaboration with regulatory resource parameters that are formed at the macro level, a number of problems to solve operations management in feeding and breeding, perform calculations on real data]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-6]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

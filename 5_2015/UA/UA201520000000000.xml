@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="UA2015200000">
+	<dc:title><![CDATA[Influence of different ways of housing pigs on the quality of carcasses]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bankovska, Iryna B]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Voloshchuk, Vasyl M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[housing way]]></dc:subject>
+	<dc:subject><![CDATA[factors]]></dc:subject>
+	<dc:subject><![CDATA[pigs]]></dc:subject>
+	<dc:subject><![CDATA[genotype]]></dc:subject>
+	<dc:subject><![CDATA[weight of carcasses]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It has been analysed the results of an estimation of weight testimonials for carcasses in three meat genotypes of pigs. It was found out the reliable influence of floor type on the formation of mass of different parts of pigs’ carcasses on fattening with the specificity of their distribution according to a genotype and way of housing on the concrete floor or an a deep changeless litter]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 21-23]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200001">
+	<dc:title><![CDATA[Structural changes in individual organs dykrotseliozu for cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bilopolska, T.; Soroka, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[bile ducts]]></dc:subject>
+	<dc:subject><![CDATA[desquamation]]></dc:subject>
+	<dc:subject><![CDATA[invasion]]></dc:subject>
+	<dc:subject><![CDATA[cattle]]></dc:subject>
+	<dc:subject><![CDATA[structural changes]]></dc:subject>
+	<dc:subject><![CDATA[dikroceliosis]]></dc:subject>
+	<dc:subject><![CDATA[histological changes]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The analysis of literature data and the results of their strukturnyh research of the individual organs of cattle in dikroceliosis. Analysis experimental results were conducted which characterize the development of the pathology of organs. The work describes some of the characteristics of histological changes of heart, spleen, lymph nodes, liver and kidney of cattle]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 28-31]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200002">
+	<dc:title><![CDATA[Characterization of wool ewes with different values of the output fiber mytoho]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Boyko, O.; Pomitun, I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[diameter]]></dc:subject>
+	<dc:subject><![CDATA[ewes]]></dc:subject>
+	<dc:subject><![CDATA[quality]]></dc:subject>
+	<dc:subject><![CDATA[sinuosity]]></dc:subject>
+	<dc:subject><![CDATA[wool]]></dc:subject>
+	<dc:subject><![CDATA[assortment.]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[fineness]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article deals with the results of experimental studies of wool fineness and sinuosity of Kharkov sheep of interbreed type of a fine-wool breed prekos. It has been found that purposeful selection and breed- ing in terms of washed wool output can promote its improvement. The wool of the ewes with high output of washed wool is characterized by smaller fibers’ diameter, a higher output of valuable assortment of wool, distinct curls evenly distributed over the entire length of the staple.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-13]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200003">
+	<dc:title><![CDATA[Value-Holstein bulls for polymorphism locus kappa-casein (k - Cn)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chumachenko, I.; Naidenko, K.; Koropets, L.; Zhuravel, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[alleles]]></dc:subject>
+	<dc:subject><![CDATA[breeding value]]></dc:subject>
+	<dc:subject><![CDATA[line]]></dc:subject>
+	<dc:subject><![CDATA[kappa-casein]]></dc:subject>
+	<dc:subject><![CDATA[genotype]]></dc:subject>
+	<dc:subject><![CDATA[sires]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[315 sires of the Holstein breed have been tested for the genotype structure and kappa-casein A,B,E gene alleles variations with regard for their line identity. Breeding value of sires of various genotypes by kappa-casein has been assessed]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 15-18]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200004">
+	<dc:title><![CDATA[Prospects of Ukrainian black and white dairy cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Efimenko, M.; Podoba, B.; Bratushka, R.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The results of Ukrainian Black-and-White Dairy cattle selection program for 2003-2012 years are shown in this article. It was found that uncontrolled uptake of black and white cattle by Holstein led to logical increase of milk yield. But it resulted to milk quality deterioration (fat and protein %), reduce of reproductive ability, duration of animal herd use, increase of the veterinary care cost. The ways and methods of deficiencies correction are presented in breed selection program for next period by 2020 y.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200005">
+	<dc:title><![CDATA[Prediction of acute postpartum endometritis in cows in the early postnatal period]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[FEDORKIV, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[postpartum endometritis]]></dc:subject>
+	<dc:subject><![CDATA[postnatal period]]></dc:subject>
+	<dc:subject><![CDATA[microbiocenosis of vagina]]></dc:subject>
+	<dc:subject><![CDATA[immunobiological reactivity]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This paper presents the results of research indicators of immunobiological reactivity of organism and microbiocenosis vaginal mucosa cows in the first three days after calving for physiological flow postnatal period and at cows are prone to the development of acute postnatal endometritis]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 24-27]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200006">
+	<dc:title><![CDATA[Prevention Nekrobakterioz and Salmonella in animals]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gorbatyuk, O.; Zhovnir, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[nonspecific resistance]]></dc:subject>
+	<dc:subject><![CDATA[associated vaccine]]></dc:subject>
+	<dc:subject><![CDATA[humoral immunity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The influence of associated vaccine “Nekrosalm” against nekrobakteriozis and salmonellosis of animals onto natural resistance factors (protein fractions, total immunoglobulins, BASK) and specific immunity (level specific agglutinins) of the vaccinated sheep organism was investigated experimentally using the vaccine for the control and treatment of nekrobakteriozis]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 36-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200007">
+	<dc:title><![CDATA[The dynamics of contents of bicarbonates in the blood of horse of trotting breeds of different types of higher nervous activity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[KOSENKO, S.; BEZALTICHNAYA E.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[training]]></dc:subject>
+	<dc:subject><![CDATA[bicarbonates]]></dc:subject>
+	<dc:subject><![CDATA[nervous activity]]></dc:subject>
+	<dc:subject><![CDATA[blood]]></dc:subject>
+	<dc:subject><![CDATA[trotters]]></dc:subject>
+	<dc:subject><![CDATA[agility]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This thesis presents the results of research the biochemical parameters of blood of trotting breeds horses of different types higher nervous activity. According to the biochemical studies the horses of strong balanced movable and strong balanced inert types have more balanced carbohydrate metabolism and are characterized by the effective mechanisms of its regulation]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 36-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200008">
+	<dc:title><![CDATA[Contents mineral elements in production honeybees under traditional and organic production conditions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kovalchuk, I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[organic farming]]></dc:subject>
+	<dc:subject><![CDATA[mineral elements]]></dc:subject>
+	<dc:subject><![CDATA[bee pollen]]></dc:subject>
+	<dc:subject><![CDATA[honey bees]]></dc:subject>
+	<dc:subject><![CDATA[honeycomb]]></dc:subject>
+	<dc:subject><![CDATA[honey]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The content of copper, chromium, cobalt, nickel, lead and cadmium in production honeybees, which were kept under traditional and certified organic production. Found that agroecological condition of organic agriculture contribute to the reduction of nickel in honey and bee pollen and a residual trace of chromium content in honey compared to their content in samples of conventional apiaries.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 14-17]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200009">
+	<dc:title><![CDATA[Determination the parametres of the cow's lactation curves of different intensity rate in organism formation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kovalenko, V .; GIll M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[modeling of lactation curves]]></dc:subject>
+	<dc:subject><![CDATA[lactation curve]]></dc:subject>
+	<dc:subject><![CDATA[intensity of organism formation]]></dc:subject>
+	<dc:subject><![CDATA[T. Brydges’ model.]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of estimation of lactation curves of dairy cattle productivity by different types of organism formation intensity based on the T. Bridges’ model are displayed in the research work. The last one, due to the indicators of correlational variability, allows to describe accurately the type of the lactation curve and its dynamics.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 18-21]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200010">
+	<dc:title><![CDATA[Livestock Ukraine: what prevents the industry to be effective]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kozir, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The accumulated experience of developed countries proves that science - the engine of progress. However, despite this, Ukraine is very weak integration of science and production.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-5]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200011">
+	<dc:title><![CDATA[Ways to solve some of the problems in animal production science ...]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kozyr, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Pablishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Improving the performance of agricultural science involves not only the need for a transition from traditional to modern working methods, more effective. We must rebuild and psychologists scientists by providing them with the opportunity to realize their own readiness to solve urgent problems.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 6-9]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200012">
+	<dc:title><![CDATA[Indicators microclimate housing for sows during feeding of alunite Methyluracilum]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ljubihev, M., Burlaka, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[piglets]]></dc:subject>
+	<dc:subject><![CDATA[рarameters of a microclimate]]></dc:subject>
+	<dc:subject><![CDATA[methyluracil]]></dc:subject>
+	<dc:subject><![CDATA[sows]]></dc:subject>
+	<dc:subject><![CDATA[alunite flour]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Are presented reproductive indicators of sows which were fed alunite flour with methyluracil and parameters of the microclimate of rooms in which they are contained.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-42]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200013">
+	<dc:title><![CDATA[The Improvement of ecological state of Zaporizka nuclear power station’s pond-cooler by pasture aquaculture methods]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[OKHRIMENKO, O.; VOVK, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[phytoplankton]]></dc:subject>
+	<dc:subject><![CDATA[pond - cooler]]></dc:subject>
+	<dc:subject><![CDATA[white silver carp]]></dc:subject>
+	<dc:subject><![CDATA[zooplankton]]></dc:subject>
+	<dc:subject><![CDATA[biomelioration]]></dc:subject>
+	<dc:subject><![CDATA[forage base]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Analysis of the water quality of Zaporizka nuclear power station’s pond-cooler is investigated. It was proved that it is slightly polluted of mesosaprobic zone. Using of biomelioration by introduction of white silver carp is offered. The efficiency of a meliorative use of vegetation eating fish is analysed]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 5-7]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200014">
+	<dc:title><![CDATA[Differential rates of serum poultry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sherbina, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[cholesterol total]]></dc:subject>
+	<dc:subject><![CDATA[лись]]></dc:subject>
+	<dc:subject><![CDATA[alkaline phosphate]]></dc:subject>
+	<dc:subject><![CDATA[total protein]]></dc:subject>
+	<dc:subject><![CDATA[class division]]></dc:subject>
+	<dc:subject><![CDATA[circle]]></dc:subject>
+	<dc:subject><![CDATA[serum.]]></dc:subject>
+	<dc:subject><![CDATA[cross]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Аnalysis of biochemical parameters of blood serum poultry egg Isa Brown cross listed classes and tiers of content. The established difference between the classes of all biochemical parameters of blood due to the level of performance.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 30-35]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200015">
+	<dc:title><![CDATA[Feeding and productive qualities of broiler chickens]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Slobodyanyuk, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mixed fodders]]></dc:subject>
+	<dc:subject><![CDATA[absolute increase]]></dc:subject>
+	<dc:subject><![CDATA[living mass]]></dc:subject>
+	<dc:subject><![CDATA[enzymic preparation]]></dc:subject>
+	<dc:subject><![CDATA[chickens-broilers]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Influence of enzymic preparation of авізим is studied on growth and development of chickens- broilers of cross-country race of «Ross-308». It is set that chickens-broilers are reared on the mixed fodders with maintenance 0,05-0,2% enzymic preparation of авізиму, during all of age-old periods (15-21 days; 22-28; 29-35 and 36-42 days) prevailed after growth and development of analogues of control group]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-42]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200016">
+	<dc:title><![CDATA[Indicators microclimate housing for sows during feeding of alunite Methyluracilum]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Susol, R.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[interaction «genotype-environment».]]></dc:subject>
+	<dc:subject><![CDATA[digestible lysine]]></dc:subject>
+	<dc:subject><![CDATA[crude fibre]]></dc:subject>
+	<dc:subject><![CDATA[metabolisable energy]]></dc:subject>
+	<dc:subject><![CDATA[crude fat]]></dc:subject>
+	<dc:subject><![CDATA[replacement gilts]]></dc:subject>
+	<dc:subject><![CDATA[Pietrain breed]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Today the content of digestible amino acids is more important than the crude protein content in the ration, and that must be taken into account when formulating rations for pigs of modern genotypes with enhanced meat qualities. The use of crystalline lysine in the pig rations enables to increase the total and digestible lysine supply, decrease the total crude protein content, and generally, reduce the finished feed cost that results in a marked economic effect with the productivity increase. The metabolisable energy and digestible lysine content in the Pietrain replacement gilt puberty-period rations directly affects their general physiological (immune) status and hence, their reproductive perfor- mance and productivity after the first farrowing. The optimum reproductive ability of the Pietrain replace- ment gilts, as well as the first-parity sow productivity were observed during the rearing period from the onset of puberty to the breeding period]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 22-26]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200017">
+	<dc:title><![CDATA[Prospects of applications of computer – tomography researches in prevention of diseases of bones at dogs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Telyatnikov, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[osteoporosis]]></dc:subject>
+	<dc:subject><![CDATA[dogs]]></dc:subject>
+	<dc:subject><![CDATA[bone density]]></dc:subject>
+	<dc:subject><![CDATA[bone fractures]]></dc:subject>
+	<dc:subject><![CDATA[computer - tomography]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In article the general characteristic of traumatic fractures of bones at dogs is presented. It is sug- gested that early diagnosis of osteoporosis dogs and further research work standards of computer - tomogra- phy density of bone matrix in the so-called “control points” - the diaphysis of the radius and tibia]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 31-35]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200018">
+	<dc:title><![CDATA[Feeding properties of pigs depend on management technology]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Voloshchuk, V .; Koval, Yu.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[profitability.]]></dc:subject>
+	<dc:subject><![CDATA[pig-breeding]]></dc:subject>
+	<dc:subject><![CDATA[growth intensity]]></dc:subject>
+	<dc:subject><![CDATA[genotype]]></dc:subject>
+	<dc:subject><![CDATA[industrial technology]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In conditions of high temperatures of summer period, the use of deep bedding only does not provide the formation of comfortable conditions for animal management even at free access to forage and drinkable water. Animals of these groups have lesser daily gains and bigger forage spend in relation to pigs, which are man- aged in conditions of industrial technology with regulated microclimate.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 6-9]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[10]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200019">
+	<dc:title><![CDATA[Adaptive capacity and operational value of foreign sows origin]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Voloshuk, V.; Vasiliv, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[multiple pregnancy]]></dc:subject>
+	<dc:subject><![CDATA[breeding value]]></dc:subject>
+	<dc:subject><![CDATA[value in use]]></dc:subject>
+	<dc:subject><![CDATA[adaptability]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of a comparative study of the adaptive capacity of sows imported breeds: landrace, large white, duroc, hampshire, pietrain, and their daughters. Found that the large white breed sows and landrace breed of foreign origin, and their daughter is better adapted to the conditions of cultivation of industrial complexes, retain high value in use]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 27-30]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200020">
+	<dc:title><![CDATA[CURRENT STATUS OF LOCAL BEES CHYSTOPORODNOSTI UKRAINE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DZITSIUK, V.; LYTVYNYUK, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[exterior signs]]></dc:subject>
+	<dc:subject><![CDATA[breed colonies analyzed]]></dc:subject>
+	<dc:subject><![CDATA[worker bees]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Monitoring morphometric traits porodovyznachalnyh worker bees in different natural climatic zones of Ukraine showed that bees chystoporodnosti state deteriorated. Spontaneous, uncontrolled hybrid- ization bees conducted in recent years has led to the destruction of highly chystoporodnosti]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 25-28]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200021">
+	<dc:title><![CDATA[The content of some heavy metals in tissues of honeybees under conditions of feeding meal from native and transgenic soybeans]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fedoruk, R.; Romaniv, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GMO]]></dc:subject>
+	<dc:subject><![CDATA[bee]]></dc:subject>
+	<dc:subject><![CDATA[soybeans]]></dc:subject>
+	<dc:subject><![CDATA[heavy metals]]></dc:subject>
+	<dc:subject><![CDATA[tissues]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It has been shown that the use of feeding meal from native soybean and transgenic varieties sig- nificantly affects the content of certain trace elements in the tissues of different anatomical parts of the body of honeybees]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 54-59]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200022">
+	<dc:title><![CDATA[Fatty acid composition of different categories of black African ostrich meat under the influence of feed additive «Gumilid»]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Galuzina, Ludmila I]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stepchenko, Lily M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[fatty acids]]></dc:subject>
+	<dc:subject><![CDATA[category muscle]]></dc:subject>
+	<dc:subject><![CDATA[Ostrich]]></dc:subject>
+	<dc:subject><![CDATA[ostrich meat]]></dc:subject>
+	<dc:subject><![CDATA[feed additive “Gumilid”]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Abstract. The presented comparative data on the fatty acid composition of meat of black African ostriches, depending on the category of muscle under the influence of feed additives “Gumilid” in terms of their commercial growing in the conditions of PJSC “Agro-Soyuz” at the of an industrial complex for growing ostriches. It was established that the addition of feed additives “Gumilid” to the ration of ostriches positive effect on the ratio of saturated to monounsaturated and polyunsaturated fatty acids, the meat of ostriches experimental group for all categories of muscle control prevails meat poultry in omega-3 polyunsaturated fatty acids, which play a regulatory role in the organism]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 63-67]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200023">
+	<dc:title><![CDATA[Electronic Identification of animals. EU Regulation on Zootechnics]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kostenko, O.; Gumennyy, V.; Sclovska, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[traceability]]></dc:subject>
+	<dc:subject><![CDATA[RFID]]></dc:subject>
+	<dc:subject><![CDATA[ICAR]]></dc:subject>
+	<dc:subject><![CDATA[real-time bovine-tracking system]]></dc:subject>
+	<dc:subject><![CDATA[EID]]></dc:subject>
+	<dc:subject><![CDATA[central database]]></dc:subject>
+	<dc:subject><![CDATA[batch/lot]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[EID is the use of a microchip, or electronic transponder, embedded in a tag, bolus or implant to identify a farm animal. EID in animals is based on low frequency radio waves or Radio Frequency Identification (RFID). The vision of the EU with regard to animal identification: administrative burden (will change) – electronic identification in cattle and others, traceability, electronic exchange of informa- tion (reducing paper word), central database should ensure a real-time bovine-tracking system, safe trade of genetic material.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 13-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200024">
+	<dc:title><![CDATA[Play and milk yield in Holstein while keeping boxes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Les, S.; Kostenko, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Performance Comparison cows of the same species, but different selection: domestic or foreign - can indicate how an animal rubizhnoyiselektsiyi accumulated in itself all property selection and genetic and technological progress and be a benchmark evaluation comfort technology]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 22-24]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200025">
+	<dc:title><![CDATA[Optimization methods for determinаtion fluoroquinolones in foods of the animal origin]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Liniichuk, Nataliia V]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mas-spectrometry detector]]></dc:subject>
+	<dc:subject><![CDATA[fluoroquinolones]]></dc:subject>
+	<dc:subject><![CDATA[validation]]></dc:subject>
+	<dc:subject><![CDATA[norfloxacin]]></dc:subject>
+	<dc:subject><![CDATA[liquid chromatography with]]></dc:subject>
+	<dc:subject><![CDATA[enrofloxacin]]></dc:subject>
+	<dc:subject><![CDATA[antibacterial drugs]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The method of determination of antibacterials is improved, including preparations of group of ftorkhinolonov in the products of animal origin of liquid chromatography a method with the use of mas- spectrometry detector (ZHkH/mS/ms). Validaciya is conducted on determining the remaining amount of enrofloksacina and norfloksacina method of ZHkH/mS/ms]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 50-54]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200026">
+	<dc:title><![CDATA[Investigation of clonogenic activity of primary culture of fibroblast-like cells from umbilical cord of new- born foals depending on the method of their obtaining]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MALYUK, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mesenchymal stem cells]]></dc:subject>
+	<dc:subject><![CDATA[umbilical cord]]></dc:subject>
+	<dc:subject><![CDATA[cold trypsinization]]></dc:subject>
+	<dc:subject><![CDATA[enzymatic disaggregation]]></dc:subject>
+	<dc:subject><![CDATA[mechanical disaggregation]]></dc:subject>
+	<dc:subject><![CDATA[suspension cells]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Established that method of enzymatic disaggregation (36-hour cold trypsinization) of umbilical cord tissue allows to obtain fibroblast-like cells with high adhesive and clonogenic properties]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 7-11]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200027">
+	<dc:title><![CDATA[Carp fingerlings growing using microfertilizer «Rostok» MACRO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MOSKALENKO, N.; GRYGORENKO, T.; BAZAIEVA, A.; HEIKO, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[phytoplankton]]></dc:subject>
+	<dc:subject><![CDATA[microfertilizer]]></dc:subject>
+	<dc:subject><![CDATA[bacterioplankton]]></dc:subject>
+	<dc:subject><![CDATA[carp fingerlings.]]></dc:subject>
+	<dc:subject><![CDATA[zoobentos]]></dc:subject>
+	<dc:subject><![CDATA[zooplankton]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article the results of fertilizers «Rostok» Macro applying to fertilize of fish-rearing ponds during carp fingerlings growing are presented. The positive effect of fertilizers on the development of the basic components of the food base and fisheries indexes was established]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 8-11]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200028">
+	<dc:title><![CDATA[The efficiency sorption mycotoxins in vitro Analtsymоsorbent]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[RESHETNICHENKO, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[analtsymоsorbent]]></dc:subject>
+	<dc:subject><![CDATA[sorption activity]]></dc:subject>
+	<dc:subject><![CDATA[in vitro]]></dc:subject>
+	<dc:subject><![CDATA[mycotoxins]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It has been found that in vitro in a dose of 0,5 % analtsymоsorbent showed a high sorption capacity (77 – 100 %) for aflatoxin B1, zearalenone, patulin, sterigmatocistin, desoxinivalenol and some- what below – 50 % sorption T-2 toxin. The increase of the dose of analtsymоsorbent twice (1 %) raised the level of its sorption activity to aflatoxin B1, patulin and zearalenone to 100 %, sterigmatocistinе – to 90 %, DONa – to 82 % and T-2 toxin only up to 55 %. The high level of sorption activity of mycotoxins with analtsymоsorbent has been observed on a 60-minute of exposure. The sorption capacity of analtsymоsorbent depends on the polarity of mycotoxins]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 3-6]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200029">
+	<dc:title><![CDATA[Qualitative indexes of meat and fat of pigs received by attracting the genotype of Mirgorod breed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SHCHERBAN, T.; Vovk, V .]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[meat]]></dc:subject>
+	<dc:subject><![CDATA[fat]]></dc:subject>
+	<dc:subject><![CDATA[chemical indexes]]></dc:subject>
+	<dc:subject><![CDATA[crosses]]></dc:subject>
+	<dc:subject><![CDATA[Mirgorod breed of pigs]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[was evaluated the influence of industrial crossing on the pork quality with the use of breeds of different direction of the productivity. It has been determined the advantage of crosses of Mirgorod breed of pigs with meat genotypes over purebred counterparts concerning the chemical composition of the longest dorsal muscle]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 37-40]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200030">
+	<dc:title><![CDATA[REPRODUCTIVE FEMALES FOXES PROPERTIES OF REPAIR OF VARIOUS TYPES OF COLOUR FOR GROWING ON WOOD DIET OF NETTLE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shevuk, T.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[reproductive characteristics]]></dc:subject>
+	<dc:subject><![CDATA[replacement chicks]]></dc:subject>
+	<dc:subject><![CDATA[nettle]]></dc:subject>
+	<dc:subject><![CDATA[foxes]]></dc:subject>
+	<dc:subject><![CDATA[nutrition technology]]></dc:subject>
+	<dc:subject><![CDATA[color types and growth]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This paper presents the results of research into the use of feeding repair females silver, red and white foxes nettle. During the research it was found that consumption of feed formulations to 16,7 % nutritionally nettle replacement chicks foxes different color types allowed to reduce maintenance costs and increase reach reproductive characteristics]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-45]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200031">
+	<dc:title><![CDATA[Using grass-legume Silo for feeding bulls]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stepanenko, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[diet and live weight]]></dc:subject>
+	<dc:subject><![CDATA[average daily gain in productivity]]></dc:subject>
+	<dc:subject><![CDATA[bulls]]></dc:subject>
+	<dc:subject><![CDATA[feeding]]></dc:subject>
+	<dc:subject><![CDATA[feed]]></dc:subject>
+	<dc:subject><![CDATA[silo]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of the study on the nutritional value of cereal-legume silos and their impact on the productive qualities steers Ukrainian Black Pied dairy breed]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 67-70]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200032">
+	<dc:title><![CDATA[The research survival of descendants of larvae of white amur got with the use of cryopreserved sperm to the action of subzero temperatures of water]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Syrovatka, D; BEKh, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[cryopreservation]]></dc:subject>
+	<dc:subject><![CDATA[aquaculture]]></dc:subject>
+	<dc:subject><![CDATA[resistance]]></dc:subject>
+	<dc:subject><![CDATA[white amur]]></dc:subject>
+	<dc:subject><![CDATA[fish larvae]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article represents the results of the determination of the effect of extreme water temperatures of grass carp larvae obtained using the cryopreserved sperm.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 19-21]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200033">
+	<dc:title><![CDATA[Effect of different light sources for quality of laying hens]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Vaculenko, JU.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[slaughter qualities]]></dc:subject>
+	<dc:subject><![CDATA[lighting]]></dc:subject>
+	<dc:subject><![CDATA[incandescence lamps]]></dc:subject>
+	<dc:subject><![CDATA[compact luminescence lamps]]></dc:subject>
+	<dc:subject><![CDATA[laying hens]]></dc:subject>
+	<dc:subject><![CDATA[lightly diode lamps]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The indicators of the face and output of the internal organs of hens with the use of different light sources. It is established that led lighting partially affect the quality of production of laying hens]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 15-18]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200034">
+	<dc:title><![CDATA[INTENSIVENESS OF GROWTH AND MEAT PRODUCTIVITY OF CATTLE OF SOUTHERN MEAT BREED]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[VDOVYCHENKO, Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The material concerning intensity, energy of growth, slaughter and the meat quality, chemical com- position and nutritional value of beef produced from beef breed calves in southern pasture grown and steppe pastures are presented. It is established that meat productivity of new breed bulls in different conditions of the south of ukraine exceed the target performance of breed standard]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 28-32]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200035">
+	<dc:title><![CDATA[Monitoring breeding base of specialized beef cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Vishnevsky, L.; Vojtenko, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[beef cattle industry]]></dc:subject>
+	<dc:subject><![CDATA[breed]]></dc:subject>
+	<dc:subject><![CDATA[live weight]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The assessment of the gene pool of specialised meat cattle breeding in livestock hozyaistvo of Ukraine points to a considerable variability of main parameters of productivity of animals that depend on genotyping and partitioned factors]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4-8]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200036">
+	<dc:title><![CDATA[INFLUENCE OF CONDITIONS MAINTENANCE ON THE EFFICIENCY OF FATTENING PIGS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[VOLOSHCHUK, V.; GRISHCHENKO, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[maintenance]]></dc:subject>
+	<dc:subject><![CDATA[economic efficiency]]></dc:subject>
+	<dc:subject><![CDATA[feeding young]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of studies on the performance indicators and economic efficiency of fattening young pigs under different conditions. It was established that the increase of the easel area per head from 0.65 to 0.72 m2 increases the productivity of pigs and economic efficiency of pork production]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 8-12]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[8-9]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200037">
+	<dc:title><![CDATA[The swine Streptococcosis is a problem of pork production]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[AYSHPUR, O.; TARASOV, O.; NICICHIK, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Streptococcosis]]></dc:subject>
+	<dc:subject><![CDATA[Streptococcus suis]]></dc:subject>
+	<dc:subject><![CDATA[pigs.]]></dc:subject>
+	<dc:subject><![CDATA[causing agent]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Streptococcus suis causes numerous diseases in pigs, most importantly, meningitis, arthritis, septice- mia, and bronchopneumonia. Streptococcosis of pigs behaves to diseases which inflict considerable economic losses the pork production of Ukraine. An infection is caused Streptococcus suis type 2 not always correctly recognized the doctors of practical veterinary medicine in connection with the insufficient being informed about signs and flow of illness. In the article the expounded material which will help specialists in good time to recognize streptococcosis symptoms and to take measures on a prophylaxis and treatmen]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 36-40]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200038">
+	<dc:title><![CDATA[Methodological approaches of improvement of level of the reproduced ability of ewes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Borisenko, Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[To the article the results of the reproduced ability of ewes of of askaniyskoe meat - wool breed of a zone of Pridneprovya (AMD) at crossing with sheep-manufacturers of meat breed of Charolais, the main indicators spermproducin of experimental sheep-manufacturers are driven. but reproductive level of ewes]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 18-22]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200039">
+	<dc:title><![CDATA[Heritability conditions of reproductive potential of sires]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Boyko, O.; kuzebnyy, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[semen productivity]]></dc:subject>
+	<dc:subject><![CDATA[heritability]]></dc:subject>
+	<dc:subject><![CDATA[sires]]></dc:subject>
+	<dc:subject><![CDATA[correlation coefficient]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article provides the results of coefficient determining inheritance of indicators of reproductive ability of sires using different approaches and the ability to use them to predict future semen productivity. There was established that forecasting future sires’ semen productivity, which is supposed to use for repair of herd breeding enterprises, is possible due to indicators for reproductive ability of their parents.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 11-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200040">
+	<dc:title><![CDATA[Assessment of sexual activity of sires quality sperm]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Boyko, V.;]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[semen productivity]]></dc:subject>
+	<dc:subject><![CDATA[Bull-sires]]></dc:subject>
+	<dc:subject><![CDATA[sexual activity and sperm motility]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article contains results of evaluation of sexual activity of bulls with different reproduction potential. Bulls which produced more than 141 ejaculate for the year with high sexual activity, quick and energetic ejaculation dominated the animals from other groups by quantitative and qualitative indicators of sperm, which is associated with better implementation of genotype by adaptation mechanisms. Reduction of the number of motile cells shows functional changes in the reproductive system of producers]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4-6]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200041">
+	<dc:title><![CDATA[Impact inbreeding to economically valuable trainian black-motley dairy cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[BУKADOROV, P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[reproducing ability]]></dc:subject>
+	<dc:subject><![CDATA[regression]]></dc:subject>
+	<dc:subject><![CDATA[mizhotilny and service period]]></dc:subject>
+	<dc:subject><![CDATA[Inbreeding]]></dc:subject>
+	<dc:subject><![CDATA[productive longevity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article analyzes the level of inbreeding on the main economic-useful signs, calculated regression coefficient level inbred animals on the basis of selection of features]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 14-17]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200042">
+	<dc:title><![CDATA[The dependense of formation in early ontogenesis on milk production in cows of varies genetypes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[CHEREMISOVA, H.; KRAMAR, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[indices of early ontogenesis]]></dc:subject>
+	<dc:subject><![CDATA[power of dependence]]></dc:subject>
+	<dc:subject><![CDATA[milk production]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The following paper presents the results of research into depend on proofs early ontogenesis on milk production in cows of varies genotypes’. The indices of early ontogenesis in cows of Holstein breed have a low power of dependence on grown and milk production, and powerful of dependence on milk-oil]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 419-421]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200043">
+	<dc:title><![CDATA[Influence of genotypes for genes GH and PIT-1 in milk production of Holstein cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chernenko, Alexandr N]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gubarenko, Natalia]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[holstein cattle]]></dc:subject>
+	<dc:subject><![CDATA[PIT-1 gene]]></dc:subject>
+	<dc:subject><![CDATA[GH gene]]></dc:subject>
+	<dc:subject><![CDATA[share of voice]]></dc:subject>
+	<dc:subject><![CDATA[correlative changeability]]></dc:subject>
+	<dc:subject><![CDATA[genotype]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The influence of gene polymorphism of growth hormone GH and pituitary-specific transcription fac- tor PIT-1 rate on milk production of Holstein cows. It is established that the genotype of the animal by LL geno- type AB and GH for PIT-1 gene have higher yield of milk, the yield of milk fat and protein (Р>0,95 – 0,999). Paired combinations of genes GH and PIT-1 have the effect of enhancing main indicators of milk production, which significantly the individual polymorphisms. The best was a complex genotype LL/AB]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 31-35]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200044">
+	<dc:title><![CDATA[Productivity and mass of digestive organs of quails at a feeding of preparation vitamins A and D]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ChuDak, R.; OhORODniChuk, G.; O. PalaDiiChuk.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[vitamins]]></dc:subject>
+	<dc:subject><![CDATA[eggs]]></dc:subject>
+	<dc:subject><![CDATA[quality]]></dc:subject>
+	<dc:subject><![CDATA[quail]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Founded that the use of compound feed in full in excess of 10% of the vitamins a and D helps to improve production and quality of quails.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 35-37]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200045">
+	<dc:title><![CDATA[Genetic studies in dog breeding]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[DZITSYUK, V.; Kruglyk, C.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[chromosomal and molecular genetic studies]]></dc:subject>
+	<dc:subject><![CDATA[dog-breeding]]></dc:subject>
+	<dc:subject><![CDATA[DNA markers]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The current position in the dog-breeding is researched. The practical problems solved by genetic evaluation are displayed.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 7-11]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200046">
+	<dc:title><![CDATA[Impact indicators reproductive capacity in milk production of cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fedorovich, E.; Shcherbatyy, Z.; Bodnar, P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[service- and between calving period]]></dc:subject>
+	<dc:subject><![CDATA[dry stable period]]></dc:subject>
+	<dc:subject><![CDATA[the influence portion.]]></dc:subject>
+	<dc:subject><![CDATA[correlation coefficient]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It was investigated the indicators of reproductive capacity and their relationship with milk productivity in cows of Ukrainian Black-Spotted Dairy breed. It was established that the proportion of the influence of duration of the service period on yield and quantity of milk fat was 23,78 (P<0,001) and 23,92 (P<0,001), between calving period – 13,19 (P<0,001) and 13,38 % (P<0,001) and dry stable period – 2,76 (P<0,01) and 2,82 % (P<0,01) respectively.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 38-41]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200047">
+	<dc:title><![CDATA[Milk yield chemical profile of milk in the cows with dairy and combined productivity of Ukraine Western region]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[FEDOROVYCH, V.; FEDOROVYCH, E.; BABIK, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[dry basis]]></dc:subject>
+	<dc:subject><![CDATA[ash]]></dc:subject>
+	<dc:subject><![CDATA[protein]]></dc:subject>
+	<dc:subject><![CDATA[fat]]></dc:subject>
+	<dc:subject><![CDATA[milk yield]]></dc:subject>
+	<dc:subject><![CDATA[solids-not-fat]]></dc:subject>
+	<dc:subject><![CDATA[lactose]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The data were given about the dynamics of milk yield and chemical profile of milk in cows of dairy and combined breed in the conditions of the western region of Ukraine. It was established the ani- mals had the highest milk yield during the period of third lactation except the cows of Red and White and Simmental cattle during the fourth one. There were found some changes in chemical profile of milk.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 14-19]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200048">
+	<dc:title><![CDATA[Use nanokarboksylativ cows - productive, milk - nutritious!]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fedoruk, R.; Homin, M.; Kropivka, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk]]></dc:subject>
+	<dc:subject><![CDATA[vitamins A and E]]></dc:subject>
+	<dc:subject><![CDATA[nanocitrates of trace elements]]></dc:subject>
+	<dc:subject><![CDATA[biological value of milk]]></dc:subject>
+	<dc:subject><![CDATA[average yield]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The effect of citrates of trace elements, produced by nanotechnology, on the biochemical processes in the lactating cows, average milk yield and biological value of milk has been studied. It has been shown that the inclusion of citrates of chromium, selenium, cobalt and zinc (30 mg Cr, 25 mg Se, 100 mg Co and 100 mg of Zn /kg of dry matter) in the diet of the cows in the first two months of lactation stimulates secre- tory function of the mammary gland. The application of these additives improves the average daily milk yield on 7.8 %, milk fat — on 0.20%, milk protein — on 0.07 %, and lactose — on 0.08 %, increases vitamins A, vitamin E and inorganic phosphorus]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 26-30]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200049">
+	<dc:title><![CDATA[Modeling of growth of young cows ukrainian different lines of black and white dairy breeds and their subsequent milk productivity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[GILL, M.; VOLKOV, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[dairy cattle]]></dc:subject>
+	<dc:subject><![CDATA[the process of growing]]></dc:subject>
+	<dc:subject><![CDATA[фіцієнтів]]></dc:subject>
+	<dc:subject><![CDATA[genetic?mathematical model.]]></dc:subject>
+	<dc:subject><![CDATA[ontogenesis]]></dc:subject>
+	<dc:subject><![CDATA[lactation curve]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The research of link in the processes of early postnatal ontogenesis in calves and with their following milk productivity was carried out. The authentic high exactness of evaluation the process of changing the alive mass and the following milk productivity was determined]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200050">
+	<dc:title><![CDATA[Genealogical structure of modern breeds of pigs Ukraine (cont article published in number 11 for 2014)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gladiy, M.; Voytenko, S.; Vishevskiy, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Imposed an assessment of pig breeding farms in Ukraine by species and linear structure, as well as the intensity of rearing. The findings suggest that substantial violations of conducting breeding records and breeding work with the rocks]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-42]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200051">
+	<dc:title><![CDATA[Genealogical structure and efficiency of modern breeds reared piglets]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gladiy, M.; Voytenko, S.; Vishevskiy, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[breed]]></dc:subject>
+	<dc:subject><![CDATA[pigs]]></dc:subject>
+	<dc:subject><![CDATA[subjects in pig breeding]]></dc:subject>
+	<dc:subject><![CDATA[line]]></dc:subject>
+	<dc:subject><![CDATA[own productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Imposed an assessment of pig breeding farms in Ukraine by species and linear structure, as well as the intensity of rearing. The findings suggest that substantial violations of conducting breeding records and breeding work with the rocks]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200052">
+	<dc:title><![CDATA[Buffalo - the unique biodiversity of cattle Ukraine]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Guzeev, Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[biodiversity]]></dc:subject>
+	<dc:subject><![CDATA[water buffalo]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:subject><![CDATA[population]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Buffaloes ancient animals, their domestication process took about 10 thousand years . Buffaloes are divided into two subspecies, the river buffalo buffalo river buffaloi marsh swamp buffalo. Ukrainian population belongs to the subspecies buffalo river buffalo, animals have great economic - useful features, which indicate that the current level of productivity , reproduction , duration of the economic use of them provides resistance to the competitive environment at the level of modern specialized and composite breeds of cattle. Buffaloes undemanding animals have enhanced resistance to many cow disease. With buffalo milk and meat produce high quality organic food]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4-8]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200053">
+	<dc:title><![CDATA[SIMMENTAL’SKIY CATTLE is BREED of WORLD VALUE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Guzeev, Y.; Gonhcarenko, I.; Vinnihcuk, D.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[simmental]]></dc:subject>
+	<dc:subject><![CDATA[breed]]></dc:subject>
+	<dc:subject><![CDATA[holstein]]></dc:subject>
+	<dc:subject><![CDATA[milk and meat productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article is devoted to modern condition and prospects of development of cattle Simmental breed in Europe and the world in General. It is shown that in the near term, this breed will strengthen its spread to all continents of the world because of the high potential of dairy production on average 6000 kg of milk with a fat content of 4% and protein - 3,4%, and meat productivity. When normalized feeding daily average gain of live weight exceed 2 kg. Combined dairy and meat productivity siмmental in many cases is a cost- effective alternative to the specialized milk productivity]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 25-28]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200054">
+	<dc:title><![CDATA[Slaughter indicators of rabbits and chemical composition of their muscles with different sources of chromium in the mixed fodder]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[IBATULLIN, I. MAKHNO, K.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[rabbits]]></dc:subject>
+	<dc:subject><![CDATA[mixed fodder]]></dc:subject>
+	<dc:subject><![CDATA[slaughteres qualities]]></dc:subject>
+	<dc:subject><![CDATA[chromium]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It is studied the influence of different sources chromium in mixed fodder on the slaughteres quali- ties of growing rabbits and chemical composition of muscles. It was established that use of mixed fodder with additional introduction chromium picolinate in an amount 0,8 mg/kg, increases the prelethal weight at 2,9 %, carcasses with the kidneys at 3,4 %, liver at 3,9 %, the longissimus dorsi at 1,8, resulting in the slaughter yield increases at 0,2 %. In the chemical composition of the longissimus dorsi significant differ- ences between groups not found]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 35-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200055">
+	<dc:title><![CDATA[Fatty acid composition of muscle tissue of rabbits under vitamin E in micellar media]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ignatovska, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[diblok-copolymers]]></dc:subject>
+	<dc:subject><![CDATA[fatty acids]]></dc:subject>
+	<dc:subject><![CDATA[rabbits]]></dc:subject>
+	<dc:subject><![CDATA[vitamin E]]></dc:subject>
+	<dc:subject><![CDATA[products of slaughter]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The effect of vitamin E in polymer carriers on fatty acid composition of muscle tissue of rabbits has been studied. It has been established that vitamin E in water-soluble form slow down oxidation pro- cesses resulting in improvement of permeability of cell membranes, and accumulation of essential fatty acids becomes larger increasing biological value of muscular tissue of rabbits]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-43]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200056">
+	<dc:title><![CDATA[Some biochemical parameters of blood in aspergillosis and mucormycosis of poultry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kinash, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[nitrogen-containing blood components]]></dc:subject>
+	<dc:subject><![CDATA[biochemical parameters of blood]]></dc:subject>
+	<dc:subject><![CDATA[poultry]]></dc:subject>
+	<dc:subject><![CDATA[aspergillosis]]></dc:subject>
+	<dc:subject><![CDATA[muсormycosis]]></dc:subject>
+	<dc:subject><![CDATA[protein metabolism]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Protein exchange takes a leading place in the processes of metabolism. At various pathological processes the level of total protein in blood and ratio of its fractions can vary within wide limits. The con- centration of serum urea, creatinine, uric acid - the end products of protein metabolism and nucleic acids, indicating metabolic of proteins and their catabolism intensity, allows to evaluate liver and kidneys function. Fungal infections cause specific biochemical changes in blood of poultry, by their interpretation can be obtained an understanding of pathogenesis and lesions of various organs and systems.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 28-30]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[v.1-44()]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200057">
+	<dc:title><![CDATA[Hematological blood indes of Ukrainian red milk cows breed depending on lactation, conditions ans seasons]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kitaeva, A.; Pronoza, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[lactation]]></dc:subject>
+	<dc:subject><![CDATA[hematology]]></dc:subject>
+	<dc:subject><![CDATA[season of the year]]></dc:subject>
+	<dc:subject><![CDATA[blood]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Studied blood indices of cows of ukrainian red dairy breed, depending on age in lactation changes in the conditions of housing and the season have been studied. it has been found that cows of all lactations have good adaptive capacity and best adaptation ability and hematological parameters while changing housing condinions and seasons have the first lacnanions cows.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 40-43]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200058">
+	<dc:title><![CDATA[Slaughter qualities of fattening young pigs received at different combinations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[KODAK, T.; Vovk, V .]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[slaughter qualities]]></dc:subject>
+	<dc:subject><![CDATA[combination]]></dc:subject>
+	<dc:subject><![CDATA[slaughter output]]></dc:subject>
+	<dc:subject><![CDATA[purebred]]></dc:subject>
+	<dc:subject><![CDATA[hybrid]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[As a result of researches it was found out the positive influence of the boars of Duroc breed and terminal one on the slaughter qualities of young pigs received at crossing with hybrid sows]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 18-20]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200059">
+	<dc:title><![CDATA[The digestive system strausenyat under humilidu]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kolada, S.; Stepchenko, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Splitting cellulose is of great biological significance for ostriches in general, and in early ontogeny especially because their body needs a lot of energy costs for growth and development. An important role in the digestion of cellulose formation microbiota plays a blind processes in strausenyat since the first days of life]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 30-33]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200060">
+	<dc:title><![CDATA[Adaptatsiomorfozy skin in young Aberdeen Angus with year-round range conditions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kolesnik, A.; Katsi G., Prudnikov V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The test herd of Aberdeen Angus cattle on the farm created ""Agri ""Svitanok"" and the ""Agro-Novoselovka 2009"" Novovodolazhskogo district, Kharkiv region in 2005.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 31-34]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200061">
+	<dc:title><![CDATA[Economic efficiency of nutrient media with marine aquatic plants for biological industry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[KOLESNIKOVA; K., PINCHUK N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[culture media]]></dc:subject>
+	<dc:subject><![CDATA[aquatic]]></dc:subject>
+	<dc:subject><![CDATA[economic efficiency]]></dc:subject>
+	<dc:subject><![CDATA[hydrolysates]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The paper presents data on the assessment of the economic efficiency of marine aquatic hydrolysates as components in the manufacture of culture media followed by obtaining the greatest effect at the lowest cost]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 25-27]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200062">
+	<dc:title><![CDATA[Quality of cows of different breeds]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kovalchuk, T.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk density]]></dc:subject>
+	<dc:subject><![CDATA[lactose.]]></dc:subject>
+	<dc:subject><![CDATA[dry aubstance]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The gualitahve compositson of milk in the cows of various breeds. On the pattern of Ukrainian black and white and red and white dairy cows the paper highlights the gualitative milk composition concern- ing the content of dry substance, density, fat,protein and lactose. The paper also considers the expediency of using the above breeds for the selection improverrent of animals]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 8-10]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200063">
+	<dc:title><![CDATA[Quality reproductive sows and piglets sysuntsiv development after use immunostimulant]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kovalenko, B .; Hornij, M .; Lyasota, B .; Ivanov-Salnikov, VA]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[immunostimulanting]]></dc:subject>
+	<dc:subject><![CDATA[metabolism]]></dc:subject>
+	<dc:subject><![CDATA[survival]]></dc:subject>
+	<dc:subject><![CDATA[reproduction]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:subject><![CDATA[adaptation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the research work the influence of native immunostimulanting the reproductive qualities of sows and sucking pigs development areshown. Parenteral use head contributed to the improvement of reproductive traits of sows and sucking pigs.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 54-57]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200064">
+	<dc:title><![CDATA[Morphogenesis of the small intestine of the digestive system in Japanese Qual]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kretov, A.; DhurgAm IsmAIl Al AlnAbI]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[morphogenesis]]></dc:subject>
+	<dc:subject><![CDATA[crypts]]></dc:subject>
+	<dc:subject><![CDATA[intestine]]></dc:subject>
+	<dc:subject><![CDATA[villi]]></dc:subject>
+	<dc:subject><![CDATA[Japanese Quail]]></dc:subject>
+	<dc:subject><![CDATA[growth]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[evolution of the tubular organs of the small intestine in Japanese Quail is characterized by the active growth at the age of 3-7 days, 9-10 days and 12-16 days and forming of constituents of their wall from 1 to 26 days. morphogenesis of the structural parts – villi and crypts is observed actively of the age of 1-5 days, with subsequent pas- sive growth at the 20 day’s age. since a 26 day’s age, we noted gerontological in the cecum that resulted in decreased villi and crypts sizes and in future (from 33 days) in decreased thickness of all of its layers]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 17-20]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200065">
+	<dc:title><![CDATA[Evaluation of morphological parameters quail eggs depending on various feeding schemes quails of a layer]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kretov, A.; Sidorenko, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[quails of a layer]]></dc:subject>
+	<dc:subject><![CDATA[of phase feeding]]></dc:subject>
+	<dc:subject><![CDATA[morphological parameters оf eggs]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[the implementation of the developed phase feeding scheme for Japanese quails the profitable tech- nological method considering that it conduces the eradication of oviduct injuries and promotes the qualita- tive characteristics of quail eggs conditioned by the mass and size decrease of eggs during the initial laying stage and the reduction of the amount of large eggs during the whole period of productivity]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 3-7]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200066">
+	<dc:title><![CDATA[Estimation’s optimization of the microbial composition females’s sexual system]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Krivda, О.; Galatuk, O.; Solodka, L.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pure culture]]></dc:subject>
+	<dc:subject><![CDATA[substratums]]></dc:subject>
+	<dc:subject><![CDATA[sexual system]]></dc:subject>
+	<dc:subject><![CDATA[microbial testing]]></dc:subject>
+	<dc:subject><![CDATA[sowing]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Genital tract’s excessive bacterial contamination often can be a reason of gynaecological disor- ders. to excessive a total microbial contamination and for the separate dominating stains purpose a method of inoculation by the parallel lines on the variety common, selective and differentially-diagnostic mediums.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 19-21]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200067">
+	<dc:title><![CDATA[Passing calving and post calving period of dairy cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[KUZEBNI, S.; Sharapa, G.;]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shilofost, V .]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[calf body weight]]></dc:subject>
+	<dc:subject><![CDATA[heifer calving]]></dc:subject>
+	<dc:subject><![CDATA[linear measurements]]></dc:subject>
+	<dc:subject><![CDATA[cow]]></dc:subject>
+	<dc:subject><![CDATA[post calving period]]></dc:subject>
+	<dc:subject><![CDATA[obstetrics]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The paper presents the results of research passing of calving and post calving period in cows and heifers Holstein, Ukrainian red-and black-and-white dairy breeds and German Simmental breeding. The presence of a positive correlation between the passing of calving and length of recovery post calving period (r = 0,3 ± 0,004)]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 32-36]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200068">
+	<dc:title><![CDATA[Loose-boxed contents of Holstein cows and the duration of their productive use]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Les, S.; Kostenko, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[duration of use]]></dc:subject>
+	<dc:subject><![CDATA[Loose-boxed content]]></dc:subject>
+	<dc:subject><![CDATA[high yielding cows]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The indexes of the duration of use of highly productive Holstein cows in JV ""Agrosvit."" It was found that the life expectancy of cows with 5 or more lactations was 2683-3201 day more than 3 and less than 5 lactations - 2607-2934 and with 3 lactations - 1950-2095 days. Lifetime milk yield of cows was respectively - 54821, 46159 i 36163 kg of milk, the average number of lactations - 5,26-6,63, 4,26-4,81 3,00-3,02 i.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 34-37]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200069">
+	<dc:title><![CDATA[Features Ukrainian black and red and white dairy breeds skirts]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lishchuk, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Ukrainian red-and-white dairy breed]]></dc:subject>
+	<dc:subject><![CDATA[exterior]]></dc:subject>
+	<dc:subject><![CDATA[Ukrainian black-and-white dairy breed]]></dc:subject>
+	<dc:subject><![CDATA[morphological parameters of blood]]></dc:subject>
+	<dc:subject><![CDATA[pulmonary gas exchange]]></dc:subject>
+	<dc:subject><![CDATA[live weight]]></dc:subject>
+	<dc:subject><![CDATA[reproducible ability]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The work presents the results of a complex comparative selection, genetic and biological evalu- ation of Ukrainian red and white and black and white dairy breeds during their genesis on the basic of economic useful features in conditions of Podillya of Ukraine]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 21-25]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200070">
+	<dc:title><![CDATA[Association of polymorphisms of gene ctsl and mc4r with the productive qualities of pigs of the Large White breed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lyadskiy, I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mc4r]]></dc:subject>
+	<dc:subject><![CDATA[gene]]></dc:subject>
+	<dc:subject><![CDATA[ctsl]]></dc:subject>
+	<dc:subject><![CDATA[polymorphism]]></dc:subject>
+	<dc:subject><![CDATA[fattening and meat qualities]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[in the article it is considered peculiarities of the allelofund of gene ctsl and mc4r in different popu- lations of pigs of the Large White breed, it was carried out the analysis of frequencies and distribution of different genotypes. it has been studied the association g.143C>T polymorphism of gene ctsl and g.1426G>A polymorphism of gene mc4r with fattening and meat qualities. Reliable differences (P< 0.05) for some of researched sings were determined]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 29-32]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200071">
+	<dc:title><![CDATA[Immunological parameters of the blood of animals-recipients under influence of allogeneic stem cells]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Malyuk, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mesenchymal stem cells]]></dc:subject>
+	<dc:subject><![CDATA[animals-recipients immunocompetent cells]]></dc:subject>
+	<dc:subject><![CDATA[T-cells]]></dc:subject>
+	<dc:subject><![CDATA[NK-cells]]></dc:subject>
+	<dc:subject><![CDATA[O-cells]]></dc:subject>
+	<dc:subject><![CDATA[B-cells]]></dc:subject>
+	<dc:subject><![CDATA[bone marrow]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Experimental studies indicate, that allogeneic mesenchymal stem cells after administration to rab- bits blood cause immunosuppressive effects on different subpopulations of lymphocytes]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 27-30]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200072">
+	<dc:title><![CDATA[Using domestic genotypes of pigs at different combinations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mangura, Z.; VoVk, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[hybrids]]></dc:subject>
+	<dc:subject><![CDATA[pigs]]></dc:subject>
+	<dc:subject><![CDATA[expenditures]]></dc:subject>
+	<dc:subject><![CDATA[efficiency quality]]></dc:subject>
+	<dc:subject><![CDATA[reproduction]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It was carried out the comparative study of reproductive, fattening, and meat-tat qualities of domestic genotypes of pigs at different combinations]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 0-2]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200073">
+	<dc:title><![CDATA[Comparative characteristics of genetic structure of white and bighead carps by using of DNA markers (ISSR-PCR)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MARIUTSA, A.; BORISENKO, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[polymorphism]]></dc:subject>
+	<dc:subject><![CDATA[white carp]]></dc:subject>
+	<dc:subject><![CDATA[DNA-markers]]></dc:subject>
+	<dc:subject><![CDATA[bighead carp]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[With help of ISSR-PCR technique has been analyzed genetic structure of white and bighead carps and illustrated the informativeness of given method for identification of populations genetic polymorphism]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 12-15]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200074">
+	<dc:title><![CDATA[Slaughter qualities of pigs reared under conditions of industrial and free walking housing]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MASANKO, M.; VOVK, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Consequently, leaning on the obtained results it is possible to assert, that housing animals, in the conditions of close to natural ones and with the use of pastures, positively influences on the meaty of pork, and it is sure positive investigation of the offered system of housing of pigs]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-4]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200075">
+	<dc:title><![CDATA[Mesenchymal barrel cages of umbilical cord rope of foals on the early arcades of cultivation of in vitro]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MAZURKEVYCH, A.; MALJUK, M.; BEZDIENIEZHNYKH, M.; STARODUB, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[chromosomes]]></dc:subject>
+	<dc:subject><![CDATA[apop- totic cells]]></dc:subject>
+	<dc:subject><![CDATA[mesenchymal stem cells]]></dc:subject>
+	<dc:subject><![CDATA[actin]]></dc:subject>
+	<dc:subject><![CDATA[polyploidy]]></dc:subject>
+	<dc:subject><![CDATA[monoclonal antibodies immunocytochemical analysis]]></dc:subject>
+	<dc:subject><![CDATA[nuclear proteins]]></dc:subject>
+	<dc:subject><![CDATA[vimentin]]></dc:subject>
+	<dc:subject><![CDATA[aneuploidy]]></dc:subject>
+	<dc:subject><![CDATA[cytogenetic analysis]]></dc:subject>
+	<dc:subject><![CDATA[N- cadherin]]></dc:subject>
+	<dc:subject><![CDATA[E-cadherin]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Conducted immunocytochemical studies confirm that foals umbilical cord stem cells during its cultiva- tion in vitro in the second passage express specific markers that are inherent to mesenchymal cells. These cells express epithelial markers in small amounts and do not express the hematopoietic. However, the results obtained by cytogenetic analysis of foals umbilical cord mesenchymal stem cells during early passages point to the quanti- tative violations of chromosomal apparatus. Also found increased limits of micronucleus test parameters.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1-5]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200076">
+	<dc:title><![CDATA[Biological activity of multipotent stem cells of horses depending on the way of obtaining of mononuclear cells from bone marrow aspirate]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mazurkevych, A.; Malyuk, M.; Kovpak, V.; Kharkevych Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[hematopoietic stem cells]]></dc:subject>
+	<dc:subject><![CDATA[мultipotent stem cells]]></dc:subject>
+	<dc:subject><![CDATA[density gradient.]]></dc:subject>
+	<dc:subject><![CDATA[mononuclear cells]]></dc:subject>
+	<dc:subject><![CDATA[bone marrow]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Experimental studies which are relating to improving the process of obtaining of the fraction of mononuclear cells from bone marrow of horses by centrifugation of cell suspension in fikol density gradient were conducted. It was established that the optimal conditions for obtaining the fraction of mononuclear bone marrow cells which are enriched with multipotent stem cells of horses is centrifugation of bone marrow aspi- rate in a density gradient ρ = 1,076 with centrifugal force of 300 g]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 21-24]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200077">
+	<dc:title><![CDATA[Morphometric characteristics eggs of trichurises in pigs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[MELNICHUK, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[macrophotography]]></dc:subject>
+	<dc:subject><![CDATA[pigs]]></dc:subject>
+	<dc:subject><![CDATA[morphometric parameters]]></dc:subject>
+	<dc:subject><![CDATA[eggs of trichurises]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The features of morphological and biometric structure of helminth eggs family Trichuridae species Trichuris suis, coproscopical isolated from pigs of different gender and age groups in the Poltava region. It is shown the average, minimum and maximum values of the length and width of eggs of trichurises thickness of the shell. Shows statistics morphological structure of parasite eggs of trichurosis components that are specific to this species.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 33-35]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200078">
+	<dc:title><![CDATA[Productiviti of sows at the combination with different genotypes of boars]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[NARIZHNA, O. ; VOVK, V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[terminal boars]]></dc:subject>
+	<dc:subject><![CDATA[reproductive qualities]]></dc:subject>
+	<dc:subject><![CDATA[cross-breeding]]></dc:subject>
+	<dc:subject><![CDATA[hybridization]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of researches of reproductive qualities in sows of the Large White breed at the combi- nation with boars of the breeds Landrase, Piatran, terminal – Makster 16, Makster 304, Landrase × Durok × Hempshir (50 × 25 × 25) are given in the article. The best results were in boars of the combination L × D × H for most of signs.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 25-27]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200079">
+	<dc:title><![CDATA[Dynamics of protein metabolism in blood of piglets after weaning and for actions of liposomal prepara- tion]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ohorodnyk, N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[piglets]]></dc:subject>
+	<dc:subject><![CDATA[stress]]></dc:subject>
+	<dc:subject><![CDATA[weaning]]></dc:subject>
+	<dc:subject><![CDATA[liposomal preparation]]></dc:subject>
+	<dc:subject><![CDATA[protein metabolism]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Investigation indexes of protein metabolism in the blood of piglets weaning from sows and through the use of liposomal preparation which included vitamins A, D3 , E, L-arginine, zinc and selenium. It was shown inhibitory effects weaning on content of total protein in the blood of piglets and stimulating on the activity of enzymes of transamination. The introduction piglets components of liposomal preparation leads to an increase in protein content and γ-globulin fraction of of serum blood, promotes decrease of activity of transaminases in period after weaning from sows.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 44-48]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200080">
+	<dc:title><![CDATA[Economic efficiency of using White Silver Carp (Hypophthalmichthys molitrix (Val.)) as a biomeliorator of nuclear power station’s pond-coolers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[OKHRIMENKO, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pond - cooler]]></dc:subject>
+	<dc:subject><![CDATA[economic efficiency]]></dc:subject>
+	<dc:subject><![CDATA[biomelioration]]></dc:subject>
+	<dc:subject><![CDATA[profitability]]></dc:subject>
+	<dc:subject><![CDATA[White Silver carp]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[the results of research of the economic efficiency of a White Silver carp use for biomelioration in the nuclear power station’s pond-coolers are presented. Economic efficiency of the production can rise about 72 %. It is analysed that high economic efficiency of a meliorative use of vegetation eating fish achieved by reducing production costs for fish breading]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-4]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200081">
+	<dc:title><![CDATA[Winter hardiness of generation of selection small-scale carp fingerlings]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Osipenko, M.; Bekh, V., Оleksiyenko, O.; Tretyakova, T.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[fingerlings winter hardiness]]></dc:subject>
+	<dc:subject><![CDATA[small-scale carp]]></dc:subject>
+	<dc:subject><![CDATA[the fourth generation of selection]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of study of winter hardiness fourth generation of selection small-scale carp fingerlings are presented. First the characteristic of winter hardiness fourth generation of selection carp fingerlings of small-scale intrabreed carp type of Ukrainian scale breed was given]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 19-23]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200082">
+	<dc:title><![CDATA[Genetic aspects of dairy cattle’s disease resistance]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pavlenko, O.; Birukova O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ukrainian red-and-white dairy breed]]></dc:subject>
+	<dc:subject><![CDATA[disease resistance]]></dc:subject>
+	<dc:subject><![CDATA[dairy cattle]]></dc:subject>
+	<dc:subject><![CDATA[female blood lines]]></dc:subject>
+	<dc:subject><![CDATA[incidence]]></dc:subject>
+	<dc:subject><![CDATA[ai-sires]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The incidence of main diseases in high-productive dairy cattle was analyzed. it has been found that the total incidence depend on some female blood lines within the herd (p<0,001). These special female blood lines are perspective to genetic selection. it has also been shown in the work that some ai-sires had their daughters more resistant to mastitis then the others (p<0,05). at the same time the incidence of diseases other than mastitis was the same in the progeny groups of all ai-sires within the herd]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 21-24]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200083">
+	<dc:title><![CDATA[Milk production and linear estimation of exterior are interrelated]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[PELEKHATY, M.; KOCHUK-IASHCHENKO, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[linear estimation]]></dc:subject>
+	<dc:subject><![CDATA[reproductive ability]]></dc:subject>
+	<dc:subject><![CDATA[impact strength]]></dc:subject>
+	<dc:subject><![CDATA[desired type]]></dc:subject>
+	<dc:subject><![CDATA[milk production]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The paper deals with the results of the influence of the general linear classification of exterior of cows Ukrainian black-and-white and red-and-white dairy breeds for milk production and reproductive ability]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 5-9]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[11]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200084">
+	<dc:title><![CDATA[The meaningof pedigree selection for creating high-performance herd of dairy cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pelekhaty, Mykola S]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kucher, Dmytro M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[heterogeneous selection]]></dc:subject>
+	<dc:subject><![CDATA[inbreeding]]></dc:subject>
+	<dc:subject><![CDATA[desired type]]></dc:subject>
+	<dc:subject><![CDATA[homogeneous selection]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The various forms and methods of pedigree selection has been studied on the basis of the best Ukrainian Black-and-White dairy breed pedigree plant of the private farm “Yerchyky” of the Zhytomyr region. Found that the first-calf cows, that obtained by complex inbreeding, improving homogeneous and highly heterogeneous selection are most fit to parameters of animals of the desired type]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 19-24]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200085">
+	<dc:title><![CDATA[Evolution of black–and–white dairy stock on the leading stock-breeding farms in the north Polissya region]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Piddubna, Liudmyla M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[breed formation]]></dc:subject>
+	<dc:subject><![CDATA[reproductive ability]]></dc:subject>
+	<dc:subject><![CDATA[exterior and constitution]]></dc:subject>
+	<dc:subject><![CDATA[consolidation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[dynamics of the breeds and the main economically useful characteristics of the first–calf cows on the five leading stock–breeding farms of black- and- white dairy stock in the ukrainian north Polissya for 60 years have been studied. The evolution of the breed as for an increase of line and mass gabarits of cows and rise of their milk productivity proved to be the result of Holsteinization]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200086">
+	<dc:title><![CDATA[Degree of influence of genotype and paratype factors on milk productivity characteristics of Ukrainian black-and-white dairy breed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Piddubna, Lydmila M]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[fat in milk]]></dc:subject>
+	<dc:subject><![CDATA[milk yield]]></dc:subject>
+	<dc:subject><![CDATA[phenotype]]></dc:subject>
+	<dc:subject><![CDATA[genotype]]></dc:subject>
+	<dc:subject><![CDATA[factor of influence]]></dc:subject>
+	<dc:subject><![CDATA[Ukrainian black-and-white dairy breed.]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Influence of genotype factors on milk yield of first-calf cows makes up on the average 28,1 %, on fat in milk 17,0; paratype –17,2 and 6,8 respectively.The most important factors which determine cows’ pro- ductivity are bull’s genotype (ƞ = 11,6- 44,3%), the nearest female ancestors ( 4,3-46,8%), line of breeding (3,5-31,5%), genotype by share of Holstein heredity ( 0,7-23,8 %)]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 11-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200087">
+	<dc:title><![CDATA[Technological environment and adaptability of cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pidpala, T.; Marikina, O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[lactation]]></dc:subject>
+	<dc:subject><![CDATA[technology]]></dc:subject>
+	<dc:subject><![CDATA[combined features.]]></dc:subject>
+	<dc:subject><![CDATA[cows]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:subject><![CDATA[adaptation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It has been established that the animals of the Holstein breed are adapted to the technological environment of intensive milk production best of all. Herewith, they show a high level of milk productivity, combined with the optimum reproductive ability.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 9-13]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[5]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200088">
+	<dc:title><![CDATA[The intensive of fattening calves milk breeds]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pidpala, V]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Grebenuk, V]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[technology]]></dc:subject>
+	<dc:subject><![CDATA[fattening]]></dc:subject>
+	<dc:subject><![CDATA[maintenance]]></dc:subject>
+	<dc:subject><![CDATA[increase]]></dc:subject>
+	<dc:subject><![CDATA[live weight]]></dc:subject>
+	<dc:subject><![CDATA[growth]]></dc:subject>
+	<dc:subject><![CDATA[calves]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[It was established that constant restraining and feeding calves during rearing and fattening with residues of generally mixed diet of cows with the addition of concentrated feed provides enough nutrients and helps them to grow rapidly]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 2-6]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200089">
+	<dc:title><![CDATA[Fatty acid composition of broiler meat in the presence of gamma-HCH stern]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pochtarenko, P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[broiler chickens]]></dc:subject>
+	<dc:subject><![CDATA[pesticide gamma-hexachlorocyclohexane]]></dc:subject>
+	<dc:subject><![CDATA[fatty acids.]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results on fatty acid composition of total lipids by the use of gamma-hexachlorocyclohexane pesticide. Established that gamma-hexachlorocyclohexane pesticide adversely affect the performance of the biological values of the red and white muscles of broiler chickens]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 39-42]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200090">
+	<dc:title><![CDATA[Effect of queen bees of all ages on the development and productivity of bee colonies]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Polishchuk, V.; Voloshchuk, I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[honey gathering]]></dc:subject>
+	<dc:subject><![CDATA[deposition]]></dc:subject>
+	<dc:subject><![CDATA[queen bees]]></dc:subject>
+	<dc:subject><![CDATA[brood]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The level deposition of queen bee of the ukrainian breed is investigational in the first, second and third season of their use and the changes of functional activity are compared on the periods of season]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 7-10]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200091">
+	<dc:title><![CDATA[Growing pigs during the year]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Povod, M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Modern pig very dynamic, but in a highly competitive industry stability largely depends on the implementation of modern technological solutions. Therefore, research towards improving production technology pork relevant and appropriate.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 7-10]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[12]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200092">
+	<dc:title><![CDATA[Slaughter indices of rabbits with different ratios of neutral detergent toacid detergent fiber in mixed fod- ders]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[POZNNIAKOVSKIY, Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mixed fodder]]></dc:subject>
+	<dc:subject><![CDATA[acid-detergent fiber(ADF)]]></dc:subject>
+	<dc:subject><![CDATA[Rabbits]]></dc:subject>
+	<dc:subject><![CDATA[neutral-detergent fiber(NDF)]]></dc:subject>
+	<dc:subject><![CDATA[slaughter weight]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of studies to determine the effect of different ratio of fiber fractions in mixed fodder for slaughter performance of growing rabbits. Found that the use of feed with the ratio of neutral-detergent fiber to acid-detergent fiber 1.4:1 increases the carcass weight and organs, and enhancing carcass yield]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1-5]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200093">
+	<dc:title><![CDATA[In order not to damage the pollen fertilizer for plants]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[RAZANOV, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[zinc]]></dc:subject>
+	<dc:subject><![CDATA[double superphos- phate]]></dc:subject>
+	<dc:subject><![CDATA[pollen]]></dc:subject>
+	<dc:subject><![CDATA[organic fertilizers]]></dc:subject>
+	<dc:subject><![CDATA[copper]]></dc:subject>
+	<dc:subject><![CDATA[rostkontsentrat]]></dc:subject>
+	<dc:subject><![CDATA[potassium chloride]]></dc:subject>
+	<dc:subject><![CDATA[kropmaks]]></dc:subject>
+	<dc:subject><![CDATA[MAC]]></dc:subject>
+	<dc:subject><![CDATA[ambrosia]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Influence of organic fertilizers on the concentration and rate of accumulation of zinc and copper in the pollen of maize. Established that the use of potassium chloride from kropmaksom, potassium chloride with rostkontsentratom, double superphosphate with rostkontsentratom decreased transfer factor in pollen zinc from 44% to 50% copper and from 47,6% to 78,1%]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 33-35]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200094">
+	<dc:title><![CDATA[AS AFFECT ORGANISM OF BEES OF STERN FROM NATIVEAND TRANSGENE SOY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[ROMANIV, L.; FEDORUK, R.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GMO]]></dc:subject>
+	<dc:subject><![CDATA[soy bean]]></dc:subject>
+	<dc:subject><![CDATA[total lipids]]></dc:subject>
+	<dc:subject><![CDATA[honey bees]]></dc:subject>
+	<dc:subject><![CDATA[classes lipids.]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of studies of content of total fat and of lipid individual classes in the tissues of the whole body of bees and their products - ambrosia, after nutrition with soybeans meal of native and trans- genic varieties in spring-summer period are presented in the article. It has been found that feeding of bees of Carpathian breed determines the tendency to the increase of total lipids in tissues and ambrosia and reliable changes in the ratio of their individual classes. The intergroup differences of the relative content of individual lipid fractions are more significant in tissues of bees.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-13]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200095">
+	<dc:title><![CDATA[The selection index of profit for life for the evaluation and selection of breeding bulls of milk breeds]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SHABLYA, V.; SINITSKA, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[bulls-producers]]></dc:subject>
+	<dc:subject><![CDATA[profit for life]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[selection index]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the research was designed selection index of profit for life SIPL with account economic effi- ciency of bull’s daughters. The index oriented on evaluation of breeding value of bull-producers milk breeds of set features for Ukraine.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 36-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200096">
+	<dc:title><![CDATA[Determination of economic efficiency of the productive use of cows]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SHKURKO, T.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[milk productivity]]></dc:subject>
+	<dc:subject><![CDATA[productive use]]></dc:subject>
+	<dc:subject><![CDATA[reproduced ability]]></dc:subject>
+	<dc:subject><![CDATA[cow]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[With the use of the developed coefficient of efficiency of the productive use of cows the conducted estimation of animals depending on duration of the economic use that long-time productivity. This coefficient can be applied not only for determination of expedience of the use of cows in a basic herd but also for estima- tion of descendants of breeder of a different linear belonging]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 5-9]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[7]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200097">
+	<dc:title><![CDATA[The quality of semen in knurtsiv when consumed feed additive]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shostya, A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[free radical oxidation]]></dc:subject>
+	<dc:subject><![CDATA[young hogs]]></dc:subject>
+	<dc:subject><![CDATA[sperm production]]></dc:subject>
+	<dc:subject><![CDATA[antioxisdants]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[There were conducted the investigation of sperm production in hogs of the Large White breed under the influence of fodder supplement “Litsysevit”. There were established the intercommunication between separate indices of sperm quality and processes of free radical of oxidation using fodder supple- ment of antioxidant effect.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 34-39]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[6]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200098">
+	<dc:title><![CDATA[FUTURE USE AND ACONOMY OF COLLOIDAL SILVER USAGE IN THE QUAIL INDUSTRY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SHUKYAK, S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[solution of silver nanoparticles]]></dc:subject>
+	<dc:subject><![CDATA[efficiency]]></dc:subject>
+	<dc:subject><![CDATA[quails]]></dc:subject>
+	<dc:subject><![CDATA[profitability]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The paper highlights the feasibility and profitability of the use of colloidal silver solution with the full cycle of growing of quail breed Pharaoh and economic efficiency of silver nanoparticles]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 48-50]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="UA2015200099">
+	<dc:title><![CDATA[The effectiveness of the use of the feed additive-lick]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shurko, T.; Grigorjev, D.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Publishing office ""Paralel""]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[start milking]]></dc:subject>
+	<dc:subject><![CDATA[feeding]]></dc:subject>
+	<dc:subject><![CDATA[cow]]></dc:subject>
+	<dc:subject><![CDATA[milk production]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Found that consumption of fresh cow during milking energy vitamin and mineral supplements boosted milk production the animals]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 60-62]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[ua]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Stock raising of Ukraine]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[3-4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

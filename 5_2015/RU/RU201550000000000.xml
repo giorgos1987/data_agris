@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="RU2015500000">
+	<dc:title><![CDATA[Гибридологический анализ изменчивости частоты рекомбинации (rf) в популяции F2 гибридов растений томата]]></dc:title>
+	<dc:title><![CDATA[HYBRID ANALYSIS OF VARIABILITY OF RECOMBINATION FREQUENCY (RF) IN THE POPULATION OF F2 TOMATO HYBRIDS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lysko I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shcherbakov N. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CROSSING-OVER]]></dc:subject>
+	<dc:subject><![CDATA[GENETIC MAP]]></dc:subject>
+	<dc:subject><![CDATA[TOMATO]]></dc:subject>
+	<dc:subject><![CDATA[CHROMOSOME]]></dc:subject>
+	<dc:subject><![CDATA[SEGMENT]]></dc:subject>
+	<dc:subject><![CDATA[HYBRID]]></dc:subject>
+	<dc:subject><![CDATA[RECOMBINATION FREQUENCY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The analysis of the variability dynamics of recombination frequency in the population of splitting F2 interspecific and intraspecific tomato hybrids has been carries out. It was discovered that recombination frequency depends on the components of cross breeding. It has been established that it is reasonable to use mutant forms of Мо 393, Мо 628 and interspecific hybrid F1 Мо 628 × L. esculentum var. racemigerum in selection process as an inductor of genotypic variability]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/32.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.495-507]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500001">
+	<dc:title><![CDATA[JUSTIFICATION OF FORECASTING THE IN-FLUENCE OF ABIOTIC FACTORS ON THE YIELD OF INFLORESCENCES AND GATHERING OF ESSENTIAL OIL OF LAVENDER AN-GUSTIFOLIA IN THE CRIMEA]]></dc:title>
+	<dc:title><![CDATA[Обоснование прогноза влияния абиотических факторов на урожайность соцветий и эфирного масла лаванды узколистной в Крыму]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Merkuryev A. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nemtinov V. I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[LAVENDER]]></dc:subject>
+	<dc:subject><![CDATA[VARIABILITY]]></dc:subject>
+	<dc:subject><![CDATA[FORECASTING]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[ESSENTIAL OIL]]></dc:subject>
+	<dc:subject><![CDATA[ABIOTIC FACTORS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[According to the results of long-term evaluation of promising hybrids of lavender angustifolia the ability to predict the influence of abiotic factors on the yield and gathering of essential oil of inflorescences is shown. Correlations, agronomic stability and variability of the yield of hybrids are defined]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/35.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.538-548]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500002">
+	<dc:title><![CDATA[SPECIFICS OF TAX ACCOUNTING FOR TAN-GIBLE COSTS (FOR EXAMPLE THE DAIRY PROCESSING INDUSTRY)]]></dc:title>
+	<dc:title><![CDATA[Особенности налогового учета материальных расходов (на примере организаций по переработке молока)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Krugljak Z. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kalinskaya M. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[COMMERCIAL ORGANIZATIONS]]></dc:subject>
+	<dc:subject><![CDATA[DAIRY PROCESSING]]></dc:subject>
+	<dc:subject><![CDATA[TAX ACCOUNTING]]></dc:subject>
+	<dc:subject><![CDATA[TANGIBLE COSTS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The elements of tangible costs, which must be included in the tax accounting policy, are defined and studied. Use of the proposed methodology for evaluating recyclable processing waste is substantiated for dairy, butter-, cheese-making, and dairy-canning industry enterprises]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/37.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.566-584]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500003">
+	<dc:title><![CDATA[Региональные особенности функционирования предпринимательства в аграрной сфере]]></dc:title>
+	<dc:title><![CDATA[REGIONAL FEATURES OF ENTREPRENEURSHIP FUNCTIONING IN THE AGRARIAN SPHERE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tyumerova I. B.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CAPACITY MATRIX]]></dc:subject>
+	<dc:subject><![CDATA[AGRARIAN SPHERE]]></dc:subject>
+	<dc:subject><![CDATA[FOOD SECURITY]]></dc:subject>
+	<dc:subject><![CDATA[POTENTIAL OF ENTREPRENEURSHIP IN THE FIELD OF AGRARIAN]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article analyzes the activities of the agrarian sphere in the Chuvash Republic; we have also developed a matrix of opportunities for the development of the agrarian sector in conjunction with the entrepreneurship, entrepreneurial development strategy identified the cluster as the main factor of socio-economic development of the region]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/43.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.660-670]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500004">
+	<dc:title><![CDATA[Совершенствование информационного обеспечения предпринимательства в аграрной сфере]]></dc:title>
+	<dc:title><![CDATA[PERFECTION OF INFORMATION SUPPORT OF BUSINESS IN THE AGRARIAN SECTOR]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tyumerova I. B.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[FORWARD AND BACKWARD LINKS]]></dc:subject>
+	<dc:subject><![CDATA[ADMINISTRATIVE DECISIONS]]></dc:subject>
+	<dc:subject><![CDATA[INFORMATION SECURITY]]></dc:subject>
+	<dc:subject><![CDATA[BUSINESS IN THE FIELD OF AGRARIAN]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article defines the functions and information management tools of entrepreneurship in the agrarian sphere, the impact of the algorithm information support for business development in the agrarian sector, identified ways of improving information systems]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/44.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.671-681]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500005">
+	<dc:title><![CDATA[Современное состояние земель Краснодарского края]]></dc:title>
+	<dc:title><![CDATA[CURRENT STATE OF THE LANDS OF THE KRASNODAR REGION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lipchiu N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gagay I. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[LAND USERS]]></dc:subject>
+	<dc:subject><![CDATA[LAND CATEGORY]]></dc:subject>
+	<dc:subject><![CDATA[FORM OF OWNERSHIP]]></dc:subject>
+	<dc:subject><![CDATA[STRUCTURE OF LAND FUND]]></dc:subject>
+	<dc:subject><![CDATA[TYPES OF FARMLAND]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article describes the characteristics of the land of the Krasnodar region to determine the composition and structure of the land Fund; we have also revealed the tendency of change of type of lands and analyzed the dynamics of the distribution of lands by land users and ownership]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/49.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.733-748]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500006">
+	<dc:title><![CDATA[BIOLOGICAL VALUE AND SAFETY OF SMOKED SAUSAGES WITH PRELIMINARY PROCESSING WITH THE ELECTROMAGNETIC FIELD OF LOW FREQUENCIES OF STARTING CULTURES AND MEAT RAW MATERIALS]]></dc:title>
+	<dc:title><![CDATA[Биологическая ценность и безопасность сырокопченых колбас с предварительной обработкой электромагнитным полем низких частот стартовых культур и мясного сырья]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nesterenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akopyan K. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MODELING FORCEMEAT]]></dc:subject>
+	<dc:subject><![CDATA[SMOKED SAUSAGES]]></dc:subject>
+	<dc:subject><![CDATA[STARTING CULTURES]]></dc:subject>
+	<dc:subject><![CDATA[ELECTROMAGNETIC INFLUENCE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of the studies of the biological safety of raw sausages using electromagnetic processing of raw meat and starter cultures]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/52.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.772-785]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500007">
+	<dc:title><![CDATA[Влияние активированных электромагнитным полем низких частот стартовых культур на мясное сырье]]></dc:title>
+	<dc:title><![CDATA[INFLUENCE OF THE LOW FREQUENCIES OF STARTING CULTURES ACTIVATED BY AN ELECTROMAGNETIC FIELD ON MEAT RAW MATERIALS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nesterenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorina E. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MODELING FORCEMEAT]]></dc:subject>
+	<dc:subject><![CDATA[SMOKED SAUSAGES]]></dc:subject>
+	<dc:subject><![CDATA[STARTING CULTURES]]></dc:subject>
+	<dc:subject><![CDATA[ELECTROMAGNETIC INFLUENCE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of the studies of the effects of low-frequency electromagnetic field on starter cultures. It suggests a possibility of using electromagnetic technology in smoked sausages]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/53.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.786-802]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500008">
+	<dc:title><![CDATA[CONSIDERATION OF THE CRITERIA OF SIM-ILARITY TO CREATE NEW DESIGNS OF ACOUSTIC-MAGNETIC DEVICES INTENDED TO BE USED IN HYDROPONIC STATIONS]]></dc:title>
+	<dc:title><![CDATA[Рассмотрение критериев подобия для создания новых конструкций акусто-магнитных аппаратов, предназначенных для использования в гидропонных установках]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Korzhakov A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Korzhakova S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CRITERIA EQUATION]]></dc:subject>
+	<dc:subject><![CDATA[INTERRELATED COIL]]></dc:subject>
+	<dc:subject><![CDATA[MAGNETIC ENERGY]]></dc:subject>
+	<dc:subject><![CDATA[ACOUSTIC-MAGNETIC DEVICE]]></dc:subject>
+	<dc:subject><![CDATA[SUBSYSTEMS]]></dc:subject>
+	<dc:subject><![CDATA[KIRCHHOFF's RULE]]></dc:subject>
+	<dc:subject><![CDATA[SIMILARITY CRITERION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article contains the results of theoretical research of the criteria of similarity of acoustic-magnetic device intended for the use of new designs in hydroponic stations. Calculation of the electromagnetic component of the acoustic-magnetic device that has four interrelated path has been made]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/54.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.803-812]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500009">
+	<dc:title><![CDATA[Влияние технологии возделывания на продуктивность озимой пшеницы]]></dc:title>
+	<dc:title><![CDATA[THE INFLUENCE OF CULTIVATION TECHNOLOGY ON PRODUCTIVITY OF WINTER WHEAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Malyuga N. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Logoyda T. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kurepin A. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GLUTEN]]></dc:subject>
+	<dc:subject><![CDATA[DENSITY OF PRODUCTIVE STALKS]]></dc:subject>
+	<dc:subject><![CDATA[GRAIN WEIGHT WITH EARS]]></dc:subject>
+	<dc:subject><![CDATA[EXTENSIVE TECHNOLOGIES]]></dc:subject>
+	<dc:subject><![CDATA[CULTIVATION TECHNOLOGY]]></dc:subject>
+	<dc:subject><![CDATA[WINTER WHEAT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article shows the results of two years of research of the impact of various technologies of cultivation of winter wheat with alfalfa predecessor]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/55.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.813-818]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500010">
+	<dc:title><![CDATA[ANALYTICAL ASPECTS OF A HIGH-PROTEIN FEED PREPARATION]]></dc:title>
+	<dc:title><![CDATA[Аналитические аспекты приготовления высокобелковых кормов]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Frolov V. Y.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sysoev D. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Klasner G. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HIGH-PROTEIN FEED]]></dc:subject>
+	<dc:subject><![CDATA[SOY PROTEIN]]></dc:subject>
+	<dc:subject><![CDATA[SOAKED SOYBEANS GRAIN]]></dc:subject>
+	<dc:subject><![CDATA[SOAKED SOYBEAN CRUSHER]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTION LINE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article examines the existing technologies and facilities for the preparation of soybeans for feeding animals, and de-veloped a technological line of preparation of high-protein feed based on soybean. The design of a chopper for soaked soybeans, working on the proposed technology has been pre-sented]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/58.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.843-856]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500011">
+	<dc:title><![CDATA[Совершенствование технологий и технических средств приготовления и раздачи грубых кормов из рулонов]]></dc:title>
+	<dc:title><![CDATA[IMPROVING THE TECHNOLOGIES AND EQUIPMENT OF PREPARATION AND DISTRI-BUTION OF ROUGH FOOD PRODUCTS FROM ROLLS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Frolov V. Y.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sysoev D. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tumanova M. I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CRUSHER SUPPLIER]]></dc:subject>
+	<dc:subject><![CDATA[TECHNICAL DEVICE]]></dc:subject>
+	<dc:subject><![CDATA[CLASSIFICATION]]></dc:subject>
+	<dc:subject><![CDATA[STRUCTURAL AND TECHNOLOGICAL SCHEME]]></dc:subject>
+	<dc:subject><![CDATA[ROLL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this article we consider the analysis of structures of technical means used for the preparation and distribution of animal feed and develop a distributor-chopper, which allows distributing it while milling. The classification is designed for feeders; we also give economic and mathematical model and a constructively technical scheme of a distributor-chopper on its basis]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/59.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.857-869]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500012">
+	<dc:title><![CDATA[MIR – NEWEST HIGHT QUALITY BLACK BERRY AROMATIC GRAPE VARIETY WITH COLORED PULP AND JUSE]]></dc:title>
+	<dc:title><![CDATA[Мир - новейший черноягодный винный высококачественный сорт винограда с окрашенной мякотью и соком]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zamanidi P. C.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Troshin L. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[INFLORESCENCE]]></dc:subject>
+	<dc:subject><![CDATA[HYBRIDIZATION]]></dc:subject>
+	<dc:subject><![CDATA[GRAPES]]></dc:subject>
+	<dc:subject><![CDATA[BERRIES]]></dc:subject>
+	<dc:subject><![CDATA[FEATURES AND PROPERTIES]]></dc:subject>
+	<dc:subject><![CDATA[DROUGHT TOLERANCE]]></dc:subject>
+	<dc:subject><![CDATA[COMBINE SELECTION]]></dc:subject>
+	<dc:subject><![CDATA[SEEDS]]></dc:subject>
+	<dc:subject><![CDATA[VARIETY]]></dc:subject>
+	<dc:subject><![CDATA[ARMS]]></dc:subject>
+	<dc:subject><![CDATA[LEAVES]]></dc:subject>
+	<dc:subject><![CDATA[YIELD]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Newest wine black berry with painted pulp and juice grape variety called Mir was breeded at Athens Institute of Viticulture (Greece) by Zamanidi P., Troshin L. and Radchevsky P. in 2006 by crossing the Ukrainian variety of Odessa black (Alicante Bouschet x Cabernet Sauvignon) with new Greek black berry variety Iliad. According to the morphological and physiological characteristics included in the eco-geographical group of Black Sea Coast. Length of production period - 146-155 days. Strong growth of arms (2,1-3,0 m). Percentage of productive shoots - over 90. Productivity is very high: 20-30 t / ha. The average mass of clusters is 260 g. Characterized by high resistance to cold, drought and increased resistance to fungal diseases in comparison with varieties of Vitis vinifera. Lobes, the stamens and fully developed gynoecium. Bunch medium, often with tapered wing, the average density. Berry small, round, blue-black, with a thick waxy coating. The peel is medium thickness, dense, durable. Pulp and juice intensely colored. Sugar content is very high. Prolonged preservation of different crop on bushes. Variety intended for manufacturing intensely colored dry red wines of excellent grade and high-quality sparkling, dessert, sweet and liqueur wines; and is suitable for the manufacture of high quality strong colored juices. When used in blends with other varieties, it enhances color, flavor and improves the bouquet of wine]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/65.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.939-958]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500013">
+	<dc:title><![CDATA[BIOCHEMISTRY OF PERSPECTIVE TABLE GRAPE VARIETIES AND CLONES IN THE KRASNODAR REGION]]></dc:title>
+	<dc:title><![CDATA[Биохимия перспективных столовых сортов и клонов винограда в Краснодарском крае]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Prakh A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Troshin L. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mahovickiy B. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shutov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Burlakov M. M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[QUALITY]]></dc:subject>
+	<dc:subject><![CDATA[GENEPOOL]]></dc:subject>
+	<dc:subject><![CDATA[CUTTINGS]]></dc:subject>
+	<dc:subject><![CDATA[TRAIT]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[SORTMENT]]></dc:subject>
+	<dc:subject><![CDATA[GRAPE]]></dc:subject>
+	<dc:subject><![CDATA[VARIETY]]></dc:subject>
+	<dc:subject><![CDATA[SAPLING]]></dc:subject>
+	<dc:subject><![CDATA[INTRODUCENT]]></dc:subject>
+	<dc:subject><![CDATA[MOTHER FIELD]]></dc:subject>
+	<dc:subject><![CDATA[SELECTION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article highlights the biochemical characteristics of perspective newest varieties of table grapes and clones of the Kuban region; it also presents the results of the study in an industrial environment of OAO AF "South", OOO "Phanagoria-Agro", Training Farm "Kuban" and branches of the Department of Viticulture of Kuban State Agrarian University and in Farmer-amateur conditions of private entrepreneurs of Kuban]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/66.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.959-970]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500014">
+	<dc:title><![CDATA[THE ADAPTIVE NATURE OF THE CORRELATIION DEPENDENCES WHICH DETERMINE THE PRODUCTIVITY OF THE MAIN SPIKE IN CULTIVARS AND HYBRIDS OF WINTER WHEAT GROWN ON THE BLACK LEACHED SOIL OF CENTRAL CISCAUCASIA]]></dc:title>
+	<dc:title><![CDATA[Адаптивный характер корреляционных зависимостей, определяющих продуктивность главного колоса у сортов и гибридов озимой мягкой пшеницы на черноземе выщелоченном Центрального Предкавказья]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Oleynik A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Krivenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Voyskovoy A. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Donets I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Esaulko N. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Salova Y. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CORRELATION DEPENDENCE]]></dc:subject>
+	<dc:subject><![CDATA[MAIN SPIKE ELEMENTS OF EFFICIENCY]]></dc:subject>
+	<dc:subject><![CDATA[HYBRID]]></dc:subject>
+	<dc:subject><![CDATA[WINTER WHEAT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article discusses the adaptive nature of the correlations between the elements and sub-elements of the productivity of main spike of the F1, and F2 hybrids, constant breeding lines (F3, F4) and parental varieties. We have shown the possibility to determine the individual components of spike productivity with a selective advantage in the selection of winter wheat on the adaptability and efficiency in the conditions of the region]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/67.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.971-990]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500015">
+	<dc:title><![CDATA[Оптимизация инновационной инфраструктуры как условие развития кадрового потенциала в сельском хозяйстве Чувашской Республики]]></dc:title>
+	<dc:title><![CDATA[OPTIMIZATION OF INNOVATION INFRASTRUCTURE AS A CONDITION OF DEVELOPMENT PERSONNEL POTENTIAL IN THE AGRICULTURE OF THE CHUVASH REPUBLIC]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ivanova T. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PERSONNEL POTENTIAL]]></dc:subject>
+	<dc:subject><![CDATA[AGRICULTURE]]></dc:subject>
+	<dc:subject><![CDATA[CHUVASH REPUBLIC]]></dc:subject>
+	<dc:subject><![CDATA[INNOVATION INFRASTRUCTURE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article has examined the activities of subjects of the innovation infrastructure in the agriculture of the Chuvash Republic, offered to create the Chuvash cen-ter of agricultural innovation transfer of technologies, whose activities will include all phases of the devel-opment to innovation]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/68.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.991-1002]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500016">
+	<dc:title><![CDATA[Эффективность стимуляторов роста Авибиф и Биодукс в технологии возделывания винограда сорта Саперави]]></dc:title>
+	<dc:title><![CDATA[EFFECT OF AVIBIF AND BIODYX GROWTH PROMOTERS IN TECHNOLOGIES OF CULTIVATION THE SAPERAVI GRAPE VARIETY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kravtsov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Radchevskiy P. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Prakh A. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GRAPES]]></dc:subject>
+	<dc:subject><![CDATA[BIODYX]]></dc:subject>
+	<dc:subject><![CDATA[GROWTH REGULATORS]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[AVIBIF]]></dc:subject>
+	<dc:subject><![CDATA[WORT QUALITY]]></dc:subject>
+	<dc:subject><![CDATA[SAPERAVI GRAPE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article gives an overview of the study results in the terms of Anapo-Taman zone of the Krasnodar region. It shows treatment effects of the growth stimulants of Avibif and Biodux on Saperavi vine and its productivity and quality]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/71.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1038-1051]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500017">
+	<dc:title><![CDATA[RESULTS OF EXPERIMENTAL RESEARCH OF IMPROVED POTATO DIGGER KTN-2V HARVESTING PROCESS]]></dc:title>
+	<dc:title><![CDATA[Результаты экспериментальных исследований процесса машинной уборки картофеля усовершенствованным копателем КТН-2В]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yakutin N. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Byshоv N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rembalovich G. K.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Doronkin Y. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[TECHNOLOGY]]></dc:subject>
+	<dc:subject><![CDATA[INTENSIFICATION]]></dc:subject>
+	<dc:subject><![CDATA[HARVESTING]]></dc:subject>
+	<dc:subject><![CDATA[POTATO]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have proposed a program, an object, a methodology and results of field studies of the improved potato digger KTN-2V equipped with the original device for separation intensification]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/72.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1052-1061]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500018">
+	<dc:title><![CDATA[Сравнение источников излучения для растениеводства по стоимости единицы световой энергии и аналогам]]></dc:title>
+	<dc:title><![CDATA[COMPARISON OF RADIATION SOURCES FOR PLANT GROWING BY LUMINOUS ENERGY UNIT'S COSTS AND ANALOGS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kozyreva I. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nikitin V. D.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PHOTOSYNTHETIC ACTIVE RADIATION]]></dc:subject>
+	<dc:subject><![CDATA[ECONOMIC EVALUATION]]></dc:subject>
+	<dc:subject><![CDATA[LIGHT-EMITTING DIODES]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article considers the method of comparison of radiation sources for plant growing by photosynthetic energy units or analogs costs, evaluation of critical values photosynthetic active radiation efficiency at which light-emitting diodes comparable by photosynthetic energy unit's costs with the most common alternative sources for irradiation of plants – high pressure sodium lamps]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/75.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1098-1111]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500019">
+	<dc:title><![CDATA[Индукция устойчивости пшеницы к фузариозу абиогенными элиситорами]]></dc:title>
+	<dc:title><![CDATA[THE INDUCTION OF RESISTANCE TO FUSARIUM WINTER WHEAT BY ABIOTIC ELICITORS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Yablonskaya Y. K.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kotlyarov V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fedulov Y. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ABIOGENIC ELICITORS]]></dc:subject>
+	<dc:subject><![CDATA[OSMOPROTECTANTS]]></dc:subject>
+	<dc:subject><![CDATA[RNA WHEAT PROTEIN]]></dc:subject>
+	<dc:subject><![CDATA[INDUCTORS OF IMUNITY]]></dc:subject>
+	<dc:subject><![CDATA[ANATOMICAL AND MORPHOLOGICAL STUDIES]]></dc:subject>
+	<dc:subject><![CDATA[METHIONIN]]></dc:subject>
+	<dc:subject><![CDATA[DNA]]></dc:subject>
+	<dc:subject><![CDATA[FUROLAN]]></dc:subject>
+	<dc:subject><![CDATA[BIOMETRICS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article discusses the most important results of applying the composition of the furolan and methionin witch have properties of abiogenic elicitors against the fusarium]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/76.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1112-1125]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500020">
+	<dc:title><![CDATA[EVALUATING THE APPROPRIATENESS OF TAX REGIMES OF AGRICULTURAL ORGAN-IZATIONS OF THE KRASNODAR REGION]]></dc:title>
+	<dc:title><![CDATA[Оценка применяемых режимов налогообложения сельскохозяйственных организаций Краснодарского края]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sigidov Y. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bashkatov V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bashkatova V. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[TAX BURDEN]]></dc:subject>
+	<dc:subject><![CDATA[UNIFIED AGRICULTURAL TAX]]></dc:subject>
+	<dc:subject><![CDATA[TAX REGIME]]></dc:subject>
+	<dc:subject><![CDATA[GENERAL TAXATION]]></dc:subject>
+	<dc:subject><![CDATA[TAX ACCOUNTING]]></dc:subject>
+	<dc:subject><![CDATA[UNIFIED TAX ON IMPUTED INCOME]]></dc:subject>
+	<dc:subject><![CDATA[SIMPLIFIED SYSTEM OF TAXATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article provides an assessment of possible modes of taxation of agricultural organizations of the Kras-nodar region. Data are given about the level of tax burden on each regime. We have also formulated ad-vantages and disadvantages of switching to a single agricultural tax]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/85.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1230-1242]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500021">
+	<dc:title><![CDATA[HISTORY OF TAX ACCOUNTING FOR UNIFIED AGRICULTURAL TAX]]></dc:title>
+	<dc:title><![CDATA[История развития налогового учета по единому сельскохозяйственному налогу]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bashkatov V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tasheva D. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HISTORY]]></dc:subject>
+	<dc:subject><![CDATA[UNIFIED AGRICULTURAL TAX]]></dc:subject>
+	<dc:subject><![CDATA[TAX ACCOUNTING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article presents the results of research of the historical aspects of the formation and development of tax accounting on a single agricultural tax. We have formulated the stages of historical development of taxation of agricultural producers and described each period of evolution of the unified agricultural tax with the legal and regulatory framework. We have also presented the conclusions about the advantages and disadvantages of this mode of taxation]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/86.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1243-1256]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500022">
+	<dc:title><![CDATA[Анализ налоговой нагрузки сельскохозяйственных организаций Краснодарского края]]></dc:title>
+	<dc:title><![CDATA[ANALYSIS OF THE TAX BURDEN OF AGRI-CULTURAL ORGANIZATIONS OF THE KRASNODAR REGION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bashkatov V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Reznichenko D. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bashkatova V. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[TAX BURDEN]]></dc:subject>
+	<dc:subject><![CDATA[UNIFIED AGRICULTURAL TAX]]></dc:subject>
+	<dc:subject><![CDATA[GENERAL TAXATION]]></dc:subject>
+	<dc:subject><![CDATA[TAX ACCOUNTING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article analyzes the level of tax burden of the agricultural organizations of the Krasnodar Territory. It shows the data on taxes, fees, insurance premiums paid by the agricultural organizations. We have also given the calculations of the tax burden of a collection of organizations]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/87.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1257-1270]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500023">
+	<dc:title><![CDATA[Обоснование параметров искусственного дождя]]></dc:title>
+	<dc:title><![CDATA[SUBSTANTIATION OF THE PARAMETERS OF AN ARTIFICIAL RAIN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shekihachev Y. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shomahov L. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pazova T. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Balkarov R. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aloev V. Z.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shekikhacheva L. Z.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Medovnik A. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tverdokhlebov S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EROSION]]></dc:subject>
+	<dc:subject><![CDATA[MODELLING RAIN]]></dc:subject>
+	<dc:subject><![CDATA[OVERHEAD IRRIGATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have analyzed the expediency of application of the method of calculation of definition of supposed (not washing away) speeds of water streams on a limiting condition for the Kabardino-Balkarian republic; criteria for a choice of parameters of a modeling rain are proved]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/89.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1283-1293]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500024">
+	<dc:title><![CDATA[AGROTECHNICAL EFFICIENCY OF THE COMBINED SOIL-CULTIVATING UNIT]]></dc:title>
+	<dc:title><![CDATA[Агротехническая эффективность комбинированного почвообрабатывающего агрегата]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aushev M. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hamhoev B. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hazhmetov L. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shekihachev Y. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erkenov A. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tverdokhlebov S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[UNIT]]></dc:subject>
+	<dc:subject><![CDATA[CRUSHING]]></dc:subject>
+	<dc:subject><![CDATA[OPTIMIZATION]]></dc:subject>
+	<dc:subject><![CDATA[SIZES OF LUMPS]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article, we have stated the agro-technical requirements to a pre-seeding processing of soil. The results of experiments of the combined soil-cultivating unit are resulted. Operating modes of the unit with optimum width of capture, uniformity of a surface of soil, quality of crushing the soils meeting agro-technical requirements are proved]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/90.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1294-1303]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500025">
+	<dc:title><![CDATA[Обоснование конструктивно-технологической схемы комбинированного почвообрабатывающего агрегата для предпосевной подготовки почвы]]></dc:title>
+	<dc:title><![CDATA[SUBSTANTIATION OF CONSTRUCTIVE AND TECHNOLOGICAL SCHEMES OF THE COMBINED TILLAGE UNIT FOR SEEDBED PREPA-RATION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aushev M. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hamhoev B. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hazhmetov L. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shekihachev Y. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erkenov A. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tverdokhlebov S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PROCESSING]]></dc:subject>
+	<dc:subject><![CDATA[ALIGN]]></dc:subject>
+	<dc:subject><![CDATA[AGGREGATE]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:subject><![CDATA[CRUMBLING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article analyzes the existing classification of leveling devices and their design features. We have found that currently the form of the seed layer is achieved with harrowing cultivation in 2 ... 3 tracks , leveling and packing rollers in 3 ... 4 passes units on the field, which leads to an increased cost of fuel, living labor, as well as compaction of arable and subsoil layers of the soil. We have also proved a constructively scheme of a com-bined device capable to form the seedbed in accordance with agronomic requirements in a single pass]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/91.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1304-1314]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500026">
+	<dc:title><![CDATA[MATHEMATICAL MODELLING OF PROCESS OF WORK OF THE COMBINED SOIL-CULTIVATING UNIT]]></dc:title>
+	<dc:title><![CDATA[Математическое моделирование процесса работы комбинированного почвообрабатывающего агрегата]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Aushev M. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hamhoev B. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hazhmetov L. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shekihachev Y. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kishev M. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erkenov A. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tverdokhlebov S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PROCESSING]]></dc:subject>
+	<dc:subject><![CDATA[UNIT]]></dc:subject>
+	<dc:subject><![CDATA[PARAMETERS]]></dc:subject>
+	<dc:subject><![CDATA[MODES]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article, we have considered the questions of mathematical modeling of a combined soil-cultivating unit. Theoretical dependences and rational values of parameters and unit operating modes are received]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/92.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1315-1325]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500027">
+	<dc:title><![CDATA[Здоровье животных – основной фактор эффективного животноводства]]></dc:title>
+	<dc:title><![CDATA[ANIMAL HEALTH - CRITICAL FACTORS OF THE LIVESTOCK]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Koshchayev A. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Usenko V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Likhoman A. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EXPERT]]></dc:subject>
+	<dc:subject><![CDATA[PROTEIN DIET]]></dc:subject>
+	<dc:subject><![CDATA[STRESS]]></dc:subject>
+	<dc:subject><![CDATA[PROFESSIONALISM]]></dc:subject>
+	<dc:subject><![CDATA[STRESS RELIEVING TECHNIQUES]]></dc:subject>
+	<dc:subject><![CDATA[COWS]]></dc:subject>
+	<dc:subject><![CDATA[SCIENCE]]></dc:subject>
+	<dc:subject><![CDATA[VEGETATIVE DISORDERS]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article provides an overview of materials of conferences on problems and prospects of the industry of cattle breeding]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/99.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1431-1442]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500028">
+	<dc:title><![CDATA[Разработка маркетинговой стратегии восстановления и развития рыбного хозяйства Украины]]></dc:title>
+	<dc:title><![CDATA[ELABORATION OF MARKETING STRATEGY OF RECOVERY AND DEVELOPMENT OF FISH INDUSTRY OF UKRAINE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sushko N. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[STRATEGY]]></dc:subject>
+	<dc:subject><![CDATA[MARKETING]]></dc:subject>
+	<dc:subject><![CDATA[EFFICIENCY]]></dc:subject>
+	<dc:subject><![CDATA[FISHERY]]></dc:subject>
+	<dc:subject><![CDATA[EXPECTANCY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Dependence of the fishery efficiency to the number of factors is determined. Dynamics of industry’s profitability is prognosticated. The strategy of development of fishery is fixed. Marketing strategy of reconstruction and development of the fish industry is worked out]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/100.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1443-1453]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500029">
+	<dc:title><![CDATA[DEVELOPMENT OF THE METHODS OF CHOOSING THE PARAMETERS OF THE MODELS OF DEVICES FOR ACOUSTIC-MAGNETIC PROCESSING OF LIQUIDS]]></dc:title>
+	<dc:title><![CDATA[Разработка методики выбора параметров моделей подобных аппаратов акусто-магнитной обработки жидкости]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Korzhakov A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Korzhakova S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-05-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SELECTION OF ACOUSTIC PARAMETERS]]></dc:subject>
+	<dc:subject><![CDATA[SELECTION OF ELECTRICAL AND MAGNETIC PARAMETERS]]></dc:subject>
+	<dc:subject><![CDATA[ACOUSTO-MAGNETIC DEVICE]]></dc:subject>
+	<dc:subject><![CDATA[CALCULATION OF SIZE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we present the results of the researches of creation of methods of calculation of the acoustic-magnetic devices. The technique, which allows to de-sign devices of various sizes and types has been pro-posed]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/05/pdf/107.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1530-1545]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500030">
+	<dc:title><![CDATA[THE INFLUENCE OF STIMULANTS, BIOLOGICAL PRODUCTS AND MICROFERTILIZERS ON THE YIELD AND QUALITY OF WINTER SOFT WHEAT]]></dc:title>
+	<dc:title><![CDATA[Влияние стимуляторов, биологических препаратов и микроудобрений на урожайность и качество зерна озимой мягкой пшеницы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Starikova D. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[QUALITY OF GRAIN]]></dc:subject>
+	<dc:subject><![CDATA[STIMULANT]]></dc:subject>
+	<dc:subject><![CDATA[MI-CROFERTILIZER]]></dc:subject>
+	<dc:subject><![CDATA[BIOLOGICALS DRUGS]]></dc:subject>
+	<dc:subject><![CDATA[WINTER WHEAT]]></dc:subject>
+	<dc:subject><![CDATA[YIELD]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of the effects of treatments of the plants of winter wheat with biological stimulants and drugs and microfertilizers. The most effective treatment and most responsive varieties of soft wheat have been found. We also present the indicators of the quality of the grain of soft wheat after treatment with drugs and stimulants]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/01.pdf]]></dc:identifier>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500031">
+	<dc:title><![CDATA[Экономическая эффективность инвестиций в строительство складов плодоовощной продукции в республике Адыгея]]></dc:title>
+	<dc:title><![CDATA[ECONOMIC EFFICIENCY OF INVESTMENTS IN CONSTRUCTION STORAGES OF FRUIT AND VEGETABLE PRODUCTION IN THE REPUBLIC OF ADYGEA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gayduk V. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bagmut S. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[AGRICULTURAL PRODUCTION]]></dc:subject>
+	<dc:subject><![CDATA[ECONOMIC EFFICIENCY]]></dc:subject>
+	<dc:subject><![CDATA[INTRAECONOMIC WAREHOUSES]]></dc:subject>
+	<dc:subject><![CDATA[PURCHASE PRICES]]></dc:subject>
+	<dc:subject><![CDATA[INVESTMENTS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Economic feasibility is proved and indicators of investments efficiency into the organization of intraeconomic storage of fruits and vegetables in the agricultural organizations of the Adygea Republic in the conditions of a considerable seasonal variation of purchase prices and the increased services cost of third-party warehouse complexes in the region are calculated]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/04.pdf]]></dc:identifier>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500032">
+	<dc:title><![CDATA[Метод лечения и профилактики фолликулярных кист яичников у коров и телок в мясном скотоводстве]]></dc:title>
+	<dc:title><![CDATA[THE METHOD OF TREATMENT AND PREVENTION OF FOLLICULAR OVARIAN CYSTS IN COWS AND HEIFERS IN BEEF CATTLE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Turchenko A. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nazarov M. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorpinchenko E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aganin E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Skripnikova A. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SEXUAL HEAT]]></dc:subject>
+	<dc:subject><![CDATA[SYNCHRONIZATION]]></dc:subject>
+	<dc:subject><![CDATA[STIMULATION]]></dc:subject>
+	<dc:subject><![CDATA[PROSTAGLANDINE GROUP]]></dc:subject>
+	<dc:subject><![CDATA[REPRODUCTION FUNCTIONS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents positive results of application of integrated ways (methods) of induction and synchronization of the sexual cycle in cows for wide practical application in accelerated (extended) reproduction of the herd cattle]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/05.pdf]]></dc:identifier>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500033">
+	<dc:title><![CDATA[Влияние ароматической добавки "карамель-ваниль" на убойные показатели свиней]]></dc:title>
+	<dc:title><![CDATA[EFFECT OF “CARAMEL-VANILLA” AROMATIC ADDITIVE ON SLAUGHTERING INDICATORS IN PIGS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zubkovа Y. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SLAUGHTERING INDICATORS]]></dc:subject>
+	<dc:subject><![CDATA[FOOD]]></dc:subject>
+	<dc:subject><![CDATA[AROMATIC ADDITIVE]]></dc:subject>
+	<dc:subject><![CDATA[PIGS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of the experiment to study the influence of aromatic additive “Caramel-Vanilla” at the killing indicators of pigs of large white breed are presented in this article. It is established that the cultivation and a fattening of pigs when adding this aromatic additive to animal feed is an effective technique. The use of aromatic additives in rhythm input: 10 days with the addition of 10 days without it until the end of fattening positive impact on feed intake, growth, and the payment of his live weight gain of pigs. The live weight of animals for the period of experiment (123 days) increased by 8.6 % compared with the control]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/06.pdf]]></dc:identifier>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500034">
+	<dc:title><![CDATA[GENOTYPING OF NEW PERSPECTIVE WINE GRAPES WITH USING MICROSATELLITE MARKERS]]></dc:title>
+	<dc:title><![CDATA[Генотипирование новых перспективных технических протоклонов винограда с использованием микросателлитных маркёров]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Milovanov A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zvyagin A. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Troshin L. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MICROSATELLITE]]></dc:subject>
+	<dc:subject><![CDATA[NUCLEOTIDE]]></dc:subject>
+	<dc:subject><![CDATA[DNA]]></dc:subject>
+	<dc:subject><![CDATA[SSR-MARKER]]></dc:subject>
+	<dc:subject><![CDATA[GRAPE]]></dc:subject>
+	<dc:subject><![CDATA[VARIETY]]></dc:subject>
+	<dc:subject><![CDATA[PROTOCLONE]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this article we have described our work on genotyping of new ten productive wine grape protoclones]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/10.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.137-155]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500035">
+	<dc:title><![CDATA[REFORMATION OF THE GRAIN EXCHANGE OF RUSSIA, AS A KEY ELEMENT OF ADAPTATION OF GRAIN MULTINATIONAL CORPORATIONS IN THE CONDITIONS OF THE RUSSIAN ECONOMY]]></dc:title>
+	<dc:title><![CDATA[Реформация зерновой биржи России, как необходимый элемент адаптации зерновых ТНК в условиях российской экономики]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dudinova E. E.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CME GROUP]]></dc:subject>
+	<dc:subject><![CDATA[NYSE EURONEXT]]></dc:subject>
+	<dc:subject><![CDATA[BLACK SEA GRAIN FUTURES]]></dc:subject>
+	<dc:subject><![CDATA[FORWARD GRAIN MARKET]]></dc:subject>
+	<dc:subject><![CDATA[GRAIN EXPORT]]></dc:subject>
+	<dc:subject><![CDATA[EXPORTABLE SURPLUS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Reformation of the grain exchange of Russia becomes a key aspect of strengthening of the reached line items, and also an entry into the new regional markets due to the need of development of an export potential of Russia within the international grain market. In this work basic elements of upgrade of the existing grain mechanism are considered (on basis of JSC National Mercantile Exchange), examples are given from practical operating activities of CME Group Inc (Group of the Chicago board of trade). The conclusion that consolidation of the Russian Federation, Ukraine and the Republic of Kazakhstan under the auspices of a single grain platform becomes a priority in development of export trade in the Black Sea pool, especially in the conditions of the fixed competition for the markets]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/13.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.189-198]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500036">
+	<dc:title><![CDATA[Индукция и синхронизация воспроизводительной функции молочных коров в промышленных комплексах]]></dc:title>
+	<dc:title><![CDATA[INDUCTION AND SYNCHRONIZATION OF REPRODUCTIVE FUNCTION OF DAIRY COWS IN INDUSTRIAL COMPLEXES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nazarov M. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorpinchenko E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aganin E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Skripnikova A. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PROSTAGLANDINS]]></dc:subject>
+	<dc:subject><![CDATA[POTASSIUM IODIDE]]></dc:subject>
+	<dc:subject><![CDATA[ARTIFICIAL INSEMINATION]]></dc:subject>
+	<dc:subject><![CDATA[CYSTS]]></dc:subject>
+	<dc:subject><![CDATA[FOLLICULAR]]></dc:subject>
+	<dc:subject><![CDATA[METABOLISM]]></dc:subject>
+	<dc:subject><![CDATA[HORMONES]]></dc:subject>
+	<dc:subject><![CDATA[INFERTILITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Based on analysis of the etiopathogenesis of ovarian follicular cysts in cows and heifers we have developed a comprehensive method of treatment and prevention of them. Potassium iodide normalizes metabolism and has specific effects on the genitals, thyroid and pituitary glands, restores their function. Chlormadinone inhibits the secretion of pituitary gonadotropins depending on the dose of the drug, and estrofan promotes growth of ovarian follicles and the manifestation of hunting and estrus in cows]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/15.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.211-217]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500037">
+	<dc:title><![CDATA[Исследование влияния параметров озоновоздушной обработки на стерилизацию растительных субстратов]]></dc:title>
+	<dc:title><![CDATA[RESEARCH OF THE INFLUENCE OF OZONE AND AIR PROCESSING PARAMETERS ON STERILIZATION OF VEGETABLE SUBSTRATES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shevchenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Saprunova E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mumro A. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[STERILIZATION OF FEEDING PRODUCTS]]></dc:subject>
+	<dc:subject><![CDATA[OZONE AND AIR MIXTURE]]></dc:subject>
+	<dc:subject><![CDATA[STATISTICAL ANALYSIS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we consider the questions of ozone and air impact on pathogenic microflorastern of products when their production. Results of the statistical analysis allowing to determine optimum parameters of influence of ozone and air mixture at sterilization stern of products are also presented]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/19.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.253-267]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500038">
+	<dc:title><![CDATA[WAYS OF STERILIZATION OF PRODUCTS OF PLANT GROWING AND FEEDING MIXTURES]]></dc:title>
+	<dc:title><![CDATA[Способы стерилизации продуктов растениеводства и кормосмесей]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shevchenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Saprunova E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chelebiyev S. Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[STERILIZATION OF FEEDING PRODUCTS]]></dc:subject>
+	<dc:subject><![CDATA[OZONE AND AIR MIXTURE]]></dc:subject>
+	<dc:subject><![CDATA[OZONE GENERATOR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article is devoted to justification of application of an electroozonizer for sterilization of vegetable substrata and fodder grain in the course of biotechnological production]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/21.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.283-295]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500039">
+	<dc:title><![CDATA[WIND POWER GENERATORS-ELECTRIC SYSTEMS AND METHODS OF VOLTAGE STABILIZATION]]></dc:title>
+	<dc:title><![CDATA[Генераторы электроэнергии ветроэлектрических установок и способы стабилизации их напряжения]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kvitko A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hitskova A. O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[INSTALLATION WINDFARMS]]></dc:subject>
+	<dc:subject><![CDATA[SYNCHRONOUS GENERATORS WITH PERMANENT MAGNETS]]></dc:subject>
+	<dc:subject><![CDATA[ASYNCHRONOUS GENERATOR]]></dc:subject>
+	<dc:subject><![CDATA[DIRECT FREQUENCY CONVERTER]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article describes the main merits, demerits and peculiarity of choice of electric power generators for wind power plants, as well as ways of stabilization their voltage]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/24.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.318-329]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500040">
+	<dc:title><![CDATA[Расчёт мощности и выбор основных функциональных узлов ветроэлектрической установки]]></dc:title>
+	<dc:title><![CDATA[CALCULATION OF POWER AND CHOICE OF BASIC FUNCTIONAL UNITS OF WIND POWER ELECTRIC-INSTALLATION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kvitko A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Goncharov A. Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[DIRECTLY FREQUENCY INVERTER]]></dc:subject>
+	<dc:subject><![CDATA[DRIVE OF CONSTANT SPEED]]></dc:subject>
+	<dc:subject><![CDATA[WINDFARMS INSTALLATION]]></dc:subject>
+	<dc:subject><![CDATA[WINDFARMS STATION]]></dc:subject>
+	<dc:subject><![CDATA[DRIVE OF CONSTANT FREQUENCY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article discusses the basic analytical expressions for the calculation of power generators and select features basic functional units of wind turbines, allowing the design phase to conduct a preliminary assessment of the effectiveness of wind power stations, which supplies specific consumers of electric power]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/25.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.330-339]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500041">
+	<dc:title><![CDATA[Солнечная энергетика: состояние и перспективы]]></dc:title>
+	<dc:title><![CDATA[SOLAR POWER: CONDITION AND PROSPECTS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Uskov A. E.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Girkin A. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Daurov A. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SYSTEM OF INDEPENDENT ELECTROSUPPLY]]></dc:subject>
+	<dc:subject><![CDATA[SOLAR ENERGY]]></dc:subject>
+	<dc:subject><![CDATA[POTENTIAL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In article the basic lacks and characteristics of solar power stations, features of their design, work and prospect are considered]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/26.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.340-350]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500042">
+	<dc:title><![CDATA[POTENTIAL, FEATURES OF WORK AND ECONOMIC EFFICIENCY OF SOLAR PHOTO-ELECTRIC STATIONS]]></dc:title>
+	<dc:title><![CDATA[Потенциал, особенности работы и экономическая эффективность солнечных фотоэлектрических станций]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Uskov A. E.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Butorina E. O.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bespalov E. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[UNIVERSAL STATIC CONVERTER OF ELECTRIC POWER]]></dc:subject>
+	<dc:subject><![CDATA[SYSTEM OF INDEPENDENT ELECTROSUPPLY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article describes scopes and efficiency of application of solar photo-electric installations on the territory of the Krasnodar region, and as definitions of their key parameters]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/27.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.351-361]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500043">
+	<dc:title><![CDATA[Эффективный способ повышения продуктивности]]></dc:title>
+	<dc:title><![CDATA[EFFICIENT METHOD TO INCREASE PRODUCTIVITY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Коnоnеnко S. I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[YANOGLYCOSIDE]]></dc:subject>
+	<dc:subject><![CDATA[INCREASE IN BODY WEIGHT]]></dc:subject>
+	<dc:subject><![CDATA[BROILERS]]></dc:subject>
+	<dc:subject><![CDATA[ENZYMATIC AGENT]]></dc:subject>
+	<dc:subject><![CDATA[COMBINED FEEDS]]></dc:subject>
+	<dc:subject><![CDATA[GROWTH RATE]]></dc:subject>
+	<dc:subject><![CDATA[AVICULTURE]]></dc:subject>
+	<dc:subject><![CDATA[SORGHUM]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In adverse dry weather conditions the yield of traditional crops is sharply reduced, particularly of maize, therefore it is required a drought-resistant crop with high forage characteristics. This crop is the grain sorghum. The presence of non-starch polysaccharides in sorghum grain creates the preconditions for the inclusion of enzyme preparations in the combined feed for broiler chickens. The aim of the study was to provide high productivity of the broilers fed the combined feed, containing up to 30% of grain sorghum with the additional use of the enzyme preparation "CelloLux -F". Positive results are achieved both in productivity and digestibility of the main nutrients in the combined feed with the enzyme. It is recommended to include the enzyme into combined feed for broiler chickens at the amount of 100g/t of feed. Application of enzymatic agent "CelloLux -F" as a component of combined feeds for broiler chicks favors live weight gain, feed conversion efficiency and safety of young birds. It is recommended to include the enzyme into combined feed for broiler chickens at the amount of 100g/t of feed]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/33.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.427-454]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500044">
+	<dc:title><![CDATA[MEDICINAL PLANTS OF CARDIOVASCULAR ACTION IN NATURAL COMMUNITIES AND COLLECTIONS OF YAKUT BOTANICAL GARDEN]]></dc:title>
+	<dc:title><![CDATA[Лекарственные растения сердечно-сосудистого действия в природных сообществах и коллекциях якутского ботанического сада]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Semenova V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Danilova N. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Androsova D. N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MEDICINAL PLANTS]]></dc:subject>
+	<dc:subject><![CDATA[INTRODUCTION]]></dc:subject>
+	<dc:subject><![CDATA[CARDIO-VASCULAR SYSTEM]]></dc:subject>
+	<dc:subject><![CDATA[YAKUT BOTANICAL GARDEN]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This work was carried out on the natural territories in the collection and of the Yakut botanical garden (JBG). The object of study was medicinal plants used in the treatment of cardio-vascular system. On the natural territories JBG we have noted 39 species of medicinal plants. 26 species were studied in a culture]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/35.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.466-477]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500045">
+	<dc:title><![CDATA[Имитационное моделирование регионального потребительского рынка]]></dc:title>
+	<dc:title><![CDATA[A REGIONAL CONSUMER MARKET SIMULATION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pshunetlev A. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[REGIONAL CONSUMER MARKET]]></dc:subject>
+	<dc:subject><![CDATA[SYSTEM]]></dc:subject>
+	<dc:subject><![CDATA[THE MODEL ADEQUACY]]></dc:subject>
+	<dc:subject><![CDATA[REGION]]></dc:subject>
+	<dc:subject><![CDATA[SENSITIVITY OF THE MODEL]]></dc:subject>
+	<dc:subject><![CDATA[THE NONLINEARITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the opportunities of system dynamics to study the regional consumer market. The synthesis, testing of the simulation model have been carried out, along with presenting examples of the use of the model in the regional management]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/38.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.526-541]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500046">
+	<dc:title><![CDATA[Особенности процесса специализации производства в молочно-продуктовом подкомплексе]]></dc:title>
+	<dc:title><![CDATA[THE FEATURES OF THE PROCESS OF PRODUCTION SPECIALIZATION IN DAIRY PRODUCT SUBCOMPLEX]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bogachev A. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Polykova A. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[DAIRY SUBCOMPLEX]]></dc:subject>
+	<dc:subject><![CDATA[SPECIALIZATION]]></dc:subject>
+	<dc:subject><![CDATA[MILK AND MILK PRODUCTS]]></dc:subject>
+	<dc:subject><![CDATA[MILK PRODUCTION AND PROCESSING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the main results of a comprehensive analysis of the specific features of functioning and contemporary issues of development of Russian dairy subcomplex. Specific features of the process of specialization of a dairy subcomplex which should be considered in the course of strategic management of the enterprises of this type of economic activity are presented]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/39.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.542-557]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500047">
+	<dc:title><![CDATA[USE SORBING ADDITIVES BASED ON MONTMORILLONITE BIRDSEED]]></dc:title>
+	<dc:title><![CDATA[Использование сорбирующих добавок на основе монтмориллонита в кормах для птиц]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zezyulin G. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kapelist L. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zelenkov A. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[VITAMIN-MINERAL ADSORPTION FEED ADDITIVE]]></dc:subject>
+	<dc:subject><![CDATA[BROILERS]]></dc:subject>
+	<dc:subject><![CDATA[MEAT PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[EKOBENTOKORM]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have developed and studied feed additives in broiler diets based on natural montmorillonite varieties. Biological effect of Ekobentokorm additives due to their mineral composition and adsorption properties because of the big nano-pores and vitamin-mineral adsorption feed additive (WMACD), additionally, the effect has been included in its composition of biologically active substances. Effect of use of Ekobentokorm sorbent additives in feed for broilers and vitamin-mineral adsorption feed additives (WMACD) contributed to the increase of meat productivity, preservation of poultry, eating and feed conversion, the improving the carcasses]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/40.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.558-568]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500048">
+	<dc:title><![CDATA[INFLUENCE OF ELECTROMAGNETIC PROCESSING WITH LOW-FREQUENCY RADIATION ON MEAT FEEDSTOCK]]></dc:title>
+	<dc:title><![CDATA[Влияние электромагнитной обработки низкочастотным излучением на мясное сырье]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nesterenko A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Reshetnyak A. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorina E. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MUSCULAR TISSUE]]></dc:subject>
+	<dc:subject><![CDATA[STRUCTURE OF TISSUE]]></dc:subject>
+	<dc:subject><![CDATA[HISTOLOGY]]></dc:subject>
+	<dc:subject><![CDATA[FIBERS]]></dc:subject>
+	<dc:subject><![CDATA[NUCLEI]]></dc:subject>
+	<dc:subject><![CDATA[ELECTROMAGNETIC INFLUENCE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[There were presented the results of researches of influence of low-frequency electromagnetic influence on muscular tissue of pork or meat in this work. There were cited photos, substantiation and comparison of the obtained result]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/44.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.601-613]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500049">
+	<dc:title><![CDATA[RESEARCH OF FERMENTATION INULIN IN THE MANUFACTURE FRUCTOSE-GLUCOSE SYRUP]]></dc:title>
+	<dc:title><![CDATA[Исследование процесса ферментации инулина при производстве фруктозо-глюкозного сиропа]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nazarenko M. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Barkhatova T. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kozhyhova M. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Drozdov R. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[INULIN]]></dc:subject>
+	<dc:subject><![CDATA[FRUCTOSE-GLUCOSE SYRUP]]></dc:subject>
+	<dc:subject><![CDATA[FERMENTATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have investigated the variation mass proportion of reducing sugars in the extracts in hydrolysis of inulin. The influence of temperature, pH and substrate hydrolysis time on the activity of enzyme preparation "Biobar K-1." We have also determined the optimal technological parameters of the process]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/47.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.643-655]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500050">
+	<dc:title><![CDATA[METHODS OF FORMING YEARLINGS CROWN]]></dc:title>
+	<dc:title><![CDATA[Способы формирования крон у однолетних саженцев]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chernov A. I.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CROWNING]]></dc:subject>
+	<dc:subject><![CDATA[STUBBING]]></dc:subject>
+	<dc:subject><![CDATA[VARIETIES]]></dc:subject>
+	<dc:subject><![CDATA[GROWTH REGULATORS]]></dc:subject>
+	<dc:subject><![CDATA[SEEDLINGS]]></dc:subject>
+	<dc:subject><![CDATA[AGRICULTURAL MACHINERY]]></dc:subject>
+	<dc:subject><![CDATA[APPLE-TREE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Growing of crowning yearlings in garden nursery depends on elements of agricultural machinery, which have different effects on the angle of divergence and the number of skeletal branches formed. With the reduction of the period of growing branched yearling costs are lower for planting material, because of exception work in the nursery with two-year seedlings]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/48.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.656-662]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500051">
+	<dc:title><![CDATA[Синтез, гидрирование и биологическая активность фурановых 1,3-диоксоланов с непредельными структурными фрагментами]]></dc:title>
+	<dc:title><![CDATA[SYNTHESIS, HYDROGENATION AND BIOLOGICAL ACTIVITY OF FURAN 1.3-ДИОКСОЛАН WITH UNSATURATED STRUCTURAL FRAGMENTS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Badovskaya L. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ladenko N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dedikova T. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ladenko A. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HYDROGENATION]]></dc:subject>
+	<dc:subject><![CDATA[DIOXOLAN]]></dc:subject>
+	<dc:subject><![CDATA[FURIL]]></dc:subject>
+	<dc:subject><![CDATA[DOUBLE COMMUNICATIONS]]></dc:subject>
+	<dc:subject><![CDATA[EPICHLOROHYDRIN]]></dc:subject>
+	<dc:subject><![CDATA[GROWTH FACTOR]]></dc:subject>
+	<dc:subject><![CDATA[FURFURILIDENATSETON]]></dc:subject>
+	<dc:subject><![CDATA[BIOLOGICAL ACTIVITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have optimized reaction conditions of furfurilidenatseton with epichlorohydrin in the presence of a catalyst of tin chloride and held hydrogenation of double bond of 2-methylene -2 - [(2-furyl]-X-1,3 – dioxolan; we have also given the biological activity of some unsaturated furan 1,3- dioxolans]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/49.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.663-672]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500052">
+	<dc:title><![CDATA[FERTILITY OF MALE GAMETOPHYTE AS A CRITERION IN THE BIOTESTING OF THE IMPACT OF HERBICIDES ON THE REPRODUCTIVE SYSTEM OF SOFT WHEAT]]></dc:title>
+	<dc:title><![CDATA[Показатель фертильности мужского гаметофита как критерий в биотестировании влияния гербицидов на репродуктивную систему озимой мягкой пшеницы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zvyagina A. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[POLLEN GRAINS]]></dc:subject>
+	<dc:subject><![CDATA[FERTILITY]]></dc:subject>
+	<dc:subject><![CDATA[HERBICIDE]]></dc:subject>
+	<dc:subject><![CDATA[WINTER WHEAT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Using the method of rapid assessment of the environmental state on the Steel of pollen-bioindicators test-system the study was conducted to determine fertility of male gametophyte of soft wheat in the conditions of herbicide load]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/50.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.673-683]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500053">
+	<dc:title><![CDATA[FORMATION OF A GEO-REFERENCED DATABASE TO SOLVE PROBLEMS OF NATURAL AND INDUSTRIAL SAFETY FOR SUSTAINABLE DEVELOPMENT OF THE TERRITORY]]></dc:title>
+	<dc:title><![CDATA[Формирование геоинформационной базы данных при решении задач природно-техногенной безопасности как фактор обеспечения устойчивого развития территории]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Struchkova G. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kapitonova T. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EMERGENCY]]></dc:subject>
+	<dc:subject><![CDATA[GIS DATA BASE]]></dc:subject>
+	<dc:subject><![CDATA[PERMAFROST]]></dc:subject>
+	<dc:subject><![CDATA[PIPELINE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Ensuring sustainable development of territories and minimizing damages from the possible occurrence of natural and technogenic emergencies, especially those sparsely populated as the Republic of Sakha (Yakutia), requires the use of GIS technologies. For this purpose developed geospatial data base structure (GDB) which allows solving problems of monitoring and providing safe exploitation of potentially dangerous objects. Furthermore in the process of solving problems GDB takes into account natural hazards, assessment of technical condition of potentially dangerous objects and anthropogenic impacts on the environment]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/51.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.684-693]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500054">
+	<dc:title><![CDATA[FATTENING AND MEAT QUALITIES, THE QUALITY OF THE MEAT OF YOUNG ANIMALS PIGS OF DIFFERENT GENOTYPES]]></dc:title>
+	<dc:title><![CDATA[Откормочные и мясные качества, качество мяса молодняка свиней разных генотипов]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kozlikin A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tarichenko A. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lodyanov V. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MEAT]]></dc:subject>
+	<dc:subject><![CDATA[BACON]]></dc:subject>
+	<dc:subject><![CDATA[PHYSIC-CHEMICAL PROPERTIES]]></dc:subject>
+	<dc:subject><![CDATA[QUALITY OF PORK]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have given the complex estimation of the productive and meat quality of genuine Russian pigs of meat types, and crossbred animals received with participation of foreign varieties]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/55.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.754-763]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500055">
+	<dc:title><![CDATA[Откормочная и мясная продуктивность индеек кросса BIG-6 при выращивании на рационах с биодобавками «Глималаск лакт» и «Агроцид супер олиго»]]></dc:title>
+	<dc:title><![CDATA[FATTENING AND MEAT PRODUCTIVITY OF TURKEYS OF THE BIG-6 CROSS WHEN GROWING WITH RATIONS OF GLIMALASK LACT AND AGROCID SUPER OLIGO ADDITIVES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Fedyuk V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sementchenko S. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zhilin T. O.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ENZYMES]]></dc:subject>
+	<dc:subject><![CDATA[GROWTH]]></dc:subject>
+	<dc:subject><![CDATA[CROSS]]></dc:subject>
+	<dc:subject><![CDATA[CARCASS]]></dc:subject>
+	<dc:subject><![CDATA[TURKEY]]></dc:subject>
+	<dc:subject><![CDATA[VARIETIES OF SUPPLEMENTS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[There was studied the influence of dietary supplements “Glimalask Lact and Agrocid super oligo” on meat productivity and metabolism at cultivation of turkeys of the BIG-6 cross]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/56.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.764-774]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500056">
+	<dc:title><![CDATA[INFLUENCE OF BIOLOGICALLY ACTIVE AGENTS ON A STRUCTURAL STATE AND THE ENZYMATIC ACTIVITY OF BLACK ORDINARY CARBONATED SOIL]]></dc:title>
+	<dc:title><![CDATA[Влияние биологически активных веществ на структурное состояние и ферментативную активность чернозёма обыкновенного карбонатного]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lychman V. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bezuglova O. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CATALASE ACTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[BIOLOGICALLY ACTIVE SUBSTENCES]]></dc:subject>
+	<dc:subject><![CDATA[ORDINARY CARBONATEВ BLACK SOIL]]></dc:subject>
+	<dc:subject><![CDATA[SOIL STRUCTURE]]></dc:subject>
+	<dc:subject><![CDATA[INVERTASE ACTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[LIQUID COMPLEX FERTILIZER]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The results of a long-term research of the influence of various biologically active agents (a humic preparation Lignogumat and microbiological Baikal EM fertilizer) on a structural state and the enzymatic activity of ordinary carbonated black soil are presented. It has been established that biologically active substances contribute to increased enzymatic activity, humus and improve the soil structure]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/59.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.799-813]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500057">
+	<dc:title><![CDATA[TEORY OF MIXING DRUGS WITH WATER IN DRINCING SYSTEMS FATTENING PIG FARMS]]></dc:title>
+	<dc:title><![CDATA[Теория смешивания лекарственных препаратов с водой в системе поения откормочной свинофермы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kovalenko V. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Korneev D. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MEDICINE]]></dc:subject>
+	<dc:subject><![CDATA[MIXTURE]]></dc:subject>
+	<dc:subject><![CDATA[TURBULENT MODE]]></dc:subject>
+	<dc:subject><![CDATA[EXPENSE]]></dc:subject>
+	<dc:subject><![CDATA[PREPARATION INTRODUCTION]]></dc:subject>
+	<dc:subject><![CDATA[MASS EXCHANGE]]></dc:subject>
+	<dc:subject><![CDATA[MOVEMENT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The prospect of medicators application by means of injection of liquid medicine is substantiated. Principals of physical process of mixing liquid medicine are determined. Distribution of injected medicine concentration on pipeline section is established in the article]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/60.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.814-825]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500058">
+	<dc:title><![CDATA[INTERNATIONAL HISTORY AND POLITICAL ANALYSIS OF FOOD SECURITY IN THE GLOBALIZATION]]></dc:title>
+	<dc:title><![CDATA[Международный историко-политический анализ вопроса обеспечения продовольственной безопасности в условиях глобализации]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sigidov Y. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Scholl V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Martynenko E. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Barannikov A. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GLOBALIZATION PROCESSES]]></dc:subject>
+	<dc:subject><![CDATA[INTERNATIONAL ORGAN-IZATIONS]]></dc:subject>
+	<dc:subject><![CDATA[FOOD PROBLEM]]></dc:subject>
+	<dc:subject><![CDATA[GLOBALIZATION]]></dc:subject>
+	<dc:subject><![CDATA[FOOD SECURITY]]></dc:subject>
+	<dc:subject><![CDATA[CONCEPT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have analyzed some topical historical, political, international and legal food security aspects in the globalization conditions]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/61.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.826-843]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500059">
+	<dc:title><![CDATA[APOGEOTROPIC SHOOTS OF CEREALS]]></dc:title>
+	<dc:title><![CDATA[Апогеотропные побеги злаков]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Belyuchenko I. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HIDDEN GENERATIVE]]></dc:subject>
+	<dc:subject><![CDATA[SIDE STALKS]]></dc:subject>
+	<dc:subject><![CDATA[GENERATIVE]]></dc:subject>
+	<dc:subject><![CDATA[DIRECTION OF GROWTH]]></dc:subject>
+	<dc:subject><![CDATA[APOGEOTROPIC]]></dc:subject>
+	<dc:subject><![CDATA[VEGETATIVELY-LONG AND SHORT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Apogeotropic shoots of cereal different of wide range of types of shoots, noticeable differences on characteristic, features of development, their role in the herbage, the seasonal dynamics of crop formation, experiencing noticeable effect on the reaction conditions of soil fertility and humidity. Multiyear cereals in the process of shoot formation form the generative, hidden generative, elongated, short side and underground runners. Multiyear cereals are widely distributed throughout the world, including the tribe Antropogoneae, Chloridaeae, Maydae, Peniceae, Tripsaceae, Festucoideae and others that presented in different parts of the world, and perennial and annual forms. Many cereals are allocated notable longevity, which is largely determined by a wide adaptability to vegetatively propagate. Between northern and southern grasses differences are observed throughout the development of individuals, beginning with emergence. In the southern cereal first sheet has a lancet or ovoid shape and bent at a right angle to his vagina, it is the northern linear subulate form. Cereals are different typology of different shoots. Most large divergence is characterized with erect shoots in both groups of cereals]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/62.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.844-869]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500060">
+	<dc:title><![CDATA[DIAGEOTROPIC SHOOTS OF PERENNIAL GRASSES IN THE SOUTHERN REGIONS OF THE CIS]]></dc:title>
+	<dc:title><![CDATA[Диагеотропные побеги многолетних злаков в южных районах СНГ]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Belyuchenko I. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ABOVEGROUND STOLONS]]></dc:subject>
+	<dc:subject><![CDATA[RHIZOMES]]></dc:subject>
+	<dc:subject><![CDATA[SURFACE AND UNDERGROUND STOLONS]]></dc:subject>
+	<dc:subject><![CDATA[STOLONS RHIZOME]]></dc:subject>
+	<dc:subject><![CDATA[PRESENT AND FALSE RHIZOMES]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Studying of perennial cereals of southern and boreal origin led to the allocation of plagiotropic shoots of rhizomes, stolons, that are placed in the soil or on the surface from the apical or lateral kidney of various structures with modified leaves, the beginnings of roots at nodes and developing of type kidney - lengthened shoots. Two types was allocated: type of solid finned cylinder and type of intermittent cylinder with scattered around the periphery of vascular bundles: first include cereals temperate regions and is characterized by separation from the epidermis continuous sclerenchyma ring, the second type (sorghum and millet) no continuous mechanical ring and vascular bundles relatively evenly spaced along the periphery of the shoots]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/63.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.870-887]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500061">
+	<dc:title><![CDATA[DEVELOPMENT OF TECHNOLOGY OF WHEY BASED DRINKS, ENRICHED WITH PLANT COMPONENTS]]></dc:title>
+	<dc:title><![CDATA[Разработка технологии напитков на основе молочной сыворотки, обогащенных фитокомпонентами]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Brykalov A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pilipenko N. Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[TECHNOLOGY]]></dc:subject>
+	<dc:subject><![CDATA[WHEY]]></dc:subject>
+	<dc:subject><![CDATA[CAPILLARY ELECTROPHORESIS]]></dc:subject>
+	<dc:subject><![CDATA[MEDICINAL PLANTS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Data of application of researches of vegetative components in reception of drinks from dairy whey of a functional purpose are shown]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/64.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.888-899]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500062">
+	<dc:title><![CDATA[JET SYSTEM OF MIXTURE OF FERTILIZERS AT FERTIGATION IRRIGATION CROP ROTATION OF TOMATOES AND CUCUMBERS FOR CULTIVATION IN THE PROTECTED SOIL IN THE CONDITIONS OF THE ROSTOV REGION]]></dc:title>
+	<dc:title><![CDATA[Струйная система смешения удобрений при фертигационном орошении культурооборота томата и огурца для выращивания в защищённом грунте в условиях Ростовской области]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Degtyareva K. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chaika E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ananyev S. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Urzhumova Y. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tarasyants S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[LOCAL LOW PRESSURE SYSTEM OF IRRIGATION]]></dc:subject>
+	<dc:subject><![CDATA[CENTRIFUGAL PUMP]]></dc:subject>
+	<dc:subject><![CDATA[TOMATO]]></dc:subject>
+	<dc:subject><![CDATA[IRRIGATION MIX]]></dc:subject>
+	<dc:subject><![CDATA[IRRIGATING NETWORK]]></dc:subject>
+	<dc:subject><![CDATA[DISTRIBUTIVE PIPELINE]]></dc:subject>
+	<dc:subject><![CDATA[DUNG]]></dc:subject>
+	<dc:subject><![CDATA[LOW PRESSURE IRRIGATING SYSTEMS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this article the scheme of landing of early tomatoes and cucumbers in the climatic conditions of the Rostov region is described; we have also calculated the dose of fertilizers for jet system of mixture at a fertigation irrigation. The conclusion is drawn with a possibility of cultivation crop rotation of tomatoes and cucumbers in not heated greenhouses with application of fertilizers]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/66.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.921-931]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500063">
+	<dc:title><![CDATA[Технологический процесс выращивания культурооборота томата и огурца в защищённом грунте с использованием животноводческих стоков и птичьего помёта]]></dc:title>
+	<dc:title><![CDATA[TECHNOLOGICAL PROCESS OF CULTIVATION OF TOMATOES AND CUCUMBERS IN THE PROTECTED SOIL WITH USE OF LIVESTOCK DRAINS AND THE BIRD'S DUNG]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Degtyareva K. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chaika E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ananyev S. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Urzhumova Y. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tarasyants S. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[LOW HEAD IRRIGATION PROJECT]]></dc:subject>
+	<dc:subject><![CDATA[MANURE RUNOFF DISCHARGE]]></dc:subject>
+	<dc:subject><![CDATA[NUTRIENTS APPLICATION]]></dc:subject>
+	<dc:subject><![CDATA[DISTRIBUTION LINE]]></dc:subject>
+	<dc:subject><![CDATA[IRRIGATION NETWORK]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The analysis of the developed types of local system of an irrigation is presented in this article with simultaneous input of nutrients. On the basis of an experimental material it is noted that development of the technological process is necessary for the solution of this problem, allowing to provide sufficient input of nutrients, at cultivation of vegetable and fruit crops. Installation for mixture of fertilizers and water according to the patent 2448450 is considered]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/67.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.932-941]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500064">
+	<dc:title><![CDATA[STUDY OF AROMATIC CONTENT OF DIFFERENT BRANDIES MADE IN ARMENIA]]></dc:title>
+	<dc:title><![CDATA[Исследование ароматического состава различных бренди, произведенных в республике Армения]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sukoyan M. R.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kazumyan K. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gharibyan H. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guguchkina T. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Troshin L. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MUSCAT GRADES]]></dc:subject>
+	<dc:subject><![CDATA[AROMATIC COMPONENTS]]></dc:subject>
+	<dc:subject><![CDATA[BRANDY BLEND]]></dc:subject>
+	<dc:subject><![CDATA[LIQUEUR WINE]]></dc:subject>
+	<dc:subject><![CDATA[WINE DISTILLATES]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Brandy alcohols from the grades of Muscat Berkatu, Kakhet and mixes of white grades of grapes became objects of researches. The content of some aromatic components of wine alcohols was investigated using the device of a gas-liquid chromatography Clarus-400 (with the ardent and ionization detector, a capillary column, 60 m x 0,32 mm, Elite-WAX ETR, gas-carrier-helium). Muscat alcohol according to the general content of aromatic substances (919,35 mg / 100 ml a.a.) was different from the other studied samples at the expense of the high content of ethyl acetate and izoamyl alcohol. As a result of the organoleptic analysis of a blend samples it was allocated a brandy blend with the following ratios of alcohol and wine - a blend alcohol – 74,37 %, liqueur wine – 25,63 % with strong muscat aroma and shades of taste]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/68.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.942-948]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500065">
+	<dc:title><![CDATA[Изучение продуктивности главного колоса стародавних сортов озимой мягкой пшеницы]]></dc:title>
+	<dc:title><![CDATA[STUDY OF PRODUCTIVITY OF MAIN EAR OF THE LANDRACE VARIETIES OF WINTER WHEAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Koshkin S. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tsatsenko L. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CONE OF GROWING]]></dc:subject>
+	<dc:subject><![CDATA[SEED PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[NARROWNESS OF CORRELATION]]></dc:subject>
+	<dc:subject><![CDATA[MODIFICATION VARIABILITY]]></dc:subject>
+	<dc:subject><![CDATA[POTENTIAL PRODUCTIVITY IMPLEMENTED PRODUCTIVITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of study of the reproductive capacity of landrace varieties of winter wheat on the example of the chief of the ear. Analysis of sales productivity was conducted by the method of F. M. Kuperman. We have also considered the relation of actual productivity number formed flowers on the 6th stage of ontogenesis]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/69.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.949-958]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500066">
+	<dc:title><![CDATA[INNOVATION INGREDIENTS IN THE TECHNOLOGY OF BAKERY]]></dc:title>
+	<dc:title><![CDATA[Инновационные ингредиенты в технологии хлебопечения]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Roslyakov Y. F.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vershinina O. L.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gonchar V. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[TECHNOLOGY]]></dc:subject>
+	<dc:subject><![CDATA[BAKERY PRODUCTS]]></dc:subject>
+	<dc:subject><![CDATA[NUTRIENTS]]></dc:subject>
+	<dc:subject><![CDATA[RECIPES]]></dc:subject>
+	<dc:subject><![CDATA[DIETARY SUPPLEMENTS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article shows the expediency of the use of natural dietary supplements and nutrients in the development of domestic production of bakery products with desired properties]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/70.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.959-968]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500067">
+	<dc:title><![CDATA[INFLUENCE OF MICROFERTILIZERS ON PRODUCTIVITY AND QUALITY OF SUGAR BEET ROOTS]]></dc:title>
+	<dc:title><![CDATA[Влияние микроудобрений на урожайность и качество корнеплодов сахарной свеклы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Buldykova I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sheudghen A. H.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SUGAR CONTENT]]></dc:subject>
+	<dc:subject><![CDATA[FOLIAR PLANT FERTILIZING]]></dc:subject>
+	<dc:subject><![CDATA[MICROELEMENTS]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[BEET ROOTS]]></dc:subject>
+	<dc:subject><![CDATA[PHASES OF VEGETATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Positive effect of microelements on productivity and quality of sugar beet on the leached black soil of the West Fore-Caucasus region has been determined]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/72.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.980-990]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500068">
+	<dc:title><![CDATA[Управление персоналом с применением функционально-стоимостного и системно-когнитивного анализа]]></dc:title>
+	<dc:title><![CDATA[MANAGEMENT OF THE PERSONNEL WITH THE USE OF FUNCTIONAL-COST AND SYSTEMIC-COGNITIVE ANALYSIS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lutsenko Y. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Korzhakov V. Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EIDOS INTELLECTUAL SYSTEM]]></dc:subject>
+	<dc:subject><![CDATA[APPLICATION OF INTELLIGENT MEASURING SYSTEMS]]></dc:subject>
+	<dc:subject><![CDATA[DEVELOPMENT]]></dc:subject>
+	<dc:subject><![CDATA[AUTOMATED SYSTEM-COGNITIVE ANALYSIS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article briefly describes the essence of management, stating the goals and structure of the system of personnel management. It considers the essence of the method of functional-cost analysis (FCA) and, as a major gap, we have noted a low level of formalization, which requires the involvement of experts in applying the FSA. It also specifies the difference between the cost and the cost price. We consider the decision of questions of creation of the personnel management system on the FCA basis using the method of automated system-cognitive analysis (ASA-analysis), in particular: the measurement of the severity of socio-economic and psychological properties, metric scales, build intellectual measuring system, the development and application of models, providing both building occupation graphs and their application to measure the degree of compliance of the Respondent with the requirements of professional positions and to the positions including the cost of employment of personnel and resources allocated for staff on posts. The proposed approach can be applied not only at the decision of tasks of human resource management with DAF method, but when you apply the FSA in a variety of subject areas, in particular - the method of direct-Costing]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/75.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1025-1057]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500069">
+	<dc:title><![CDATA[GENOTYPING OF THREE NEW PRODUCTIVE WINE VARIETIES WITH USING MICROSATELLITE MARKERS]]></dc:title>
+	<dc:title><![CDATA[Генотипирование продуктивных протоклонов трех технических сортов винограда с использованием микросателлитных маркёров]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Milovanov A. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zvyagin A. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Troshin L. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[MICROSATELLITE]]></dc:subject>
+	<dc:subject><![CDATA[NUCLEOTIDE]]></dc:subject>
+	<dc:subject><![CDATA[DNA]]></dc:subject>
+	<dc:subject><![CDATA[SSR-MARKER]]></dc:subject>
+	<dc:subject><![CDATA[GRAPE]]></dc:subject>
+	<dc:subject><![CDATA[VARIETY]]></dc:subject>
+	<dc:subject><![CDATA[PROTOCLONE]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this article we have described a study of genotyping of new three productive wine grapes protoclones: Rhine Rieslin, Verdot black and Johanniter]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/77.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1073-1087]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500070">
+	<dc:title><![CDATA[INFLUENCE OF MICROFERTILIZERS ON PRODUCTIVITY AND QUALITY OF CORN]]></dc:title>
+	<dc:title><![CDATA[Влияние микроудобрений на урожайность и качество зерна кукурузы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Buldykova I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sheudghen A. H.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CROP STRUKTURE]]></dc:subject>
+	<dc:subject><![CDATA[FOLIAR PLANT FERTILIZING]]></dc:subject>
+	<dc:subject><![CDATA[MICROELEMENTS]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[CORN]]></dc:subject>
+	<dc:subject><![CDATA[PHASES OF VEGETATION]]></dc:subject>
+	<dc:subject><![CDATA[QUALITTY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Positive effect of microelements on productivity and quality grain of corn on the leached black soil of the West Fore-Caucasus has been determined]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/79.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1098-1112]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500071">
+	<dc:title><![CDATA[PRIORITY WAYS OF GLOBAL FOOD PROBLEM SOLUTION]]></dc:title>
+	<dc:title><![CDATA[Приоритетные направления решения глобальной продовольственной проблемы]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Melnikov B. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[AGRICULTURAL PRODUCTION]]></dc:subject>
+	<dc:subject><![CDATA[MALNUTRITION AND HUNGER]]></dc:subject>
+	<dc:subject><![CDATA[FOOD PROBLEM]]></dc:subject>
+	<dc:subject><![CDATA[DEVELOPING COUNTRIES]]></dc:subject>
+	<dc:subject><![CDATA[GLOBALIZATION]]></dc:subject>
+	<dc:subject><![CDATA[ECONOMIC PRIORITIES]]></dc:subject>
+	<dc:subject><![CDATA[WAYS OF SUPRANATIONAL REGULATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article identifies factors that contribute low efficiency of supranational regulation and providing the world's population with food. It also gives a comprehensive analysis of the current state of global food security problem and priority ways of its solutions]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/81.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1134-1143]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500072">
+	<dc:title><![CDATA[Повышение эффективности уборочных операций (на примере картофеля)]]></dc:title>
+	<dc:title><![CDATA[IMPROVING THE EFFICIENCY OF HARVESTING OPERATIONS (ON THE EXAMPLE OF POTATOES)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pavlov V. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Uspensky I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yukhin I. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pankova E. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[КАРТОФЕЛЬ]]></dc:subject>
+	<dc:subject><![CDATA[ПРОЦЕСС УБОРКИ]]></dc:subject>
+	<dc:subject><![CDATA[СЕПАРИРУЮЩИЙ РАБОЧИЙ ОРГАН]]></dc:subject>
+	<dc:subject><![CDATA[КАРТОФЕЛЕУБОРОЧНАЯ МАШИНА]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the scheme-constructive solution for the separating working organ of the potato harvester, that allows to improve separation efficiency of root crops off the stems tops of vegetable and plant residues in difficult harvesting conditions, as well as reducing the amount of damage to tubers]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/83.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1154-1164]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500073">
+	<dc:title><![CDATA[RAPID METHODS OF MONITORING CRITICAL CONTROL POINTS IN THE PRODUCTION OF MEAT AND FISH PRODUCTS AT THE ENTERPRISES CERTIFIED UNDER HACCP]]></dc:title>
+	<dc:title><![CDATA[Ускоренные методы мониторинга критически контрольных точек при производстве мясной и рыбной продукции на предприятиях, сертифицированных по системе ХАССП]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ganovich G. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Denisova E. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Babunova V. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Brovkina A. N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HACCP SYSTEM]]></dc:subject>
+	<dc:subject><![CDATA[CRITICAL CONTROL POINTS]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTION OF MEAT AND FISH PRODUCTS]]></dc:subject>
+	<dc:subject><![CDATA[RAPID METHODS]]></dc:subject>
+	<dc:subject><![CDATA[MONITORING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article is devoted to the urgent task of improving the identification of hazardous factors in the monitoring of critical control points of meat and fish enterprises using accelerated methods and automated instruments]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/85.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1177-1189]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500074">
+	<dc:title><![CDATA[Биохимическое действие мутации регуляторного гена opaque-2 в зерне высоколизиновой кукурузы: 50 лет исследований]]></dc:title>
+	<dc:title><![CDATA[BIOCHEMICAL IMPACT OF OPAQUE-2 REGULATORY GENE MUTATION IN HIGH-LYSINE CORN KERNEL: 50 YEARS OF INVESTIGATION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Plotnikov V. K.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ryadchikov V. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GENE]]></dc:subject>
+	<dc:subject><![CDATA[LYSINE]]></dc:subject>
+	<dc:subject><![CDATA[OPAQUE-2]]></dc:subject>
+	<dc:subject><![CDATA[SEEDS]]></dc:subject>
+	<dc:subject><![CDATA[MUTATION]]></dc:subject>
+	<dc:subject><![CDATA[TRIPTOPHANE]]></dc:subject>
+	<dc:subject><![CDATA[MAIZE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The main aim of this article is to generalize the results of biochemical and molecular research of developing opaque-2 maize seeds (high-lysine mutant of maize) metabolism peculiarities]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/88.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1225-1259]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500075">
+	<dc:title><![CDATA[Утроение сельскохозяйственного производства: миф или реальность?]]></dc:title>
+	<dc:title><![CDATA[TRIPLING AGRICULTURAL PRODUCTION: MYTH OR REALITY?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Klimova N. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[IMPORT]]></dc:subject>
+	<dc:subject><![CDATA[STATE AGRICULTURAL POLICY]]></dc:subject>
+	<dc:subject><![CDATA[AGRICULTURE]]></dc:subject>
+	<dc:subject><![CDATA[POTENTIAL]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTION]]></dc:subject>
+	<dc:subject><![CDATA[YIELD]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents downward trend of agrarian production since the pre-reform period using the graphical method. We have reasoned the arguments and given the impossibility of three-time growth of agricultural production in 2020, despite having good potential key resources which are land and labor. The possible priority tools of the effective agricultural policy, as a single integral mechanism aimed at revenue growth of agricultural producers and farmers]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/89.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1260-1269]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500076">
+	<dc:title><![CDATA[Изучение состояния влаги в тесте с криопротекторами, методом ядерно-магнитного резонанса]]></dc:title>
+	<dc:title><![CDATA[STUDY OF MOISTURE CONDITION IN DOUGH WITH CRYOPROTECTORS BY MEANS OF NUCLEAR-MAGNETIC RESONANCE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Keniyz N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sokol N. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PECTIN]]></dc:subject>
+	<dc:subject><![CDATA[CRYOPROTECTOR]]></dc:subject>
+	<dc:subject><![CDATA[BREAD]]></dc:subject>
+	<dc:subject><![CDATA[DOUGH SEMI-FINISHED FOODS]]></dc:subject>
+	<dc:subject><![CDATA[YEAST]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[There were presented the results of researches of pectin influence as a cryoprotector on rheological properties of dough and physical-chemical indexes of bread quality in the article. We have also obtained the results which allow recommending pectin in the technology of bread producing from frozen semi-finished foods]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/90.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1270-1276]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500077">
+	<dc:title><![CDATA[BRAKE MODES OF LINEAR MOTORS FOR TRACTION TASTS OF TRACTORS]]></dc:title>
+	<dc:title><![CDATA[Тормозные режимы линейных двигателей для тяговых испытаний тракторов]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Davydov S. K.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EXPERIMENT]]></dc:subject>
+	<dc:subject><![CDATA[MODEL]]></dc:subject>
+	<dc:subject><![CDATA[TRACTIV RESISTANCE]]></dc:subject>
+	<dc:subject><![CDATA[MAGNETIC FIELD]]></dc:subject>
+	<dc:subject><![CDATA[LINEAR ELECTRIC MOTOR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article considers the question of the use of linear motors of different types of constructions for the tests of tractors in laboratory conditions. The most important results and technologies of modeling are discussed]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/96.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1352-1368]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500078">
+	<dc:title><![CDATA[Расчет тягового сопротивления чизельного рабочего органа для послойной безотвальной обработки почвы]]></dc:title>
+	<dc:title><![CDATA[CALCULATION OF MAGNETIC RESISTANCE OF A CHISEL WORKING ORGAN FOR FIBREWISE SUBSURFACE TILLAGE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bozhko I. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ELLIPTIC ELEMENTS]]></dc:subject>
+	<dc:subject><![CDATA[SUBSURFACE TILLAGE]]></dc:subject>
+	<dc:subject><![CDATA[CALCULATION OF MAGNETIC RESISTANCE]]></dc:subject>
+	<dc:subject><![CDATA[CHISEL WORKING BODIES]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents a calculation of traction resistance chisel working organ for layered subsurface soil treatment and proposed the construction of a working body for subsurface tillage with an elliptical element. We have also included a comparative analysis of traction resistance of workers to the waterline and moldboard tillage]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/98.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1383-1398]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500079">
+	<dc:title><![CDATA[Моделирование ветровых нагрузок, действующих на конструкции ветроэлектрических станций комбинированного типа]]></dc:title>
+	<dc:title><![CDATA[MODELING OF WIND LOADS ACTING ON THE WIND POWER STATION CONSTRUCTION OF THE COMBINED TYPE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bukhtoyarova E. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[WIND POWER STATIONS]]></dc:subject>
+	<dc:subject><![CDATA[WIND LOAD]]></dc:subject>
+	<dc:subject><![CDATA[STRUCTURAL DYNAMIC MODELING]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the solution of questions about the intensity of wind loads acting on the wind power station of the combined type in relation to the conditions of the Rostov region on the basis of the structural dynamic simulation]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/99.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1399-1408]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500080">
+	<dc:title><![CDATA[Использование отходов переработки растительного сырья для получения функциональных кормовых добавок]]></dc:title>
+	<dc:title><![CDATA[THE USE OF WASTE VEGETABLE RAW MATERIALS FOR THE PRODUCTION OF FUNCTIONAL FEED ADDITIVES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khusid S. B.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zholobova I. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dmitrienko S. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nesterenko E. E.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[МОЛОЧНОКИСЛЫЕ БАКТЕРИИ]]></dc:subject>
+	<dc:subject><![CDATA[КОНСЕРВАНТ]]></dc:subject>
+	<dc:subject><![CDATA[ВТОРИЧНОЕ СЫРЬЕ]]></dc:subject>
+	<dc:subject><![CDATA[ПИЩЕВАЯ ПРОМЫШЛЕННОСТЬ]]></dc:subject>
+	<dc:subject><![CDATA[ФУНКЦИОНАЛЬНАЯ КОРМОВАЯ ДОБАВКА]]></dc:subject>
+	<dc:subject><![CDATA[ОТХОДЫ]]></dc:subject>
+	<dc:subject><![CDATA[ШТАММЫ]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of obtaining functional feed additive based on secondary plants (tomato pomace and corn mash) in the preservation of their lactic acid bacteria strains]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/101.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1422-1430]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500081">
+	<dc:title><![CDATA[PLANT HEIGHT AND ACCUMULATION ALFAALFA BIOMASS AGROTCENORE FERTILIZING]]></dc:title>
+	<dc:title><![CDATA[Высота растений и накопление биомассы люцерновым агроценозом при внесении удобрений]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Drozdova V. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sheudghen A. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Huako A. Y.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014-04-30]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[FERTILIZERS]]></dc:subject>
+	<dc:subject><![CDATA[BIOMASS]]></dc:subject>
+	<dc:subject><![CDATA[PLANT HEIGHT]]></dc:subject>
+	<dc:subject><![CDATA[SEMANTIC MEDICAGO]]></dc:subject>
+	<dc:subject><![CDATA[BLACK LEACHED SOIL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This article shows the results of the studies of the influence of fertilizers on plant height and accumulation of biomass in alfalfa plants]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2014/04/pdf/107.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.1499-1512]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500082">
+	<dc:title><![CDATA[Влияние почвы на произрастающие виды древесной растительности]]></dc:title>
+	<dc:title><![CDATA[INFLUENCE OF THE SOIL ON GROWING TYPES OF WOOD VEGETATION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Irkovsky E. R.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Odnoralov G. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kharchenko N. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HUMUS]]></dc:subject>
+	<dc:subject><![CDATA[BIOMASS]]></dc:subject>
+	<dc:subject><![CDATA[TREE WASTE]]></dc:subject>
+	<dc:subject><![CDATA[ACIDITY]]></dc:subject>
+	<dc:subject><![CDATA[ENGLISH OAK]]></dc:subject>
+	<dc:subject><![CDATA[SOIL BIOGEOGORIZONT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article reflects influences of soil conditions on growing types of wood vegetation. The carried-out chemical analyses show quantity of chemical elements which have to arrive to the soil with tree waste, and also acidity of the soil]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/28.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.417-426]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500083">
+	<dc:title><![CDATA[Влияние биогеогоризонтов на состояние дубовых насаждений]]></dc:title>
+	<dc:title><![CDATA[INFLUENCE OF THE BIOGEOHORIZONS ON THE CONDITION OF OAK PLANTINGS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Irkovsky E. R.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Odnoralov G. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[BIOMASS]]></dc:subject>
+	<dc:subject><![CDATA[ENGLISH OAK]]></dc:subject>
+	<dc:subject><![CDATA[BIOGEOHORIZON]]></dc:subject>
+	<dc:subject><![CDATA[SOILS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article reflects the influences of the biogeohorizons on structure of oak plantings. It also shows biomass model of oak trees and its satellites in the studied areas]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/30.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.437-447]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500084">
+	<dc:title><![CDATA[Имитационное моделирование работы машины для обработки почвы на вырубках и гарях]]></dc:title>
+	<dc:title><![CDATA[SIMULATED MACHINES FOR SOIL TREATMENT FOR FELLING AND SLASH AREAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alekseev A. E.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kamenskih A. D.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Semenov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Onychin E. M.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SIMULATION MODELS]]></dc:subject>
+	<dc:subject><![CDATA[TILLAGE]]></dc:subject>
+	<dc:subject><![CDATA[PRODUCTIVITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the results of a simulation of functioning machines for tillage in AutoCAD Mechanical environment, the algorithm of machine work and the results of numerical experiments on the developed model]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/31.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.448-457]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500085">
+	<dc:title><![CDATA[Критерии эффективности технико-технологических систем на базе каталитических устройств сжигания биогенных жидких и газообразных топлив для теплоснабжения различных производственных объектов лесного и агропромышленного комплексов]]></dc:title>
+	<dc:title><![CDATA[PERFORMANCE CRITERIA OF TECHNICAL AND TECHNOLOGICAL SYSTEMS BASED ON CATALYTIC COMBUSTION DEVICE BIOGENIC LIQUID AND GASEOUS FUELS FOR HEAT VARIOUS PRODUCTION FACILITIES OF AGRICULTURE AND FORESTRY COMPLEX]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Onychin E. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Medyakov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anisimov P. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kamenskih A. D.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ostashenkov A. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[EFFECTIVE OPERATION]]></dc:subject>
+	<dc:subject><![CDATA[COMPLEX PASECHNOYE]]></dc:subject>
+	<dc:subject><![CDATA[LIVESTOCK FARMS GREENHOUSE COMPLEX]]></dc:subject>
+	<dc:subject><![CDATA[FOREST COMPLEX]]></dc:subject>
+	<dc:subject><![CDATA[HEAT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article assesses the energy efficiency of the technical and technological systems based on catalytic combustion systems nutrient liquid and gaseous fuels for heating various production facilities and agro-forestry systems]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/32.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.458-474]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500086">
+	<dc:title><![CDATA[THEORETICAL FUNDAMENTALS OF ELECTROCHEMICAL TREATMENT OF WATER SOLUTIONS]]></dc:title>
+	<dc:title><![CDATA[Теоретические основы электрохимической обработки водных растворов]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Plutakhin G. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aider M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Koshchayev A. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gnatko E. N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ANOLYTE]]></dc:subject>
+	<dc:subject><![CDATA[ELECTROACTIVATED WATER SOLUTIONS]]></dc:subject>
+	<dc:subject><![CDATA[ELEKTROAKTIVATOR]]></dc:subject>
+	<dc:subject><![CDATA[CATHOLYTE]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The present review highlights the theoretical founda-tions of electric activation of aqueous solutions, their characteristics and properties]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/35.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.517-541]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500087">
+	<dc:title><![CDATA[Оценка качества дерновых покрытий, созданных на основе видов и сортов злаков-представителей холодного климата]]></dc:title>
+	<dc:title><![CDATA[EVALUATION OF TURF QUALITY FOR COOL SEASON SPECIES AND CULTIVARS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khaseeva K. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[GROUND COVERAGE]]></dc:subject>
+	<dc:subject><![CDATA[COOL SEASON GRASSES]]></dc:subject>
+	<dc:subject><![CDATA[QUALITY]]></dc:subject>
+	<dc:subject><![CDATA[GERMINATION PERCENTAGE]]></dc:subject>
+	<dc:subject><![CDATA[TURFGRASS]]></dc:subject>
+	<dc:subject><![CDATA[DENSITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Series of field and laboratory studies were conducted from 2011 to 2012 in Russian State Agrarian University to evaluate a collection of 4 turf grass species and 15 cultivars for quality, summer density, ground cover and germination percentage. During 2 experimental seasons the plants have been growing with the extensive treatments. Turf quality was evaluated visually using a 1 to 9 scale. The two-way analysis of variance was used to identify genotype’s effects on density, ground cover and germination percentage]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/38.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.577-589]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500088">
+	<dc:title><![CDATA[VOLUMES OF GENERA AND SPECIES OF COLEOPTERA, ELATERIDAE OF THE REPUBLIC OF DAGESTAN]]></dc:title>
+	<dc:title><![CDATA[Объемы родов и видовой состав жуков-щелкунов (coleoptera, elateridae) республики Дагестан]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Abdurakhmanov G. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dzhafarova G. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magomedova M. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Elateridae]]></dc:subject>
+	<dc:subject><![CDATA[a genus]]></dc:subject>
+	<dc:subject><![CDATA[Coleoptera]]></dc:subject>
+	<dc:subject><![CDATA[species]]></dc:subject>
+	<dc:subject><![CDATA[Republic of Dagestan]]></dc:subject>
+	<dc:subject><![CDATA[fauna]]></dc:subject>
+	<dc:subject><![CDATA[subgenus]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article volumes of genera, species of Coleoptera, Elateridae of the Republic of Dagestan are given]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/40.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.619-630]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500089">
+	<dc:title><![CDATA[INFLUENCE OF GRAPE VARIETY PECULIARITIES OF DIFFERENT ORIGIN ON WATER POTENTIAL OF LEAVES AND THE AREA OF LEAF SURFACE IN THE CONDITIONS OF TAMAN]]></dc:title>
+	<dc:title><![CDATA[Влияние сортовых особенностей винограда различного происхождение на водный потенциал листьев и площадь листовой поверхности в условиях Тамани]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Matuzok N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kuzmina T. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Radchevskiy P. P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[CROP PRODUCTIVITY]]></dc:subject>
+	<dc:subject><![CDATA[LEAF AREA]]></dc:subject>
+	<dc:subject><![CDATA[FREE AND COHERENT WATER]]></dc:subject>
+	<dc:subject><![CDATA[WATERNESS OF LEAVES]]></dc:subject>
+	<dc:subject><![CDATA[VARIETIES OF GRAPES]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article there was given the survey of research results of leaf and leaf surface area potential of different origin in the conditions of Taman]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/42.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.643-652]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500090">
+	<dc:title><![CDATA[MATHEMATICAL MODEL OF ELECTROACTIVATOR OF WATER FOR SYSTEM STABILIZATION OF SOIL ACIDITY IN GROWING TOMATOES IN GREENHOUSE]]></dc:title>
+	<dc:title><![CDATA[Математическая модель электроактиватора воды для системы стабилизации кислотности почвы при выращивании томатов в условиях закрытого грунта]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tsokur M. N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ELECTROACTIVATOR OF WATER]]></dc:subject>
+	<dc:subject><![CDATA[ELECTROACTIVATION OF WATER SOLUTIONS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents a mathematical model of thermal processes in electroactivator which takes into consideration not only the electrical and thermal parameters of electrolyte and electrodes, but also their geometric dimensions, which makes it possible to carry out simulation of various designs and a flowchart modeling of thermal processes in flowing electroactivator]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/43.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.653-671]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500091">
+	<dc:title><![CDATA[HUMUS CONTENT CALCULATION THE METHOD WITH USE OF REMOTE SENSING OF THE EARTH]]></dc:title>
+	<dc:title><![CDATA[Расчет содержания гумуса с использованием данных дистанционного зондирования земли]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Maleychevskiy V. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fedulov Y. P.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ostrovskiy N. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lebedovskiy I. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HUMUS]]></dc:subject>
+	<dc:subject><![CDATA[MODEL]]></dc:subject>
+	<dc:subject><![CDATA[REMOTE SENSING OF GROUND]]></dc:subject>
+	<dc:subject><![CDATA[REGRESSION]]></dc:subject>
+	<dc:subject><![CDATA[MONITORING]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article, we have made an attempt to develop and calculate a model of humus content estimation in the black leached soil according to remote sensing of the ground. We have presented the model which has a number of restrictions for its continuous use when carrying out soil environmental monitoring of land grounds. It is established, that for calculation of similar model it is necessary to perform the cameral works including selection and the preliminary analysis of fields, including using of contemporary records of Remote sensing of the ground for definition of sampling points, to carry out an assessment of space photo shooting and sampling of soils in optimum terms with the maximum synchronism (cameral work and soil and agrochemical inspection), to make the analysis of the selected samples of soils for humus content with traditional methods, and finally to calculate regression models with use of data of the carried-out space shooting and the agrochemical analysis of soil samples]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/44.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.672-682]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500092">
+	<dc:title><![CDATA[BIOGEOCHEMISTRY AND SELENIUM AGROCHEMISTRY]]></dc:title>
+	<dc:title><![CDATA[Биогеохимия и агрохимия селена]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sheudghen A. H.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lebedev Y. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bondareva T. N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[SELENIUM]]></dc:subject>
+	<dc:subject><![CDATA[FERTILIZERS]]></dc:subject>
+	<dc:subject><![CDATA[AGROCHEMISTRY]]></dc:subject>
+	<dc:subject><![CDATA[PLANTS]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we show the history of opening of selenium, its distribution in the nature, the value of this microcell in life of plants. We also show the experience of russian and foreign scientists on studying of the influence of selenic fertilizers on a crop and quality of crops]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/45.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.683-693]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500093">
+	<dc:title><![CDATA[Использование субкритической воды для оценки содержания полициклических ароматических углеводородов в почвах импактной зоны предприятий энергетического комплекса]]></dc:title>
+	<dc:title><![CDATA[USE OF SUBCRITICAL WATER FOR THE CONTENT ASSESSMENT OF POLYCYCLIC AROMATIC HYDROCARBONS IN SOILS OF THE INFLUENCE ZONE OF POWER COMPLEX COMPANIES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sushkova S. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Minkina T. M.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tyurina I. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bauer T. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vasilyeva G. K.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nazarenko O. G.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[BENZO(A)PYRENE]]></dc:subject>
+	<dc:subject><![CDATA[POLLUTION]]></dc:subject>
+	<dc:subject><![CDATA[NOVOCHERKASSK STATE DISTRICT POWER STATION]]></dc:subject>
+	<dc:subject><![CDATA[SOIL]]></dc:subject>
+	<dc:subject><![CDATA[SUBCRITICAL WATER]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The research of the territory adjacent to Novocherkassk state district power station, for the content of polycyclic aromatic hydrocarbons (on an example of benzo(a)pyrene) is presented. The benzo(a)pyrene content in soils has been determined with a method of subcritical water extraction. The content of benzo(a)pyrene in soils of the territory adjacent to Novocherkassk state district power station has been estimated. It is shown, that contents of benzo(a)pyrene excess over maximum permissible concentration in soils of five-kilometer zone around the companies]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/46.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.694-703]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500094">
+	<dc:title><![CDATA[Онтогенез микромецета Cibellina cerealis Pass. in vitro]]></dc:title>
+	<dc:title><![CDATA[ONTOGENESIS OF MICROMYCETES GIBELLINA CEREALIS PASS. IN VITRO]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gorkovenko V. S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bogoslovskaya N. B.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ASCI]]></dc:subject>
+	<dc:subject><![CDATA[MYCELIUM]]></dc:subject>
+	<dc:subject><![CDATA[PERITHECIA]]></dc:subject>
+	<dc:subject><![CDATA[ASCOSPORES]]></dc:subject>
+	<dc:subject><![CDATA[IN VITRO]]></dc:subject>
+	<dc:subject><![CDATA[GIBELLINA CEREALIS PASS.]]></dc:subject>
+	<dc:subject><![CDATA[ONTOGENESIS]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article discusses the features of the pathogenesis of micromycetes Gibellina cerealis Pass. in vitro]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/49.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.735-747]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500095">
+	<dc:title><![CDATA[Экономически эффективное получение адаптированной к субстрату биомассы нефтеокисляющих актинобактерий, используемых в процессах биоремедиации]]></dc:title>
+	<dc:title><![CDATA[ECONOMIC EFFICIENT PRODUCTION OF BIOMASS ADAPTED TO THE SUBSTRATE OF OIL OXIDIZING ACTINOBACILLOSIS USED IN BIOREMEDIATION PROCESSES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khudokormov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samkov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Volchenko N. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Karasev S. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Karaseva E. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ACTINOBACTERIA]]></dc:subject>
+	<dc:subject><![CDATA[BIOREMEDIATION]]></dc:subject>
+	<dc:subject><![CDATA[BIODEGRADATION]]></dc:subject>
+	<dc:subject><![CDATA[CULTIVATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article we have studied the technology of obtaining a biomass of oil oxidizing microorganisms in a nutrient medium containing vegetable oil as the sole source of carbon and energy. In vitro and in soil experiment we have confirmed the effectiveness of the resulting biomass at work on bioremediation of oil contaminated sites. It is shown that the use of vegetable oil during culturing allows obtaining the same amount of biomass and carbohydrate raw materials, but the efficiency of its use is 20% higher, in average]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/50.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.748-757]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500096">
+	<dc:title><![CDATA[Деструкция углеводородов различными морфотипами нефтеокисляющих актинобактерий]]></dc:title>
+	<dc:title><![CDATA[DESTRUCTION OF HYDROCARBONS WITH VARIOUS MORPHOTYPES OF OIL OXIDIZING ACTINOBACTERIA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khudokormov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Karaseva E. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samkov A. A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Volchenko N. N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kozitsin A. E.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[DESTRUCTION OF HYDROCARBONS WITH VARIOUS MORPHOTYPES OF OIL OXIDIZING ACTINOBACTERIA]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this article we have carried out a comparative study of hydro-carbon-oxidizing activity of S-and R-morphological types of oil oxidizing Actinobacteria from the collection of Kuban State University. Signifi-cant differences observed in parameters of growth between S- and R-forms of oil oxidizing Actinobacte-ria. In S-forms it is higher than the maximum specific growth rate, which is typical for a wide range of hy-drocarbon degradation and a high degree of degrada-tion of pollutants. In experiments with the use of oil as a substrate and heavy oil S-forms, Actinobacteria quickly adapted to the environmental conditions]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/51.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.758-770]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500097">
+	<dc:title><![CDATA[HORSERADISH PEROXIDASE IMMOBILIZATION IN CALCIUM ALGINATE HYDROGEL AND MICROPARTICLES]]></dc:title>
+	<dc:title><![CDATA[Иммобилизация пероксидазы хрена в гидрогеле и микрочастицах альгината кальция]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pestovsky Y. S.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[INACTIVATION KINETICS]]></dc:subject>
+	<dc:subject><![CDATA[CALCIUM ALGINATE]]></dc:subject>
+	<dc:subject><![CDATA[HORSERADISH PEROXIDASE]]></dc:subject>
+	<dc:subject><![CDATA[IMMOBILIZATION]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article two differently obtained preparations of immobilized horseradish peroxidase are compared with free enzyme and with each other by their stability. It is shown that both preparations of immobilized peroxidase possess increased stability during storage and heating. It is established that activity of hydrogel obtained increases after heating]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/53.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.782-799]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500098">
+	<dc:title><![CDATA[Нейтрализация негативного воздействия гербицидов с помощью биостимуляторов в посевах сахарной свёклы]]></dc:title>
+	<dc:title><![CDATA[NEUTRALIZATION OF HERBICIDE NEGATIVE IMPACT ON SUGAR BEET WITH BIOSTIMULATORS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nazarenko D. Y.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dyadyuchenko L. V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Strelkov V. D.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ANTIDOTES]]></dc:subject>
+	<dc:subject><![CDATA[IMMUNE STIMULANT]]></dc:subject>
+	<dc:subject><![CDATA[PLANT HORMONES]]></dc:subject>
+	<dc:subject><![CDATA[PHYTOTOXICITY]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Most modern chemicals designed to protect crop also actually cause negative effects on the protected plants mostly due to side effects and/or not following the application procedures correctly. It is possible to neutralize the negative effects of herbicides they have on cultivated plants with precise use of immunostimulants which will increase the plants' natural immunity against the negative effects of biotic and abiotic environmental factors]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/55.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.830-838]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015500099">
+	<dc:title><![CDATA[DEVELOPMENT OF PLANT-AND-FISH PASTE WITH NATURAL BAS]]></dc:title>
+	<dc:title><![CDATA[Разработка растительно-рыбного паштета с использованием натуральных БАД]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kubenko E. G.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kasyanov G. I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gonchar V. V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Kuban State Agrarian University]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013-10-31]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[PASTE]]></dc:subject>
+	<dc:subject><![CDATA[CHITOSAN]]></dc:subject>
+	<dc:subject><![CDATA[PROCESSING LINE]]></dc:subject>
+	<dc:subject><![CDATA[BAS (BIOACTIVE SUBSTANCE)]]></dc:subject>
+	<dc:subject><![CDATA[STRUCTURE-FORMING AGENT]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The process of getting of paste and feature of chitosan natural bioactive additive which is got with the help of the improved technology and its chemical composition, methods of assessment of the quality of the finished product are examined in the article]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://ej.kubagro.ru/2013/08/pdf/56.pdf]]></dc:identifier>
+	<dc:format><dcterms:extent><![CDATA[p.839-849]]></dcterms:extent></dc:format>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Polythematic Online Scientific Journal of Kuban State Agrarian University]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">1990-4665</ags:citationIdentifier>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

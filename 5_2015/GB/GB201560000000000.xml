@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015600000">
+	<dc:title><![CDATA[DIGITAL CARTOGRAPHICAL MODELING OF DENSITY OF SEGMENTS OF THE GEOGRAPHICAL NEIGHBORING OF SPATIAL ORGANIZATION OF THE LANDSCAPE COMPONENTS FOR THE PURPOSE OF PHYSICAL AND GEOGRAPHICAL ZONING OF NATURAL RESOURCES (ON THE EXAMPLE OF LESSER CAUCASUS WITHIN B]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Soltanov, Elvin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gululu, Feda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Agaev, Hanoglan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safarli, Namig]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alekperli, Orhan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mansurov, Rovshan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynov, Rustam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nadzhafov, Samir]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mursalov, Vahid]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Unlike other indexes of spatial organization of landscape components geographical borders are very significant for determination of the level of differentiation of territorial indexes of the nature components on the studied territory.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.91-91]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600001">
+	<dc:title><![CDATA[DIGITAL MATHEMATICAL AND CARTOGRAPHICAL MODELING OF SPATIAL CONSTRUCTION OF SOIL IN ORDER TO ENSURE RATIONAL NATURE MANAGEMENT (ON EXAMPLE OF AZERBAIJAN TERRITORY)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Dzhamila]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magerramli, Leyla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedli, Narmin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yuzbashova, Nurane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedli, Roya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Sabina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gadzhieva, Saida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abbaszade, Sarytel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bayramova, Solmaz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article authors consider methods of creation of the digital map of spatial distribution of segments of the soil geographical neighboring on the territory of the Azerbaijan Republic. Authors also present digital mathematical- cartographical models of the spatial soil cover structure made with the help of the SURFER8 software.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.92-92]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600002">
+	<dc:title><![CDATA[FUNDAMENTAL BASES OF SCIENCES ON GEOMETRY OF GEO-RESOURCES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kurmankozhaev, Azimhan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author presents fundamental basics of sciences connected with geometry of geo-resources. The author describes their historical development in the mining and geological sciences. First statements and provisions about the necessity to apply geometry for understanding the subsurface resources are stated.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.93-93]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600003">
+	<dc:title><![CDATA[GEO-DRIFTOGENAL CONCEPT OF GEO-MORPHOGENESIS OR GEO-MORPHOLOGIC MODEL OF MOBILISM]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khalilov, Huseyn]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The article is dedicated to the attempt to supply the stagnation observed in theoretical geomorphology, arising in connection with the fiasco of the teaching about geosinclinals predominant in geotectonics. To solve this problem the new geomorphological concept – the geodriftogenal concept of relief evolution is suggested on the basis of the plate tectonics theory.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.94-94]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600004">
+	<dc:title><![CDATA[GEOINFORMATIONAL MODELING OF NATURAL CONDITIONS OF CATCHMENT BASINS OF MOUNTAIN RIVERS FOR CAUSATIVE ANALYSIS OF THE RIVER RUNOFF CHANGES (ON THE EXAMPLE OF LESSER CAUCASUS WITHIN BORDERS OF AZERBAIJAN)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shikarly, Aytadzh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ismailova, Diana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gusameddin, Gyunel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magerramli, Leyla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedli, Narmin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yuzbashova, Nurane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Sabina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gadzhieva, Saida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ismailova, Tarana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Musayev, Rovshan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article authors describe methods of geoinformational modeling of indexes of natural conditions of river catchment basins for the purpose of the causative analysis. Authors consider the degree of variability of indexes of the river runoff in space and time on example river basins of Lesser Caucasus within the Azerbaijan borders.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.95-95]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600005">
+	<dc:title><![CDATA[GORIKLAUSTMONITOGRAMMES OF BIFURCATIONS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Istomina, Svetlana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Goriklaustmonitogrammes – biolocational hermeneutic apparels of energy-informational plesio-anthropometric regular consortiums of pangeotic and cosmosidereal gravitational system-apophycations. Mechanisms of regulation include anabiotic and graviphlegmatic accommodations of breeding auto-somatic apologist: auto-gemareconic extrapolations; bifurcation extrephylogemaes; anthropogenesis; auto-segregation of topographical locuses; transcontinental autogenesis; passionate reducts; heraldic metamorphosis; catasonic polikorts; auto-gearctic polisoms; democytosic recital apotheosis; partnergenesis.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.96-96]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600006">
+	<dc:title><![CDATA[IMPROVEMENT OF THE METHOD OF DETERMINATION OF CADASTRAL VALUE OF AGRICULTURAL LANDS IN THE REPUBLIC OF KAZAKHSTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Muzyka, Olesya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akhmetova, Nagima]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Transition to market economy and the land reform have brought the formation of the land and real estate market. Land as the non-renewable and limited resource is always valuable. Land market is a combination of various land-related transactions. All transactions are possible only in case of presence of the price for the land. Hence the actuality of the land assessment understood (from economic point of view) as the result of systematic collection and analysis of data necessary for precise determination of the cost of lands used for various purposes in accordance with the active legislation.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.97-97]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600007">
+	<dc:title><![CDATA[LANDSCAPE-ECOLOGICAL OPTIMIZATION OF GEO-SYSTEMS OF INTERMONTANE TROUGHS IN AZERBAIJAN REPUBLIC]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Garibov, Yagub]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article the author analyzes main features of landscape-ecological optimization of agricultural landscapes of intermontane troughs of the Azerbaijan Republic. On the basis of space photographs the author determines main patterns of differentiation of modern naturally-anthropogenic landscapes and considers matters of regulation and rational planning of anthropogenic complexes as well as matters of creation of ecologically sustainable landscapes.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.98-98]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600008">
+	<dc:title><![CDATA[MATHEMATICAL AND CARTOGRAPHICAL MODELING OF THE RELIEF FOR THE PURPOSE OF AGRICULTURAL TERRITORIAL PLANNING (ON EXAMPLE OF AZERBAIJAN TERRITORY)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shikarly, Aytadzh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ismailova, Diana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gyunel, Gusameddin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magerramli, Leyla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedli, Narmin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yuzbashova, Nurane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Sabina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gadzhieva, Saida]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ismailova, Tarana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors consider matters of digital PC-based mapping of differentiation of the spatial relief. Ways of using these maps in the agricultural territorial planning in Azerbaijan are presented. Еxamples of digital maps of the relief spatial differentiation in Azerbaijan territory are given.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.99-99]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600009">
+	<dc:title><![CDATA[REPRODUCTION OF WOODS IN KAZAKHSTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sarsekova, Dani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author considers the beginning of silvicultural works in Kazakhstan and emphasizes the data on dynamics of volumes of work on reproduction of forests in Kazakhstan in 1992-2010.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.132-132]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600010">
+	<dc:title><![CDATA[ROLE OF COSMIC FORCES IN FORMATION OF LARGE-SCALE CIRCULATIONS IN OCEANS AND SEAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shtshevev, Victor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author has shown that the daily impact of tide-forming forces exerted by the Moon and the Sun on water masses in the equatorial zone forms long-period Rossby waves with the resulting transferring from east to west. Wave flows reach continental shores and diverge northward and southward. Thus, separate anti-cyclonic circulations form in the northern and southern parts of the Atlantic, Indian, and Pacific oceans. The daily impact of tide-forming forces exerted by the Moon and the Sun on water masses outside the equatorial zone forms large-scale cyclonic circulation in the northern and southern parts of three oceans. The same circulations form in closed and border seas and large lakes.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.101-101]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600011">
+	<dc:title><![CDATA[SOME GEOGRAPHIC REGULARITIES OF LOCATION OF CONSERVATION AREAS IN CIS ON THE BASIS OF LANDSCAPE TYPES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ibragimov, Tahir]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The article is devoted to examination of regularities in location of conservation areas on the basis of landscape types formed in territories of the Commonwealth of Independent States. It is obvious that conservation areas formed in the territory of the former USSR were located irregularly according to the landscape types (within limits of natural zones). Numbers and areas of conservation areas formed in all natural zones were compared and the irregularity was found here as well. This fact was also studied while carrying out the analysis of separate natural zones.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.102-102]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600012">
+	<dc:title><![CDATA[STUDY OF INDUSTRIAL SECTOR IN CITIES OF AZERBAIJAN AS A SOURCE OF ENVIRONMENTAL POLLUTION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mammadova, Sheker]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author studied the industrial sector and environmental pollution caused by it. Interaction of this pollution with meteorological conditions in industrial cities of Azerbaijan has been determined and analyzed.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.103-103]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600013">
+	<dc:title><![CDATA[STUDY OF RADON IN THE CITY OF KAZAN AND ITS OUTSKIRTS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Apkin, Renat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this paper the author presents measurements of the stream density and volume activity of the radon radiation in the soil in the territory of the city of Kazan and its outskirts. The author presents the analysis of measurement results, assessment of radon hazard on the territory as well as patterns of the radon concentration changes in the region under study.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.104-104]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(2)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600014">
+	<dc:title><![CDATA[COMPARATIVE ASSESSMENT THE RIVER KURA EXPLOITATION IN IRRIGATION AND FISHING (WITHIN BORDERS OF AZERBAIJAN)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Faradzhbeyli, Rovsane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gasanov, Tapdig]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors describe main problems of irrigation and fishing in the basin of the river Kura within borders of the territory of Azerbaijan using the method of comparative assessment.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.105-105]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600015">
+	<dc:title><![CDATA[CURRENT TRENDS OF TEMPERATURE VARIATIONS IN THE TERRITORY OF KAZAKHSTAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Cherednichenko, Alexandr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cherednichenko, Alexey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cherednichenko, Vladimir]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Using linear and polynomial approximation methods and Fourier analysis, time series of temperature at stations of Kazakhstan were analyzed. It was demonstrated that in the last decade, to the south of the fiftieth latitude atmospheric temperature rising has stopped, and to the north, temperature began to drop. Decrease did not begin at the same time and it manifests in different ways.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.106-106]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600016">
+	<dc:title><![CDATA[DIGITAL MAPS OF CORRELATION INTERCONNECTION BETWEEN THE VEGETATIVE COVER AND OTHER COMPONENTS OF THE LANDSCAPE FOR RATIONAL NATURE MANAGEMENT (ON THE EXAMPLE OF THE LESSER CAUCASUS TERRITORY WITHIN BORDERS OF AZERBAIJAN)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suleymanli, Durdane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Velieva, Lamiya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zamanly, Leyla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akberzade, Mansuma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aslanova, Mehpara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safaralieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vahabzade, Sevda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mustafayeva, Ulviya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bayramova, Durdane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samadli, Chinara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mamedova, Ulviya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this report authors describe results of the scientific research devoted to the connection between spatial correlation of structural indexes of the vegetative cover and other components of the landscape. Results are presented in the digital correlation map able to help in solving matters of the search for leading factors in partial physical and geographical zoning on the territory of Azerbaijan.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.107-107]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600017">
+	<dc:title><![CDATA[DIGITAL MATHEMATICAL AND CARTOGRAPHIC MODELING OF THE SPATIAL STRUCTURE OF AGRICULTURE FOR INNOVATIVE DEVELOPMENT OF THE NATIONAL ECONOMY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mamedova, Aysel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shamilova, Aytach]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedova, Huru]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Babazade, Konul]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abdullaeva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safaralieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Badalova, Zhale]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The article is devoted to modeling of the spatial structure of agriculture with the help of the new geoinformation technology in order to ensure innovative development of the national economy.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.108-108]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600018">
+	<dc:title><![CDATA[DIGITAL MATHEMATICAL AND CARTOGRAPHIC MODELING OF THE SPATIAL STRUCTURE OF THE VEGETATIVE COVER OF AZERBAIJAN FOR INNOVATIVE DEVELOPMENT OF AGRICULTURE AND TOURISM]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mamedova, Aysel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Shamilova, Aytach]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedova, Huru]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Babazade, Konul]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akberzade, Mansuma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safaralieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Badalova, Zhale]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this article authors describe the solution of the problem concerning digital cartographic modeling of spatial organization of vegetative cover on the example Azerbaijan territory using the new geoinformation technology. With the help of this technology digital mathematical-cartographical models of the studied territory were created.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.109-109]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600019">
+	<dc:title><![CDATA[MATHEMATIC AND CARTOGRAPHICAL MODELING OF HOMOGENEITY OF SPATIAL STRUCTURE OF THE SOIL COVER IN AZERBAIJAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bayramova, Durdane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Velieva, Lamiya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akberzade, Mansuma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safaralieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rahmanova, Narmin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yuzbashova, Nurane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Sabina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gadirov, Yahya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmedli, Narmin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors describe results of mathematical and cartographical PC-based modeling of homogeneity of the soil cover spatial structure using geo-informational systems on the example of Azerbaijan territory.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.110-110]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600020">
+	<dc:title><![CDATA[METHOD OF CARTOGRAPHIC MODELING OF SOILS CONTAMINATION ON THE BASIS OF THE NEURAL NETWORKS THEORY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Shyfnarovych, Maryana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorbiychuk, Mikhail]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors have developed a method of mathematical modeling of soil contamination on the basis of the neural networks theory. This method makes it possible to automate the process of cartographic modeling by constructing actual values of isolines of concentrations of metals in soils of the studied area. On the basis of this method the algorithm of determination of maximum allowable concentrations in the soil for any territory has been developed]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.111-111]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600021">
+	<dc:title><![CDATA[MODELS AND METHODS FOR SOLUTION OF TASKS CONNECTED WITH PROTECTION OF THE ATMOSPHERE, HYDROSPHERE AND THE LAYER SURFACE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Arguchintseva, Alla]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Arguchintsev, Valery]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article author's models for the description of processes and distribution of anthropogenous impurities in various environments (in atmosphere, hydrosphere and on the layer surface) are offered. All models have passed approbation on real objects.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.112-112]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600022">
+	<dc:title><![CDATA[NON-RADIOGENIC HEAT EMISSION IN BOWELS OF THE EARTH AND PLANETS AS ITS POSSIBLE COSMIC NATURE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Makarenko, Oleksandr]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[A new phenomenon was discovered - excessive heating of depths of large Solar system bodies by their internal energy sources of cosmic origin, being modulated by position and direction of the Solar system motion in the Galaxy. This allows to suggest presence of a heat-generating factor in the galactic space. Its influence in the energy emission in bowels of cosmic bodies. The dark matter particles may be the probable candidate for such a heat-generating factor. Influence of gravitational factors is also possible.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.113-113]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600023">
+	<dc:title><![CDATA[TEMPLATE METHOD OF FORECASTING THE FINANCIAL CONDITION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Levandovski, Vlad]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author has offered a new method of forecasting the financial condition of the company. The algorithm is interesting because in practice it shows high accuracy of the forecast. This is achieved through elimination of factors of reduced prediction quality natural for traditional forecasting methods.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.114-114]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(3)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600024">
+	<dc:title><![CDATA[ADAPTIVE MECHANISM OF THE MINING OBJECT MANAGEMENT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rahimbekov, Sarmantay]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The specificity of the mining object management is presented in the article. This specificity includes two components: natural-technical and economic-social. The author emphasizes that the main aim of management is the necessity to provide homeostatic state of the natural environment and the whole system on every step of management. The author makes a conclusion that elements of management, controllability and adaptation must be included into the mining technology. In existing practice however it doesn't take place.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.123-123]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600025">
+	<dc:title><![CDATA[COMPUTER GEOGRAPHY: THEORY AND METHODOLOGY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[This author describes the theory and methodology of computer geography. Step-by-step history of this theory and main areas of application of this methodology in geography and other fields are presented.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.124-124]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600026">
+	<dc:title><![CDATA[CREATION OF DIGITAL 3D PRISM MAP OF AZERBAIJAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Akhmedova, Irada]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Imanov, Ramal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mustafayeva, Ulviya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors describe the methodology of creation of 3D maps, prism maps and digitally animated 3d maps. Authors also describe application of these 3d models in areas of geography and different fields of economy.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.125-125]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600027">
+	<dc:title><![CDATA[GEOINFORMATION ATLAS OF NATURAL RESOURCES OF AZERBAIJAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ismayilova, Aydan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors describe theoretical scientific and methodological matters of geoinformation modeling of natural resources of the Azerbaijan Republic. Authors also present aims of its application on example of geoinformation map models.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.126-126]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600028">
+	<dc:title><![CDATA[MATHEMATICAL MODELING OF INTERCONNECTIONS BETWEEN SPATIAL STRUCTURE OF AGRICULTURAL SECTOR AND COMPONENTS OF NATURAL ENVIRONMENT ON AZERBAIJAN TERRITORY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mirieva, Farida]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this article authors describe methods of mathematical modeling of interrelations between the spatial structure of agricultural sector and components of nature]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.127-127]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600029">
+	<dc:title><![CDATA[SPECTRAL AND HARMONIC ANALYSIS OF REGIONAL DEVELOPMENT INDEXESSPECTRAL AND HARMONIC ANALYSIS OF REGIONAL DEVELOPMENT INDEXES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chernyak, Vladimir]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Methodological principles of spectral and harmonic analysis of indexes of territorial entities within the framework of the organistic concept of management of social and economic systems development are investigated in the article.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.129-129]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600030">
+	<dc:title><![CDATA[STATE OF THE PROBLEM OF USING NATURAL RESOURCES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Rusetskaya, Genrietta]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gorbunova, Olga]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Authors consider the problem of irrational and inefficient use of natural resources. This leads to the large-scale pollution of all the components of the natural environment and to the destruction of ecosystems. Ecological management is offered as one of the generally accepted ways of solution of ecological problems on micro-level and on macro-level. Implementation of ecological management in Russia would allow achieving changes in the structure of production and consumption, in the field of use of modern technologies and efficient management on macro- and micro-economic level. And this is necessary for the steady development concept implementation.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.130-130]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600031">
+	<dc:title><![CDATA[THE NATURAL DISASTERS HAPPENED IN BAKU AND THE MEASURES OF FIGHT AGAINST THEM]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Samadli, Chinara]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this article the author considers natural cataclisms taking place in Baku. The author also pays attention to their reasons, possible prevention measures and consequences.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.131-131]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(5)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600032">
+	<dc:title><![CDATA[DIGITAL ANIMATED MODELING IN GEOGRAPHY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ibadova, Ayshen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abdullaeva, Ayten]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suleymanzade, Nurtach]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Methodological matters of digital animation methods in geographical and economical research are presented in the report]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.115-115]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600033">
+	<dc:title><![CDATA[ECOLOGICAL SAFETY AND ECOLOGICAL REFORMS IN UKRAINE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chepelenco, Anzhelika]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The matter of necessity to define strategies, plans and programs in the field of the environment protection and implementation of ecological reforms as well as sources of funding are determined in the report.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.116-116]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600034">
+	<dc:title><![CDATA[METHOD OF EXAMINATION OF BOGS IN ZONES OF INSUFFICIENT AND UNSTABLE HUMIDIFYING]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Apkin, Renat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this paper the technique of study of bogs in zones of insufficient and unstable humidifying on the example of bogs in Tatarstan Republic is presented. The technique provides creation of the electronic catalogue of bogs, which allows to process the characteristics of bogs by methods of mathematical statistics, and also to use the technique given for creation of maps of various subjects.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.117-117]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600035">
+	<dc:title><![CDATA[METHODICAL ASPECTS OF SPECTRAL-HARMONIC ANALYSIS OF SOCIAL-ECONOMIC INDEXES OF TERRITORIAL ENTITIES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chernyak, Vladimir]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Methodological principles of spectral and harmonic analysis of indexes of territorial entities within the framework of the organistic concept of management of social and economic systems development are investigated in the report.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.118-118]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600036">
+	<dc:title><![CDATA[ON THE NATURE OF AQUEOUS CYCLES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nurgalieva, Nuriya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In present paper cyclicity of sedimentary rocks was discussed on example of so called cycles defined by Noinsky in classic outcrop of Upper Kazanian deposits near the village of Pechishi (river Volga, near the city of Kazan). The analysis of cyclicality is based on layers-thickness distributions and isotope ratios of carbon, oxygen and strontium in carbonate component of the section.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.119-119]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600037">
+	<dc:title><![CDATA[SAFETY OF POPULATION AND OBJECTS OF ECONOMY IN KAZAKHSTAN TAKING THE RISK OF POWERFUL EARTHQUAKES INTO ACCOUNT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nurmagambetov, Alkuat]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The problem of seismic danger on the territory of the Republic of Kazakhstan, strategy and methods of fighting it is considered. The technique of estimation of seismic risk as the sum of the following components is described: seismic danger, reliability of buildings, possibility of informing about earthquakes and seismic literacy of the population.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.120-120]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600038">
+	<dc:title><![CDATA[STEADY DEVELOPMENT OF REGIONAL ECONOMIC SYSTEMS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nurasheva, Kulyanda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Kazakhstan has been working on building of the efficient market economy for several years. At the same time development of territories is slowed down by weakness of ability of local authorities to influence regional economy. Many social and economic problems may be solved on the level of local authorities without republican bodies.The author recommends to carry out local marketing researches, launch the municipal papers market and implement the model of corporate economy. Local authorities should enlist local population. Positive regulation of emerging problems is necessary.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.121-121]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600039">
+	<dc:title><![CDATA[STRUCTURAL APPROACH TO PARAMETERIZATION OF PROCESSES OF INTERCONNECTION OF OPERATIONAL INDEXES OF MINERALS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kurmankozhaev, Azimhan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The article covers major shortcomings of the correlation equations deduced by method of least squares. Conceptual foundations of a new structural approach to the parameterization of processes of interconnection of indicators of excavated areas of deposits, and also various aspects of use of analogues from physical systems, random and determined components of laws related to these processes are shown. The author presents results of the structural parameterization of processes of interdependence between geological and technological parameters of minerals through modification of the relevant resulting parameter sought in combination with structure-forming informative basic indexes.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.122-122]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600040">
+	<dc:title><![CDATA[FEATURES OF FOUNDATION AND DEVELOPMENT OF SPACE BIOLOGY AND MEDICINE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Khlopkov, Anton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Khlopkov, Yuriy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Myo Myint, Zay Yar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Human space exploration is one of the greatest scientific and technological achievements of the XX century. This is a new stage in the development of human civilization - a breakthrough into the new physical dimension, new possibilities of research in physics, climatology, economics, biology and in solving social problems.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.134-134]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(4)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600041">
+	<dc:title><![CDATA[ASSESSMENT OF SUPERFICIAL PROPERTIES OF MATERIALS THROUGH TRANSFERRING LIQUIDS BY SURFACE-ACTIVE SUBSTANCES]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Titov, Andrey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Titova, Irina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Titov, Oleg]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[Author perform an assessment of superficial properties of materials through transferring liquids by surface-active substances based on the determination of the displaced fluid located in a layer of known thickness.Results of studies in the application of drip and non-contact methods are presented. Features of non-contact method of superficial properties: emergence of dark spots at the beginning of the movement of the liquid and formation of ring structures. Authors show the important feature of interaction of surfactants with the surface water above a layer of sand - formation of moving objects.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.81-81]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600042">
+	<dc:title><![CDATA[CREATION OF THE DIGITAL MATHEMATICAL AND STATISTICAL MAP OF PSATIOAL DIFFERENTIATION OF THE LANDSCAPE IN ORDER TO INSURE NATURE PROTECTION (ON THE EXAMPLE OF THE LESSER CAUCASUS WITHIN AZERBAIJAN BORDERS)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Djabbarova, Elnara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nabili, Gunel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ibragimova, Parvana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In this research we describe the landscape differentiation by methods of PC-based digital mapping using the geoinformation system MAPINFO 5 and SURFER 8.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.82-82]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600043">
+	<dc:title><![CDATA[DEVELOPMENT OF MINING NON-METALLIC BUILDING MATERIALS IN RUSSIA IN XXI CENTURY]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kirsanov, Alexander]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zajtseva, Ekaterina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Volkov, Evgeniy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kurchin, Georgiy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stakanov, Igor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the presented article authors consider certain aspects of development of mining non-metallic building materials in Russia. Negative effect of surface mining are shown. In addition authors present the environmentally safe technology of sub-surface mining of non-metallic building materials.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.83-83]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600044">
+	<dc:title><![CDATA[FROM THE SPATIAL ANALYSIS OF TERRITORIES TO THE BALANCED SOCIAL AND ECONOMIC DEVELOPMENT OF PEOPLE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chernyak, Vladimir]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article, theoretical aspects of management of territorial social and economic systems’ development have been investigated on the basis of setting and maintenance balanced interrelations and proportions on all systemic levels.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.86-86]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600045">
+	<dc:title><![CDATA[INNOVATION IN NATIONAL GEOGRAPHIC EDUCATION IN AZERBAIJAN - CREATION OF DIGITAL DVD-TUTORIALS AND ELECTRONIC THEMATIC MAPS ON THE PC]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suleymanli, Durdane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magerramova, Hayala]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sardarova, Nigar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[New information technologies are now being actively used in the educational process and in development of digital training materials (DVD-tutorials, multimedia tutorials, geoinformational, digital and voice-maps in different areas of geography) in order to develop geographical education. Our article is devoted to the development of digital tutors and thematic maps in the field of national geography (physical and economic) of the Azerbaijan Republic.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.84-84]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600046">
+	<dc:title><![CDATA[MATHEMATICAL AND STATISTICAL PC MODELING OF INTRASYSTEM AND INTERCOMPONENT INTERRELATION BETWEEN PHYSICAL AND GEOGRAPHICAL COMPLEXES IN ORDER TO ENSURE RATIONAL NATURE MANAGEMENT (ON THE EXAMPLE OF THE LESSER CAUCASUS WITHIN AZERBAIJAN BORDERS)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Djafarova, Gular]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Lala]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Musayev, Rovshan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynli, Sevindj]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mammadova, Vafa]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article we describe the methodology of mathematical-statistical modeling of internal interrelation of elements of the geosystem and intercomponents of the geosystyem in order to ensure rational nature management.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.85-85]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600047">
+	<dc:title><![CDATA[NATIONAL GEOINFORMATION SYSTEM OF NATURAL RESOURCES OF THE AZERBAIJAN REPUBLIC FOR ENVIRONMETNTAL PROTECTION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fazilzade, Bayaz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Suleymanli, Durdane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Djafarova, Gular Djafarova]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guluzade, Gunay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nabili, Gunel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Magerramova, Hayala]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynova, Lala]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alieva, Nargiz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sardarova, Nigar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ibragimova, Parvana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guseynli, Sevindj]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mammadova, Vafa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Allakhverdiyeva, Yegana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[One of the main problems of natural and economic planning of the natural and anthropogenic geosystem is the detection of urgent characteristics of various types of geosystems through application of the complex of methods of modern mathematics such as, theory of information (information-statistical methods and etc.); theory of mathematic statics (methods of factoral, regressional, correlational, component and dispersional analysis etc.); theory of linear and matrix algebra (methods of linear programming, simplex methods and etc.); theory of distribution (methods of parameters estimation of universe etc.); theory of random functions (methods of definition of probability of events etc.); theory of graphs; theory of catastrophes etc.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.87-87]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600048">
+	<dc:title><![CDATA[PECULIARITIES OF REGULATION OF THE FUNCTIONING PROCESSES OF ANTHROPOGENIC LANDSCAPES IN AZERBAIJAN]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Garibov, Yagub]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In various natural landscapes of Azerbaijan creation of systematic regulation of agro-irrigational, cultivated-plantation and dry-farming-agricultural landscapes has a tremendous significance. Many questions of appropriateness of formation, functioning and regulation of anthropogenic landscapes in various regions of Azerbaijan have already been practically studied. It is especially true concerning irrigational regions of the republic, where in most areas land-reclamation situation is unfavorable (in such conditions it is impossible to perform a rational planning of various anthropogenic landscapes formation).]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.88-88]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600049">
+	<dc:title><![CDATA[STUDY OF THE SPATIAL DIFFERENTIATION OF NATURAL COMPLEXES BY THE METHOD OF THE PC-BASED MATHEMATICAL-CARTOGRAPHICAL MODELING IN ORDER TO ENSURE RATIONAL NATURE MANAGEMENT (ON THE EXAMPLE OF THE AZERBAIJAN TERRITORY)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nabiyev, Alpasha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fazilzade, Bayaz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guluzade, Gunay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Allakhverdiyeva, Yegana]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[In the article we describe the methodology of regional differentiation of natural geosystems in order to ensure rational nature management.]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.89-89]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="GB2015600050">
+	<dc:title><![CDATA[MODERN CONDITION AND STABILITY OF BROAD-LEAVED FORESTS IN NOVGOROD REGION]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Smirnov, Igor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[International Academy of Science and Higher Education (IASHE, London, UK)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2012]]></dcterms:dateIssued></dc:date>
+	<dc:description><dcterms:abstract><![CDATA[The author compares taxational parameters, status and stability of broad-leaved forests in the Novgorod region]]></dcterms:abstract>
+	</dc:description>
+	<dc:format><dcterms:extent><![CDATA[p.90-90]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[EN]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[GISAP: Earth and Space Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">2053-6429</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[v.0(1)]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

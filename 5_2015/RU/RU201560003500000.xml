@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="RU2015600035">
+	<dc:title><![CDATA[PHYSIOLOGICAL FEATURES OF DISSECTED PINNULED LEAF MORPHOTYPE OF PEAS IN THE PURE AND MIXED SOWINGS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.A., Zelenov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Novikova N.E.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[dissected pinnuled leaf morphotype]]></dc:subject>
+	<dc:subject><![CDATA[physiology]]></dc:subject>
+	<dc:subject><![CDATA[mixed sowings]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[peas]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Dissected pinnuled leaf morphotype possesses a number of advantages over modern cultivated varieties, and the main thing from them is high indicators of biological and yield potential. How- ever, low resistance to lodging stirs its realizations. Elimination of this lack is possible at the expense of selection release of lines resistant against lodging. The second method is a companion sowing with not lodging basic component.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_4.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 15-20]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600036">
+	<dc:title><![CDATA[EFFICIENCY OF USE OF BIOLOGICAL PREPARATIONS IN PRESOWING TREAT- MENT OF SEEDS AND VEGETATING PLANTS OF LEGUMINOUS CROPS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.I. Erohin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[treatment]]></dc:subject>
+	<dc:subject><![CDATA[Hitozan]]></dc:subject>
+	<dc:subject><![CDATA[plants]]></dc:subject>
+	<dc:subject><![CDATA[Narcissus]]></dc:subject>
+	<dc:subject><![CDATA[productivity.]]></dc:subject>
+	<dc:subject><![CDATA[biologically active preparations – Baikal]]></dc:subject>
+	<dc:subject><![CDATA[El-1]]></dc:subject>
+	<dc:subject><![CDATA[seeds]]></dc:subject>
+	<dc:subject><![CDATA[Agat-25]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Positive effect of some preparations on increase of yield qualities of treated seeds and on increase of productivity of peas and fodder beans was discovered. Possibility of decrease in dose of application of fungicide TMTD on 50 % is studied at treatment of seeds of fodder beans by preparation of El-1.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_7.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 29-33]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600037">
+	<dc:title><![CDATA[MILLET BREEDING FOR RESISTANCE TO SMUT IN CONDITIONS OF SOUTHEAST CENTRAL-CHERNOZEM ZONE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.Yu. Surkov]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Surkova, I.V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[resistance to diseases]]></dc:subject>
+	<dc:subject><![CDATA[breeding]]></dc:subject>
+	<dc:subject><![CDATA[variety]]></dc:subject>
+	<dc:subject><![CDATA[millet]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Stated here were the results of millet breeding for resistance to smut in condition of south-east Central-Chernozem Zone. The researches showed the opportunity of millet breeding not only on for productivity and resistance to smut, but also on group resistance to diseases at artificially formed infection background. A strategy of breeding of new millet varieties has been developed, which provides breeding of high-yielding varieties with the increased quality of the grain, possessing group resistance to smut and necrotic melanose.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_19.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 83-87]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600038">
+	<dc:title><![CDATA[INFLUENCE OF ELEMENTS OF TECHNOLOGY OF CULTIVATION ON PRODUCTIV- ITY OF CHICK PEA IN THE NORTH OF CENTRAL BLACK EARTH ZONE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Akulov, A.S.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Belyaeva, Zh. A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[fertilizers]]></dc:subject>
+	<dc:subject><![CDATA[Variety]]></dc:subject>
+	<dc:subject><![CDATA[sowing method]]></dc:subject>
+	<dc:subject><![CDATA[seed treatment]]></dc:subject>
+	<dc:subject><![CDATA[seeding rate]]></dc:subject>
+	<dc:subject><![CDATA[chick pea]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article results of researches on development of technology of cultivation of chick pea are resulted. For revealing of potential productivity of variety Privo-1 in the conditions of the Oryol region various agricultural methods were studied: treatment of seeds by seed dresser, sowing methods - drill, wide-row, seeding rates, mineral nutrition.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_13.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 56-60]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600039">
+	<dc:title><![CDATA[PROTEIN CONTENT IN SEEDS OF COLLECTION SAMPLES OF CHICK PEA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Donskaya, M.V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bobkov, S.V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[source]]></dc:subject>
+	<dc:subject><![CDATA[collection sample]]></dc:subject>
+	<dc:subject><![CDATA[protein content]]></dc:subject>
+	<dc:subject><![CDATA[chick pea]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Results of analysis of protein content in seeds of 82 collection samples of chick pea are presented. Dependence of content of protein on suitable-environmental conditions is shown. Genotypes with high and stable content of protein in seeds are determined]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_12.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 53-55]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600040">
+	<dc:title><![CDATA[NEW GENERATION OF VARIETIES OF LEGUMINOUS CROPS RELEASED BY THE MOSCOW RESEARCH INSTITUTE OF AGRICULTURE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G.A. Debelyj, L.V. Kalinina, A.V. Mednov, A.V. Goncharov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[summer vetch]]></dc:subject>
+	<dc:subject><![CDATA[Varieties]]></dc:subject>
+	<dc:subject><![CDATA[lupin angustifolia]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[peas]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the basic results of selection work for the last five years. More technological and early high-yielding varieties of peas - Nemchinovsky 100, Flora 2, angustifolia lupin – Pheasant, spring vetch – Ugolek are released and zoned]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_3.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 10-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600041">
+	<dc:title><![CDATA[COMPARATIVE ESTIMATION OF REGENERATED PEA LINES OBTAINED WITH USE OF CELL SELECTION METHODS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G.V. Soboleva]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pea]]></dc:subject>
+	<dc:subject><![CDATA[cell selection]]></dc:subject>
+	<dc:subject><![CDATA[drought resistance]]></dc:subject>
+	<dc:subject><![CDATA[regenerants]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Nineteen regenerated pea lines of various morphotypes obtained with use of cell selection methods were studied. Advantage of regenerated lines under initial genotypes on water-retaining capaci- ty and water content in tissues was demonstrated. Perspective regenerated lines for pea breeding were obtained. Keywords:]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_5.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 20-25]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600042">
+	<dc:title><![CDATA[INFLUENCE OF BIOLOGICALLY ACTIVE SUBSTANCES AND MICROFERTILIZERS ON INCREASE AND STABILIZATION OF GRAIN YIELD OF PEAS.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Golopyatov, M.T.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops (VNIIZBK), Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Peas]]></dc:subject>
+	<dc:subject><![CDATA[microfertilizer]]></dc:subject>
+	<dc:subject><![CDATA[yield]]></dc:subject>
+	<dc:subject><![CDATA[protein]]></dc:subject>
+	<dc:subject><![CDATA[economic efficiency]]></dc:subject>
+	<dc:subject><![CDATA[sodium humate]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article results of researches on studying of treatment of seeds of peas before sow- ing by solution of sodium humate and complex microfertilizer akvamiks containing in the chelate form elements for yield, quality and adaptability to manufacture of varieties of peas of new generation are reflected. Positive role of treatment of seeds for productivity is shown. The yield increase reached 0,3 t/hectares (12 %). Genotypic distinctions of varieties of peas in treatment, necessary to consider in tech- nology of their cultivation, are revealed. It is established that treatment of seeds raised content and yield of protein from area unit. Economic analysis of the studied factors showed their high efficiency]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_6.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 25-29]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600043">
+	<dc:title><![CDATA[INFLUENCE OF INOCULATION AND POTASSIUM HUMATE ON PHYSIOLOGICAL AND BIOCHEMICAL INDICATORS OF NEW VARIETIES OF SOYA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Golovina, E.V.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Grishechkin, V.V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[potassium humate]]></dc:subject>
+	<dc:subject><![CDATA[inoculation]]></dc:subject>
+	<dc:subject><![CDATA[protein]]></dc:subject>
+	<dc:subject><![CDATA[pigments]]></dc:subject>
+	<dc:subject><![CDATA[nodules]]></dc:subject>
+	<dc:subject><![CDATA[catalase]]></dc:subject>
+	<dc:subject><![CDATA[Soya]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Inoculation and potassium humate make active physiological and biochemical reactions in soya plants that positively affects symbiotic indicators, the content of chlorophyll, carotenoids and cat- alase, leads to growth of quality of grain and productivity.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_11.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 45-52]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600044">
+	<dc:title><![CDATA[INFLUENCE OF THE PREDECESSOR ON SYMBIOTIC NITROGEN FIXATION AT PEAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gurjev, G.P.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[predecessor]]></dc:subject>
+	<dc:subject><![CDATA[sitonas]]></dc:subject>
+	<dc:subject><![CDATA[symbiotic nitrogen fixation]]></dc:subject>
+	<dc:subject><![CDATA[peas]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article the data of field experiments on studying of symbiotic nitrogen fixation at peas is presented. The role of external factors on formation of nodules and symbiotic assimilation of ni- trogen is shown. Great importance is given to the choice of predecessor. Climatic factors, such as tem- perature and humidity, can essentially influence duration of the term of nitrogen fixation]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_8.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 34-38]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600045">
+	<dc:title><![CDATA[EVALUATION OF ADAPTIVE POTENTIAL OF SAMPLES OF COMMON MILLET FROM VARIOUS GROUPS OF RIPENESS ON THE STATISTICAL PARAMETERS CALCULATED BY SIGN «PRODUCTIVITY OF GRAIN»]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I.Yu. Nikiforova]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ripeness group]]></dc:subject>
+	<dc:subject><![CDATA[co-adapted blocks of genes]]></dc:subject>
+	<dc:subject><![CDATA[adaptive indicators]]></dc:subject>
+	<dc:subject><![CDATA[millet]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Evaluation of samples of millet of various groups of ripeness on the statistical parameters calculated by the sign «productivity of grain” is performed. The variety Kamsky of TatNiIsH selection is a source of co-adapted blocks of genes]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_18.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 79-83]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600046">
+	<dc:title><![CDATA[TO STUDYING OF INHERITANCE OF MORPHOTYPE CHAMELEON OF PEAS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.A. Antonova, A.A. Dutova, A.A. Lun'kova, P.V. Mescheryakova, P.A. Milyaeva, A.A. Sinyushin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.A. Toshchakova]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[hybrid analysis]]></dc:subject>
+	<dc:subject><![CDATA[Common peas]]></dc:subject>
+	<dc:subject><![CDATA[heterofilia]]></dc:subject>
+	<dc:subject><![CDATA[compound leaf development]]></dc:subject>
+	<dc:subject><![CDATA[genetic mapping]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Features of inheritance of morphotype chameleon of peas are studied. It is shown that this phenotype is inherent in homozygotes on two recessive mutations – af and unitac. The obtained results specify an independent character of inheritance of mutations. With use of genetic mapping it has been shown that gene UNI at lines with phenotype chameleon is localized in the IIIrd group of coupling.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_2.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 5-10]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600047">
+	<dc:title><![CDATA[EFFECT OF INSECTICIDES AGAINST DOMINANT PESTS IN LUPIN CROP]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pimokhova, L.I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Slesareva, T.N.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tsarapneva, Z.V.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[insecticides]]></dc:subject>
+	<dc:subject><![CDATA[pests]]></dc:subject>
+	<dc:subject><![CDATA[presowing seed treatment]]></dc:subject>
+	<dc:subject><![CDATA[narrow-leafed lupin]]></dc:subject>
+	<dc:subject><![CDATA[chemical protection]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Under field conditions it was detected that presowing insecticide seed treatment is an ef- fective way for protection against pests of lupin shoots. Productivity estimation of lupin protection against aphid and tortricid moth has shown that system action insecticides reduce pests population by 83- 93 % Keywords:]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_16.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 71-74]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600048">
+	<dc:title><![CDATA[INFLUENCE LUPINUS FLOUR ADDITIVES ON BIOLOGICAL VALUE AND STRUCTURAL-MECHANICAL PROPERTIES OF THE WHEAT DOUGH]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ryzhkova, T.A.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tretyakov, M.Yu.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.N. Chulkov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[amino acid composition]]></dc:subject>
+	<dc:subject><![CDATA[wheat flour]]></dc:subject>
+	<dc:subject><![CDATA[quality]]></dc:subject>
+	<dc:subject><![CDATA[lupine flour]]></dc:subject>
+	<dc:subject><![CDATA[Mixolab]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents data on changes in structural and mechanical properties of the test and the content of 13 amino acids at the inclusion of different lupine flour per cent of the wheat flour]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_15.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 67-70]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600049">
+	<dc:title><![CDATA[STUDYING OF THE ATTRIBUTE OF SPOTTINESS OF LEAF OF RED CLOVER AND ALLOCATION OF THE PERSPECTIVE MATERIAL]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S.V. Kirjukhin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zarjanova, Z.A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops (VNIIZBK), Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[productivity of dry matter]]></dc:subject>
+	<dc:subject><![CDATA[correlation.]]></dc:subject>
+	<dc:subject><![CDATA[pattern]]></dc:subject>
+	<dc:subject><![CDATA[productivity of seeds]]></dc:subject>
+	<dc:subject><![CDATA[leaf]]></dc:subject>
+	<dc:subject><![CDATA[Red clover]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Studying of pattern of leaf 13 of varieties and 17 selection numbers of red clover is led. In a sample of 100 leaves which have been selected in phase of stem growth of each sample, content of leaves with strongly pronounced and a little expressed pattern, and also without pattern is defined. Cor- relation link of share of each category of leaves with fodder and seed productivity is defined. Perspective varieties for selection and selection numbers of red clover, 70-80 % leaves of which have strongly pro- nounced spottiness of leaf are determined.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_21.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 102-105]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600050">
+	<dc:title><![CDATA[«LEGUMES AND GROAT CROPS» FIGURES AND FACTS]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V.I. Zotikov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[the all-Russia research-and-production journal «Le]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[3 years had passed from the moment of publication of the first number of the all-Russia research-and- production journal «Leguminous and groat crops» («Zernobobovye i krupânye kul'tury»). Our editorial board has summed up some results of work for these years. In total there were 12 separate issues of the journal. 238 scientific articles and information reports are pub- lished on 1304 pages. 528 authors who represent leading scientific institutions of Russia and large agrarian regions worked on re- lease of scientific production: VIR named after N.I. Vavilov, VNIISS named after A.L. Mazlumov, VNII of fodder named after V.R. Vilyams, VNII of lupine, VNII if rice, VNIISSOK, VNIIZK named after I.G. Kalinenko, Mos- cow NIISH «Nemchinovka», Voronezh NIISH named after V.V. Dokuchaev, Bashkirskij, Tatarskij, Ul'yanovskij, Ural'skij, Ryazanskij, Kabardino-Balkarskij, Belgorodskij NIISH, Krasnodarskij NIISH named after P.P. Luk'ya- nenko, Povolzhskij NIISS named after P.N. Konstantinov, ZNIISH of the Northeast named after N.V. Rudnitsky, NIISH of the Southeast, Altajskij NIISH, Stavropol'skij NIISH, Orel State Agrarian University, Omsk State Agra- rian University, Michurinsk State Agrarian University and others institutions. They published 189 articles. It is necessary to note activity in creative process and scientists from Ukraine, Belarus, Kazakhstan, Moldo- va; they wrote 49 scientific articles, article of collective of scientists from Italy was published. That is the statistics. To judge about scientific level of our journal, observance of the declared editorial poli- cy is up to you, readers. Editorial board hopes for mutually advantageous, more active cooperation, understanding and support. I am grateful to the authors, members of editorial board, to all who accepted and take active part in our jour- nal project, which purpose is assistance to development of agricultural science.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_1.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 4]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600051">
+	<dc:title><![CDATA[ABOUT INCREASE OF PRODUCTION EFFICIENCY OF BUCKWHEAT GRAIN IN RUSSIA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V.I. Zotikov, Z.I. Glazova]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[technology]]></dc:subject>
+	<dc:subject><![CDATA[production]]></dc:subject>
+	<dc:subject><![CDATA[variety]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:subject><![CDATA[buckwheat]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article questions of value of buckwheat as food, improving environment and eco- nomic crop are considered. Influence of some technological adapters on increase of yield of buckwheat is shown]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_17.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 75-78]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600052">
+	<dc:title><![CDATA[WINTER WHEAT IN REPUBLIC MOLDOVA (HISTORICAL SKETCH)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Voziyan, V.I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Postolati, A.A.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops (VNIIZBK), Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Winter wheat]]></dc:subject>
+	<dc:subject><![CDATA[variety mode]]></dc:subject>
+	<dc:subject><![CDATA[variety]]></dc:subject>
+	<dc:subject><![CDATA[selection]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Сhronology and dynamics of changes of the areas of sowing, frame of varietal composi- tion, crop of cultivation and productivity of one of the main food crops in the region - winter wheat - is resulted.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_20.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 87-102]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600053">
+	<dc:title><![CDATA[SOURCES OF ECONOMIC VALUABLE ATTRIBUTES FOR SELECTION OF COMMON VETCH IN THE CONDITIONS OF NORTHERN PART OF CENTRAL BLACK EARTH ZONE]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zajceva, A.I.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zajcev, V.N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[gene pool]]></dc:subject>
+	<dc:subject><![CDATA[selection process]]></dc:subject>
+	<dc:subject><![CDATA[early growth]]></dc:subject>
+	<dc:subject><![CDATA[the vegetative period]]></dc:subject>
+	<dc:subject><![CDATA[crude protein]]></dc:subject>
+	<dc:subject><![CDATA[collection]]></dc:subject>
+	<dc:subject><![CDATA[common vetch]]></dc:subject>
+	<dc:subject><![CDATA[variety]]></dc:subject>
+	<dc:subject><![CDATA[productivity]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In the article results of long-term studying of VIR collection are stated. Samples which are valuable material for the further selection are determined.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_10.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 43-44]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600054">
+	<dc:title><![CDATA[EFFECT OF DEPTH ON FIELD PLANTIG SEEDS GERMINATION AND SEED PRODUCTIVITY OF GRAIN FEED VETCH SEEDING]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zolotarev, V.N.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[grain feed grade]]></dc:subject>
+	<dc:subject><![CDATA[seed]]></dc:subject>
+	<dc:subject><![CDATA[depth of planting]]></dc:subject>
+	<dc:subject><![CDATA[crop quality]]></dc:subject>
+	<dc:subject><![CDATA[vetch]]></dc:subject>
+	<dc:subject><![CDATA[yield.]]></dc:subject>
+	<dc:subject><![CDATA[germination]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The level of productivity of seeds sown wiki determined plant density per unit area, depending on the field germination of seeds. In the context of the Central Black Earth optimal seeding depth wiki seed grain feed grade Lugovskaya 98, is provided by the best indicators of field germination more intensive development of plants and the formation of high-yield seeds on sod-podzolic soil medium texture, is 3-5 cm.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_9.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 38-42]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RU2015600055">
+	<dc:title><![CDATA[LUPIN SPECIES ADAPTATION TO AGROLANDSCAPE OF RUSSIA]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[А.I. Аrtyukhov]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[The All-Russia Research Institute of Legumes and Groat Crops, Russia, Orel]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2015]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[White lupin]]></dc:subject>
+	<dc:subject><![CDATA[yellow lupin]]></dc:subject>
+	<dc:subject><![CDATA[sum of rainfall]]></dc:subject>
+	<dc:subject><![CDATA[thermohydrolysis]]></dc:subject>
+	<dc:subject><![CDATA[narrow-leafed lupin]]></dc:subject>
+	<dc:subject><![CDATA[anthracnose infection level]]></dc:subject>
+	<dc:subject><![CDATA[adaptation to agrolandscape]]></dc:subject>
+	<dc:subject><![CDATA[sum of active temperatures]]></dc:subject>
+	<dc:subject><![CDATA[geographical regionalization]]></dc:subject>
+	<dc:subject><![CDATA[adapta- tion to feeding diets]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The article presents the adaptation conception of lupin species to agrolandscape, their geographical regionalization taking into account sum of average lasting productive temperatures and sum of rainfall during 110 days of vegetation period for semi-maturing varieties of white and narrow- leafed lupin. Regions where narrow-leafed lupin is recommended to be replaced by white one are listed. Lupin species are compared for lasting varieties and lines tests data on manmade anthracnose back- ground, warning against the lowest anthracnose resistance of white lupin is given. It’s recommended to cultivate white lupin under natural climate drought conditions if sum of rainfall is no high than 250 mm during 110 days of vegetation period. It’s not recommended to cultivate middle maturing narrow-leafed lupin varieties if sum of productive temperatures accumulates higher than 1850ºC during 110 days of its vegetation period and average daily temperature is higher 17ºC.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="ags:ISBN"><![CDATA[9 785905 402036]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[
+					http://journal.vniizbk.ru/jurnals/13/Article_14.pdf
+				]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 60-67]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[rus]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Legumes and Groat Crops]]></ags:citationTitle>
+		<ags:citationNumber><![CDATA[13]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

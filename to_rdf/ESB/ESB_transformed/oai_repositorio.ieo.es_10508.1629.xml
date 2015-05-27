@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:xalan="http://xml.apache.org/xalan" xmlns:dcterms="http://purl.org/dc/terms/"><ags:resource><dc:title xml:lang="eng">Analysis of Spanish acoustic surveys for sardine, 1991–1993: abundance estimates and inter-annual variability</dc:title><ags:creatorPersonal>Porteiro-Lago, C. (Carmen)</ags:creatorPersonal><ags:creatorPersonal>Carrera-López, P. (Pablo)</ags:creatorPersonal><ags:creatorPersonal>Miquel-Batle, J. (Joan)</ags:creatorPersonal><dc:publisher>International Council for the Exploration of the Sea (ICES)</dc:publisher><dc:publisher>Centro Oceanográfico de Vigo</dc:publisher><dcterms:issued>2014-02-20T11:52:14Z</dcterms:issued><dcterms:issued>2014-02-20T11:52:14Z</dcterms:issued><dcterms:issued>1996</dcterms:issued><dc:subject>Acoustic survey</dc:subject><dc:subject>Sardina pilchardus</dc:subject><dc:subject>spatial distribution</dc:subject><dc:subject>geostatistics</dc:subject><dc:subject>Iberian Península</dc:subject><dc:description>Systematic acoustic surveys to estimate the Spanish fraction of the Atlantic Sardine Stock were&#13;
+begun in 1983. Since 1991, with the use ofthe new Sirnrad EK-500 echosounder-echointegrator,&#13;
+the covered area has been extended to 1000 m isobath to observe the distribution of the main&#13;
+pelagic species in the area. The last three surveys, from spring 1991 to 1993, had a range of 20&#13;
+to 1000 m isobath. They were first analysed using the traditional methodology proposed in Pastor&#13;
+el al (1986) which do es not give any estimation ofthe variance. Therefore, the data was then&#13;
+analysed using geostatistic techniques, and the resulting relative abundance estimates were&#13;
+compared.&#13;
+Sardine showed high variability between years and zones in both distribution area and density,&#13;
+expressed as number of fish per square nautical mile. The two methods of analysis gave different&#13;
+biomass estimates by zone, especially in 1993. Variograms computed over areas of fish presence&#13;
+did not show, in general, a clear spatial structure and sills were reached at 3 n.m. of range. The&#13;
+precision ofthese variograms was low, ranging from 23% to 40 %, expressed as relative standard&#13;
+error.&#13;
+In order to improve precision it seems necessary to increase the sampling intensity and change&#13;
+the survey grid. For sardine, a systematic parallel with random start survey design, with 6 n.m.&#13;
+between transects, would be more appropriate.</dc:description><dc:identifier>http://hdl.handle.net/10508/1629</dc:identifier><dc:identifier>Porteiro, C. ; Carrera, P. ; Miquel, J. (1996) Analysis of Spanish acoustic surveys for sardine 1991-1993: abundance estimates and inter-annual variability. ICES Journal of Marine Science 53 (2); 429-433</dc:identifier><dc:type>article</dc:type><ags:rightsTermsOfUse>http://creativecommons.org/licenses/by-nc-nd/3.0/es/</ags:rightsTermsOfUse><ags:rightsTermsOfUse>openAccess</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse></ags:resource></ags:resources>

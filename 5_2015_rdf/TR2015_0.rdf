@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:ags="http://purl.org/agmes/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dct="http://purl.org/dc/terms/">
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100000">
+	<dct:identifier>TR2015100000</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[LONG RUN RELATIONSHIP BETWEEN SORGHUM YIELD , RAINFALL AND PRODUCER PRICE IN NIGERIA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Abu, Orefi]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[Producer price]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_5182"/>
+	<dc:subject><![CDATA[Rainfall]]></dc:subject>
+	<dc:subject><![CDATA[VECM]]></dc:subject>
+	<dc:subject><![CDATA[Co integration]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7244"/>
+	<bibo:abstract><![CDATA[Agricultural crop production in Nigeria is mostly rain fed. Therefore any change in climatic factors such as changes in rainfall could alter crop yield. On the other hand prices of agricultural commodities give signals to producers over the type and quantity of commodity to produce. This study investigated the relationship between sorghum yield, rainfall, and producer price in Nigeria for a period of 40 years (1970-2010). The stationarity properties of the data were tested using the Augmented Dickey-Fuller (ADF) test. The ADF test conducted on the specified time series data showed that all series were integrated of order I(1). The Johansen co integration test and vector error correction model (VECM) were applied to test for the long-run relationship among the variables and stability of the long-run equilibrium. The result indicated that there was at least one co integrating equation between the variables implying the existence of a long-run relationship between the variables examined. Consequently, policy and measures that can help farmers adapt to changing climatic factors as well as guarantee relative price for crops in general and sorghum in particular should be put in place to encourage the cultivation of sorghum and enhance its yield.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 77-86]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Abu, Orefi]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100001">
+	<dct:identifier>TR2015100001</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[THE POTENTIAL IMPACTS OF THE PORT OF SALVADOR IMPROVEMENTS ON THE BRAZILIAN COTTON INDUSTRY]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Costa, Rafael]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Rosson, Parr]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Costa, Ecio De Farias]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[spatial equilibrium model]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1926"/>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1070"/>
+	<dc:subject><![CDATA[transportation]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3919"/>
+	<bibo:abstract><![CDATA[A spatial price equilibrium model of the international cotton sector was used to analyze the impacts of the Port of Salvador improvements on the Brazilian cotton industry and world cotton trade. The port of Salvador is undergoing relevant improvements in its facilities and physical structure. As a result of these improvements, the port of Salvador is expected to become more competitive and attract ocean shipping companies which are willing to export products directly to Asian importing markets. Scenarios with different reduction in export cost for the port of Salvador were examined. For all scenarios, the new direct ocean shipping lines were found to be important for the cotton exporters in Brazil, especially for the producers in the state of Bahia. In addition, results suggested that the state of Bahia would have the potential of becoming the largest cotton exporting state in Brazil.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 45-61]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Costa, Rafael]]></rdf:li>
+		<rdf:li><![CDATA[Rosson, Parr]]></rdf:li>
+		<rdf:li><![CDATA[Costa, Ecio De Farias]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100002">
+	<dct:identifier>TR2015100002</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[SOCIO-ECONOMIC FACTORS AND ADOPTION OF ENERGY CROPS]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Gedikoglu, Haluk]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16526"/>
+	<dc:subject><![CDATA[Cellulosic Ethanol]]></dc:subject>
+	<dc:subject><![CDATA[Switchgrass]]></dc:subject>
+	<dc:subject><![CDATA[Technology Adoption]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_26574"/>
+	<bibo:abstract><![CDATA[International Journal of Food and Agricultural Economics]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 1-17]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Gedikoglu, Haluk]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100003">
+	<dct:identifier>TR2015100003</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[SMALLHOLDER FARMERS ’ WILLINGNESS TO INCORPORATE BIOFUEL CROPS INTO CROPPING SYSTEMS IN MALAWI]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Maonga, Beston Bille]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Maganga, Assa Mulagha]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Kankwamba, Henry]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[Smallholder farmer]]></dc:subject>
+	<dc:subject><![CDATA[Adoption]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4532"/>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16253"/>
+	<bibo:abstract><![CDATA[Using cross-sectional data, this study analysed the critical and significant socioeconomic factors with high likelihood to determine smallholder farmers’ decision and willingness to adopt jatropha into cropping systems in Malawi. Employing desk study and multi-stage random sampling technique a sample of 592 households was drawn from across the country for analysis. A probit model was used for the analysis of determinants of jatropha adoption by smallholder farmers. Empirical findings show that education, access to loan, bicycle ownership and farmers’ expectation of raising socioeconomic status are major significant factors that would positively determine probability of smallholder farmers’ willingness to adopt jatropha as a biofuel crop on the farm. Furthermore, keeping of ruminant herds of livestock, long distance to market and fears of market unavailability have been revealed to have significant negative influence on farmers’ decision and willingness to adopt jatropha. Policy implications for sustainable crop diversification drive are drawn and discussed.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 87-100]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Maonga, Beston Bille]]></rdf:li>
+		<rdf:li><![CDATA[Maganga, Assa Mulagha]]></rdf:li>
+		<rdf:li><![CDATA[Kankwamba, Henry]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100004">
+	<dct:identifier>TR2015100004</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[ROLE AND EFFECT OF AGROFORESTY SUBSIDES ALLOCATED BY THE COMMON AGRICULTURAL POLICY IN ITALIAN FARMS]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Nicola Galluzzo]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[multiple regression model]]></dc:subject>
+	<dc:subject><![CDATA[Common Agricultural Policy]]></dc:subject>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+	<dc:subject><![CDATA[Rural Development Plans.]]></dc:subject>
+	<dc:subject><![CDATA[FADN]]></dc:subject>
+	<bibo:abstract><![CDATA[Since the early 1990s, the European Union has financed a lot of specific measures aimed at promoting agroforestry on farms. In fact, the reform of Common Agricultural Policy proposed by the European Commissioner Ray MacSharry has put in place several actions with the predominant aim of changing the European agricultural model based on an environmental protection instead of a growth of agrarian productions. The purpose of this paper was, using a multiple regression model, to assess the impact of the Common Agricultural Policy, specifically financial subsides allocated by the second pillar of the CAP, in promoting agroforestation actions on the overall output of farmers over the time 2004-2012 and on the growth of woodland surface. Findings have pointed out a positive correlation between financial support paid by the Rural Development Program and the farmer total income with positive consequences on the growth of afforestated surfaces particularly in lowland areas.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 19-31]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Nicola Galluzzo]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100005">
+	<dct:identifier>TR2015100005</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[SPILLOVER EFFECTS OF U . S . FEDERAL RESERVE ’ S RECENT QUANTITATIVE EASING ON CANADIAN COMMODITY PRICES]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Saghaian, Sayed]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Reed, Michael]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[historical decomposition graphs]]></dc:subject>
+	<dc:subject><![CDATA[spillover effects]]></dc:subject>
+	<dc:subject><![CDATA[Quantitative easing]]></dc:subject>
+	<dc:subject><![CDATA[Canadian agricultural commodity prices]]></dc:subject>
+	<bibo:abstract><![CDATA[In this study, we evaluate the spillover effects of the recent U.S. Federal Reserve’s purchase of long-term assets (quantitative easing) on prices of Canadian commodities. The first large-scale asset purchases happened after the Great Recession, at the end of 2008, and the second purchases were in November of 2010. Since the U.S. is a large country, those policies have international spillover effects, particularly on Canada, a major economic partner. The commodities included in this analysis are Canadian livestock (cattle, hogs, and poultry), cereal grains (corn, soybeans, and wheat), softs (sugar, coffee, and cocoa), and energy (crude oil and natural gas). Using historical decomposition graphs, we find significant spillover effects on the Canadian commodity prices under investigation in the immediate neighborhood (seven-month horizon) of the large-scale asset purchases, especially the second round of quantitative easing.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 33-43]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Saghaian, Sayed]]></rdf:li>
+		<rdf:li><![CDATA[Reed, Michael]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100006">
+	<dct:identifier>TR2015100006</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[TRADE POLICY CHANGE AND PRICE VOLATILITY SPILL- OVER IN A CUSTOMS UNION : A CASE STUDY OF LAMB TRADE BETWEEN NAMIBIA AND SOUTH AFRICA]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Sarker, Rakhal]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Oyewumi, Olubukola Ayodeji]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dc:subject><![CDATA[Volatility Spill-Over]]></dc:subject>
+	<dc:subject><![CDATA[Persistence]]></dc:subject>
+	<dc:subject><![CDATA[Lamb Trade]]></dc:subject>
+	<dc:subject><![CDATA[EGARCH.]]></dc:subject>
+	<dc:subject><![CDATA[Small Stock Marketing Scheme]]></dc:subject>
+	<bibo:abstract><![CDATA[Namibia introduced the “Small Stock Marketing Scheme” (SSMS) in 2004 which replaced 15% export duty on live sheep exports to South Africa with progressively demanding quantitative restrictions. This policy increased price volatility in the Namibian sheep market. We used relevant monthly price data and employed EGARCH modeling to determine if price volatility spilled-over from the sheep market in Namibia to South African sheep market. About 71 percent of the volatility in the Namibian sheep market is transmitted to the retail market in South Africa and the transmitted volatility remains persistent.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 63-76]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Sarker, Rakhal]]></rdf:li>
+		<rdf:li><![CDATA[Oyewumi, Olubukola Ayodeji]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+<bibo:Article rdf:about="http://agris.fao.org/aos/records/TR2015100007">
+	<dct:identifier>TR2015100007</dct:identifier>
+	<dct:dateSubmitted>2015</dct:dateSubmitted>
+	<dct:source rdf:resource="http://ring.ciard.net/node/19396"/>
+	<dct:title><![CDATA[FARMERS ’ PRACTICES AND WILLINGNESS TO ADOPT SUPPLEMENTAL IRRIGATION IN BURKINA FASO]]></dct:title>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Zongo, Beteo]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Diarra, Abdoulaye]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Barbier, Bruno]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Zorom, Malicki]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Yacouba, Hamma]]></foaf:name></foaf:Person></dct:creator>
+	<dct:creator><foaf:Person><foaf:name><![CDATA[Dogot, Thomas]]></foaf:name></foaf:Person></dct:creator>
+	<dct:issued><![CDATA[2015]]></dct:issued>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2805"/>
+	<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_27560"/>
+	<dc:subject><![CDATA[willingness to adopt.]]></dc:subject>
+	<dc:subject><![CDATA[rainfed crop]]></dc:subject>
+	<dc:subject><![CDATA[dry spell]]></dc:subject>
+	<bibo:abstract><![CDATA[rainfed crops in the Sahelian and Sudano-Sahelian areas of Burkina Faso. A survey of 629 farmers revealed a diversity of farming practices within and between two agro-climatic zones. Over 65% of farmers believe that supplemental irrigation is a good way to mitigate the adverse effects of dry spells on crop yields. Determining factors of farmers’ willingness to adopt supplemental irrigation were identified using a logistic model. Lack of information is the major obstacle to promoting this innovation. Farmers’ training and information dissemination are the best ways to increase the acceptance of this promising technology.]]></bibo:abstract>
+	<dct:type><![CDATA[Journal Article]]></dct:type>
+	<dct:extent><![CDATA[p. 101-117]]></dct:extent>
+	<bibo:authorList><rdf:Seq>
+		<rdf:li><![CDATA[Zongo, Beteo]]></rdf:li>
+		<rdf:li><![CDATA[Diarra, Abdoulaye]]></rdf:li>
+		<rdf:li><![CDATA[Barbier, Bruno]]></rdf:li>
+		<rdf:li><![CDATA[Zorom, Malicki]]></rdf:li>
+		<rdf:li><![CDATA[Yacouba, Hamma]]></rdf:li>
+		<rdf:li><![CDATA[Dogot, Thomas]]></rdf:li>
+	</rdf:Seq></bibo:authorList>
+	<dct:isPartOf><bibo:Journal><dct:title><![CDATA[International Journal of Food and Agricultural Economics]]></dct:title></bibo:Journal></dct:isPartOf>
+</bibo:Article>
+</rdf:RDF>

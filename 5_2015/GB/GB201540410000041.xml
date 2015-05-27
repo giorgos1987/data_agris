@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015404100">
+	<dc:title><![CDATA[Hydrology of soil types: a hydrologically-based classification of the soils of United Kingdom.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Chilton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ian Harrison]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60634.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60634]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404101">
+	<dc:title><![CDATA[A provisional empirical nitrogen critical load map for terrestrial ecosystems in Wales]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. Reynolds]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.I. Radford]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.A. Norris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60697]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60697.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404102">
+	<dc:title><![CDATA[Critical loads for nitrogen to avoid eutrophication: assessment of the mass balance approach using the Aber site, N. Wales]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. J. Lovell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. H. Batchelor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. K. Waughray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. Semple]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mazhangara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Mtetwa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Murata]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. W. Brown]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Dube]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. Thompson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. J. Chilton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. M. J. Macdonald]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Conyers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Mugweni]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60695.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60695]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404103">
+	<dc:title><![CDATA[Field and modelling studies to assess the risk to UK groundwater from earth-based stores for livestock manure]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miklós Neményi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jeno Csermely]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Károly Kacz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Attila József Kovács]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Erika Lakatos]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zsolt Stépán]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60165.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60165]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404104">
+	<dc:title><![CDATA[Chemical trends at lakes and streams in the UK Acid Waters Monitoring Network, 1988-2000: evidence for recent recovery at a national scale]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tamás Nepusz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrea Petroczi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Declan P. Naughton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[1988-2000: evidence for recent recovery at a national scale]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60396.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60396]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404105">
+	<dc:title><![CDATA[Old grassland - its archaeological and ecological significance]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Guruswamy SriSubramaniam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Subramaniam Sairavi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60867]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60867.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404106">
+	<dc:title><![CDATA[The recovery of ground vegetation in coppicewood: the significance of buried seed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60699]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60699.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404107">
+	<dc:title><![CDATA[Even-aged plantations as a habitat for birds]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. Moss]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60890]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60890.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404108">
+	<dc:title><![CDATA[The way ahead in research and practice.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. F. Harrison]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60888.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60888]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404109">
+	<dc:title><![CDATA[Grazing experiments and the use of grazing as a conservation tool]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard W. Gibson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60869.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60869]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404110">
+	<dc:title><![CDATA[Extensive survey of dune vegetation in Scotland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Quentin Wodon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Morris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vincent Glaesner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jean-Paul Zoyem]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Patricia Larbouret]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marc Moens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Evalyne Dianga]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ba Mdaye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[re Kavalec]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60909.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60909]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404111">
+	<dc:title><![CDATA[Decomposition and nutrient release in even-aged plantations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K.A. Longman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60895]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60895.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404112">
+	<dc:title><![CDATA[The development of a flora in even-aged plantations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D.B. Boorman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Gannon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Gustard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.M. Hollis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Lilly]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60897.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60897]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404113">
+	<dc:title><![CDATA[Evaporation of water from plantation forest.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[W.N. Charles]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60893.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60893]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404114">
+	<dc:title><![CDATA[An ecological basis for predicting the growth and stability of plantation forests]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E. D. Ford]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60899.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60899]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404115">
+	<dc:title><![CDATA[Pesticide run-off study at ADAS Rosemaund: report of years 3 to 5 - Autumn 1990 to Spring 1992]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sharon Leanne Thielen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60916]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60916.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404116">
+	<dc:title><![CDATA[Abundance of field voles (Microtus agrestis) in conifer plantations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. K. Waughray]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mazhangara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Mtetwa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Murata]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Dube]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.J. Lovell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.H. Batchelor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60918.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60918]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404117">
+	<dc:title><![CDATA[Biological opportunities for genetic improvement in forest productivity]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Neal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60901.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60901]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404118">
+	<dc:title><![CDATA[The subcortical fauna of oak: scolytid beetles as potential vectors of oak wilt disease.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Miles]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60928]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60928.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404119">
+	<dc:title><![CDATA[Movement of leachate from beneath turkey litter sited over chalk in southern England]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. W. Staines]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Welch]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:60930]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/60930.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404120">
+	<dc:title><![CDATA[Institute of Physics, Environmental Physics Group newsletter (45), April 2011]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sally Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2011]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/6104822.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:6104822]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404121">
+	<dc:title><![CDATA[Institute of Physics, Environmental Physics Group newsletter (46), November 2011]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sally Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[November 2011]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:6104823]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/6104823.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404122">
+	<dc:title><![CDATA[Effects of trees on soil properties, a resampling of J.D.Ovington's plots at Abbotswood]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Wilson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61124]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61124.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404123">
+	<dc:title><![CDATA[Geochemical baseline data for the urban area of Swansea]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andreas Scheib]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dee Flight]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bob Lister]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cathy Scheib]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61016]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61016.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404124">
+	<dc:title><![CDATA[Institute of Physics, Environmental Physics Group newsletter (47), April 2012]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sally Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[April 2012]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:6104824]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/6104824.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404125">
+	<dc:title><![CDATA[Numerical analysis of soil physiological data]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Daniel Joseph Lapworth]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ian Harrison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[er Kim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Simon Mathias]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61117]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61117.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404126">
+	<dc:title><![CDATA[Review of nitrogen distribution and cycling in forest ecosystems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. F. Harrison]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Xu]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61113.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61113]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404127">
+	<dc:title><![CDATA[Multidisciplinary characterisation and modelling of a small upland catchment in Scotland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I.U. Mohammed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.M. Abarshi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Muli]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.J. Hillocks]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.N. Maruthi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61175]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61175.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404128">
+	<dc:title><![CDATA[Regional geochemical soil data as aid to the reconstruction of Mid-Pleistocene ice flows across Central and Eastern England]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E.M. Fielde]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D.A. Goode]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61169.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61169]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404129">
+	<dc:title><![CDATA[Soil, wheat, cabbage and drinking water iodine in relation to human iodine status and iodine deficiency disorders in Xinjiang Province, China]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I.R. Wright]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61165]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61165.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404130">
+	<dc:title><![CDATA[A revised scheme for coding unlithified deposits (also applicable to engineering soils)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A.H. Cooper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Kessler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Ford]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61411]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61411.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404131">
+	<dc:title><![CDATA[Review of existing information on the interrelations between soil and climate change. (ClimSoil). Final report]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mohammad Reza Nazari]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61457.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61457]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404132">
+	<dc:title><![CDATA[The growth of sycamore (Acer pseudoplatanus L.) and birch (Betula verrucosa Ehrh.) seedlings in 50 different soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tibor Pupos]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zsuzsanna Bacsi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Győző Demeter]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61430]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61430.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404133">
+	<dc:title><![CDATA[Respiration, litter nutrients, and soil organic matter in grazed and ungrazed upland limestone grassland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T. W. Ashenden]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. A. Bell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61417]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61417.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404134">
+	<dc:title><![CDATA[Recording soil profile descriptions for computer retrieval]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. J. A. Howard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. K. Lindley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Hornung]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61450.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61450]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404135">
+	<dc:title><![CDATA[Assessment of the availability of phosphate in soils by measurement of phosphate stress in seedlings of sycamore (Acer pseudoplatanus L.) and birch (Betula verrucosa Ehrh.) using P32 phosphorus]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K. Ingleby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Dick]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61458.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61458]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404136">
+	<dc:title><![CDATA[Creation and Management of Pollen and Nectar Habitats on Farmland: Annual report 2006/7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Richard Pywell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marek Nowakowski]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61462]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61462.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404137">
+	<dc:title><![CDATA[Utilisation of wastewater for fuel and fodder production and environmental and social benefits in semi-arid, peri-urban zones of sub-Saharan Africa. Final Report 1/12/2002 - 30/11/2007 Contract number ICA4-CT-2002-10017]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Michael R. Carter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Francisco Galarza]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stephen Boucher]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[peri-urban zones of sub-Saharan Africa. Final Report 1/12/2002 - 30/11/2007 Contract number ICA4-CT-2002-10017]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61503]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61503.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404138">
+	<dc:title><![CDATA[Creation and Management of Pollen and Nectar Habitats on Farmland: Annual report 2007/8]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. D. Hooper]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61461]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61461.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404139">
+	<dc:title><![CDATA[Farming for Wildlife Project: Annual Report 2006/7]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nur Hasanah]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61463]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61463.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404140">
+	<dc:title><![CDATA[The colorimetric determination of ammonium and nitrate in woodland soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[David Ian McCracken]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61507.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61507]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404141">
+	<dc:title><![CDATA[The growth of sycamore (Acer pseudoplatanus L.) seedlings in different woodland soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Attila Nemes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Imre Czinkota]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[György Czinkota]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[László Tolner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Balázs Kovács]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61504]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61504.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404142">
+	<dc:title><![CDATA[Urban soils geochemistry and GIS-aided interpretation : a case study from Stoke-on-Trent]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F.M. Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.L. Ander]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61512]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61512.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404143">
+	<dc:title><![CDATA[Effects of trees on soil properties, a resampling of J.D.Ovington's plots at West Tofts]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sam Thompson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Juliet Michaelson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Saamah Abdallah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Victoria Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Damien Morris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kathy Riley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrew Simms]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61518]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61518.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404144">
+	<dc:title><![CDATA[Large Scale Biodiversity, Environmental Gradients and Ecosystem Sustainability. Report on workshop outputs from Marine and Terrestrial & Freshwater community perspectives (15th and 16th December 2008)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Phil Williamson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sarah Lea Turner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pamela Kempton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nichola Badcock]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[Environmental Gradients and Ecosystem Sustainability. Report on workshop outputs from Marine and Terrestrial & Freshwater community perspectives (15th and 16th December 2008)]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61509.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61509]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404145">
+	<dc:title><![CDATA[A preliminary attempt to estimate rates of ammonification and nitrification in soil in the field]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. P. C. Morgan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. N. Quinton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. E. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Govers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. W. A. Poesen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Auerswald]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Chisci]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Torri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. E. Styczen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. V. Folly]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61534.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61534]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404146">
+	<dc:title><![CDATA[UK Soils: their phosphorus sorption capacity and potential for P removal from sewage effluents in emergent hydrophyte treatment systems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Irma Lorena Acosta Reveles]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61539]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61539.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404147">
+	<dc:title><![CDATA[Trend-surface and component analysis of numbers of invertebrates from the Morecambe Bay main survey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ijaz Nabi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61594]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61594.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404148">
+	<dc:title><![CDATA[The collection of soil temperature data in intensive studies of ecosystems]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K. L. Bocock]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61505]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61505.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404149">
+	<dc:title><![CDATA[Bayesian Calibration (BC) and Bayesian Model Comparison (BMC) of process-based models: Theory, implementation and guidelines]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61613.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61613]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404150">
+	<dc:title><![CDATA[Trend-surface analysis of chemical and physical variables from a pilot survey of Morecambe Bay]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Chris Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fiona Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alex Stewart]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61605.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61605]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404151">
+	<dc:title><![CDATA[Report on the discussions of the syndicate on the use of agrochemicals.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. Newton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61651.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61651]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404152">
+	<dc:title><![CDATA[Report on the discussions of the syndicate on lowlands.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Scott R. Steele]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61654.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61654]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404153">
+	<dc:title><![CDATA[Selecting biological indicators for monitoring soils: a framework for balancing scientific opinion to assist policy development]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Ciosi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Toepfer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Li]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Haye]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[U. Kuhlmann]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H. Wang]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Siegfried]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Guillemaud]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61630.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61630]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404154">
+	<dc:title><![CDATA[The use of remote sensing for monitoring change in agriculture in the uplands and lowlands.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. K. Wyatt]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61653.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61653]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404155">
+	<dc:title><![CDATA[Studies by ITE on the impact of agriculture on wildlife and semi-natural habitats in the uplands .]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. L. M. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Sowerby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. L. Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. E. Jones]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61655]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61655.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404156">
+	<dc:title><![CDATA[Soil organic phosphorus - its mineralisation and its importance in the nutrition of woodland plants. A literature review]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Júlia Halász]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Attila Hegedűs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zoltán Szabó]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrzej Pedryc]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61597.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61597]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404157">
+	<dc:title><![CDATA[The impact of upland pasture improvement on solute outputs in surface waters.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J.M. Sykes]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61656]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61656.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404158">
+	<dc:title><![CDATA[Impacts of agriculture on southern grasslands.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. G. Morris]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61659]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61659.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404159">
+	<dc:title><![CDATA[Inventory and projections of UK emissions by sources and removals by sinks due to land use, land use change and forestry. Annual Report July 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. M. Thomson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. C. Mobbs]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Milne]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[U. Skiba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Clark]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. E. Levy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. K. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. F. Billett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Ostle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Foereid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W. S. Fung]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. W. Matthews]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mackie]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Bellamy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Rivas-Casado]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Grace]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Higgins]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Jordan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. W. Tomlinson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:date><dcterms:dateIssued><![CDATA[land use change and forestry. Annual Report July 2008]]></dcterms:dateIssued></dc:date>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61695]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61695.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404160">
+	<dc:title><![CDATA[What are the main recent impacts of agriculture on wildlife? Could they have been predicted, and what can be predicted for the future?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Andreas Scheib]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sarah Arkley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Clive Auton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[David Boon]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jeremy Everest]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Oliver Kuras]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stephen Graham Pearson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Michael Raines]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[John Williams]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61663]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61663.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404161">
+	<dc:title><![CDATA[Models for predicting changes in rural land use in Great Britain]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C.R. Riches]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.A. Mazid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.J. Uddin Ahmed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A.M. Mortimer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M.A. Jabbar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Orr]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61662.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61662]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404162">
+	<dc:title><![CDATA[Terrestrial Umbrella - Effects of eutrophication and acidification on terrestrial ecosystems. Annual Report 2008]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B. Emmett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. R. Cooper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Ashmore]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Belyazid]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Britton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Broadmeadow]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Caporn]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Carroll]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O. Davies]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Dise]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Field]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Helliwell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Hester]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Hughes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Leake]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[I. Leith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Maskell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Mills]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T. Mizunuma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. Ostle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Phoenix]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Power]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Reynolds]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Rowe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Scott]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L. Sheppard]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Smart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Sowerby]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Tipping]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Vanguelova]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Vuohelainen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61738.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61738]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404163">
+	<dc:title><![CDATA[Implications of acidified S inputs on the fate and consequences of N deposition: results from a field manipulation of a Sitka spruce canopy in Southern Scotland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M.G. Morris]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E.A.G. Duffey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.N. Greatorex-Davies]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.C. Welch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.E. Jones]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.G. Snazell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.T. Harding]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H.A. Brundle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W.E. Rispin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R.A. Plant]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G.J. Moller]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61733.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61733]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404164">
+	<dc:title><![CDATA[Energy balance studies in coniferous forests]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L. W. Gay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. B. Stewart]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61819.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61819]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404165">
+	<dc:title><![CDATA[Methodology for identifying and modeling the key logistics processes in agri-food supply chain]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Radhaballabh Ch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[a]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:6178595]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/6178595.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404166">
+	<dc:title><![CDATA[Movement of heat in soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Hornung]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61764]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61764.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404167">
+	<dc:title><![CDATA[Identifying the Gap to Meet the Water Framework Directive - Lakes Baseline. Final Report]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Flavie Vial]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61827.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61827]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404168">
+	<dc:title><![CDATA[Biogeographical zones in Scotland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Abiud Lucas Kaswamila]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61868.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61868]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404169">
+	<dc:title><![CDATA[The SAFFIE Project Report]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ruben Eugene Leon]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61872.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61872]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404170">
+	<dc:title><![CDATA[Effects of different nitrogen forms, ammonia gas and wet deposited ammonium and nitrate, on methane and nitrous oxide emissions from an ombrotrophic bog, Whim Moss, in the Scottish Borders]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Sustainable Development Commission]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61911.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61911]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404171">
+	<dc:title><![CDATA[Measurement of moisture fluxes in unsaturated soil in Thetford Forest]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. D. Cooper]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61929]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61929.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404172">
+	<dc:title><![CDATA[Understanding the pathways and dynamics of agricultural diffuse pollution from intensively farmed grassland: the application of natural and artificial tracing techniques]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G.H. Old]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.S. Naden]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S.J. Granger]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Bol]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. Butler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Marsh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.N. Owens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.P.G. Smith]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. Macleod]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Billotta]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. Brazier]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P.M. Haygarth]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61895.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61895]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404173">
+	<dc:title><![CDATA[Does enhanced nitrogen deposition represent a threat to Sphagnum and thus the sustainability of Scottish peatlands?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hakim Ben Hammouda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stephen Karingi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nassim Oulmane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rémi Lang]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mustapha Sadni Jallab]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61943]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61943.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404174">
+	<dc:title><![CDATA[The soil moisture databank: moisture content data from some British soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C. Helfter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. Coyle]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. F. Di Marco]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. J Phillips]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Siong]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[U. M Skiba]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Fowler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Nemitz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61953]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61953.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404175">
+	<dc:title><![CDATA[Soil physical processes of groundwater recharge through Indian black cotton soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Anna Camila Nader Nieto]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61952]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61952.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404176">
+	<dc:title><![CDATA[Inventories of N2O and NO emissions from European forest soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Christilla Roederer-Rynning]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61988]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61988.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404177">
+	<dc:title><![CDATA[Are the occurrences of sheathing mycorrhizal fungi in new and regenerating forests and woodlands in Scotland predictable?]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[I. Newton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D. Moss]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62029]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62029.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404178">
+	<dc:title><![CDATA[Ground flora and succession in commercial forests]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. O. Hill]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62027]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62027.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404179">
+	<dc:title><![CDATA[The Cumbria environment - an overview]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[F.M. Fordyce]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.C. Johnson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J.D. Appleton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G. Zhang]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[X. Ge]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62064]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62064.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404180">
+	<dc:title><![CDATA[Application of near-surface geophysical data in GSI3D : case studies from Shelford and Talla Linnfoots]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Katherine Gwyneth Ader]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/61998.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:61998]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404181">
+	<dc:title><![CDATA[2005 G-BASE field procedures manual]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bente Foereid]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62107]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62107.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404182">
+	<dc:title><![CDATA[Whither forestry? The scene in AD 2028]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S. Hughes]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. N. Hornung]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62061.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62061]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404183">
+	<dc:title><![CDATA[Phosphate retention in the organic horizon of a stagnopodzol soil]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E.C. Rowe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F. Moldan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B.A. Emmett]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C.D. Evans]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. Hellsten]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62016]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62016.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404184">
+	<dc:title><![CDATA[Mineralisation of organic phosphorus in relation to soil factors, determined using isotopic 32P labelling]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Murata]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. H. Batchelor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C. J. Lovell]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M. W. Brown]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. J. Semple]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E. Mazhangara]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. Haria]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S. P. McGrath]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R. J. Williams]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62086.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62086]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404185">
+	<dc:title><![CDATA[Life Cycle Assessment in the Bioenergy Sector: Developing a systematic review. Working paper]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G. L. Radford]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N. R. C. Webb]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62141]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62141.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404186">
+	<dc:title><![CDATA[Patterns of decomposition assessed by the use of litter bags and cotton strip assay on fertilized and unfertilised heather moor in Scotland]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D. D. French]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62157]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62157.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404187">
+	<dc:title><![CDATA[Transfer of radionuclides to agricultural animals – revision of TRS 364]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[L.A. Boorman]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62108.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62108]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404188">
+	<dc:title><![CDATA[Changes in tensile strength loss of cotton strips with season and soil depths under 4 tree species]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Robinson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62162.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62162]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404189">
+	<dc:title><![CDATA[Use of cotton cloth in microcosms to examine relationships between mycorrhizal and saprotrophic fungi.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. Dighton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. M. Latter]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62172]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62172.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404190">
+	<dc:title><![CDATA[Use of cotton strip assay to assess the effect of formaldehyde treatment on a peat soil]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P. M. Latter]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J. Miles]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62171]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62171.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404191">
+	<dc:title><![CDATA[Discrimination between the effect on soils of 4 tree species in pure and mixed stands using cotton strip assay]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A. H. F. Brown]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62164.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62164]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404192">
+	<dc:title><![CDATA[Methods for the identification of priorities in rural planning. (Workshop report).]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Bell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62188.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62188]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404193">
+	<dc:title><![CDATA[Opportunities for vegetation management in plantation forests]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. O. Hill]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62198.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62198]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404194">
+	<dc:title><![CDATA[The effects of forestry on upland streams - with special reference to water quality and sediment transport]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R. R. B. Leakey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A. C. Newton]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62200.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62200]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404195">
+	<dc:title><![CDATA[The effects of forestry on soils, soil water and surface water chemistry]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M. Hornung]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P. A. Stevens]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B. Reynolds]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62199.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62199]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404196">
+	<dc:title><![CDATA[Pesticide fate and behaviour in the UK Chalk aquifer, and implications for groundwater quality]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John Chilton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marianne Stuart]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Daren Gooddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Richard Williams]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrew Johnson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62257]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62257.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404197">
+	<dc:title><![CDATA[Characterising pesticide residence and transport processes through dual porosity aquifers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gert Jan Reinds]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marcel Van Oijen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gerard B. M. Heuvelink]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hans Kros]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62259.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62259]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404198">
+	<dc:title><![CDATA[Soil fertility and commercial forest felling: research note]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J. K. Adamson]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62207.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62207]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015404199">
+	<dc:title><![CDATA[A geographical information system (GIS) for Dorset heaths]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Homsina Homsina]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/62343.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:62343]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="GB2015402300">
+	<dc:title><![CDATA[Social Capital: An Exit Path from Poverty. An ICRISAT Success Story]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J L Monteith]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106650]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106650.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402301">
+	<dc:title><![CDATA[Vision for rainfed agriculture in South Asia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T S Walker]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J G Ryan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K G Kshirsagar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Sarin]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106654.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106654]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402302">
+	<dc:title><![CDATA[An assessment of technology development from the Green Revolution to today]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106640]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106640.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402303">
+	<dc:title><![CDATA[ICRISAT-private sector partnership in hybrid parents research]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K V K Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S K Yellareddygari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J W Kloepper]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K S Lawrence]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[X G Zhou]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Sudini]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M E Miller]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106660.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106660]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402304">
+	<dc:title><![CDATA[Vote of thanks.NARC-ICRISAT-NRI Workshop]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K N Rai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R B Singh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106704.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106704]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402305">
+	<dc:title><![CDATA[The adoption of ICM technologies by poor farmers in Nepal]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P C Stevenson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Neupane]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R N Chaudhary]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V A Bourai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J N Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Grzywacz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106699]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106699.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402306">
+	<dc:title><![CDATA[Empowerment through enrichment on-farm IPM of chickpea in Nepal-2. Information bulletin no. 65]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V A Bourai]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P C Stevenson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Neupane]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106680.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106680]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402307">
+	<dc:title><![CDATA[Alternative pest control approaches NPV for pod borer control and its uptake in Nepal]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[D Grzywacz]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N P Khanal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Maharjan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106669]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106669.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402308">
+	<dc:title><![CDATA[Monitoring pyrethroid resistance in the pod borer, helicoverpa armigera in Andhra Pradesh, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K Ravi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S L Dwivedi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D A Hoisington]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Varshney]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106853]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106853.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402309">
+	<dc:title><![CDATA[ICRISAT-Private Sector Partnership in Hybrid Parents Research. An ICRISAT Success Story]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B Toomsan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P J Dart]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106721.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106721]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402310">
+	<dc:title><![CDATA[Seasonal activity of the teak defoliator Hyblaea puera Cramer (Lepidoptera: Hyblacidae) at ICRISAT, Patancheru, Andhra Pradesh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J W Hansen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Mishra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K P C Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Indeje]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Ngugi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106886.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106886]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402311">
+	<dc:title><![CDATA[The influence of vegetation pattern on the productivity, diversity and stability of vegetation: The case of 'brousse tigree' in the Sahel]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A S Alur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P P Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K N Rai]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106931]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106931.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402312">
+	<dc:title><![CDATA[Contribution of ICRISAT to Studies on Plant Resistance to Insect Attack]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[W Reed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S S Lateef]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P W Amin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J C Davies]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106946.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106946]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402313">
+	<dc:title><![CDATA[Seed dryers for experiment stations, design, construction, and testing of a prototype]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T K Sreedevi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H P Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Pathak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T J Rego]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106947.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106947]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402314">
+	<dc:title><![CDATA[Evaluation Of Commercially Available Fertilizer Applicators For Their Precision And Uniformity Of Application]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S N Kapoor]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106948]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106948.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402315">
+	<dc:title><![CDATA[Analysis Of Constraints To Increased Productivity Of Dryland Areas]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A K Dikshit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P S Birthal]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106949]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106949.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402316">
+	<dc:title><![CDATA[Planning For An Agricultural Information System In India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V A Tonapi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P H Babu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N A Ansari]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Varanavasiappan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S S Navi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Seetharama]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106964.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106964]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402317">
+	<dc:title><![CDATA[Statistical Analysis Of Intercropping Data Using A Correlated Error Structure]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A S Alur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P P Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106975.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106975]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402318">
+	<dc:title><![CDATA[Diversity analysis of 3365 sorghums in the GCP composite germplasm set based on allelic variation at 41 SSR loci]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Dagnoko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Haougui]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Ratnadass]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Pasternak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Kouame]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106992.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106992]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402319">
+	<dc:title><![CDATA[Intercropping studies with annual crops]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C Longley]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Dominguez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Devji]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106981.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106981]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402320">
+	<dc:title><![CDATA[Genetic enhancement of Valencia core collection and molecular characterization of U.S. peanut mini core collection using SSR markers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106995]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106995.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402321">
+	<dc:title><![CDATA[Genetic enhancement of resistance to foliar diseases]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M V C Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y P Khedikar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V P Kusuma]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Sujay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Bhat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R K Varshney]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12106994.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12106994]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402322">
+	<dc:title><![CDATA[The need for allele mining: perspectives of the System-wide Genetic Resources Programme (SGRP)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R S Hamilton]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Sie]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Valkoun]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Mahalakshmi]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107018.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107018]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402323">
+	<dc:title><![CDATA[Heterosis Breeding in Pulses - Problems and Prospects]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K B Saxena]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107024.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107024]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402324">
+	<dc:title><![CDATA[Management of Germplasm Collections and Enhancing Their Use by Mini Core and Molecular Approaches]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D V S S R Sastry]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107002.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107002]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402325">
+	<dc:title><![CDATA[A Pictorial Guide to the Identification of Seedborne Fungi of Sorghum,Pearl Millet, Finger Millet, Chickpea,Pigeonpea, and Groundnut.Information Bulletin no. 34.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Babar Hussain]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Muhammad Amir Fahim]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Muhammad Sajid]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107049]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107049.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402326">
+	<dc:title><![CDATA[ICRISAT Annual Report 2000 'Science with a Human Face']]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107056]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107056.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402327">
+	<dc:title><![CDATA[Strategy for conservation and enhanced use of crop genetic resources]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ю.В. Загородній]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107016]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107016.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402328">
+	<dc:title><![CDATA[Evaluation and Selection Of Elite Plant Growth-Promoting Rhizobacteria For Suppression Of Sheath Blight Of Rice Caused By Rhizoctonia Solani In A Detached Leaf Bio-Assay]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107050.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107050]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402329">
+	<dc:title><![CDATA[MTP 2008-2010 Nourishing the Productivity and Livelihoods of Success in the SAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R N Athavale]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107061]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107061.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402330">
+	<dc:title><![CDATA[Growing a Greener Future ICRISAT’s Medium-Term Plan 2008-2010 - A Synopsis]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107062]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107062.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402331">
+	<dc:title><![CDATA[Empowerment through Technology: Gender Dimensions of Social Capital Build-Up in Maharashtra, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K K Lee]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L L Shearman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B K Erickson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R V Klucas]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107078]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107078.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402332">
+	<dc:title><![CDATA[ICRISAT Research Impacts For informed research targets and technology design]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107079.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107079]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402333">
+	<dc:title><![CDATA[International Chickpea and Pigeonpea Newsletter No. 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107057]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107057.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402334">
+	<dc:title><![CDATA[Livelihood Risk from HIV in Semi-Arid Tropics of Rural Andhra Pradesh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L M Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G T Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Koppula]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A S Alur]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107082]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107082.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402335">
+	<dc:title><![CDATA[ICRISAT Medium-Term Plan 2010-12]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P P Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Ahmed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Ratnakar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A S Alur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Ashok Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107064.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107064]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402336">
+	<dc:title><![CDATA[Impacts of ICRISAT-NARS Research in Africa]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107091]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107091.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402337">
+	<dc:title><![CDATA[Beyond Technology Dissemination -Can Indian agricultural extension re-invent itself ? Policy Brief 16]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V R Sulaiman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Hall]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107086]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107086.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402338">
+	<dc:title><![CDATA[Towards Extension-plus: Opportunities and Challenges Policy Brief 17]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V R Sulaiman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Hall]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107087]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107087.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402339">
+	<dc:title><![CDATA[Institutional learning and change: a review of concepts and principles Policy Brief 21]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N Bellostas]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Christian Sørensen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Nikiema]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H Sørensen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Pasternak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Kumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107088.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107088]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402340">
+	<dc:title><![CDATA[Innovation systems: Implications for agricultural policy and practice]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Hall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Mytelka]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Oyeyinka]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107089.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107089]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402341">
+	<dc:title><![CDATA[Diversification towards High Value Agriculture Role of Urbanisation and Infrastructure]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R W Willey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Natarajan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M R Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P T C Nambiar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Kannaiyan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V S Bhatnagar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107100.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107100]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402342">
+	<dc:title><![CDATA[Institutional Innovations and Markets Linkages for Poverty Alleviation and Sustainable Development of Small Scale Farmers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107101.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107101]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402343">
+	<dc:title><![CDATA[Making markets work for smallholder farmers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A S Alur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P P Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107111]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107111.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402344">
+	<dc:title><![CDATA[Influence of plant age on infection and symptomatological studies on urd bean leaf crinkle virus in urd bean (vigna mungo)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A A Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107110.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107110]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402345">
+	<dc:title><![CDATA[Making the Markets Work for the Poor Bulking and bulk marketing practices for realizing better profits by the small and marginal scale farmers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M V K Sivakumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A K S Huda]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107112.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107112]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402346">
+	<dc:title><![CDATA[Management Of Urd Bean Leaf Crinkle Virus In Urd Bean (Vigna Mungo L. Hepper)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V A Tonapi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Varanavasiappan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S S Navi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Jayarajan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107113]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107113.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402347">
+	<dc:title><![CDATA[Public-private sector partnership in diversifying semi - arid tropical (SAT) systems through medicinal and aromatic plants]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M Blummel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S H K Tui]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Valbuena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Duncan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Herrero]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107114]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107114.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402348">
+	<dc:title><![CDATA[Paulownia: The Miracle Beautiful Multi Purpose Tree]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A J Challinor]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T Wheeler]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D Hemming]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107117.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107117]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402349">
+	<dc:title><![CDATA[Participatory Varietal Selection in Watershed Programs Principles and Practices]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Sanjana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Dixit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107116.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107116]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402350">
+	<dc:title><![CDATA[Short note on Micro Finance Institutions (MFI) bill-2011]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107134.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107134]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402351">
+	<dc:title><![CDATA[Impact Assessment of Agricultural Technologies in West Africa Summary Proceedings of a Training Workshop on Impact Assessment– Technical Notes & Exercises]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M C S Bantilan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Ndjeunga]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K P C Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B R Ntare]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107093.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107093]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402352">
+	<dc:title><![CDATA[Studies On Seed Coloring In Soybean And Tomato]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J P Goutorbe]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T Lebel]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Tinga]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Bessemoulin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J Brouwer]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A J Dolman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[E T Engman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J H C Gash]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Hoepffner]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Kabat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y H Kerr]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Monteny]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Prince]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F Said]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Sellers]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J S Wallace]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107121.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107121]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402353">
+	<dc:title><![CDATA[Management of leaf crinkle virus of URD bean using botanicals]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V A Tonapi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Varanavasiappan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S S Navi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Jayarajan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107126]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107126.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402354">
+	<dc:title><![CDATA[Conjuctive Use of Water Resource Technology and Extension in Improving Productivity of Rainfed Farming: An Experience at Lalatora, Madhya Pradesh, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B R Patil]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A B P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[e]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S K Dixit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Pathak]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T J Rego]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107147.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107147]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402355">
+	<dc:title><![CDATA[Groundnut (Arachis hypogaea) genotypes tolerant to intermittent drought maintain a high harvest index and have small leaf canopy under stress]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P Ratnakumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Vadez]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107133.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107133]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402356">
+	<dc:title><![CDATA[Crop Improvement for livestock Crop-residue fed at ICRISAT Asia Centre]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B V S Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C T Hash]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[J W Stenhouse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H A van Rheenen]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107174]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107174.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402357">
+	<dc:title><![CDATA[Soil Health Improvement with Gliricidia Green Leaf Manuring in Rainfed Agriculture:On Farm Experiences]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N S Jodha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N P Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M C S Bantilan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K. Byjesh]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107327.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107327]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402358">
+	<dc:title><![CDATA[Resource use efficiency of smallholder crop production in the central highlands of Ethiopia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E C Mussaa]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G A Obare]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Bogale]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[F Simtowe]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107248.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107248]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402359">
+	<dc:title><![CDATA[Measuring the effectiveness of agricultural R&D in Sub-Saharan Africa from the perspectives of varietal output and adoption]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K F Nwanze]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M V K Sivakumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107244]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107244.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402360">
+	<dc:title><![CDATA[Consultative Group on International Agricultural Research (CGIAR) research-fordevelopment agenda on mycotoxins for enhanced food safety and trade]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Gopalakrishnan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G V Ranga Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107405]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107405.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402361">
+	<dc:title><![CDATA[Land Preparation and Field Operation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Abdullah Abdul Aziz]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107372.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107372]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402362">
+	<dc:title><![CDATA[Innovative seed systems and seed delivery models for food-feed-fodder security in semi-arid tropics of Andhra Pradesh]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P Bhatnagar-Mathur]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K K Sharma]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107125]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107125.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402363">
+	<dc:title><![CDATA[Integrated Nutrient Management in Dryland Agriculture]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[M K P]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[ey]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N S Rani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M S Madhav]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R M Sundaram]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G S Varaprasad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A K P Sivaranjini]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Bohra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Ram Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Kumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107373.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107373]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402364">
+	<dc:title><![CDATA[Aflatoxin resistance breeding at ICRISAT Center]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[T Engelhardt]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107409]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107409.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402365">
+	<dc:title><![CDATA[Genetic engineering of groundnut for crop improvement]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107411]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107411.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402366">
+	<dc:title><![CDATA[Progress in breeding for drought tolerant groundnut varieties at ICRISAT center]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[V Vadez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L Krishnamurthy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C T Hash]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107431]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107431.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402367">
+	<dc:title><![CDATA[Recent advances in the development of improved groundnut confectionary cultivars]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S L Dwivedi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G V S Nagabhushanam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Jambunathan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107434]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107434.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402368">
+	<dc:title><![CDATA[Evaluation of new Aspergillus flavus resistant groundnut varieties for agronomic performance in multi-location on-farm trials in Andhra Pradesh, India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Saveer Ahmed]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Sophie Kromann]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Göran Birgersson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tobias Lindblom]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marie Bengtsson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Anna Balkenius]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bill S. Hansson]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Peter Witzgall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paul G Becher]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rickard Ignell]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107410.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107410]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402369">
+	<dc:title><![CDATA[Effect of soil application of lime, crop residue and biocontrol agents on pre-harvest Aspergillus flavus infection and Aflatoxin contamination in groundnut]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R B]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[yopadhyay]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107412.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107412]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402370">
+	<dc:title><![CDATA[Drought research on groundnut at ICRISAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C Scott]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[B Shiferaw]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107438]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107438.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402371">
+	<dc:title><![CDATA[Breeding early-maturing groundnuts at ICRISAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L S Jangawad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L M Reddy]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107442]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107442.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402372">
+	<dc:title><![CDATA[Breeding groundnuts resistant to Aflatoxin contamination at ICRISAT]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[SITI KHAULAH]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107441.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107441]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402373">
+	<dc:title><![CDATA[A proposal for a working group on acid soil tolerance in grain legumes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R C Nageswara Rao]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Johansen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A K Singh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M M Anders]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[T J Rego]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D McDonald]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107429.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107429]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402374">
+	<dc:title><![CDATA[Empowering Rural Communities through Virtual Academies: Experiences from India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107444]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107444.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402375">
+	<dc:title><![CDATA[Agricultural Extension with Information and Communication Technology (ICT)Mediated Open Distance Learning (ODL) Methods: A Case Study from Rural South India]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[B S Sidhu]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Gopalakrishnan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Beri]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107443.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107443]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402376">
+	<dc:title><![CDATA[Rapid Customization of Reusable Learning Objects (RLOs): A new paradigm for Content Generation and Localization for Open Distance Agricultural Education and Extension]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Guntuku Dileepkumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Balaji]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107445.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107445]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402377">
+	<dc:title><![CDATA[Rural Knowledge Centers: Partners in Promoting a New ODL Paradigm]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S Dixit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guntuku Dileepkumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Balaji]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Borkar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Takwale]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107447]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107447.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402378">
+	<dc:title><![CDATA[Bioinformatics: A platform for ICRISAT's global research needs]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[C L L Gowda]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Sharma]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107455.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107455]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402379">
+	<dc:title><![CDATA[Fertilizer Microdosing:  Boosting Production in unproductive lands]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R.G. Chataway]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V.J. Doogan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[W.M. Strong]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107459]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107459.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402380">
+	<dc:title><![CDATA[Rural Knowledge Centers as Facilitators of New Learning Opportunities for the Rural Families: a case study]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Guntuku Dileepkumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Dixit]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Balaji]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107446]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107446.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402381">
+	<dc:title><![CDATA[Enhancing chickpea production in Rainfed Rice Fallow Lands (RRFL) of Chhattisgarh (CG) and Madhya Pradesh (MP) states of India following Improved Pulse Production and Protection Technologies (IPPPT)Annual Progress Report 2010-2011]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[J G Ryan]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S M Virmani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[L D Swindale]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107476.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107476]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402382">
+	<dc:title><![CDATA[Village level studies: an IPG that contributes to the global knowledge base on rural households]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Sarkar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Prasad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V K Guptha]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Kashinath]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Rathore]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107467.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107467]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402383">
+	<dc:title><![CDATA[Seed Systems: Enhancing the availability of quality seed of improved varieties for small holders farmers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107461.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107461]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402384">
+	<dc:title><![CDATA[Pigeonpea in Eastern and Southern Africa: High Yielding, wilt resistant, large-seeded varieties increase from the incomes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107460.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107460]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402385">
+	<dc:title><![CDATA[BNF technology for sustainable agriculture in the semi-arid tropics]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O P Rupela]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K K Lee]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107478]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107478.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402386">
+	<dc:title><![CDATA[Effect of fertiliser nitrogen and irrigation on root growth and extension, and water uptake of post-rainy season sorghum]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bashir Ahmad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Munir Ahmad]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107479.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107479]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402387">
+	<dc:title><![CDATA[Enhancing chickpea production in rainfed rice fallow lands (RRFL) of Chhattisgarh and Madhya Pradesh states of India following improved pulse Production and protection technologies (IPPPT) Annual Progress Report 2009-2010]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ch Ravinder Reddy]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Y Tonapi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P G Bezkorowajnyj]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[A Aluri]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Ratnakar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107492]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107492.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402388">
+	<dc:title><![CDATA[Enhancing chickpea production in Rainfed Rice Fallow Lands (RRFL) of Chhattisgarh and Madhya Pradesh states of India following Improved Pulse Production and Protection  Technologies (IPPPT)Annual progress report August 2008 – April 2009]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[John Tzilivakis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kathleen Lewis]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Andrew Green]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Douglas Warner]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107493]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107493.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402389">
+	<dc:title><![CDATA[agropedia: The Knowledge and Interaction Hub for Indian Agriculture]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[A Hall]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[R Raina]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V R Sulaiman]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Clark]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Prasad]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Naik]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107552]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107552.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402390">
+	<dc:title><![CDATA[New Hosts of the Parasitic Flowering Plant, Alectra vogelii, in Malawi]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[P Subrahmanyam]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107491.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107491]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402391">
+	<dc:title><![CDATA[Knowledge sharing on best practices for managing crop genebanks]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lisbeth Katja Johansen]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Frederik Tue Staun]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rasmus Dahl]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107569.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107569]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402392">
+	<dc:title><![CDATA[Evaluation of Watershed Development Programs in India using the Economic Surplus Method]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[K Palanisami]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[D S Kumar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Giordano]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P Kumar]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107495]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107495.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402393">
+	<dc:title><![CDATA[Development of a coupling-phase SCAR marker linked to the powdery mildew resistance gene ‘er1’ in pea (Pisum sativum L.)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[R K Srivastava]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S K Mishra]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107574]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107574.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402394">
+	<dc:title><![CDATA[Science-led Consortium Approach for Inclusive Market Oriented Development (IMOD) through Suvarna Bhoomi Yojane (SBY) in Karnataka: A Compendium of Success Stories]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N P Saxena]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[O C John]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107604.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107604]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402395">
+	<dc:title><![CDATA[Cost Effectiveness of Germplasm Collections in the CG System. Section 9]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[G Ch]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[er]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S P Wani]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K L Sahrawat]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[G Pardhasaradhi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C Rajesh]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P J Kamdi]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[C K Pal]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[P V N Rao]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107612.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107612]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402396">
+	<dc:title><![CDATA[ICRISAT and the Svalbard Global Seed Vault Partnership]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[H D Upadhyaya]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S N Nigam]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M J V Rao]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107613.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107613]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402397">
+	<dc:title><![CDATA[Lower soil moisture threshold for transpiration decline under water deficit correlates with lower canopy conductance and higher transpiration efficiency in drought-tolerant cowpea]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[N Belko]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[M Zaman-Allah]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[N Cisse]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[V Vadez]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[. et al]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107578.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107578]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402398">
+	<dc:title><![CDATA[Seed health testing for long-term conservation and international exchange of crop germplasm]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[E Dinakaran]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[S Thirumeni]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[K Paramasivam]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107590.pdf]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107590]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+<ags:resource ags:ARN="GB2015402399">
+	<dc:title><![CDATA[Conservation and Use of Agrobiodiversity in Semi-Arid Tropic Regions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[- ICRISAT]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[oai:core.kmi.open.ac.uk:12107619]]></dc:identifier>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://core.kmi.open.ac.uk/download/pdf/12107619.pdf]]></dc:identifier>
+	<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+</ags:resource>
+</ags:resources>

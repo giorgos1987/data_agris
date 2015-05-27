@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "http://purl.org/agmes/agrisap/dtd/">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource ags:ARN="RS2015000000">
+	<dc:title><![CDATA[Genetic diversity of alfalfa domesticated varietal populations from Libyan genbank revealed by RAPD markers]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ahsyee, Ramadan Salem (El-Gabel El-Garbe University, Tripoli (Libya). Faculty of Natural Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Al-Sloge, O. (Biology Research Centre, Tripoli (Libya))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ćalić, Irena (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Branković, Gordana (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zorić, M. (Institute of Field and Vegetable Crops, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Momirović, Una (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vasiljević, Sanja (Institute of Field and Vegetable Crops, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Šurlan-Momirović, Gordana (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[genetic divergence]]></dc:subject>
+	<dc:subject><![CDATA[RAPD]]></dc:subject>
+	<dc:subject><![CDATA[Libya]]></dc:subject>
+	<dc:subject><![CDATA[Medicago sativa]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Alfalfa (Medicago sativa L.) is an important forage legume in Libya. The genetic diversity of nine alfalfa domesti- cated varietal populations was studied using thirteen RAPD primer combinations. The number of polymorphic fragments detected per primer combination ranged from 8 to 46 bands with an average of 24 bands. The number of polymorphic bands detected was from 6 (Atalia population) to 37 (Gabsia population). The lowest genetic distance was 0.058 and the highest was 0.655. The average genetic distance was (0.356). The dendrogram based on Ward’s minimum variance cluster- ing method grouped the nine populations into the two main clusters. The first group included Fazania, Atalia, Masratia, Zawia, Denamo Ferade and Arezona. The second group was composed of Tagoria, Gabsia and Wade Alrabeh. The sim- plicity of RAPD assays for detection of genetic polymorphisms is confirmed in our study, and results can be utilized in breeding practice.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 595-602]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302595A</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000001">
+	<dc:title><![CDATA[Studies of ecomorphological variations of the European hare (Lepus europaeus) in Turkey]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Demirbaş, Y. (Faculty of Science and Arts, Kırıkkale (Turkey). Department of Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Albayrak, I. (Faculty of Science and Arts, Kırıkkale (Turkey). Department of Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Yilmaz, A. (Faculty of Science and Arts, Kırıkkale (Turkey). Department of Statistics)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[morphology]]></dc:subject>
+	<dc:subject><![CDATA[polymorphism]]></dc:subject>
+	<dc:subject><![CDATA[hares]]></dc:subject>
+	<dc:subject><![CDATA[Turkey]]></dc:subject>
+	<dc:subject><![CDATA[ecology]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Hares (Lepus spp.) are widely distributed across the globe and are adapted to diverse climatic conditions. In or- der to study the ecomorphological variations of hares from Turkey, the body and cranial measurements and body weight, as well as coat color types, of 138 hares collected from all over Turkey between 2006 and 2012, were examined. Statistically significant differences between regional samples (p <0.05, ANOVA) only in terms of body weight and hindfoot length were found; however, there were a good number of external phenotypes, particularly in terms of coat color variants of the hare specimens. Furthermore, populations had similar variations in terms of morphometric measurement, body weight and coat coloration between different geographical regions. Turkish hares did not exhibit clinal variations from south to north in body and cranial measurements depending on the mean annual temperatures and precipitation. Therefore, it was assumed that all of these variations might be a polymorphism related to the local adaptations and high level of admixture of gene pools in Anatolia.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 559-566]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302559D</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000002">
+	<dc:title><![CDATA[The effect of water stress and salinity on growth and physiology of tomato (Lycopersicon esculentum Mil.)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Giannakoula, Anastasia E. (Alexander Technological Educational Institute of Thessaloniki, Sindos (Greece). Department of Crop Production)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ilias, I.F. (Alexander Technological Educational Institute of Thessaloniki, Sindos (Greece). Department of Crop Production)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Lycopersicon esculentum]]></dc:subject>
+	<dc:subject><![CDATA[Salinity]]></dc:subject>
+	<dc:subject><![CDATA[antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[Lycopene]]></dc:subject>
+	<dc:subject><![CDATA[Drought stress]]></dc:subject>
+	<dc:subject><![CDATA[peroxidation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Carotenoids like lycopene are important pigments found in photosynthetic pigment-protein complexes in plants. They are responsible for the bright colors of fruits and vegetables and perform various functions in photosynthesis. Our research has shown that the application of moderate salt stress on tomato plants can enhance lycopene and potentially other antioxidant concentrations in fruits. The increase in lycopene in response to salt stress in the tomato fruits varied from 20% to 80%. Although the specific biological mechanisms involved in increasing fruit lycopene deposition has not been clearly elucidated, evidence suggests that increasing antioxidant concentrations is a primary physiological response of the plant to salt stress. Additionally drought stress during cultivation increased the antioxidant capacity of tomato fruit while maintaining the lycopene concentration. In addition, the effects of silicium were investigated, added to the nutrient solution either at low concentration or at an increased concentration. The present study clearly indicates that an enhanced silicium supply to tomato increases markedly the lycopene contents, irrespective of the salinity status in the tomato fruit.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 611-620]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302611G</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000003">
+	<dc:title><![CDATA[The evaluation of fish farming impact by nutrient content and chlorophyll A in Mala Lamljana bay [Croatia]]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jelić-Mrcelić, Gorana (Faculty of Maritime Studies Split, Split (Croatia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Slisković, Merica (Faculty of Maritime Studies Split, Split (Croatia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Chlorophylls]]></dc:subject>
+	<dc:subject><![CDATA[Fish farms]]></dc:subject>
+	<dc:subject><![CDATA[cages]]></dc:subject>
+	<dc:subject><![CDATA[Phytoplankton]]></dc:subject>
+	<dc:subject><![CDATA[Nutrients]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This paper offers a brief review of the impacts of fish farming on the nutrient content and chlorophyll a in Mala Lamljana Bay, Croatia. Local loading of nitrogen and phosphorous compounds in fish farms can be very significant and can represent the largest source of N and P in a given area. Low N and P concentrations, low chlorophyll a concentration and a great variety of phytoplankton species were found in the bay, despite the high nutrient loading during the long his- tory of farming in the bay. The phytoplankton community consisted mostly of diatoms and partly of dinoflagellates. Skel- etonema costatum and Chaetoceros compressus were the dominant species (90%) in summer chlorophyll, which is typical for Middle Adriatic oligotrophic coastal waters. Nevertheless, further studies are required to determine changes in water column factors and planktonic communities in this area.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 567-570]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302567J</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000004">
+	<dc:title><![CDATA[Analysis of correlation structure in Lymantria dispar L. larvae from locally adapted populations]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mrdaković, Marija (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Perić-Mataruga, Vesna (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ilijin, Larisa (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vlahović, Milena (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mirčić, D. (State University of Novi Pazar, Novi Pazar (Serbia). Department of Biomedical Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nenadović, Vera (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazarević, Jelica (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Larvae]]></dc:subject>
+	<dc:subject><![CDATA[analysis]]></dc:subject>
+	<dc:subject><![CDATA[Digestive system]]></dc:subject>
+	<dc:subject><![CDATA[population]]></dc:subject>
+	<dc:subject><![CDATA[Lymantria dispar]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The influence of allelochemical stress and population origin on the patterns of phenotypic and genetic correla- tions among life history traits and digestive enzyme activities were investigated in larvae of the gypsy moth (Lymantria dispar L.; Lepidoptera: Lymantriidae). Thirty-two full-sib families from oak (suitable host plant, Quercus population), and twenty-six full-sib families from locust-tree (unsuitable host plant, Robinia population) forests were reared on an artificial diet, with or without a 5% tannic acid supplement. Comparison of correlation matrices revealed significant similarity be- tween the two populations in the structure of phenotypic and genetic correlations of life history traits and of digestive en- zyme activities. The patterns of correlations of the examined traits, within each of the two locally adapted populations and in the presence of allelochemical stress, remained stabile despite the different selection pressures that mold these traits.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 525-531]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302525M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000005">
+	<dc:title><![CDATA[Phenotypic and genotypic characterization of Xanthomonas campestris strains isolated from cabbage, kale and broccoli]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Popović, Tatjana (Institute for Plant Protection and Environment, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jošić, Dragana (Institute of Soil Science, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Starović, Mira (Institute for Plant Protection and Environment, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milovanović, P. (Galenika-Fitofarmacija, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Dolovac, N. (Institute for Plant Protection and Environment, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Poštić, D. (Institute for Plant Protection and Environment, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stanković, S. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Broccoli]]></dc:subject>
+	<dc:subject><![CDATA[phenotypes]]></dc:subject>
+	<dc:subject><![CDATA[isolation]]></dc:subject>
+	<dc:subject><![CDATA[genotypes]]></dc:subject>
+	<dc:subject><![CDATA[Xanthomonas campestris]]></dc:subject>
+	<dc:subject><![CDATA[Kales]]></dc:subject>
+	<dc:subject><![CDATA[Cabbages]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Thirty-six strains of Xanthomonas campestris pv. campestris (Xcc) isolated from cabbage, kale and broccoli were identified according to their pathogenicity, phenotypic and genotypic characterization. Pathogenicity was confirmed by the injection method with a hypodermic syringe into the mesophilic tissue of cabbage leaves. All strains were Gram- negative, aerobic, catalase-positive, oxidase-negative, grew at 35°C, produced levan, H2 S and indole, did not reduce nitrate, hydrolyzed Tween 80, starch, gelatin and esculin and did not show tolerance to 0.1 and 0.02% TTC. The strains produced acid from d-arabinose, arginine, dulcitol, galactose, d-glucose, maltose, mannose, sorbitol, sucrose and xylose. The genetic characterization was based on the sequence analyses of 16S rDNA and ERIC and BOX PCR. Strains of different pathovars were also used to compare PCR resulting patterns. BOX-PCR of the strains from kale and broccoli, obtained using (GTG)5 primer, yielded patterns with a high similarity level to pathovar reference strain Xcc. The strains from cabbage yielded BOX and ERIC product patterns, distinguishing them from the other tested strains and reference strains. 16S rDNA of the representative strains was closely related to Xcc strain ATCC 33913. ERIC PCR and BOX using (GTG)5 primer generated different Xcc patterns and were effective in distinguishing strains from different plant hosts.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 585-594]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302585P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000006">
+	<dc:title><![CDATA[Microsatellite-based genetic variability and differentiation of hatchery and feral common carp Cyprinus carpio L. (Cyprinidae, Cypriniformes) populations in Croatia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tomljanović, Tea (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Treer, T. (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ćubrić, Vlatka Č. (Faculty of Agriculture, Zagreb (Croatia). Department of Animal Science)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safner, T. (Faculty of Agriculture, Zagreb (Croatia). Department of Plant Breeding Genetics)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Šprem, N. (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Piria, Marina (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Matulić, D. (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Safner, R. (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aničić, I. (Faculty of Agriculture, Zagreb (Croatia). Department for Fisheries, Beekeeping, Game Management and Special Zoology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[population genetics]]></dc:subject>
+	<dc:subject><![CDATA[Cyprinus carpio]]></dc:subject>
+	<dc:subject><![CDATA[Croatia]]></dc:subject>
+	<dc:subject><![CDATA[microsatellites]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Common carp production has an important status in Croatian aquaculture. In addition, the sport fishing of common carp in open waters is very popular, but it is oſten based on stocking from fish farms. Using fiſteen microsatellites, 243 individuals from 5 hatchery and 5 feral populations have been analyzed. A total number of 148 alleles were recorded. However, the mean number of alleles per locus was remarkably low. Pairwise FST values (0.026-0.130) were significant (P<0.01), demonstrating differentiation among populations. The Markov chain method test showed that all the popula- tions deviated from HWE (P <0.05). Aſter sequential Bonferroni correction only the Vrana lake was in HWE in all the loci but MFW20. The factors that may result in genetic divergence and significant reduction of the observed heterozygosity are discussed. AMOVA results for 10 populations indicate that the percentage of the variation among populations was 6.26%, which is lower than the variation within populations (91.04%).]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 577-584]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302577T</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000007">
+	<dc:title><![CDATA[Immunochemical and PCR analysis of Staphylococcus aureus Enterotoxin B (SEB) in milk and fruit juices collected in Lahore, Pakistan]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dar, Nadia (Jinnah Degree College for Women, Mozang Road, Lahore (Pakistan). Department of Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Javed, Mehwish (University of the Punjab, Lahore (Pakistan). Institute of Biochemistry and Biotechnology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samra, Zahoor Qadir (University of the Punjab, Lahore (Pakistan). Institute of Biochemistry and Biotechnology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[fruit juices]]></dc:subject>
+	<dc:subject><![CDATA[milk]]></dc:subject>
+	<dc:subject><![CDATA[analysis]]></dc:subject>
+	<dc:subject><![CDATA[Staphylococcus aureus]]></dc:subject>
+	<dc:subject><![CDATA[enterotoxins]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Enterotoxins secreted by S. aureus are known as a food-poisoning agent that is associated with various gastro- intestinal pathological conditions. In this study, a one-step immunodetection method was devised for routine checking of SEB in milk and fruit juices available locally. Antibodies against recombinant SEB were raised, purified, and cross reactivity was checked against clinically important bacteria (Shigella flexneri, Streptococci, Salmonella typhi, Klebsiella and Bacillus subtilis). Purified anti-SEB antibodies were conjugated with gold nanoparticles (Ab-GNPs) for direct detection of SEB in samples. SEB (33%, 4.76% and 15%) was found in non-sterilized milk (118), sterilized milk (42) and juices (60), respec- tively. Coagulase, MSA tests and PCR amplification of 725 bp of the SEB gene confirmed the presence of S. aureus in the collected samples positive for SEB. Immunoassay is easy, reliable and less time consuming and will be helpful to detect the SEB in food samples at local level.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1113-1121]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303113D</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000008">
+	<dc:title><![CDATA[Genotoxic effects of copper sulfate in rabbits]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Georgieva, S. (Trakia University, Stara Zagora (Bulgaria). Agricultural Faculty, Department of Genetics, Animal Breeding and Reproduction)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Popov, B. (Trakia University, Stara Zagora (Bulgaria). Agricultural Faculty, Department of Molecular Biology, Immunology and Medical Genetics)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrov, V. (Trakia University, Stara Zagora (Bulgaria). Agricultural Faculty, Department of Veterinary Microbiology, Infectious and Parasitic Diseases)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[rabbits]]></dc:subject>
+	<dc:subject><![CDATA[copper sulphate]]></dc:subject>
+	<dc:subject><![CDATA[genotoxicity]]></dc:subject>
+	<dc:subject><![CDATA[chromosome aberrations]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This study was carried out to determine the genotoxic effects of oral application of CuSO4 in rabbits by the chromosome aberration (CA) and sister chromatid exchange (SCE) tests. Ten male New Zealand rabbits (5 months old, weighing 3.5-4.0 kg) were allocated into two groups. The first group received CuSO4 (5H2 O) in drinking water for 6 con- secutive days. The second group was used as a control. On the 7th day, blood samples were taken from the ear marginal vein and the SCE and CA tests in peripheral lymphocytes were used as genotoxicity and mutagenicity endpoints, respectively. Results showed a significant increase in the frequencies of the aberrant cells (7.4±0.24, P<0.001) and CA (chromatid frag- ments 3.2±0.37, chromosome fragments 4.2±0.37, P<0.001), and total aberrations (7.4±0.24, P<0.001) aſter the treatment with CuSO4 when compared with the control group. The level of SCE per cell in the CuSO4-treated rabbits (9.66±0.062) was significantly higher than in rabbits from the control group. These findings show that copper exhibits a genotoxic and mutagenic potential in rabbits.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 963-967]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303963G</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000009">
+	<dc:title><![CDATA[Expression, divergence and evolution of the caleosin gene family in Brassica rapa]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Hu, Lizong (Henan Normal University, Xinxiang, Henan (China). College of Life Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Abstract (Henan Normal University, Xinxiang, Henan (China). College of Life Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Li, Shufen (Henan Normal University, Xinxiang, Henan (China). College of Life Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gao, Wujun (Henan Normal University, Xinxiang, Henan (China). College of Life Sciences)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Genes]]></dc:subject>
+	<dc:subject><![CDATA[genetic divergence]]></dc:subject>
+	<dc:subject><![CDATA[Brassica campestris]]></dc:subject>
+	<dc:subject><![CDATA[evolution]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Caleosins (CLO) are oil body-associated proteins encoded by a small gene family. To investigate the expression, functional diversity and evolutionary modes of CLO genes, we isolated and integrally analyzed in silico a total of 11 CLO genes from Brassica rapa. According to phylogeny and sequence analyses, 11 BrCLO genes were classified into 3 groups, and each group shared highly conserved sequence features. Syntenic analysis revealed that all members of the BrCLO gene family distributed on 7 chromosomes were expanded mainly by segmental duplications. Evolutionary analysis showed that CLO proteins were controlled by purifying selection in B. rapa. Interestingly, functional divergence studies indicated that site-specific relaxed functional constraints were present between the different clusters of caleosins. Expression pattern suggested that 6 BrCLO genes were potentially associated with oil body formation. Our findings provide valuable clues for an investigation of the evolutionary history and cellular functions of the CLO gene family in plants.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 863-876]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303863H</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000010">
+	<dc:title><![CDATA[Cumulative abiotic stresses and their effect on the antioxidant defense system in two species of wheat, Triticum durum desf and Triticum aestivum L.]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ibrahim, M. M. (Faculty of Science, Alexandria (Egypt). Botany and Microbiology Department)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alsahli, A. A. (King Saud University, Riyadh (Saudi Arabia). Science College, Botany and Microbiology Department)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Al-Ghamdi, A. A. (King Saud University, Riyadh (Saudi Arabia). Science College, Botany and Microbiology Department)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Triticum aestivum]]></dc:subject>
+	<dc:subject><![CDATA[antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[Triticum durum]]></dc:subject>
+	<dc:subject><![CDATA[abiotic stress]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The combined effects of heat and UV-B on the antioxidant system and photosynthetic pigments were investi- gated in the leaves of T. durum Desf. and Triticum aestivum L. The photosynthetic pigment content, in vitro evaluation of the antioxidant system activities including DPPH radical scavenging activity, and super oxide anion radical scavenging activity were determined. In addition, the antioxidant enzyme activities, such as superoxide dismutase (SOD) and guaiacol peroxidase (GPX), were determined. Heat and UV-B irradiation alone caused a significant decrease in the photosynthetic pigment content, radical scavenging activity and super oxide radical scavenging activity in the two studied plants. The an- tioxidant enzymes SOD and GPX were stimulated in response to UV and/or heat stresses. The elevation of enzyme activi- ties was higher under heat than under UV-B, especially in T. aestivum. According to our findings, it can be concluded that combined heat and UV-B provided cross-tolerance; otherwise, single stress was found to aggravate the responses.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1423-1433]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1304423I</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000011">
+	<dc:title><![CDATA[Sexual size and shape dimorphism in salamandra salamandra (amphibia, caudata, salamandridae) from the central balkans]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Labus, N. (University of Priština, Kosovska Mitrovica (Serbia ). Faculty of Science and Mathematics, Biology Department)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cvijanović, Milena (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Evolutionary Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vukov, Tanja (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Evolutionary Biology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[Morphology]]></dc:subject>
+	<dc:subject><![CDATA[Salamanders]]></dc:subject>
+	<dc:subject><![CDATA[Montenegro]]></dc:subject>
+	<dc:subject><![CDATA[size]]></dc:subject>
+	<dc:subject><![CDATA[measurement]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Sexual size dimorphism is one of the key evolutionary features that has been studied in many organisms. On the other hand, sexual shape dimorphism has not been examined as well despite being as important as size dimorphism. Therefore, we analyzed the sexual size and shape dimorphism (SSSD) of Salamandra salamandra from the territory of the central Balkans. In addition, we wanted to reconsider if there is some regularity in the geographical distribution of SSSD in the investigated area. Significant differences in size and shape between the sexes were found for the whole sample and among the analyzed groups. Females were larger than males and had bigger heads, interlimb distances and a parotid gland, while males had bigger tails, forelimbs, hindlimbs, and forefoot and hindfoot length. Our results reveal a strong effect of locality on trait variation. This variation from the general pattern of SSSD is not substantial but still has to be considered.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 969-976]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303969L</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000012">
+	<dc:title><![CDATA[Effect of potassium oxalate on liver function and kidney tissue of dogs (beagles)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mohamaden, Walaa (College of Veterinary Medicine, Yangzhou, Jiangsu (China). Department of Animal Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Wang, Heng (College of Veterinary Medicine, Yangzhou, Jiangsu (China). Department of Animal Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Guan, Huawei (College of Veterinary Medicine, Yangzhou, Jiangsu (China). Department of Animal Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Li, Jianji (College of Veterinary Medicine, Yangzhou, Jiangsu (China). Department of Animal Medicine)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[dogs]]></dc:subject>
+	<dc:subject><![CDATA[potassium]]></dc:subject>
+	<dc:subject><![CDATA[liver]]></dc:subject>
+	<dc:subject><![CDATA[crystallization]]></dc:subject>
+	<dc:subject><![CDATA[oxalates]]></dc:subject>
+	<dc:subject><![CDATA[Kidneys]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Calcium oxalate crystalluria is a problem of growing concern in dogs. A few reports have discussed acute kidney injury by oxalates in dogs, describing ultrastructural findings in particular. We evaluated the possibility of deposition of calcium oxalate crystals in renal tissue and its probable consequences. Six dogs were intravenously injected with 0.5 M potassium oxalate (KOx) for seven consecutive days. By the end of the experiment, ultrasonography revealed a significant increase in the renal mass and renal parenchymal echogenicity. Serum creatinine and blood urea nitrogen levels were gradually increased. The histopathological features of the kidneys were assessed by both light and electron microscopy, which showed CaOx crystal deposition accompanied by morphological changes in the renal tissue of KOx injected dogs. Canine renal oxalosis provides a good model to study the biological and pathological changes induced upon damage of renal tissue by KOx injection.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1363-1370]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1304363M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000013">
+	<dc:title><![CDATA[Effects of tannic acid on trypsin and leucine aminopeptidase activities in gypsy moth larval midgut]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Mrdaković, Marija (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Perić-Mataruga, Vesna (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ilijin, Larisa (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vlahović, Milena (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Todorović, Dajana (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nenadović, Vera (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazarević, Jelica (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[trypsin]]></dc:subject>
+	<dc:subject><![CDATA[tannins]]></dc:subject>
+	<dc:subject><![CDATA[digestion]]></dc:subject>
+	<dc:subject><![CDATA[leucine]]></dc:subject>
+	<dc:subject><![CDATA[Enzymes]]></dc:subject>
+	<dc:subject><![CDATA[Lymantria dispar]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The effects of allelochemical stress on genetic variations in the specific activities of gypsy moth digestive en- zymes (trypsin and leucine aminopeptidase) and relative midgut mass (indirect measure of food consumption), as well as variability in their plasticity, were investigated in fiſth instar gypsy moths originating from two populations with different trophic adaptations (oak and locust-tree forests). Thirty-two full-sib families from the Quercus population and twenty-six full-sib families from the Robinia population were reared on an artificial diet with or without supplementation with tan- nic acid. Between population differences were observed as higher average specific activity of trypsin and relative midgut mass in larvae from the Robinia population. Significant broad-sense heritabilities were observed for the specific activity of trypsin in the control state, and for specific activity of leucine aminopeptidase in a stressful environment. Significantly lower heritability for relative midgut mass was recorded in larvae from the Robinia population reared under stressful conditions. Significant variability of trypsin plasticity in larvae from both populations and significant variability of leucine aminopeptidase plasticity in larvae from the Robinia population point to the potential for the evolution of enzyme adaptive plastic responses to the presence of stressor. Non-significant across-environment genetic correlations do not represent a constraint for the evolution of enzyme plasticity.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1405-1413]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1304405M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000014">
+	<dc:title><![CDATA[Effect of temperature, relative humidity and light on conidial germination of oak powdery mildew (Microsphaera alphitoides Griff. et Maubl.) under controlled conditions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Pap, P. (Institute of Lowland Forestry and Environment, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ranković, B. (Faculty of Science, Kragujevac (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mašrević, S. (Faculty of Agriculture, Novi Sad (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Microsphaera]]></dc:subject>
+	<dc:subject><![CDATA[humidity]]></dc:subject>
+	<dc:subject><![CDATA[Quercus robur]]></dc:subject>
+	<dc:subject><![CDATA[conidia]]></dc:subject>
+	<dc:subject><![CDATA[Temperature]]></dc:subject>
+	<dc:subject><![CDATA[ligh]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The influence of temperature, humidity and light on the conidial germination and germ tube elongation of oak powdery mildew (Microsphaera alphitoides Griff. et Maubl.) was studied in controlled conditions. The maximal germ tube length was attained at 25°C, whereas at lower and higher than optimal temperatures, germ tube growth was significantly lower. Germ tubes begin to develop at all values of relative humidity (10-100%), reaching the maximum length at 90%. The development of germ tubes was the most intense in full light and the lowest in total darkness. The artificial infection of floating leaves showed that an increasing age had an inhibitory effect on the mycelium development and spore formation. Since conidia play a crucial role in powdery mildew epidemiology, it is of particular importance to elucidate the influence of environmental factors in the complex relations that exist between the plant and its pathogen.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1069-1077]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303069P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000015">
+	<dc:title><![CDATA[Comparative analysis of antioxidant activity in leaves of different hosts infected by mistletoe (Viscum album L. subsp. album)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Patykowski, Jacek (Faculty of Biology and Environmental Protection, Lodz (Poland). Department of Plant Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kolodziejek, Jeremi (Faculty of Biology and Environmental Protection, Lodz (Poland). Department of Geobotany and Plant Ecology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Viscum album]]></dc:subject>
+	<dc:subject><![CDATA[Poland]]></dc:subject>
+	<dc:subject><![CDATA[peroxidases]]></dc:subject>
+	<dc:subject><![CDATA[host plants]]></dc:subject>
+	<dc:subject><![CDATA[superoxide dismutase]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Studies were performed at different sites in the major city of Lodz (Poland), where mistletoe is particularly abundant. The occurrence of total antioxidant enzyme activities such as superoxide dismutase (SOD), guaiacol peroxidase (POD) and the protein and phenol contents in leaves from different hosts infected by European mistletoe (Viscum album L. subsp. album) were studied. Some elements may vary in samples from the same mistletoe species on different host trees and species. The most important are changes in the concentration of proteins, including enzyme and stress proteins, in the leaves of trees infected by mistletoe, may indirectly indicate an interaction between host and parasite. There were no important differences in the soluble phenolic content aſter infection. The change in POD aſter infection was not significant in comparison to control plants. The SOD activity was significantly higher in leaves from infected trees in comparison to control plants. The obtained data suggest that the increase in SOD and protein content depends mainly on the host taxa. Moreover, we suggest that the main increase in SOD activities in leaves is a consequence of the stress oxidation that caused infection and development of the parasite on the host plant. Chemical analyses of mistletoe from a large sample of host species provide evidence that this parasite may be extremely tolerant to air pollution.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 851-861]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1303851P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000016">
+	<dc:title><![CDATA[The pressure of aphids (Aphididae, Hemiptera), vectors of potato viruses]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Vučetić, Anđa (Faculty of Agriculture, Zemun–Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jovičić, Ivana (Faculty of Agriculture, Zemun–Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrović-Obradović, Olivera (Faculty of Agriculture, Zemun–Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[vectors]]></dc:subject>
+	<dc:subject><![CDATA[Potatoes]]></dc:subject>
+	<dc:subject><![CDATA[Aphididae]]></dc:subject>
+	<dc:subject><![CDATA[Seed]]></dc:subject>
+	<dc:subject><![CDATA[viruses]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Plant viruses and aphids as their vectors, are limiting factors in the production of healthy seed potato. Potato Virus Y (PVY) and Potato Leafroll Virus (PLRV) are the two most significant potato viruses in Europe, and seed quality depends directly on the infection level. In order to determine the possibilities for healthy seed potato production in Serbia, aphid flight activities have been monitored for four years in four localities. Over 6400 specimens of aphids have been col- lected. The number of aphids and vector pressure index varies depending on the localities’ altitude. In localities at altitudes under 1000 m, they were high. The highest index was in locality Kotraža in 2007, when the PVY index exceeded the value of 180, while for PLRV it was 60. At high altitudes, above 1100 m, the number of aphids was low, as was the vector pressure index. The lowest index values were recorded in localities on Mt. Golija at 1300 m a.s.l. where the indexes for both viruses never exceeded value 6.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 659-666]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1302659V</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000017">
+	<dc:title><![CDATA[The influence of supplement feed preparation on the fatty acid composition of carp and chironomidae larvae in a semi-intensive production system]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Živić, Ivana M. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trbović, Dejana (Institute of Meat Technology and Hygiene, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Živić, M. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bjelanović, Katarina (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marković, Z.S. (State University of Novi Pazar, Novi Pazar (Serbia). Department of Biochemical and Medical Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stanković, M. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marković, Z. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2013]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pelleted feeds]]></dc:subject>
+	<dc:subject><![CDATA[Carp]]></dc:subject>
+	<dc:subject><![CDATA[fatty acids]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In order to examine how extruded and pelleted feed affects the fatty acid composition of carp meat and Chi- ronomidae larvae, two-month-old carp specimens were set in two fishponds (L1 and L2). The fatty acid composition of extruded and pelleted feed is characterized by a significantly higher content of ω-3 fatty acids and higher ω-3 to ω-6 fatty acids ratio (ω-3/ω-6) in extruded (11.34±0.12% and 0.315±0.005, respectively) compared to pelleted feed (7.72±0.08%, 0.180±0.001, respectively). The fatty acid composition of carp meat is characterized by higher ω-3 fatty acid content and ω-3/ω-6 in carp fed with extruded feed (L1, 6.98±0.53% and 0.295±0.022, respectively) compared to carp fed with ex- truded feed (L2, 5.46±0.07% and 0.232±0.009, respectively). Chironomidae larvae from the fishpond L2 had significantly higher ω-3 fatty acid content (8.22±0.89%), and therefore higher ω-3/ω-6 (0.81±0.09) in comparison to Chironomidae from the L1 fishpond where these parameters were 4.48±0.06% and 0.21±0.01, respectively.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1387-1396]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1304387Z</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000018">
+	<dc:title><![CDATA[Antioxidant activity and total phenolic and flavonoid contents of Salvia amplexicaulis Lam. extracts]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Alimpić, Ana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Oaldje, Mariana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Matevski, V. (University Sts. Cyril and Methodius, Skopje (Former Yugoslav Republic of Macedonia). Faculty of Natural Sciences and Mathematics, Institute of Biology]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marin, P. D. (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Duletić-Laušević, Sonja (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[phenolic content]]></dc:subject>
+	<dc:subject><![CDATA[Salvia]]></dc:subject>
+	<dc:subject><![CDATA[extracts]]></dc:subject>
+	<dc:subject><![CDATA[flavonoids]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This study was designed to examine the in vitro antioxidant DPPH free radical-scavenging activity, and the total phenolic and flavonoid content of ethanol and methanol extracts of Salvia amplexicaulis Lam. in the whole plant and dif- ferent parts, leaves, stems and flowers. The largest amounts of extract yield were obtained from the flowers, 14.14% and 12.00 % (w/w) in the ethanol of methanol extracts, respectively. The ethanol extract of leaves (16.07 µg/ml) and methanol extract of the whole plant (21.28 µg/ml) showed the highest activity against the DPPH radical. The ethanol extract of the leaves was the richest in phenols (222.40 mg GAE/g) and flavonoids (49.81 mg QE/g), whereas the methanol extract of the whole plant contained the highest amount of phenolics (180.89 mg GAE/g) and flavonoids (38.15 mg QE/g). A very strong linear correlation between antioxidant activity and the phenolic content of the extracts was established. The obtained re- sults suggest that S. amplexicaulis could be regarded as an important source of natural antioxidants.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 307-316]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401307A</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000019">
+	<dc:title><![CDATA[A robust and cost-effective DNA isolation method for Satureja species (Lamiaceae)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Dodoš, Tanja (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rajčević, Nemanja (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aleksić, Jelena (Institute of Molecular Genetics and Genetic Engineering (IMGGE), Belgrade (Serbia). Laboratory for Plant Molecular Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marin, Petar D. (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Satureja]]></dc:subject>
+	<dc:subject><![CDATA[species]]></dc:subject>
+	<dc:subject><![CDATA[polyphenols]]></dc:subject>
+	<dc:subject><![CDATA[DNA]]></dc:subject>
+	<dc:subject><![CDATA[Isolation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Aromatic species of the genus Satureja are rich in secondary metabolites that interfere with DNA isolation pro- cedures. Four protocols based on the standard CTAB DNA extraction protocol of Doyle and Doyle (1987) were tested in six savory taxa. The polyphenol adsorbents activated charcoal and/or polyvinylpyrrolidone 10 were employed in three pro- cedures (B, C and D); for the elimination of polysaccharides, 4M NaCl was applied in the latter two. The highest DNA yield was obtained with Protocol D and averaged 1420.7±398.3 μg DNA/g of dry leaf tissue. Optimal values of the absorbance ratio 260/280 of all DNA solutions revealed the absence or only negligible contamination by proteins. Contamination by polysaccharides inferred from the absorbance ratio 260/230 showed that Protocol C provided the least contaminated material (average of 1.7±0.4). Enzymatic reactions of DNA solutions obtained by Protocol D showed amplification of both loci in all individuals. In conclusion, Protocol D is suitable for the isolation of high quantities of pure DNA from Satureja spp.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 285-297]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401285D</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000020">
+	<dc:title><![CDATA[The influence of cadmium and lead on Ulmus pumila L. seed germination and early seedling growth]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Đukić, Matilda (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Đunisijević-Bojović, Danijela (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Samuilov, Slađana (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[seed germination]]></dc:subject>
+	<dc:subject><![CDATA[cadmium]]></dc:subject>
+	<dc:subject><![CDATA[lead]]></dc:subject>
+	<dc:subject><![CDATA[phytoremediation]]></dc:subject>
+	<dc:subject><![CDATA[growth rate]]></dc:subject>
+	<dc:subject><![CDATA[Ulmus pumila]]></dc:subject>
+	<dc:subject><![CDATA[seedlings]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The aim of this paper was to examine how the heavy metals cadmium (Cd) and lead (Pb) influence the germina- tion and early growth of seedlings of the fast-growing tree species Ulmus pumila L. Seeds were germinated and seedlings were hydroponically grown in a solution with Cd-nitrate and Pb-nitrate at concentrations of 20 µM, 50 µM and 90 µM. Our results show that seeds can germinate in the presence of these two heavy metals at all of the applied concentrations with no significant reduction in qualitative (germination capacity, germination energy) or quantitative (germination in- tensity, mean germination period) germination parameters as compared to the controls. Early seedling development was also possible at higher concentrations of both heavy metals. Cd reduced hypocotyl length, but not significantly the length of radicles. Pb did not influence hypocotyl length and stimulated radicle length significantly (95%). These results could mark a step forward in defining the tolerance of U. pumila to the presence of Cd and Pb, and to the the possibility of using this fast-growing tree which is resistant to different abiotic and biotic stresses, for phytoremediation or soil reclamation purposes.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401253D]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 253-259]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401253D</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000021">
+	<dc:title><![CDATA[Soils of the mycological reserve on Lisina Mountain in the Republic of Srpska, Bosnia and Herzegovina]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Eremija, S. (PPFE Forests of Republic of Srpska, Sokolac (Bosnia and Herzegovina))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Knežević, M. (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kapović, Marijana (Faculty of Forestry, Banja Luka (Bosnia and Herzegovina))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[mountain soils]]></dc:subject>
+	<dc:subject><![CDATA[mycology]]></dc:subject>
+	<dc:subject><![CDATA[soil]]></dc:subject>
+	<dc:subject><![CDATA[production possibilities]]></dc:subject>
+	<dc:subject><![CDATA[Bosnia and Herzegovina]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This paper presents the results of soil research in a mycological reserve that is defined as a special nature reserve according to the IUCN categorization. Ecologically, fungi are the most valuable element in the biological diversity of protected reserves. Favorable climate and the complexity of geology, soils and vegetation of Lisina Mountain caused the development of extraordinarily rich mycoflora. The soil cover here is characterized mainly by soils on acid siliceous parent rocks. Carbonate sediments as a part of volcanic sediment formation, present with laminated black limestone, complicate the structure of the soil cover. The protected area is defined by five basic soil types: rendzina, ranker, dystric cambisols, lu- visol and podzol. Soil properties depend on pedogenetic processes and the nature of the parent rock. Rendzina is the most common soil type on limestone-dolomite substrate, where it creates elementary and complex soil combinations, mainly because of its strong relief. The most common soil type on acid silicate rocks is dystric cambisols.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401299E]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 299-306]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401299E</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000022">
+	<dc:title><![CDATA[Listeria monocytogenes isolated in ready-to-eat food in South Bačka region of Vojvodina province, Serbia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Gusman, Vera (Institute of Public Health of Vojvodina, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Medić, Deana (Institute of Public Health of Vojvodina, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jelesić, Zora (Institute of Public Health of Vojvodina, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mihajlović-Ukropina, Mira (Institute of Public Health of Vojvodina, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milošević, Vesna (Institute of Public Health of Vojvodina, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Povazan, Anika (Medical Faculty, Novi Sad (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[food processing]]></dc:subject>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[Listeria monocytogenes]]></dc:subject>
+	<dc:subject><![CDATA[food preservation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Listeria monocytogenes is pathogenic bacterium that can contaminate food products during and after process- ing. As ready-to-eat food does not undergo any treatment to ensure its safety before consumption, the risk of foodborne disease must be considered if this pathogen is present in the food. As diseases caused by contaminated food are an im- portant public health problem today, the aim of this study was to determine the prevalence of Listeria monocytogenes in different ready-to-eat food products. In the seven-month period from June 1 to December 31, 2011, a total of 1 380 food samples were examined in the Division of Sanitary Bacteriology, Center for Microbiology, Institute of Public Health of Vojvodina in Novi Sad. A total of 912 samples were analyzed for the presence of Listeria monocytogenes according to ISO 11290-2. The identity of suspected Listeria monocytogenes was confirmed using the VITEK 2 Compact system (BioMerieux, France). Out of 912 samples, Listeria monocytogenes was detected in 18 (1.97%). Listeria monocytogenes was mostly found in cooked meals (in 6 samples out of 18), sandwiches (4 samples) and frozen food, such as ice-cream and frozen vegetables (4 samples). It was also found in tofu bread spreads (2 samples), cream cheese (1 sample) and cakes (1 sample). The presence of Listeria monocytogenes in some ready-to-eat food could present a public health haz- ard, particularly to the high-risk population group, because of the high mortality rate associated with listeriosis and the widespread nature of the organism. Monitoring of listeriosis is essential to prevent foodborne outbreaks, and in assessing human health risk in ready-to-eat foods.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401011G]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 11-14]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401011G</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000023">
+	<dc:title><![CDATA[Effects of thermal treatments on the stability of trans-resveratrol and yeast inactivation in trans-resveratrol-amplified grape juice]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Lee, Dong-Un (Chung-Ang University, Anseong (Republic of Korea). Department of Food Science and Technology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kim, Hye Min (Chung-Ang University, Anseong (Republic of Korea). Department of Integrative Plant Science)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lee, Gu Dong (Chung-Ang University, Anseong (Republic of Korea). Department of Integrative Plant Science)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jeon, Seong-Ho (Yeongcheon Agricultural Technology Extension Center, Yeongcheon (Republic of Korea))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lee, Jung-Jong (Yeongcheon Agricultural Technology Extension Center, Yeongcheon (Republic of Korea))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lee, Sanghyun (Chung-Ang University, Anseong (Republic of Korea). Department of Integrative Plant Science)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[HPLC]]></dc:subject>
+	<dc:subject><![CDATA[resveratrol]]></dc:subject>
+	<dc:subject><![CDATA[grape juice]]></dc:subject>
+	<dc:subject><![CDATA[Saccharomyces cerevisiae]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[For the production of trans-resveratrol-amplified grape juice, both trans-resveratrol quantity and microbial quality are important for the functionality and shelf life of the juice. Therefore, the thermal stability of trans-resveratrol and thermal inactivation of Saccharomyces cerevisiae within the grape juice was investigated at 60°C, 80°C and 100°C. Inactiva- tion of S. cerevisiae was fitted to first-order kinetics, and the inactivation rate (k1 ) and decimal reduction time (D-value) at each treatment temperature were estimated. The control grape juice had an inactivation rate of 0.0014 (s-1 ) and a D-value of 11.90 min at 60°C, whereas the trans-resveratrol-amplified grape juice had an inactivation rate of 0.0016 (s-1 ) and a D- value of 10.42 min at the same temperature. Similar inactivation kinetics of the control and trans-resveratrol-amplified grape juice were observed at 80°C and 100°C, which indicates that increased trans-resveratrol content does not affect the thermal inactivation of inoculated S. cerevisiae.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401323L]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 323-329]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401323L</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000024">
+	<dc:title><![CDATA[Properties of low-fat ultra-filtered cheeses produced with probiotic bacteria]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Miočinović, Jelena (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Radulović, Zorica (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paunović, Dušanka (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miloradović, Zorana (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trpković, G. (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Radovanović, Mira (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Pudja, P. (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Lactobacillus]]></dc:subject>
+	<dc:subject><![CDATA[cheesemaking]]></dc:subject>
+	<dc:subject><![CDATA[cheese]]></dc:subject>
+	<dc:subject><![CDATA[proteolysis]]></dc:subject>
+	<dc:subject><![CDATA[Bifidobacterium]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Probiotics are live microorganisms that in certain numbers may confer a health benefit on the host. Nowadays, there are many dairy products on the market, especially fermented milks, with probiotics, and their popularity is rising. The aim of this article was to investigate the viability of commercial probiotic bacteria (Lactobacillus acidophilus LAFTI®L10 and Bifidobacterium lactis LAFTI®B94, DSM, Netherland) as well as their influence on the changes of composition, pH, proteolysis, microbiological status and sensory properties of low-fat ultra-filtered (UF) cheeses within 2 months of ripening. Low-fat cast ultra-filtered (UF) cheeses were produced according to the defined production procedure by mixing UF milk protein powder, skim milk and cream, without (control cheese A) and with adjunct probiotic culture (cheese B). The compositional parameters (milk fat, proteins and dry-matter content), pH, proteolysis parameters (water soluble nitrogen, nitrogen soluble in 5% PTA, urea and SDS PAG electrophoresis), as well as the numbers of starters and probiotic bacteria, were determined during ripening. In addition, sensory evaluations of cheeses were performed throughout the ripening time. A significant influence of probiotic strains on the composition, pH and primary proteolysis of cheese during ripening was not found. The counts of commercial probiotic bacteria were maintained at high levels (>107 cfug-1) during the overall ripening period, as a prerequisite of their therapeutic effects. The adjunct probiotic cultures enhanced the rate of secondary proteolysis, which was shown by the significantly higher levels of PTAN/TN of experimental compared to the control cheeses. The sensory evaluation showed that the overall aroma of low-fat cheeses was remarkably improved by the addition of the probiotic cultures used. Based on the results it can be concluded that the low-fat UF cheeses differ in good dietetic and functional properties as well as very acceptable sensory properties, and can be used as carriers of probiotics.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 65-73]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401065M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000025">
+	<dc:title><![CDATA[New trends in food- and waterborne viral outbreaks]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Radin, Dragoslava (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[food contamination]]></dc:subject>
+	<dc:subject><![CDATA[viruses]]></dc:subject>
+	<dc:subject><![CDATA[waterborne diseases]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Current trends in food- and waterborne viral diseases have been reviewed. Awareness and surveillance of viral food and waterborne pathogens is generally not sufficient, with emphasis placed on noroviruses, hepatitis A virus, rotavi- ruses and newly emerging viruses. In addition, previously unknown food-borne pathogens, many of which are zoonotic, are constantly emerging. Food can be contaminated with a virus either at the source via contaminated water, or at the point of service by infected food handlers. Viruses can spread by water, direct person-to-person contact, airborne droplets or vomit, and they can persist in the environment as a source of continuing infection despite disinfection efforts. Food production and supply practices change, and food-borne pathogens seem able to exploit novel opportunities, for example fresh produce, and generate new food safety and public health challenges.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401001R]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1-9]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401001R</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000026">
+	<dc:title><![CDATA[The application of autochthonous potential of probiotic Lactobacillus plantarum 564 in fish oil fortified yoghurt production]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Radulović, Zorica (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paunović, Dušanka (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrušić, Milica (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mirković, N. (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miočinović, Jelena (Faculty of Agriculture, Belgrade-Zemun (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kekusš, D.]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Obradović, D.]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[organoleptic analysis]]></dc:subject>
+	<dc:subject><![CDATA[fatty acids]]></dc:subject>
+	<dc:subject><![CDATA[Lactobacillus plantarum]]></dc:subject>
+	<dc:subject><![CDATA[fish oils]]></dc:subject>
+	<dc:subject><![CDATA[Yoghurt]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The objective of this work was to investigate the survival of autochthonous, potentially probiotic bacteria Lacto- bacillus plantarum 564, and the influence of long-chain polyunsaturated fatty acid omega-3 (omega-3 PUFA) fish oil forti- fication on the sensory quality of yoghurt. Three variants of yoghurt were produced using starter cultures of Lactobacillus delbrueckii ssp. bulgaricus and Streptococcus thermophilus (Chr. Hansen, Denmark), and the potentially probiotic Lactoba- cillus plantarum 564 (Culture Collection of the Department for Industrial Microbiology, Faculty of Agriculture, University of Belgrade) as follows: (1) without omega-3 PUFA; (2) with 100 mg/l omega-3 PUFA; and (3) with 200mg/l omega-3 PUFA. The survival of potential probiotic Lb. plantarum 564, the changes of starter bacteria counts, changes of pH values, as well as sensory evaluation, were examined during 3 weeks of yoghurt storage. Cells of Lb. plantarum 564 were main- tained at >108 cfug−1 . Starter bacteria counts were >107 cfug−1 for streptococci and >106 cfug−1 for lactobacilli. The changes of pH were within normal pH of fermented milks. Sensory evaluation showed that all variants of yoghurt produced with Lb. plantarum 564 and 2 concentrations of omega-3 polyunsaturated fatty acids had a high sensory quality (above 90% of maximal quality), and which did not change significantly throughout the examined storage period. Although the sensory quality of the control sample was evaluated as better, the experimental samples fortified with fish oil were also character- ized with very acceptable sensory properties. Results of high viability of potential probiotic Lb. plantarum 564, as well as very acceptable yoghurt sensory properties, indicate that this strain can be successfully used in the production of yoghurt fortified with PUFA omega-3 fish oil as a new functional dairy product]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401015R]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 15-22]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401015R</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000027">
+	<dc:title><![CDATA[Identification and characterization of lactic acid bacteria isolated from artisanal white brined Golija [Serbia] cows milk cheeses]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Terzić-Vidojević, Amarela (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mihajlović, Sanja (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Uzelac, Gordana (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Golić, Nataša (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Fira, D. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kojić, M. (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Topisirović, Lj. (Institute of Molecular Genetics and Genetic Engineering, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[lactic acid bacteria]]></dc:subject>
+	<dc:subject><![CDATA[isolation]]></dc:subject>
+	<dc:subject><![CDATA[Cheese]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The aim of this study was to identify and characterize the lactic acid bacteria (LAB) of artisanal Golija raw and cooked cows’ milk cheeses traditionally manufactured without the addition of starter culture. A total of 188 Gram-positive and catalase-negative isolates of Golija cheeses were obtained from seven samples of different ripening time. Phenotypebased assays as well as rep-PCR and 16S rDNA sequence analysis were undertaken for all 188 LAB strains. The most diverse species were isolated from 20-day-old BGGO8 cheese (Lactobacillus fermentum, Lactobacillus plantarum, Lactobacillus casei/paracasei, Lactobacillus sucicola, Lactococcus lactis subsp. lactis, Lactococcus lactis subsp. lactis bv. diacetylactis, Enterococcus faecium, Enterococcus durans and Leuconostoc mesenteroides). In other Golija cheeses Lactobacillus reuteri, Lactobacillus curvatus, Lactobacillus rhamnosus, Lactococcus lactis subsp. cremoris, Lactococcus garvieae, Streptococcus thermophilus and Leuconostoc pseudomesenteroides were found. Pronounced antimicrobial properties showed enterococci (13/42) and lactococci (12/31), while the good proteolytic activity demonstrated lactococci (13/31) and lactobacilli (10/29)]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 179-192]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401179T</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000028">
+	<dc:title><![CDATA[Zeolites as possible biofortifiers in Maitake cultivation]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Vunduk, Jovana (Faculty of Agriculture, Belgrade (Serbia). Institute for Food Technology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Klaus, Anita (Faculty of Agriculture, Belgrade (Serbia). Institute for Food Technology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kozarski, Maja (Faculty of Agriculture, Belgrade (Serbia). Institute for Food Technology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Đorđević, R. (Faculty of Agriculture, Belgrade (Serbia). Institute for Food Technology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jovanović, Lj. (Educons University, Sremska Kamenica (Serbia). Faculty of Ecological Agriculture)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nikšić, M. (Faculty of Agriculture, Belgrade (Serbia). Institute for Food Technology and Biochemistry)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[zeolites]]></dc:subject>
+	<dc:subject><![CDATA[fertilizer formulations]]></dc:subject>
+	<dc:subject><![CDATA[Grifola]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The levels of Ni, Cu and Mg in Grifola frondosa (also known as Maitake mushroom) fruit body produced on zeolite Minazel Plus (MG)-supplemented substrate were measured with inductively coupled plasma optical emission spec- trometry (ICP-OES). Two different concentrations of MG were added to the substrate for mushroom cultivation. Levels of selected metals were measured in cultivated dry carpophores. The content of Ni increased in fruit bodies produced on supplemented substrate, while in case of Cu, a pronounced decrease was observed. When two different concentrations of MG were implemented, the Mg level showed both positive and negative trend, depending on the applied concentration of zeolite. MG in a concentration of 1% showed the strongest influence on the observed elements in the cultivated fruiting body of Maitake mushroom.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641401123V]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 123-129]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1401123V</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[1]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000029">
+	<dc:title><![CDATA[Serological study on WNV presence in horses in Vojvodina after the human outbreak in Serbia in 2012]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Petrović, T. (Veterinary Institute Novi Sad, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazić, S. (Veterinary Institute Novi Sad, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lupulović, Diana (Veterinary Institute Novi Sad, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazić, Gospava (Veterinary Institute Novi Sad, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bugarski, D. (Veterinary Institute Novi Sad, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vidanović, D. (Veterinary Specialized Institute Kraljevo, Kraljevo (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stefan-Mikić, Sandra (Faculty of Medicine, Novi Sad (Serbia). Clinical Center of Vojvodina, Clinic for Infectious Diseases)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milošević, Vesna (Faculty of Medicine, Novi Sad (Serbia). Institute of Public Health of Vojvodina, Center for Virology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hrnjaković-Cvetković, Ivana (Faculty of Medicine, Novi Sad (Serbia). Institute of Public Health of Vojvodina, Center for Virology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrić, D. (Faculty of Agriculture, Novi Sad (Serbia). Laboratory for Medical and Veterinary Entomology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[horses]]></dc:subject>
+	<dc:subject><![CDATA[viruses]]></dc:subject>
+	<dc:subject><![CDATA[Culicidae]]></dc:subject>
+	<dc:subject><![CDATA[serology]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[To establish the presence of West Nile virus (WNV) infection in the animal population in Serbia aſter the human WNV outbreak, the presence of anti-WNV IgG antibodies was examined by commercial ELISA of blood sera samples of 130 horses collected in 2012 from 6 stables and 1 settlement in Vojvodina Province, northern Serbia. During the blood sampling, hibernating mosquitoes in the vicinity of the sampled horses were collected (31 pools from 4 locations) and tested for WNV presence by real-time RT-PCR. The presence of anti-WNV antibodies was observed in 49.23% (64/130) horses. Per stable, the percent of seropositive animals ranged from 35% to 64%. All 31 analyzed pools of hibernating mosquitoes tested negative for WNV RNA. The WNV-antibody prevalence of 49.23% obtained in horses during 2012 was much higher than the prevalence (12%) found in horses during 2009/2010. These results, including the confirmed sero- conversion in eight horses that tested negative in 2010, indicated an intensive WNV circulation during 2012 in Serbia, and the necessity of implementing surveillance programs. Key]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641402473P]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 473-481]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402473P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000030">
+	<dc:title><![CDATA[The application of molecular methods in the identification of isolated strains of parainfluenza 3 virus of cattle]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Veljović, Lj. (Scientific Institute of Veterinary Medicine of Serbia, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Knežević, Aleksandra (Faculty of Medicine, Belgrade (Serbia). Institute of Microbiology and Immunology, Virology Department)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milić, N. (Faculty of Veterinary Medicine, Belgrade (Serbia). Department of Microbiology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nišavić, J. (Faculty of Veterinary Medicine, Belgrade (Serbia). Department of Microbiology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[isolation]]></dc:subject>
+	<dc:subject><![CDATA[viruses]]></dc:subject>
+	<dc:subject><![CDATA[respiratory diseases]]></dc:subject>
+	<dc:subject><![CDATA[cattle]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Bovine parainfluenza 3 virus (PI3) causes respiratory infections in cattle and sheep with great economic losses in livestock. The aim of this investigation was to determine the significance of molecular methods in the identification of isolated strains of PI3 virus. Twenty cattle nasal swabs were analyzed for the presence of PI3 using the standard virology method of virus isolation in MBDK cell line and virus neutralization test. The identification of isolated strains was con- firmed by RT-PCR and method of direct sequencing with primers for PI3 fusion (F) protein gene. PI3 virus was isolated and identified in four nasal swabs using the standard virology method and RT-PCR. The analysis of nucleotide sequences of isolated PI3 strains showed high similarity with sequences isolated from cattle in Asia. Our results showed that molecu- lar methods are very useful in the diagnosis of PI3 infections as well as for the identification and characterization of PI3 strains in Serbia.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641402491V]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 491-496]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402491V</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000031">
+	<dc:title><![CDATA[Quantity of glucosinolates in 10 cabbage genotypes and their impact on the feeding of Mamestra brassicae caterpillars]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bohinc, Tanja (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Devetak, M. (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trdan, S. (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[glucosinolates]]></dc:subject>
+	<dc:subject><![CDATA[genotypes]]></dc:subject>
+	<dc:subject><![CDATA[feeding preference]]></dc:subject>
+	<dc:subject><![CDATA[Mamestra brassicae]]></dc:subject>
+	<dc:subject><![CDATA[Cabbages]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In 2011, we studied the glucosinolate content in 5 cultivars and 5 cabbage hybrids grown outdoors in order to study their influence on the feeding of cabbage moth caterpillars (Mamestra brassicae). The selected genotypes were cat- egorized into three groups, early (the growth period from 55 to 70 days), mid-early (80-90 days) and mid-late (110-140 days), while the samples of cabbage for glucosinolate analysis were taken at five intervals, during which we also assessed genotypes for the extent of damage caused by caterpillars. We found that the feeding of caterpillars affected primarily the mid-early and mid-late genotypes of cabbage, and that the glucosinolate content among the different cabbage genotypes varies. The highest content of the analyzed glucosinolates was established in mid-late genotypes. Glucobrassicin was the only glucosinolate found in all cabbage genotypes, yet its antixenotic effect (r=0.20) was very low. We found that sinalbin negatively affects the feeding of cabbage moth caterpillars in mid-early cabbage genotypes (r=-0.34), while the same ef- fect of sinigrin on the extent of damage can be observed in mid-late genotypes (r=-0.27). We have established a strong or moderate correlation between the gluconapin (r=0.87) and progoitrin (r=0.66) contents in mid-late genotypes and the extent of damage caused by caterpillars. Our research proves that different cabbage genotypes are responsible for different susceptibilities to damage by the cabbage moth, and that one of the factors of natural resistance of cabbage are also glu- cosinolates. Despite this, due to their variability in cabbage we cannot precisely determine the set of genotypes that would ensure a higher cabbage yield as a result of less damage caused by the cabbage moth. Thus, we need to identify in more detail the reasons for the time and quantum variability of glucosinolates in Brassicaceae.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 867-876]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402867B</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000032">
+	<dc:title><![CDATA[Molecular characterization of coi gene of Ixodes ricinus (Linnaeus, 1758) from Serbia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Čakić, Sanja (Institute for Medical Research, Belgrade (Serbia). Center of Excellence for Toxoplasmosis and Medical]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Entomology, Department of Parasitology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mojsilović, Miljana (Faculty of Biology, Belgrade (Serbia). Institute of Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mihaljica, D. (Institute for Medical Research, Belgrade (Serbia). Center of Excellence for Toxoplasmosis and Medical]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Entomology, Department of Parasitology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milutinović, Marija (Institute for Medical Research, Belgrade (Serbia). Center of Excellence for Toxoplasmosis and Medical]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Entomology, Department of Parasitology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrović, A. (Faculty of Biology, Belgrade (Serbia). Institute of Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tomanović, Snežana (Institute for Medical Research, Belgrade (Serbia). Center of Excellence for Toxoplasmosis and Medical Entomology, Department of Parasitology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[genes]]></dc:subject>
+	<dc:subject><![CDATA[genetic markers]]></dc:subject>
+	<dc:subject><![CDATA[Ixodes ricinus]]></dc:subject>
+	<dc:subject><![CDATA[Genetic variation]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The Ixodes ricinus tick is common in the central part of the Balkan Peninsula. It is a vector of pathogenic agents causing diseases in humans and animals. Little is known about the genetic structure of I. ricinus in this region. We have investigated intraspecific variability of the COI gene among I. ricinus ticks collected from different regions of Serbia, and the correlation between the various types of habitat and genetic variability of ticks. The obtained COI gene sequences are the first barcoding sequences of I. ricinus ticks collected at localities in Serbia. Intraspecific variability of these COI gene sequences was very low, and there was no correlation between the various types of habitat and genetic variability of ticks. Samples from isolated localities (canyon/gorge) showed no genetic differentiations from the majority of samples from open areas.]]></dcterms:abstract>
+	</dc:description>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 683-690]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402683</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000033">
+	<dc:title><![CDATA[Effects of microhabitat on leaf traits in Digitalis grandiflora L. (Veronicaceae) growing at forest edge and interior]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kołodziejek, J. (Faculty of Biology and Environmental Protection, Lodz (Poland). Department of Geobotany and Plant Ecology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Digitalis]]></dc:subject>
+	<dc:subject><![CDATA[habitats]]></dc:subject>
+	<dc:subject><![CDATA[forest cover]]></dc:subject>
+	<dc:subject><![CDATA[leaves]]></dc:subject>
+	<dc:subject><![CDATA[light]]></dc:subject>
+	<dc:subject><![CDATA[soil]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The morphological, anatomical and biochemical traits of the leaves of yellow foxglove (Digitalis grandiflora Mill.) from two microhabitats, forest interior (full shade under oak canopy) and forest edge (half shade near shrubs), were studied. The microhabitats differed in the mean levels of available light, but did not differ in soil moisture. The mean level of light in the forest edge microhabitat was significantly higher than in the forest interior. Multivariate ANOVA was used to test the effects of microhabitat. Comparison of the available light with soil moisture revealed that both factors significantly influenced the morphological and anatomical variables of D. grandiflora. Leaf area, mass, leaf mass per area (LMA), surface area per unit dry mass (SLA), density and thickness varied greatly between leaves exposed to different light regimes. Leaves that developed in the shade were larger and thinner and had a greater SLA than those that developed in the half shade. In contrast, at higher light irradiances, at the forest edge, leaves tended to be thicker, with higher LMA and density. Stomatal density was higher in the half-shade leaves than in the full-shade ones. LMA was correlated with leaf area and mass and to a lesser extent with thickness and density in the forest edge microsite. The considerable variations in leaf density and thickness recorded here confirm the very high variation in cell size and amounts of structural tissue within species. The leaf plasticity index (PI) was the highest for the morphological leaf traits as compared to the anatomical and biochemical ones. The nitrogen content was higher in the “half-shade leaves” than in the “shade leaves”. Denser leaves corresponded to lower nitrogen (N) contents. The leaves of plants from the forest edge had more potassium (K) than leaves of plants from the forest interior on an area basis but not on a dry mass basis; the reverse was true for phosphorus.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641402615K]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 615-627]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402615K</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000034">
+	<dc:title><![CDATA[Comparative phylogenetic analysis of Dobrava-Belgrade virus L and S genetic segments isolated from an animal reservoir in Serbia]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Nikolić, Valentina (Faculty of Medicine, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stajković, N. (Military Medical Academy, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stamenković, Gorana (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cekanac, R. (Military Medical Academy, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marušić, P. (Institute of Public Health, Zaječar (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jovanović, N. (Ministry of Defense, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Krstić, Milena (Military Medical Academy, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mladenović, J. (Military Medical Academy, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Šiljić, Marina (Faculty of Medicine, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Gligić, Ana (Institute of Virology, Vaccines and Sera Torlak, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stanojević, Maja (Faculty of Medicine, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[animals]]></dc:subject>
+	<dc:subject><![CDATA[recombination]]></dc:subject>
+	<dc:subject><![CDATA[viruses]]></dc:subject>
+	<dc:subject><![CDATA[analysis]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The Dobrava-Belgrade virus (DOBV) is a member of the Bunyaviridae family, genus Hantavirus, possessing a single-stranded RNA genome consisting of three segments, designated L (large), M (medium) and S (small). In this study, we present phylogenetic analysis of a newly detected DOBV strain isolated from Apodemus agrarius. Analysis was based on partial L and S segment sequences, in comparison to previously published DOBV sequences from Serbia and elsewhere. A phylogenetic tree based on partial S segment revealed local geographical clustering of DOBV sequences from Serbia, unrelated to host (rodent or human). The topology of the phylogenetic tree was confirmed with a high percent of com- pletely or partially resolved quartets in likelihood-mapping analysis, whereas no evidence of possible recombination in the examined S segment data set was found.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641402497N]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 497-506]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402497N</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000035">
+	<dc:title><![CDATA[Checklist of non-indigenous fish species of the River Danube]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Zorić, Katarina (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Simonović, P. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Đikanović, Vesna (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marković, Vanja (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nikolić, Vera (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Simić, V. (Faculty of Sciences, Kragujevac (Serbia). Institute of Biology and Ecology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paunović, M. (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[vectors]]></dc:subject>
+	<dc:subject><![CDATA[species]]></dc:subject>
+	<dc:subject><![CDATA[fish]]></dc:subject>
+	<dc:subject><![CDATA[aquaculture]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Twenty non-indigenous fish species were recorded in the Danube River. The manner of their introduction, vec- tors, pathways, as well as invasive status are discussed. The major modes of introduction and translocation were found to be aquaculture and fish stocking. The main environmental consequences of the spread of alien fish are related to changes in the structure and functioning of the fish community and to the introduction of non-indigenous parasites.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641402629Z]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 629-639]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402629Z</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000036">
+	<dc:title><![CDATA[Fatty acid profile in muscles of carp (Cyprinus carpio L.) raised in a semi-intensive production system fed with grains, pelleted and extruded feed]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Živić, Ivana (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Živić, M. (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bjelanović, Katarina (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Spasić, M. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rašković, B. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stanković, M. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marković, Z. (Faculty of Agriculture, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[pelleted feeds]]></dc:subject>
+	<dc:subject><![CDATA[carp]]></dc:subject>
+	<dc:subject><![CDATA[grain]]></dc:subject>
+	<dc:subject><![CDATA[Fatty acids]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The effects of grains, pelleted and extruded feed on the fatty acid content in carp meat has not been examined yet. In this work, we present evidence that the high carbohydrate content in all three types of feed causes oleic acid to predominate in all meat samples. A higher PUFA content in the meat of fish fed with granulated feed was detected. The extruded feed diet led to 69% greater n-3, and 53% lower n-6 fatty acid contents. Their ratio is thus 2.64-fold higher than in meat of carp fed with pelleted feed. A higher content of n-3 fatty acids in fish fed with extruded feed was the conse- quence of higher DHA (1.6 times) and EPA (3.3 times) contents. The detected differences could be the consequence of the thermal treatment of extruded feed that makes the proteins, carbohydrates and lipids more accessible to fish than in a pelleted feed.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://serbiosoc.org.rs/arch/index.htm]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 877-887]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archive of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1402877</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[2]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000037">
+	<dc:title><![CDATA[Rodenticide efficacy of sodium selenite baits in laboratory conditions]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jokić, G. (Institute of Pesticides and Environmental Protection, Belgrade (Serbia). Laboratory of Applied Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vukša, Marina (Institute of Pesticides and Environmental Protection, Belgrade (Serbia). Laboratory of Applied Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Đedović, Suzana (Institute of Pesticides and Environmental Protection, Belgrade (Serbia). Laboratory of Applied Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stojnić, B. (Faculty of Agriculture, Belgrade (Serbia). Institute for Phytomedicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kataranovski, D. (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Ecology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kljajić, P. (Institute of Pesticides and Environmental Protection, Belgrade (Serbia). Laboratory of Applied Zoology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jaćević, Vesna (Military Medical Academy, Belgrade (Serbia). National Poison Control Centre)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[acceptability]]></dc:subject>
+	<dc:subject><![CDATA[selenium]]></dc:subject>
+	<dc:subject><![CDATA[palatability]]></dc:subject>
+	<dc:subject><![CDATA[rodenticides]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[We examined the acceptance and palatability of baits containing different contents of sodium selenite as a rodenticide, in Swiss mice under laboratory conditions. In a no-choice and choice feeding test, the animals were exposed to baits containing 0.1, 0.05, 0.025 and 0.0125% of sodium selenite. The total bait consumption by Swiss mice in the no-choice feeding test was highly negatively correlated, while total sodium selenite intake was medium-positively correlated to the sodium selenite content in the bait. In the same test, daily intakes significantly depended on the content of sodium selenite in the bait, while the exposure and associated interactions of contents of sodium selenite and exposure had no statistically significant impact. Baits with sodium selenite contents of 0.05 and 0.1% had the most lethal effects. The negative impact of the sodium selenite content on bait acceptance and palatability was confirmed in choice feeding tests. Baits containing 0.05 and 0.1% of sodium selenite displayed the biological potential to be used as a rodenticide. It is necessary to improve its insufficient acceptability and palatability by adding adequate additives to the bait. The results of this study should be verified in experiments with wild rodents.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.scopus.com/inward/record.url?eid=2-s2.0-84908192152&partnerID=tZOtx3y1]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1083-1089]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1403083J</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000038">
+	<dc:title><![CDATA[Determination of marine pollution by comparative analysis of metal pollution indices]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Jović, Mihajlo (Vinča Institute of Nuclear Sciences, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stankovć, Slavka (Faculty of Technology and Metallurgy, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Adriatic Sea]]></dc:subject>
+	<dc:subject><![CDATA[Mytilus galloprovincialis]]></dc:subject>
+	<dc:subject><![CDATA[Posidonia oceanica]]></dc:subject>
+	<dc:subject><![CDATA[Montenegro]]></dc:subject>
+	<dc:subject><![CDATA[Trace elements]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Due to the specific geographical and hydrological structure of Boka Kotorska Bay, that is characterized by a low flow of water through the bay, the anthropogenic impact is pronounced, exerting direct effects on this unique ecosystem. Trace metal (Pb, Hg, Ni, Co and Cd) concentrations were measured in the winter, spring and fall of 2008 in two marine organisms (Posidonia oceanica and Mytilus galloprovincialis) selected as biomonitors of trace metals in the Boka Kotorska Bay. These marine organisms have the ability to accumulate trace metals from their environment. Metal pollution indexes (MPI) for both species were compared, confirming that the most polluted was Tivat bay and the least Kotor bay.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641403205J]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1205-1215]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1403205J</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000039">
+	<dc:title><![CDATA[Potential improvement of Lymantria dispar L. management by quercetin]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Perić-Mataruga, Vesna (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Hackenberger, Branimir (Josip Juraj Strossmayer University, Osijek (Croatia). Department of Biology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Vlahović, Milena (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ilijin, Larisa (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mrdaković, Marija (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Mortality]]></dc:subject>
+	<dc:subject><![CDATA[Larvae]]></dc:subject>
+	<dc:subject><![CDATA[Lymantria dispar]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Lymantria dispar, a polyphagous insect pest, copes with a wide variety of host-specific allelochemicals. Glutathione S-transferases (GST) are important for catalyzing detoxification in L. dispar. Larval mortality, GST activity in midgut tissue and mass of L. dispar with different trophic adaptations (originating from two forests with a suitable host, Quercus robur, and an unsuitable host, Robinia pseudoacacia), differed after feeding on quercetin supplemented diets (2% or 5% w/w). Quercetin inhibited GST most potently in oak forest larvae that were less adapted to flavonoids in their diet. The larvicidal effect of quercetin on L. dispar larvae depended on the host-use history. We believe this is important in strategies for sustainable control of insect pests.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.scopus.com/inward/record.url?eid=2-s2.0-84908181199&partnerID=tZOtx3y1]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1125-1129]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1403125M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000040">
+	<dc:title><![CDATA[Diversity of Chrysophyceae (Heterocontophyta) in the Zasavica River (Serbia)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Predojević, Dragana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kljajić, Željko (Faculty of Mining and Geology, Belgrade (Serbia). Department of Hydrogeology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kovačević, Emilija (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milosavljević, Jovana (Faculty of Mining and Geology, Belgrade (Serbia). Department of Hydrogeology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Papić, Petar (Faculty of Mining and Geology, Belgrade (Serbia). Department of Hydrogeology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazić, Milojko (Faculty of Mining and Geology, Belgrade (Serbia). Department of Hydrogeology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Subakov-Simić, Gordana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Serbia]]></dc:subject>
+	<dc:subject><![CDATA[Chrysophyceae]]></dc:subject>
+	<dc:subject><![CDATA[species]]></dc:subject>
+	<dc:subject><![CDATA[determination of species]]></dc:subject>
+	<dc:subject><![CDATA[algae]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Detailed studies of the Chrysophyceae class of algae have not been undertaken in Serbia thus far. The golden al- gae usually occur during the winter and spring months. Chrysophyceae of the Zasavica River in Serbia were studied at two localities from December 2012 to Jun 2013. In our research, 26 taxa were recorded and the genus with the highest diversity was Mallomonas (15 species). The most abundant species during the whole study period were Synura uvella, Dinobryon divergens and Dinobryon sociale. At the beginning of summer, Chrysophyceae disappeared from the phytoplankton com- munity. Key]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641403195P]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1195-1204]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1403195P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[3]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000041">
+	<dc:title><![CDATA[Population variability and comparative analysis of macroelement concentrations in pedunculate oak (Quercus robur L.) leaves and surrounding soils]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Batos, Branislava (Institute of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Orlović, Saša (Institute of Lowland Forestry and Environment, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miletić, Zoran (Institute of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Rakonjac, Ljubinko (Institute of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Miljković, Danijela (Institute for Biological Research Siniša Stanković, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Quercus robur]]></dc:subject>
+	<dc:subject><![CDATA[leaf]]></dc:subject>
+	<dc:subject><![CDATA[analysis]]></dc:subject>
+	<dc:subject><![CDATA[elements]]></dc:subject>
+	<dc:subject><![CDATA[soil]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The concentration of macroelements in plant biomass is determined by nutrient uptake from the soil and de- pends on the spatially variable environmental conditions and nutrition status in the soil. The aim of this study was to examine the macroelement concentrations in pedunculate oak (Quercus robur L.) leaves and to compare them with soil heterogeneity. ANOVA, MANOVA and discriminant canonical analysis (CDA) were used to estimate population variabil- ity in the macroelement concentrations in pedunculate oak leaves and surrounding soil. The results of ANOVA revealed a statistically significant difference between populations – in ash content, N, Ca, Mg, P, and all nitrogen scaled variables (all P <0.05) in Q. robur leaves. MANOVA revealed a statistically significantly difference between populations – in soil pH, P2 O5 and K2O concentrations (all P <0.05). The P in Q. robur leaves had the highest total canonical standardized coef- ficients on the first canonical variable (CDA1) and was responsible for discrimination between populations. Foliar analysis of pedunculate oak leaves and soil analysis showed statistically significant spatial variability in macroelement concentra- tions between populations in Serbia, which were determined by the bioavailability of essential minerals in the soil.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/img/doi/0354-4664/2014/0354-46641404345B.pdf]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1345-1355]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404345B</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000042">
+	<dc:title><![CDATA[Molecular cloning and expression levels of the monoterpene synthase gene (ZMM1) in Cassumunar ginger (Zingiber montanum (Koenig) Link ex Dietr.)]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Bua-In, Saowaluck (Kasetsart University, Bangkok (Thailand). Faculty of Agriculture, Department of Horticulture)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paisooksantivatana, Yingyong (Kasetsart University, Bangkok (Thailand). Faculty of Agriculture, Department of Horticulture)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Weimer, Bart C. (University of California, Davis (USA). School of Veterinary Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Chowpongpang, Srimek (Kasetsart University, Bangkok (Thailand). Faculty of Agriculture, Department of Plant Pathology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[ginger]]></dc:subject>
+	<dc:subject><![CDATA[cloning]]></dc:subject>
+	<dc:subject><![CDATA[genes]]></dc:subject>
+	<dc:subject><![CDATA[Thailand]]></dc:subject>
+	<dc:subject><![CDATA[Isolation]]></dc:subject>
+	<dc:subject><![CDATA[leaf extracts]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Cassumunar ginger (Zingiber montanum (Koenig) Link ex Dietr.) is a native Thai herb with a high content and large variety of terpenoids in its essential oil. Improving the essential oil content and quality of cassumunar ginger is dif- ficult for a breeder due to its clonally propagated nature. In this research, we describe the isolation and expression level of the monoterpene synthase gene that controls the key step of essential oil synthesis in this plant and evaluate the mechanical wounding that may influence the transcription level of the monoterpene synthase gene. To isolate the gene, the selected clones from DNA derived from young leaves were sequenced and analyzed and the monoterpene synthase gene from cas- sumunar ginger (ZMM1) was identified. The ZMM1 CDS containing 1 773 bp (KF500399) is predicted to encode a protein of 590 amino acids. The deduced amino acid sequence is 40-74% identical with known sequences of other angiosperm monoterpene synthases belonging to the isoprenoid biosynthesis C1 superfamily. A transcript of ZMM1 was detected al- most exclusively in the leaves and was related to leaf wounding. The results of this research offer insight into the control of monoterpene synthesis in this plant. This finding can be applied to breeding programs or crop management of cassumunar ginger for better yield and quality of essential oil.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404321B]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1321-1331]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404321B</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000043">
+	<dc:title><![CDATA[Effects of fractions of Melia azedarach (L.) fruit extracts on some biochemical parameters in rabbits]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ilahi, Ikram (University of Malakand, Khyber Pakhtunkhwa (Pakistan). Department of Zoology/Botany)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Qureshi, Irfan Zia (Faculty of Biological Sciences, Islamabad (Pakistan). Department of Animal Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ahmad, Izhar (University of Malakand, Khyber Pakhtunkhwa (Pakistan). Department of Zoology/Botany)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[rabbits]]></dc:subject>
+	<dc:subject><![CDATA[lipid content]]></dc:subject>
+	<dc:subject><![CDATA[glucose]]></dc:subject>
+	<dc:subject><![CDATA[Melia azedarach]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[This study aimed to investigate the effects of n-hexane, chloroform, ethyl acetate, n-butanol and aqueous frac- tions of the methanolic extract of Melia azedarach fruits on serum glucose, lipid profile, GPT, ALP and creatinine of nor- mal rabbits. Each fraction at a dose of 50 mg/kg body weight was orally administered to normal rabbits for 40 days and the serum biochemical parameters were estimated on days 20 and 40 aſter treatment. All of the extracts significantly decreased serum glucose, cholesterol, triglycerides and LDL concentrations, however, their administration caused elevation of serum HDL levels. All except the aqueous extract, caused a significant rise in the serum levels of GPT, ALP and creatinine. The present study demonstrates that all of the extracts possess hypoglycemic, hypolipidemic and HDL boosting properties. Of the tested extracts, only the aqueous fraction was found safe, as it caused no significant alterations in the serum levels of GPT, ALP and creatinine.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/img/doi/0354-4664/2014/0354-46641404311I.pdf]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1311-1319]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404311I</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000044">
+	<dc:title><![CDATA[Use of Lecane rotifers for limiting Thiothrix filamentous bacteria in bulking activated sludge in a dairy wastewater treatment plant]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Kowalska, Ewa (University of Warmia and Mazury, Olsztyn (Poland). Department of Applied Ecology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Paturej, Ewa (University of Warmia and Mazury, Olsztyn (Poland). Department of Applied Ecology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Zielińska, Magdalena (University of Warmia and Mazury, Olsztyn (Poland). Department of Environmental Biotechnology)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Bacteria]]></dc:subject>
+	<dc:subject><![CDATA[Activated sludge]]></dc:subject>
+	<dc:subject><![CDATA[dairy farms]]></dc:subject>
+	<dc:subject><![CDATA[Wastewater treatment]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Excessive growth of filamentous bacteria is a serious problem in many dairy wastewater treatment plants (WWTPs). The objective of the study was to determine whether Lecane inermis rotifers were able to reduce the density of Thiothrix bacteria in activated sludge originating from a dairy WWTP, as well as to identify the impact of rotifers on other organisms in sludge. On a laboratory scale, three experiments were conducted in which activated sludge with a predomi- nance of Thiothrix was inoculated with rotifers at an initial concentration of app. 600 individuals/mL. The results showed that the rotifers, by feeding on the bacterium filaments, are able to reduce significantly the quantity of Thiothrix. A decline in Thiothrix abundance coincided with an improvement of the sedimentation properties of activated sludge. In addition, it was proven that Lecane inermis did not negatively affect the number of Protozoa and Metazoa in activated sludge.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404371K]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1371-1378]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404371K</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000045">
+	<dc:title><![CDATA[A method for the rapid detection and identification of halo blight pathogen on common bean]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Popović, Tatjana (Institute for Plant Protection and Environment, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Balaž, Jelica (Faculty of Agriculture, Novi Sad (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stanković, Slaviša (Faculty of Biology, Belgrade (Serbia))]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[methods]]></dc:subject>
+	<dc:subject><![CDATA[identification]]></dc:subject>
+	<dc:subject><![CDATA[beans]]></dc:subject>
+	<dc:subject><![CDATA[Pseudomonas]]></dc:subject>
+	<dc:subject><![CDATA[PCR]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[A diagnostic method based on nested-PCR, followed by ELISA and conventional bacteriology tests, for the rapid and reliable detection of halo blight pathogen Pseudomonas savastanoi pv. phaseolicola (Psp) collected from infected bean leaves and seeds is described. Psp formed white, small and flat colonies on nutrient agar medium, creamy white, flat and circular on Milk-Tween agar medium and light yellow, convex and shiny on modified sucrose peptone agar medium. Eighteen Gram-negative, catalase-positive and oxidase-negative strains were subjected to nested PCR with primers P 5.1/P 3.1 and P 5.2/P 3.2, which directed the amplification of the 450 bp target DNA fragment in all tested strains. According to the results of DAS- and PTA-ELISA with respect to reactivity to specific antibodies, all analyzed strains belonged to Psp bacterium. Pathogenicity was tested on bean pods and cotyledon leaves, on which greasy spots were formed. Psp did not cause hypersensitive reaction on the leaves of tobacco and geranium. Strains produced levan, fluorescent pigment, oxida- tive metabolism of glucose, did not reduce nitrate, did not produce indole and H2 S, did not hydrolyze starch, gelatin and esculin; they produced acid from glucose, mannose, sucrose and glycerol, and did not produce acid from maltose, starch, esculin, dulcite, sorbitol, inositol and erythritol.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404393P]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1393-1400]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404393P</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000046">
+	<dc:title><![CDATA[In vitro propagation and determination of the nutrient content of naturally grown Asparagus tipularis Forssk]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Ulukapi, Kamile (Akdeniz University, Antalya (Turkey). Vocational School of Technical Science, Organic Agriculture Program)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Nasircilar, Ayşe (Akdeniz University, Antalya (Turkey). Faculty of Education, Department of Biology Education)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Onus, Ahmet (Akdeniz University, Antalya (Turkey). Faculty of Agriculture, Department of Horticulture)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Baktir, İbrahim (Akdeniz University, Antalya (Turkey). Faculty of Agriculture, Department of Horticulture)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[nutrition]]></dc:subject>
+	<dc:subject><![CDATA[in vitro culture]]></dc:subject>
+	<dc:subject><![CDATA[Asparagus]]></dc:subject>
+	<dc:subject><![CDATA[analysis]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Wild Asparagus (Asparagus stipularis Forssk) is a species of the Liliaceae family. Although its fresh sprouts are collected from natural habitats in early spring for human diet, it has yet to be cultivated. The present study, aimed to es- tablish an efficient in vitro propagation system and reveal the nutritive value of A. stipularis. To our knowledge, there are no reports on the nutritive value and in vitro propagation of A. stipularis. Bud scale, spear section and apical bud explants of A. stipularis were cultured on Murashige and Skoog (MS) medium containing various concentrations of 6-benzylam- inopurine (BAP) and α-naphthaleneacetic acid (NAA). The best results were obtained from apical bud explants on MS medium containing 2.0 mg l-1 BAP and 0.5 mg l-1 NAA. In terms of nutritive value, it was found that the nitrogen content of A. stipularis was higher than the other macro elements. Although Zn- and Fe-containing compounds were higher in A. stipularis, Ca-containing compounds were lower than in other Asparagus species. It was determined that the portions of unprocessed A. stipularis had pH 7.6, 13.3% soluble solid content, 86.7% moisture, 0.09% titratable acidity and were about 31% ascorbic acid. We conclude that in terms of nutritional value, A. stipularis can be a good alternative to other Asparagus species for human nutrition, considering its high N, Fe and vitamin C contents.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404333U]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1333-1338]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404333U</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000047">
+	<dc:title><![CDATA[Evaluation of antioxidant activity of Melittis melissophyllum L. extracts]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Grujić, Slavica (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stojanović, Gordana (Faculty of Science and Mathematics, Niš (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mitić, Violeta (Faculty of Science and Mathematics, Niš (Serbia). Department of Chemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Stankov-Jovanović, Vesna (Faculty of Science and Mathematics, Niš (Serbia). Department of Chemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Džamić, Ana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Alimpić, Ana (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Marin, Petar D. (Faculty of Biology, Belgrade (Serbia). Institute of Botany and Botanical Garden Jevremovac)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[phenols]]></dc:subject>
+	<dc:subject><![CDATA[lamiaceae]]></dc:subject>
+	<dc:subject><![CDATA[Antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[Extracts]]></dc:subject>
+	<dc:subject><![CDATA[flavonoids]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[The antioxidant activities of methanol and ethanol (10%, 30%, 50% and 96%) extracts of the aerial parts of Melit- tis melissophyllum L. were determined by DPPH, ABTS and FRAP assays. The content of flavonoids and phenols was also investigated. The total phenolic content in the extracts was determined using Folin-Ciocalteu assay; their amounts ranged between 63.5 and 111.7 mg GAeqv/g, while the concentrations of flavonoids were from 7.33 to 56.00 mg Queqv/g. IC50 values of the DPPH scavenging effect were from 0.109 to 0.664 mg/mL. The DPPH scavenging effect of the extracts was determined and the obtained IC50 values were from 0.109 to 0.664 mg/mL of solution. The values of ABTS radical activity were from 0.45 to 0.89 mg ascorbic acid/g. The FRAP value was within the range 0.160-0.382 mmol Fe/mg. The obtained values were analyzed by means of multivariate analysis, employing a hierarchical cluster analysis and between-groups linkage. The presented results confirmed that M. melissophyllum possesses good antioxidant properties and may serve as a promising source of natural antioxidants.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404401G]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1401-1410]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404401G</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000048">
+	<dc:title><![CDATA[Association between antioxidative potental and level o injury caused by Eurydema spp. feeding on red and white cabbage genotypes]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Marković, Damir (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Bohinc, T. (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Trdan, S. (Biotechnical Faculty, Ljubljana (Slovenia). Deptment of Agronomy)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[cabbage]]></dc:subject>
+	<dc:subject><![CDATA[genotypes]]></dc:subject>
+	<dc:subject><![CDATA[Heteroptera]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In a two-year field experiment, we studied the extent of damage caused by cabbage stink bugs (Eurydema spp.) on the frame leaves and the outer leaves of cabbage heads in relation to genotype color. We established that the extent of damage varied with genotype color. In both years of the experiment, the affinity of Eurydema spp. toward green genotypes was significantly greater on the first four assessment dates (from the third decade of May to the third decade of June), while on the remaining dates (from the third decade of July to the second decade of August) we did not establish any differences between the white and red genotypes. Cabbage stink bugs first appeared on white cabbage genotypes. The antioxidative potential conditioned by the content of anthocyanins was significantly higher on the red cabbage genotypes. Research shows that higher antioxidative potential is related to a lower extent of damage caused by Eurydema spp. The average value of antioxidative potential in the cabbage varieties was 0.58 mmol/100 g of the sample, while in the hybrids it was 0.47±0.01 mmol/100 g. We confirmed significant differences in values of antioxidative potential between red (0.68 mmol/100 g) and white (0.48 mmol/100 g) cabbage genotypes. Between mid-late (0.55 mmol/100 g) and mid-early (0.53 mmol/100 g) cab- bage genotypes we did not establish differences in antioxidative potential levels, while the average value of this parameter in the early genotypes (0.46 mmol/100 g) was significantly low. We established that the color of plants (cabbage) represents one of the successful factors of antixenosis and has the potential for reducing the damage caused by cabbage stink bugs in environmentally acceptable systems of cabbage production.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/img/doi/0354-4664/2014/0354-46641404447M.pdf]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1447-1456]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404447</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000049">
+	<dc:title><![CDATA[Effects of pedunculate oak tree vitality on gypsy moth preference and performance]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Milanović, Slobodan (Mendel University, Brno (Czech Republic). Faculty of Forestry and Wood Technology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Mihajlović, Ljubodrag (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Karadžić, Dragan (Faculty of Forestry, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Jankovsky, Libor (Mendel University, Brno (Czech Republic). Faculty of Forestry and Wood Technology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Aleksić, Predrag (State Enterprise for Forest Management Srbijašume, Belgrade (Serbia))]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Janković-Tomanić, Milena (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Lazarević, Jelica (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Insect Physiology and Biochemistry)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[Microsphaera]]></dc:subject>
+	<dc:subject><![CDATA[Quercus robur]]></dc:subject>
+	<dc:subject><![CDATA[Infection]]></dc:subject>
+	<dc:subject><![CDATA[tree form]]></dc:subject>
+	<dc:subject><![CDATA[Lymantria dispar]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Gypsy moths and powdery mildew play a significant role in oak decline processes. However, information is lacking on the effects on the gypsy moth of impaired tree vitality caused by defoliation or parasite infection. We assessed how pedunculate oak leaves collected from vigorous, declining, and infected trees influenced gypsy moth preference and performance (growth and nutritional indices). We found a negative effect of powdery mildew-infected leaves on gypsy moth performance, while declining trees had positive effects on gypsy moth performance and preference. All examined parameters of larvae fed declining oak leaves were higher than those of larvae fed vigorous oak leaves. Increased growth on declining oak leaves was caused by both higher consumption and more efficient food utilization. The results of this research could help us to better understand multitrophic interactions in complex communities such as oak forests.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.scopus.com/inward/record.url?eid=2-s2.0-84921625405&partnerID=tZOtx3y1]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1659-1672]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404659M</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000050">
+	<dc:title><![CDATA[The effects of thermal and light exposure on the development of broiler chicken leg musculature]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Stojanović, S. (Faculty of Agriculture, Novi Sad (Serbia). Department of Veterinary Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Žikić, D. (Faculty of Agriculture, Novi Sad (Serbia). Department of Animal Sciences)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Kanački, Z. (Faculty of Agriculture, Novi Sad (Serbia). Department of Veterinary Medicine)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ajdžanović, V. (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Cytology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milošević, Verica (Institute for Biological Research Siniša Stanković, Belgrade (Serbia). Department of Cytology)]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Ušćebrka, Gordana (Faculty of Agriculture, Novi Sad (Serbia). Department of Veterinary Medicine)]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[thermal energy]]></dc:subject>
+	<dc:subject><![CDATA[muscular diseases]]></dc:subject>
+	<dc:subject><![CDATA[legs]]></dc:subject>
+	<dc:subject><![CDATA[light]]></dc:subject>
+	<dc:subject><![CDATA[Broiler chickens]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[Modified incubation factors affect skeletal musculature development of broiler chickens during embryonic and postnatal periods of development. These changes appear to have great influence on the proliferation of myoblasts and muscle growth aſter hatching. In this study, the histomorphological and -morphometric parameters of broiler chicken leg musculature, aſter thermal and light treatments during embryogenesis, were examined. The applied treatments included thermal manipulation (exposure of fertilized eggs to increased temperature), light manipulation (exposure of fertilized eggs to monochromatic green light) and simultaneous thermal and light manipulations. Following the specific parameters that were observed, it was determined that in the late postnatal period of development, treated groups have a larger diam- eter and smaller nucleocytoplasmic ratio of muscle cells compared to those of the control group, in which fertilized eggs were incubated at a constant temperature of 37.8°C, without light. Diameter was increased by 4.20%, 3.77% and 4.55% on day 42 aſter hatching in thermal, light and combined thermal and light treated groups, respectively, compared to the control. The nucleocytoplasmic ratio was increased by 37.5% on day 42 aſter hatching in the control group compared to all treated groups. The volume density of the muscle connective tissue was approximately at the same level between the groups. It can be concluded that thermal and light treatments stimulate the proliferation of myoblasts and enhance devel- opment and growth of leg muscles in broiler chickens.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.doiserbia.nb.rs/Article.aspx?ID=0354-46641404547S]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1547-1557]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404547S</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+<ags:resource ags:ARN="RS2015000051">
+	<dc:title><![CDATA[Effect of phenol on germination capacity and polyphenol oxidase, peroxidase and catalase activities in lettuce]]></dc:title>
+	<dc:creator>
+		<ags:creatorPersonal><![CDATA[Tadić, Vojin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Petrić, Marija]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Milošević, Snežana]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Cingel, Aleksandar]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Raspor, Martin]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Spasojević, Dragica]]></ags:creatorPersonal>
+		<ags:creatorPersonal><![CDATA[Tadić, Jovan]]></ags:creatorPersonal>
+	</dc:creator>
+	<dc:publisher>
+		<ags:publisherName><![CDATA[Serbian Biological Society, Belgrade (Serbia)]]></ags:publisherName>
+	</dc:publisher>
+	<dc:date><dcterms:dateIssued><![CDATA[2014]]></dcterms:dateIssued></dc:date>
+	<dc:subject><![CDATA[phenols]]></dc:subject>
+	<dc:subject><![CDATA[Antioxidants]]></dc:subject>
+	<dc:subject><![CDATA[Seed]]></dc:subject>
+	<dc:subject><![CDATA[catechol oxidase]]></dc:subject>
+	<dc:subject><![CDATA[lettuces]]></dc:subject>
+	<dc:description><dcterms:abstract><![CDATA[In this study we examined the activities of polyphenol oxidase (PPO) and antioxidant enzymes, peroxidase (POX) and catalase (CAT) during lettuce seed germination at different concentrations of phenol. Out of eleven varieties of lettuce, four were chosen according to their germination tolerance to phenol as follows: plants exhibiting high (Ljubljanska ledenka - LJL and Nansen - N) and low toleranace (Little Gem - LG and Majska kraljica - MK). A decrease in germination efficiency after exposure to LD50 of phenol was determined for these four varieties. The effects of phenol treatment on POX, CAT and PPO activities were determined after 4, 5, 6, 7 and 8 days of growth at LD50 concentrations. A trend of increased peroxidase activity was observed in seeds grown on LD50 of phenol compared to control seeds. A significant increase in CAT activity was observed at the beginning of treatment for MK, LG and N in seeds grown on phenol as well as in control seeds. A trend of increased PPO activity was observed in all control seeds. We also investigated the affinity of PPO for two different substrates that were used for the determination of enzyme activity. Our results show that LJL and N are the varieties most tolerant to growth on phenol. Here we report on the activities of their antioxidant enzymes and PPO during seed germination.]]></dcterms:abstract>
+	</dc:description>
+	<dc:identifier scheme="dcterms:URI"><![CDATA[http://www.scopus.com/inward/record.url?eid=2-s2.0-84921653315&partnerID=tZOtx3y1]]></dc:identifier>
+	<dc:type><![CDATA[Journal Article]]></dc:type>
+	<dc:format><dcterms:extent><![CDATA[p. 1503-1514]]></dcterms:extent></dc:format>
+	<dc:language scheme="ags:ISO639-1"><![CDATA[En]]></dc:language>
+	<ags:citation>
+		<ags:citationTitle><![CDATA[Archives of Biological Sciences]]></ags:citationTitle>
+		<ags:citationIdentifier scheme="ags:ISSN">102298ABS1404503T</ags:citationIdentifier>
+		<ags:citationNumber><![CDATA[4]]></ags:citationNumber>
+	</ags:citation>
+</ags:resource>
+</ags:resources>

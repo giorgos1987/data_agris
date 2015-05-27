@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:xalan="http://xml.apache.org/xalan" xmlns:dcterms="http://purl.org/dc/terms/"><ags:resource><dc:title xml:lang="eng">Bridging the gap between marine biogeochemical and fisheries sciences; configuring the zooplankton link</dc:title><ags:creatorPersonal>Mitra, A.</ags:creatorPersonal><ags:creatorPersonal>Castellani, C.</ags:creatorPersonal><ags:creatorPersonal>Gentleman, W.</ags:creatorPersonal><ags:creatorPersonal>Jónasdóttir, S.H.</ags:creatorPersonal><ags:creatorPersonal>Flynn, K.J.</ags:creatorPersonal><ags:creatorPersonal>Bode, A. (Antonio)</ags:creatorPersonal><ags:creatorPersonal>Halsband, C.</ags:creatorPersonal><ags:creatorPersonal>Kuhn, P.</ags:creatorPersonal><ags:creatorPersonal>Licandro, P.</ags:creatorPersonal><ags:creatorPersonal>Agersted, M.D.</ags:creatorPersonal><ags:creatorPersonal>Calbet, A.</ags:creatorPersonal><ags:creatorPersonal>Lindeque, P.</ags:creatorPersonal><ags:creatorPersonal>Koppelmann, R.</ags:creatorPersonal><ags:creatorPersonal>Moller, E.F.</ags:creatorPersonal><ags:creatorPersonal>Gislason, A.</ags:creatorPersonal><ags:creatorPersonal>Nielsen, T.G.</ags:creatorPersonal><ags:creatorPersonal>St. John, M.</ags:creatorPersonal><dc:publisher>Centro Oceanográfico de A Coruña</dc:publisher><dcterms:issued>2014-08-27T13:02:10Z</dcterms:issued><dcterms:issued>2014-08-27T13:02:10Z</dcterms:issued><dcterms:issued>2014</dcterms:issued><dc:subject>plankton</dc:subject><dc:subject>zooplankton</dc:subject><dc:subject>models</dc:subject><dc:subject>nitrogen</dc:subject><dc:subject>metabolism</dc:subject><dc:subject>carbon</dc:subject><dc:subject>respiration</dc:subject><dc:subject>vital rates</dc:subject><dc:description>AC is funded by the Ministry of Science and Innovation of Spain&#13;
+through project CTM2009-08783. AM was part funded by NERC UK&#13;
+project NE/K001345/1. KJF was funded by NERC UK through projects&#13;
+NE/H01750X/1 and NE/F003455/1. This review was supported&#13;
+in part by project EURO-BASIN (Ref. 264933, 7FP, European&#13;
+Union), and by a Leverhulme International Network ‘‘Placing marine&#13;
+mixotrophs in context: modelling mixotrophy in a changing&#13;
+world’’.</dc:description><dc:description>Exploring climate and anthropogenic impacts on marine ecosystems requires an understanding of how&#13;
+trophic components interact. However, integrative end-to-end ecosystem studies (experimental and/or&#13;
+modelling) are rare. Experimental investigations often concentrate on a particular group or individual&#13;
+species within a trophic level, while tropho-dynamic field studies typically employ either a bottom-up&#13;
+approach concentrating on the phytoplankton community or a top-down approach concentrating on&#13;
+the fish community. Likewise the emphasis within modelling studies is usually placed upon phytoplankton-&#13;
+dominated biogeochemistry or on aspects of fisheries regulation. In consequence the roles of zooplankton&#13;
+communities (protists and metazoans) linking phytoplankton and fish communities are&#13;
+typically under-represented if not (especially in fisheries models) ignored. Where represented in ecosystem&#13;
+models, zooplankton are usually incorporated in an extremely simplistic fashion, using empirical&#13;
+descriptions merging various interacting physiological functions governing zooplankton growth and&#13;
+development, and thence ignoring physiological feedback mechanisms. Here we demonstrate, within a&#13;
+modelled plankton food-web system, how trophic dynamics are sensitive to small changes in parameter&#13;
+values describing zooplankton vital rates and thus the importance of using appropriate zooplankton&#13;
+descriptors. Through a comprehensive review, we reveal the mismatch between empirical understanding&#13;
+and modelling activities identifying important issues that warrant further experimental and modelling&#13;
+investigation. These include: food selectivity, kinetics of prey consumption and interactions with assimilation&#13;
+and growth, form of voided material, mortality rates at different age-stages relative to prior nutrient&#13;
+history. In particular there is a need for dynamic data series in which predator and prey of known&#13;
+nutrient history are studied interacting under varied pH and temperature regimes.</dc:description><dc:identifier>0079-6611</dc:identifier><dc:identifier>http://hdl.handle.net/10508/2076</dc:identifier><dc:identifier>Progress in Oceanography, xx. 2014: xx-xx</dc:identifier><dc:identifier>10.1016/j.pocean.2014.04.025</dc:identifier><dc:identifier>20043</dc:identifier><dc:type>article</dc:type><ags:rightsTermsOfUse>http://creativecommons.org/licenses/by-nc-nd/3.0/es/</ags:rightsTermsOfUse><ags:rightsTermsOfUse>openAccess</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse></ags:resource></ags:resources>

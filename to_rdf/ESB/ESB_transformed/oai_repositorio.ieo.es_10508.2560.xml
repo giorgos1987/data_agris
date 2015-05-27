@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:xalan="http://xml.apache.org/xalan" xmlns:dcterms="http://purl.org/dc/terms/"><ags:resource><dc:title xml:lang="eng">Spatial scale, means and gradients of hydrographic variables define pelagic seascapes</dc:title><ags:creatorPersonal>Álvarez-Berastegui, D. (Diego)</ags:creatorPersonal><ags:creatorPersonal>Cianelli, L.</ags:creatorPersonal><ags:creatorPersonal>Hidalgo, M. (Manuel)</ags:creatorPersonal><ags:creatorPersonal>Aparicio-González, A. (Alberto)</ags:creatorPersonal><ags:creatorPersonal>Reglero, P. (Patricia)</ags:creatorPersonal><ags:creatorPersonal>López-Jurado, J.L. (José Luis)</ags:creatorPersonal><ags:creatorPersonal>Tintoré, J.</ags:creatorPersonal><ags:creatorPersonal>Alemany, F. (Francisco)</ags:creatorPersonal><dc:publisher>Centro Oceanográfico de Baleares</dc:publisher><dcterms:issued>2014-10-01T10:28:20Z</dcterms:issued><dcterms:issued>2014</dcterms:issued><dcterms:issued>indefinido</dcterms:issued><dc:subject>seascape ecology</dc:subject><dc:subject>Operational Oceanography for Fisheries</dc:subject><dc:subject>bluefin tuna</dc:subject><dc:subject>Thunnus thynnus</dc:subject><dc:subject>Bullet tuna</dc:subject><dc:subject>Auxis rochei</dc:subject><dc:subject>mediterranean</dc:subject><dc:subject>spawning</dc:subject><dc:subject>essential fish habitat</dc:subject><dc:subject>pelagic seascapes</dc:subject><dc:subject>management</dc:subject><dc:subject>modelling</dc:subject><dc:description>Seascape ecology is an emerging discipline focused on understanding how features of&#13;
+the marine habitat influence the spatial distribution of marine species. However, there&#13;
+is still a gap in the development of concepts and techniques for its application in the&#13;
+marine pelagic realm, where there are no clear boundaries delimitating habitats. Here&#13;
+we demostrate that pelagic seascape metrics defined as a combination of&#13;
+hydrographic variables and their spatial gradients calculated at an appropriate spatial&#13;
+scale, improve our ability to model pelagic fish distribution.&#13;
+We apply the analysis to study the spawning locations of two tuna species: Atlantic&#13;
+bluefin and bullet tuna. These two species represent a gradient in life history strategies.&#13;
+Bluefin tuna has a large body size and is a long-distant migrant, while bullet tuna has a&#13;
+small body size and lives year-round in coastal waters within the Mediterranenan Sea.&#13;
+The results show that the models performance incorporating the proposed seascape&#13;
+metrics increases significantly when compared with models that do not consider these&#13;
+metrics. This improvement is more important for Atlantic bluefin, whose spawning&#13;
+ecology is dependent on the local oceanographic scenario, than it is for bullet tuna,&#13;
+which is less influenced by the hydrographic conditions. Our study advances our&#13;
+understanding of how species perceive their habitat and confirms that the spatial scale&#13;
+at which the seascape metrics provide information is related to the spawning ecology&#13;
+and life history strategy of each species.</dc:description><dc:identifier>1932-6203</dc:identifier><dc:identifier>http://hdl.handle.net/10508/2560</dc:identifier><dc:identifier>PLoS ONE, -. 2014: ---</dc:identifier><dc:identifier>10.1371/journal.pone.0109338</dc:identifier><dc:identifier>20314</dc:identifier><dc:type>article</dc:type><ags:rightsTermsOfUse>http://creativecommons.org/licenses/by-nc-nd/3.0/es/</ags:rightsTermsOfUse><ags:rightsTermsOfUse>embargoedAccess</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse></ags:resource></ags:resources>

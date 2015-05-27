@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:xalan="http://xml.apache.org/xalan" xmlns:dcterms="http://purl.org/dc/terms/"><ags:resource><dc:title xml:lang="eng">In situ target strength measurements. Preliminary data of sardine (Sardina pilchardus W.) from the Mediterranean Sea</dc:title><ags:creatorPersonal>Carrera-López, P. (Pablo)</ags:creatorPersonal><ags:creatorPersonal>Miquel-Batle, J. (Joan)</ags:creatorPersonal><ags:creatorPersonal>Iglesias, M. (Magdalena)</ags:creatorPersonal><dc:publisher>International Council for the Exploration of the Sea (ICES)</dc:publisher><dc:publisher>Centro Oceanográfico de Vigo</dc:publisher><dcterms:issued>2014-03-06T12:04:49Z</dcterms:issued><dcterms:issued>2014-03-06T12:04:49Z</dcterms:issued><dcterms:issued>1993</dcterms:issued><dc:description>During the pelagic fishing stations of the acoustics surveys&#13;
+Ecomed 91 and Ecomed 92, carried out in november 1991 and 92,&#13;
+series on sardine TS were collected using a SIMRAD EK-500 38 kHz&#13;
+split-beam echo sounder and echointegrator. Only data with&#13;
+similar features in bottom depth, trawling depth and % of capture&#13;
+were used. The Least-Mean-Square regression of mean TS on the&#13;
+logarithm of the mean fish length of the form TS=m1og(1}+b was&#13;
+finally applied to 11 data series giving m=29.73 and b=-74.08&#13;
+with r =0.94 or, requiring that m=20, b=-63.34, which is higher&#13;
+than ot~ers to similars species but close to the Love's one. This&#13;
+could be explained for the trawling depth or for the short range&#13;
+of length analyzed.</dc:description><dc:identifier>http://hdl.handle.net/10508/1684</dc:identifier><dc:identifier>Carrera, P. ; Miquel, J. ; Iglesias, M. 1993.In situ target strength measurements. Preliminary data of sardine (Sardina pilchardus W.) from the Mediterranean Sea . ICES FAST Working Group Gothenburg, april 21-22 : 16p.</dc:identifier><dc:type>workingPaper</dc:type><ags:rightsTermsOfUse>http://creativecommons.org/licenses/by-nc-nd/3.0/es/</ags:rightsTermsOfUse><ags:rightsTermsOfUse>openAccess</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse></ags:resource></ags:resources>

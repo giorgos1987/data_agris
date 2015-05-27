@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:xalan="http://xml.apache.org/xalan" xmlns:dcterms="http://purl.org/dc/terms/"><ags:resource><dc:title xml:lang="eng">Antarctic Porifera database from the Spanish benthic expeditions</dc:title><ags:creatorPersonal>Ríos, P.</ags:creatorPersonal><dc:publisher>Centro Oceanográfico de Gijón</dc:publisher><dcterms:issued>2014-10-02T15:10:27Z</dcterms:issued><dcterms:issued>2014-10-02T15:10:27Z</dcterms:issued><dcterms:issued>2014-04-14</dcterms:issued><dc:subject>Porifera</dc:subject><dc:subject>Antarctic,</dc:subject><dc:subject>Deep-sea</dc:subject><dc:subject>Biodiversity,</dc:subject><dc:subject>Bentart</dc:subject><dc:subject>Antarctic Peninsula</dc:subject><dc:subject>Bellingshausen Sea</dc:subject><dc:subject>Sponges</dc:subject><dc:subject>Benthic fauna</dc:subject><dc:description>The information about the sponges in this dataset is derived from the samples collected during five Spanish&#13;
+Antarctic expeditions: Bentart 94, Bentart 95, Gebrap 96, Ciemar 99/00 and Bentart 2003. Samples were&#13;
+collected in the Antarctic Peninsula and Bellingshausen Sea at depths ranging from 4 to 2044 m using&#13;
+various&#13;
+sampling gears.&#13;
+The Antarctic Porifera database from the Spanish benthic expeditions is unique as it provides information&#13;
+for an under-explored region of the Southern Ocean (Bellingshausen Sea). It fills an information&#13;
+gap on Antarctic deep-sea sponges, for which there were previously very few data.&#13;
+This phylum is an important part of the Antarctic biota and plays a key role in the structure of the&#13;
+Antarctic marine benthic community due to its considerable diversity and predominance in different&#13;
+areas. It is often a dominant component of Southern Ocean benthic communities.&#13;
+The quality of the data was controlled very thoroughly with GPS systems onboard the R/V&#13;
+Hesperides and by checking the data against the World Porifera Database (which is part of the World Register&#13;
+of Marine Species, WoRMS). The data are therefore fit for completing checklists, inclusion in biodiversity&#13;
+pattern analysis and niche modelling. The authors can be contacted if any additional information is&#13;
+needed before carrying out detailed biodiversity or biogeographic studies. The dataset currently contains 767 occurrence data items that have been checked for systematic reliability.&#13;
+This database is not yet complete and the collection is growing. Specimens are stored in the author’s&#13;
+collection at the Spanish Institute of Oceanography (IEO) in the city of Gijón (Spain). The data are available&#13;
+in GBIF.</dc:description><dc:identifier>1313-2989</dc:identifier><dc:identifier>http://hdl.handle.net/10508/2657</dc:identifier><dc:identifier>ZooKeys, 401. 2014: 1-10</dc:identifier><dc:identifier>1313-2970</dc:identifier><dc:identifier>10.3897/zookeys.401.5522</dc:identifier><dc:identifier>20405</dc:identifier><dc:type>article</dc:type><ags:rightsTermsOfUse>http://creativecommons.org/licenses/by-nc-nd/3.0/es/</ags:rightsTermsOfUse><ags:rightsTermsOfUse>openAccess</ags:rightsTermsOfUse><ags:rightsTermsOfUse>Atribución-NoComercial-SinDerivadas 3.0 España</ags:rightsTermsOfUse></ags:resource></ags:resources>
